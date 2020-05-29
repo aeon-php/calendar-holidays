@@ -4,7 +4,7 @@
     "description": "Holidays calendar abstraction layer for Aeon Time management framework",
     "keywords": ["calendar", "immutable", "holidays", "sleep"],
     "require": {
-        "php": "7.4.*",
+        "php": ">=7.4.2",
         "ext-json": "*",
         "webmozart/assert": "^1.8",
         "aeon-php/calendar": "master-dev"
