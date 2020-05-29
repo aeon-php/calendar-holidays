@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6ae4f26bca931651df22e7bc17761246",
+    "content-hash": "cbec4358113a37f0dd272b0eb2538a16",
     "packages": [
         {
             "name": "aeon-php/calendar",
@@ -12,11 +12,10 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:aeon-php/calendar.git",
-                "reference": "f7012d8d8d51bf8e3251a0e505fa656a6cff60e2"
+                "reference": "4b469de51b274925d450158cbc496964b4425cd8"
             },
             "require": {
-                "ext-json": "*",
-                "php": "7.4.*",
+                "php": ">=7.4.2",
                 "webmozart/assert": "^1.8"
             },
             "require-dev": {
@@ -31,9 +30,6 @@
             },
             "type": "library",
             "autoload": {
-                "files": [
-                    "src/Aeon/Calendar/System/sleep.php"
-                ],
                 "psr-4": {
                     "Aeon\\": [
                         "src/Aeon"
@@ -71,7 +67,7 @@
                 "immutable",
                 "sleep"
             ],
-            "time": "2020-05-28T20:02:17+00:00"
+            "time": "2020-05-29T07:30:03+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -5552,7 +5548,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "7.4.*",
+        "php": ">=7.4.2",
         "ext-json": "*"
     },
     "platform-dev": [],
