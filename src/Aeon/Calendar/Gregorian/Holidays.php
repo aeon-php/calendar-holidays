@@ -6,6 +6,9 @@ namespace Aeon\Calendar\Gregorian;
 
 use Aeon\Calendar\Gregorian\Holidays\Holiday;
 
+/**
+ * @psalm-immutable
+ */
 interface Holidays
 {
     public function isHoliday(Day $day) : bool;

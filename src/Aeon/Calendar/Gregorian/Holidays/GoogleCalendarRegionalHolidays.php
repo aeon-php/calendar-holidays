@@ -9,6 +9,9 @@ use Aeon\Calendar\Gregorian\Day;
 use Aeon\Calendar\Gregorian\Holidays;
 use Webmozart\Assert\Assert;
 
+/**
+ * @psalm-immutable
+ */
 final class GoogleCalendarRegionalHolidays implements Holidays
 {
     /**
@@ -38,6 +41,11 @@ final class GoogleCalendarRegionalHolidays implements Holidays
         $this->calendars = null;
     }
 
+    /**
+     * @param Day $day
+     * @return bool
+     * @throws HolidayYearException
+     */
     public function isHoliday(Day $day) : bool
     {
         if ($this->calendars === null) {
@@ -100,6 +108,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
         }
     }
 
+    /** @psalm-suppress InaccessibleProperty */
     private function loadCalendar(string $countryCode) : void
     {
         /**

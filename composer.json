@@ -40,6 +40,11 @@
         }
     },
     "scripts": {
+        "build": [
+            "@static:analyze",
+            "@test",
+            "@test:mutation"
+        ],
         "test": [
             "phpunit"
         ],
