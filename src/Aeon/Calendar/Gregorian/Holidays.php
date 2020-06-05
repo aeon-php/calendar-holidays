@@ -14,7 +14,7 @@ interface Holidays
     public function isHoliday(Day $day) : bool;
 
     /**
-     * @return array<Holiday>
+     * @return array<int, Holiday>
      */
     public function holidaysAt(Day $day) : array;
 }

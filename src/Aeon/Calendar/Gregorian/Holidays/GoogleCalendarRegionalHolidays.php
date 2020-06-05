@@ -71,7 +71,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     }
 
     /**
-     * @return array<Holiday>
+     * @return array<int, Holiday>
      */
     public function holidaysAt(Day $day) : array
     {
