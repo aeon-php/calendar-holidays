@@ -73,4 +73,17 @@ and it only reads the file matching country code passed to the constructor.
 it only validates that country code is valid. It goes to the file first time you use `holidaysAt` or `isHoliday` and 
 even then the file is [memoized](https://en.wikipedia.org/wiki/Memoization#:~:text=In%20computing%2C%20memoization%20or%20memoisation,the%20same%20inputs%20occur%20again.) 
 and stored as `GoogleCalendarRegionalHolidays` instance state so another usage of 
-any above method will not trigger parsing json files again. 
+any above method will not trigger parsing json files again.
+
+#### Empty Holidays
+
+This implementation does not provide any holidays, use it when you are a robot that works whole year with any break.
+
+```php
+
+$holidays = new EmptyHolidays();
+
+if ($holidays->isHoliday(Day::fromString('2020-01-01'))) {
+    // code dead as your brain after working without holidays  
+}
+``` 
