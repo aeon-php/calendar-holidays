@@ -42,8 +42,8 @@ final class HolidaysChain implements Holidays
             \array_merge(
                 ...\array_map(
                     function (Holidays $holidays) use ($day) : array {
-                                return $holidays->holidaysAt($day);
-                            },
+                        return $holidays->holidaysAt($day);
+                    },
                     $this->holidaysProviders
                 )
             )
