@@ -15,6 +15,9 @@ Time Management Framework for PHP
 This library provides simple but really flexible abstraction representing holidays of any type.
 
 ```php
+<?php
+use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\Holidays\HolidayName;
 
 interface Holidays
 {
@@ -28,11 +31,11 @@ interface Holidays
 
 final class Holiday
 {
-    public function __construct(Day $day, HolidayName $name)
+    public function __construct(Day $day, HolidayName $name) {}
 
-    public function day() : Day
+    public function day() : Day {}
 
-    public function name(?string $locale = null) : string
+    public function name(?string $locale = null) : string {}
 }
 ``` 
 
@@ -44,6 +47,11 @@ This implementation does not provide any holidays, it's just merging holidays fr
 an array of holidays in `holidaysAt`. 
 
 ```php
+<?php
+use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\Holidays\GoogleCalendar\CountryCodes;
+use Aeon\Calendar\Gregorian\Holidays\GoogleCalendarRegionalHolidays;
+use Aeon\Calendar\Gregorian\Holidays\HolidaysChain;
 
 $holidays = new HolidaysChain(
     new GoogleCalendarRegionalHolidays(CountryCodes::US),
@@ -62,6 +70,10 @@ if ($holidays->isHoliday(Day::fromString('2020-01-01'))) {
 This implementations uses google calendar api to get holidays for different countries.
 
 ```php
+<?php
+use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\Holidays\GoogleCalendar\CountryCodes;
+use Aeon\Calendar\Gregorian\Holidays\GoogleCalendarRegionalHolidays;
 
 $holidays = new GoogleCalendarRegionalHolidays(CountryCodes::US);
 
@@ -84,6 +96,9 @@ any above method will not trigger parsing json files again.
 This implementation does not provide any holidays, use it when you are a robot that works whole year with any break.
 
 ```php
+<?php
+use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\Holidays\EmptyHolidays;
 
 $holidays = new EmptyHolidays();
 
