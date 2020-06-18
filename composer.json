@@ -49,7 +49,7 @@
             "phpunit"
         ],
         "test:mutation": [
-            "infection -vvv --test-framework-options='--testsuite=unit' --only-covered --log-verbosity=default --min-covered-msi=37 --threads=2"
+            "infection -vvv --test-framework-options='--testsuite=unit' --only-covered --log-verbosity=default --min-covered-msi=40 --threads=2"
         ],
         "static:analyze": [
             "psalm --output-format=compact",
