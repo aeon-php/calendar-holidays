@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "85f9d9833ff01cbd8efd796e95b30b28e8d5fb53"
+                "reference": "53feef44b81f97ebe466a07c8188a300dbcb70b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/85f9d9833ff01cbd8efd796e95b30b28e8d5fb53",
-                "reference": "85f9d9833ff01cbd8efd796e95b30b28e8d5fb53",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/53feef44b81f97ebe466a07c8188a300dbcb70b3",
+                "reference": "53feef44b81f97ebe466a07c8188a300dbcb70b3",
                 "shasum": ""
             },
             "require": {
@@ -58,7 +58,7 @@
                 "immutable",
                 "sleep"
             ],
-            "time": "2020-06-18T08:28:14+00:00"
+            "time": "2020-06-19T18:35:05+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
