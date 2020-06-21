@@ -8,8 +8,8 @@
     "require": {
         "php": ">=7.4.2",
         "ext-json": "*",
-        "webmozart/assert": "^1.8",
-        "aeon-php/calendar": "master-dev"
+        "aeon-php/calendar": "1.x-dev",
+        "webmozart/assert": "^1.8"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.2",
