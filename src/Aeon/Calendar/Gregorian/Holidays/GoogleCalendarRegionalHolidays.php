@@ -27,15 +27,20 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     public function __construct(string ...$countryCodes)
     {
         Assert::greaterThan(\count($countryCodes), 0);
-        Assert::allInArray(
+        \array_map(
+            function (string $countryCode) : void {
+                Assert::true(\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all()));
+            },
             $normalizedCountryCodes = \array_map(
                 function (string $countryCode) : string {
                     return \mb_strtoupper($countryCode);
                 },
                 $countryCodes
-            ),
-            Holidays\GoogleCalendar\CountryCodes::all()
+            )
         );
+
+        $this->countryCodes = \array_values($normalizedCountryCodes);
+        $this->calendars = null;
 
         $this->countryCodes = \array_values($normalizedCountryCodes);
         $this->calendars = null;
