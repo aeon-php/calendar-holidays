@@ -29,7 +29,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
         Assert::greaterThan(\count($countryCodes), 0);
         \array_map(
             function (string $countryCode) : void {
-                Assert::true(\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all()));
+                Assert::true(\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all(), true));
             },
             $normalizedCountryCodes = \array_map(
                 function (string $countryCode) : string {
