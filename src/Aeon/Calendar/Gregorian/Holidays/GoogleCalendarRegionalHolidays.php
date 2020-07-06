@@ -5,9 +5,9 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Gregorian\Holidays;
 
 use Aeon\Calendar\Exception\HolidayYearException;
+use Aeon\Calendar\Exception\InvalidArgumentException;
 use Aeon\Calendar\Gregorian\Day;
 use Aeon\Calendar\Gregorian\Holidays;
-use Webmozart\Assert\Assert;
 
 /**
  * @psalm-immutable
@@ -26,10 +26,15 @@ final class GoogleCalendarRegionalHolidays implements Holidays
 
     public function __construct(string ...$countryCodes)
     {
-        Assert::greaterThan(\count($countryCodes), 0);
+        if (\count($countryCodes) === 0) {
+            throw new InvalidArgumentException("List of country codes must not be empty");
+        }
+
         \array_map(
             function (string $countryCode) : void {
-                Assert::true(\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all(), true));
+                if (!\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all(), true)) {
+                    throw new InvalidArgumentException("Country with code " . $countryCode . " does not exists.");
+                }
             },
             $normalizedCountryCodes = \array_map(
                 function (string $countryCode) : string {

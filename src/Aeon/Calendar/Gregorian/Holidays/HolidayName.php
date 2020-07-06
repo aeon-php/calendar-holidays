@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Gregorian\Holidays;
 
 use Aeon\Calendar\Exception\HolidayException;
-use Webmozart\Assert\Assert;
+use Aeon\Calendar\Exception\InvalidArgumentException;
 
 /**
  * @psalm-immutable
@@ -19,7 +19,10 @@ final class HolidayName
 
     public function __construct(HolidayLocaleName ...$localeHolidayNames)
     {
-        Assert::greaterThan(\count($localeHolidayNames), 0, "Holiday should have name in at least one locale.");
+        if (\count($localeHolidayNames) === 0) {
+            throw new InvalidArgumentException("Holiday should have name in at least one locale.");
+        }
+
         $this->localeHolidayNames = $localeHolidayNames;
     }
 

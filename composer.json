@@ -8,14 +8,13 @@
     "require": {
         "php": ">=7.4.2",
         "ext-json": "*",
-        "aeon-php/calendar": "1.x-dev"
+        "aeon-php/calendar": "^1.0@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.2",
         "phpstan/phpstan": "^0.12.25",
         "vimeo/psalm": "^3.11",
         "phpstan/phpstan-phpunit": "^0.12.8",
-        "phpstan/phpstan-webmozart-assert": "^0.12.4",
         "psalm/plugin-phpunit": "^0.10.1",
         "friendsofphp/php-cs-fixer": "^2.16",
         "infection/infection": "^0.16.3",
