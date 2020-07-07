@@ -27,13 +27,13 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     public function __construct(string ...$countryCodes)
     {
         if (\count($countryCodes) === 0) {
-            throw new InvalidArgumentException("List of country codes must not be empty");
+            throw new InvalidArgumentException('List of country codes must not be empty');
         }
 
         \array_map(
             function (string $countryCode) : void {
                 if (!\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all(), true)) {
-                    throw new InvalidArgumentException("Country with code " . $countryCode . " does not exists.");
+                    throw new InvalidArgumentException('Country with code ' . $countryCode . ' does not exists.');
                 }
             },
             $normalizedCountryCodes = \array_map(
@@ -53,8 +53,10 @@ final class GoogleCalendarRegionalHolidays implements Holidays
 
     /**
      * @param Day $day
-     * @return bool
+     *
      * @throws HolidayYearException
+     *
+     * @return bool
      */
     public function isHoliday(Day $day) : bool
     {
@@ -67,13 +69,13 @@ final class GoogleCalendarRegionalHolidays implements Holidays
 
         if (!\count($calendars)) {
             // @codeCoverageIgnoreStart
-            throw new HolidayYearException("Holidays list is empty");
+            throw new HolidayYearException('Holidays list is empty');
             // @codeCoverageIgnoreEnd
         }
 
         if (!\array_key_exists($day->year()->number(), $calendars)) {
             // @codeCoverageIgnoreStart
-            throw new HolidayYearException(\sprintf("There are no holidays in %d, please check regional holidays data set.", $day->year()->number()));
+            throw new HolidayYearException(\sprintf('There are no holidays in %d, please check regional holidays data set.', $day->year()->number()));
             // @codeCoverageIgnoreStart
         }
 
@@ -93,11 +95,11 @@ final class GoogleCalendarRegionalHolidays implements Holidays
         $calendars = (array) $this->calendars;
 
         if (!\count($calendars)) {
-            throw new HolidayYearException("Holidays list is empty");
+            throw new HolidayYearException('Holidays list is empty');
         }
 
         if (!\array_key_exists($day->year()->number(), $calendars)) {
-            throw new HolidayYearException(\sprintf("There are no holidays in %d, please check regional holidays data set.", $day->year()->number()));
+            throw new HolidayYearException(\sprintf('There are no holidays in %d, please check regional holidays data set.', $day->year()->number()));
         }
 
         if (isset($calendars[$day->year()->number()][$day->format('Y-m-d')])) {
@@ -110,7 +112,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     private function loadCalendars() : void
     {
         if ($this->calendars !== null) {
-            return ;
+            return;
         }
 
         foreach ($this->countryCodes as $countryCode) {
@@ -123,19 +125,19 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     {
         /**
          * @var array{
-         *   country_code: string,
-         *   name: string,
-         *   timezones: array<int, string>,
-         *   location: array<int, array<string, float>>,
-         *   google_calendar: array<int, array{
-         *     locale: string,
-         *     calendar: string,
-         *     years: array<int, array{
-         *       year: int,
-         *       holidays: array<int, array{date: string, name: string}>
-         *     }>
-         *   }>
-         * } $data
+         *             country_code: string,
+         *             name: string,
+         *             timezones: array<int, string>,
+         *             location: array<int, array<string, float>>,
+         *             google_calendar: array<int, array{
+         *             locale: string,
+         *             calendar: string,
+         *             years: array<int, array{
+         *             year: int,
+         *             holidays: array<int, array{date: string, name: string}>
+         *             }>
+         *             }>
+         *             } $data
          */
         $data = (array) \json_decode((string) \file_get_contents(__DIR__ . '/data/regional/' . $countryCode . '.json'), true, JSON_THROW_ON_ERROR);
 

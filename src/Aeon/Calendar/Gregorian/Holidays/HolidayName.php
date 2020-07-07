@@ -20,7 +20,7 @@ final class HolidayName
     public function __construct(HolidayLocaleName ...$localeHolidayNames)
     {
         if (\count($localeHolidayNames) === 0) {
-            throw new InvalidArgumentException("Holiday should have name in at least one locale.");
+            throw new InvalidArgumentException('Holiday should have name in at least one locale.');
         }
 
         $this->localeHolidayNames = $localeHolidayNames;
@@ -38,7 +38,7 @@ final class HolidayName
         );
 
         if (!\count($localeNames)) {
-            throw new HolidayException(\sprintf("Holiday \"%s\" does not have name in %s locale", $this->name(), $locale));
+            throw new HolidayException(\sprintf('Holiday "%s" does not have name in %s locale', $this->name(), $locale));
         }
 
         return \current($localeNames)->name();
