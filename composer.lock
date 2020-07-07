@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "5755044cdac7e279b835db324a5b786a5b3926ea"
+                "reference": "080471eaacc6348d477ff372e5066fc8ab59279b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/5755044cdac7e279b835db324a5b786a5b3926ea",
-                "reference": "5755044cdac7e279b835db324a5b786a5b3926ea",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/080471eaacc6348d477ff372e5066fc8ab59279b",
+                "reference": "080471eaacc6348d477ff372e5066fc8ab59279b",
                 "shasum": ""
             },
             "require": {
@@ -56,7 +56,7 @@
                 "issues": "https://github.com/aeon-php/calendar/issues",
                 "source": "https://github.com/aeon-php/calendar/tree/1.x"
             },
-            "time": "2020-07-07T08:25:36+00:00"
+            "time": "2020-07-07T15:32:16+00:00"
         }
     ],
     "packages-dev": [
