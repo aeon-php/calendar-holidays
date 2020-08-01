@@ -17,12 +17,10 @@
 
     <testsuites>
         <testsuite name="functional">
-            <directory suffix="">tests/Aeon/Calendar/Tests/Functional</directory>
-            <directory suffix="*.phpt">tests/Aeon/Calendar/Tests/Functional</directory>
+            <directory>tests/Aeon/Calendar/Tests/Functional</directory>
         </testsuite>
         <testsuite name="unit">
-            <directory suffix="">tests/Aeon/Calendar/Tests/Unit</directory>
-            <directory suffix="*.phpt">tests/tests/Aeon/Calendar/Tests/Unit</directory>
+            <directory>tests/Aeon/Calendar/Tests/Unit</directory>
         </testsuite>
     </testsuites>
 </phpunit>
