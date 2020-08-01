@@ -32,7 +32,7 @@ final class Holiday
     }
 
     /**
-     * @return array<int, string>
+     * @return array<string>
      */
     public function locales() : array
     {

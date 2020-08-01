@@ -32,7 +32,7 @@ final class HolidayName
             return \current($this->localeHolidayNames)->name();
         }
 
-        $localeNames = (array) \array_filter(
+        $localeNames = \array_filter(
             $this->localeHolidayNames,
             fn (HolidayLocaleName $localeHolidayName) : bool => $localeHolidayName->in($locale)
         );
@@ -45,15 +45,15 @@ final class HolidayName
     }
 
     /**
-     * @return array<int, string>
+     * @return array<string>
      */
     public function locales() : array
     {
-        return \array_values(\array_map(
+        return \array_map(
             function (HolidayLocaleName $holidayLocaleName) : string {
                 return $holidayLocaleName->locale();
             },
             $this->localeHolidayNames
-        ));
+        );
     }
 }

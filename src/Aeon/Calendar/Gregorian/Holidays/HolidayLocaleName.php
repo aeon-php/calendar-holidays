@@ -15,7 +15,7 @@ final class HolidayLocaleName
 
     public function __construct(string $locale, string $name)
     {
-        $this->locale = (string) \mb_strtolower($locale);
+        $this->locale = \strval(\mb_strtolower($locale));
         $this->name = $name;
     }
 
