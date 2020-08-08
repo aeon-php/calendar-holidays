@@ -8,6 +8,7 @@
     "require": {
         "php": ">=7.4.2",
         "ext-json": "*",
+        "ext-mbstring": "*",
         "aeon-php/calendar": "^0.3.0"
     },
     "require-dev": {

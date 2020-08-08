@@ -15,12 +15,12 @@ use Aeon\Calendar\Gregorian\Holidays;
 final class GoogleCalendarRegionalHolidays implements Holidays
 {
     /**
-     * @var array<int, string>
+     * @var array<string>
      */
     private array $countryCodes;
 
     /**
-     * @var null|array<int, array<string, array<int, Holiday>>>
+     * @var null|array<array<string, array<Holiday>>>
      */
     private ?array $calendars;
 
@@ -44,10 +44,10 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             )
         );
 
-        $this->countryCodes = \array_values($normalizedCountryCodes);
+        $this->countryCodes = $normalizedCountryCodes;
         $this->calendars = null;
 
-        $this->countryCodes = \array_values($normalizedCountryCodes);
+        $this->countryCodes = $normalizedCountryCodes;
         $this->calendars = null;
     }
 
@@ -64,8 +64,8 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             $this->loadCalendars();
         }
 
-        /** @var array<int, array<string, array<int, Holiday>>> $calendars */
-        $calendars = (array) $this->calendars;
+        /** @var array<array<string, array<int, Holiday>>> $calendars */
+        $calendars = $this->calendars;
 
         if (!\count($calendars)) {
             // @codeCoverageIgnoreStart
@@ -83,7 +83,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     }
 
     /**
-     * @return array<int, Holiday>
+     * @return array<Holiday>
      */
     public function holidaysAt(Day $day) : array
     {
@@ -91,8 +91,8 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             $this->loadCalendars();
         }
 
-        /** @var array<int, array<string, array<int, Holiday>>> $calendars */
-        $calendars = (array) $this->calendars;
+        /** @var array<array<string, array<Holiday>>> $calendars */
+        $calendars = $this->calendars;
 
         if (!\count($calendars)) {
             throw new HolidayYearException('Holidays list is empty');
