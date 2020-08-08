@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Aeon\Calendar\Tests\Functional\Holidays;
 
+use Aeon\Calendar\Exception\InvalidArgumentException;
 use Aeon\Calendar\Gregorian\Day;
 use Aeon\Calendar\Gregorian\Holidays\GoogleCalendar\CountryCodes;
 use Aeon\Calendar\Gregorian\Holidays\GoogleCalendarRegionalHolidays;
@@ -37,5 +38,15 @@ final class GoogleCalendarRegionalHolidaysTest extends TestCase
         $this->assertInstanceOf(Holiday::class, $holidays->holidaysAt(Day::fromString('2020-01-01'))[1]);
         $this->assertSame('New Year\'s Day', $holidays->holidaysAt(Day::fromString('2020-01-01'))[0]->name());
         $this->assertSame('New Year\'s Day', $holidays->holidaysAt(Day::fromString('2020-01-01'))[1]->name());
+    }
+
+    public function test_getting_holidays_without_providing_country_code() : void
+    {
+        $this->expectException(InvalidArgumentException::class);
+        $this->expectExceptionMessage('List of country codes must not be empty');
+
+        $holidays = new GoogleCalendarRegionalHolidays();
+
+        $holidays->holidaysAt(Day::fromString('2020-01-01'));
     }
 }
