@@ -13,7 +13,7 @@ use Aeon\Calendar\Gregorian\Holidays;
 final class HolidaysChain implements Holidays
 {
     /**
-     * @var array<int, Holidays>
+     * @var array<Holidays>
      */
     private array $holidaysProviders;
 
@@ -34,18 +34,16 @@ final class HolidaysChain implements Holidays
     }
 
     /**
-     * @return array<int, Holiday>
+     * @return array<Holiday>
      */
     public function holidaysAt(Day $day) : array
     {
-        return \array_values(
-            \array_merge(
-                ...\array_map(
-                    function (Holidays $holidays) use ($day) : array {
-                        return $holidays->holidaysAt($day);
-                    },
-                    $this->holidaysProviders
-                )
+        return \array_merge(
+            ...\array_map(
+                function (Holidays $holidays) use ($day) : array {
+                    return $holidays->holidaysAt($day);
+                },
+                $this->holidaysProviders
             )
         );
     }
