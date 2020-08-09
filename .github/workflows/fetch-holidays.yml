@@ -60,12 +60,16 @@ jobs:
       - name: "Git status"
         run: "git status"
 
-#      - name: "Create commits"
-#        run: |
-#          git config user.name 'Norbert Orzechowicz'
-#          git config user.email 'contact@norbert.tech'
-#          git add .
-#          git commit -am "Update google calendar regional holidays data"
-#
-#      - name: "Create Pull Request"
-#        uses: peter-evans/create-pull-request@v3
+      - name: "Create Pull Request"
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: "Updated Google Calendar regional holidays"
+          committer: "GitHub <noreply@github.com>"
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          branch: update/google-calendar-holiday
+          title: 'Updated Google Calendar regional holidays'
+
+      - name: "Check output"
+          run: |
+            echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
