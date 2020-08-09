@@ -71,5 +71,5 @@ jobs:
           title: 'Updated Google Calendar regional holidays'
 
       - name: "Check output"
-          run: |
-            echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
