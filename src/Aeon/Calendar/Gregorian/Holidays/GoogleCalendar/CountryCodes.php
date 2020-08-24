@@ -464,6 +464,8 @@ final class CountryCodes
     public const ZW = 'ZW';
 
     /**
+     * @psalm-pure
+     *
      * @return array<int, string>
      */
     public static function all() : array
