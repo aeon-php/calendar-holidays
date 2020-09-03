@@ -90,7 +90,7 @@ foreach ($countries['countries'] as $countryCode => $countryData) {
                     'years' => $holidays
                 ]
             ]
-        ]));
+        ], JSON_PRETTY_PRINT));
     } catch (Google_Service_Exception $e) {
         echo "google calendar not found for - $countryCode \n";
     }
