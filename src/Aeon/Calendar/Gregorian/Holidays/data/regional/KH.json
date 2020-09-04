@@ -198,18 +198,6 @@
                             "name": "Commemoration Day of King's Father"
                         },
                         {
-                            "date": "2020-10-16",
-                            "name": "Pchum Ben Festival (Day 1)"
-                        },
-                        {
-                            "date": "2020-10-17",
-                            "name": "Pchum Ben Festival (Day 2)"
-                        },
-                        {
-                            "date": "2020-10-18",
-                            "name": "Pchum Ben Festival (Day 3)"
-                        },
-                        {
                             "date": "2020-10-29",
                             "name": "King's Coronation Day"
                         },
@@ -268,6 +256,18 @@
                         {
                             "date": "2020-08-21",
                             "name": "Khmer New Year Replacement Holiday (Day 5)"
+                        },
+                        {
+                            "date": "2020-09-16",
+                            "name": "Pchum Ben Festival (Day 1)"
+                        },
+                        {
+                            "date": "2020-09-17",
+                            "name": "Pchum Ben Festival (Day 2)"
+                        },
+                        {
+                            "date": "2020-09-18",
+                            "name": "Pchum Ben Festival (Day 3)"
                         }
                     ]
                 },
