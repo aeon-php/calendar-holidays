@@ -98,24 +98,24 @@
                             "name": "Berber New Year"
                         },
                         {
-                            "date": "2020-08-29",
-                            "name": "Day of Achura"
-                        },
-                        {
-                            "date": "2020-10-01",
+                            "date": "2020-05-24",
                             "name": "Eid al-Fitr"
                         },
                         {
-                            "date": "2020-10-02",
+                            "date": "2020-05-25",
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
-                            "date": "2020-12-10",
+                            "date": "2020-07-31",
                             "name": "Eid al-Adha"
                         },
                         {
-                            "date": "2020-12-11",
+                            "date": "2020-08-01",
                             "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-29",
+                            "name": "Day of Achura"
                         }
                     ]
                 },
