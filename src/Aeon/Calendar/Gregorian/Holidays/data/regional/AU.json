@@ -346,10 +346,6 @@
                             "name": "Hari Raya Puasa (regional holiday)"
                         },
                         {
-                            "date": "2020-09-25",
-                            "name": "Friday before the AFL Grand Final (Victoria)"
-                        },
-                        {
                             "date": "2020-10-05",
                             "name": "Territory Day (Christmas Island)"
                         },
@@ -464,6 +460,10 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve (regional holiday)"
+                        },
+                        {
+                            "date": "2020-10-23",
+                            "name": "Friday before the AFL Grand Final (Victoria)"
                         }
                     ]
                 },
