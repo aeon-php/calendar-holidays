@@ -88,6 +88,10 @@
                         {
                             "date": "2019-04-21",
                             "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2019-06-20",
+                            "name": "Corpus Christi"
                         }
                     ]
                 },
@@ -161,6 +165,10 @@
                         {
                             "date": "2020-04-12",
                             "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2020-06-11",
+                            "name": "Corpus Christi"
                         }
                     ]
                 },
@@ -234,6 +242,26 @@
                         {
                             "date": "2021-04-04",
                             "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2021-04-11",
+                            "name": "Mayors and Regional Governors Elections"
+                        },
+                        {
+                            "date": "2021-06-03",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2021-07-04",
+                            "name": "Presidential Primary Elections"
+                        },
+                        {
+                            "date": "2021-11-21",
+                            "name": "Presidential and Parliamentary Elections"
+                        },
+                        {
+                            "date": "2021-12-19",
+                            "name": "Second Round Presidential Elections"
                         }
                     ]
                 }

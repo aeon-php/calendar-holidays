@@ -383,10 +383,6 @@
                             "name": "Yom HaZikaron"
                         },
                         {
-                            "date": "2021-07-18",
-                            "name": "Tisha B'Av Eve"
-                        },
-                        {
                             "date": "2021-09-07",
                             "name": "Rosh Hashana"
                         },
@@ -529,6 +525,10 @@
                         {
                             "date": "2021-04-08",
                             "name": "Yom HaShoah"
+                        },
+                        {
+                            "date": "2021-07-17",
+                            "name": "Tisha B'Av Eve"
                         }
                     ]
                 }

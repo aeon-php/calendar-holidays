@@ -255,10 +255,6 @@
                             "name": "Kurban Ait"
                         },
                         {
-                            "date": "2021-03-22",
-                            "name": "Day off for Nauryz"
-                        },
-                        {
                             "date": "2021-05-03",
                             "name": "Day off for Unity Day"
                         },
@@ -289,6 +285,10 @@
                         {
                             "date": "2021-03-08",
                             "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2021-03-24",
+                            "name": "Day off for Nauryz"
                         }
                     ]
                 }
