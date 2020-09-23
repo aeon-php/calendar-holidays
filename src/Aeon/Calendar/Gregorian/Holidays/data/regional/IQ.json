@@ -126,14 +126,6 @@
                             "name": "Eid al-Adha"
                         },
                         {
-                            "date": "2020-08-20",
-                            "name": "Islamic New Year"
-                        },
-                        {
-                            "date": "2020-08-29",
-                            "name": "Ashura"
-                        },
-                        {
                             "date": "2020-10-03",
                             "name": "Iraqi Independence Day"
                         },
@@ -208,6 +200,14 @@
                         {
                             "date": "2020-08-20",
                             "name": "Islamic New Year Holiday"
+                        },
+                        {
+                            "date": "2020-08-21",
+                            "name": "Islamic New Year"
+                        },
+                        {
+                            "date": "2020-08-30",
+                            "name": "Ashura"
                         }
                     ]
                 },
