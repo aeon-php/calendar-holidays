@@ -21,14 +21,6 @@
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2019-01-07",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2019-03-25",
-                            "name": "Saint Joseph's Day"
-                        },
-                        {
                             "date": "2019-04-14",
                             "name": "Palm Sunday"
                         },
@@ -69,14 +61,6 @@
                             "name": "Father's Day"
                         },
                         {
-                            "date": "2019-06-24",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-07-01",
-                            "name": "Feast of Saint Peter and Saint Paul"
-                        },
-                        {
                             "date": "2019-07-01",
                             "name": "Sacred Heart"
                         },
@@ -89,24 +73,12 @@
                             "name": "Battle of Boyac\u00e1 Day"
                         },
                         {
-                            "date": "2019-08-19",
-                            "name": "Assumption of Mary"
-                        },
-                        {
                             "date": "2019-09-21",
                             "name": "Valentine's Day"
                         },
                         {
-                            "date": "2019-10-14",
-                            "name": "Columbus Day"
-                        },
-                        {
                             "date": "2019-10-31",
                             "name": "Halloween"
-                        },
-                        {
-                            "date": "2019-11-04",
-                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2019-11-11",
@@ -151,6 +123,58 @@
                         {
                             "date": "2019-05-15",
                             "name": "Teacher's Day"
+                        },
+                        {
+                            "date": "2019-03-19",
+                            "name": "Saint Joseph's Day"
+                        },
+                        {
+                            "date": "2019-06-29",
+                            "name": "Feast of Saint Peter and Saint Paul"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2019-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2019-06-20",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2019-08-19",
+                            "name": "Day off for Assumption of Mary"
+                        },
+                        {
+                            "date": "2019-10-12",
+                            "name": "Columbus Day"
+                        },
+                        {
+                            "date": "2019-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2019-01-07",
+                            "name": "Day off for Epiphany"
+                        },
+                        {
+                            "date": "2019-03-25",
+                            "name": "Day off for Saint Joseph's Day"
+                        },
+                        {
+                            "date": "2019-07-01",
+                            "name": "Day off for Feast of Saint Peter and Saint Paul"
+                        },
+                        {
+                            "date": "2019-10-14",
+                            "name": "Day off for Columbus Day"
+                        },
+                        {
+                            "date": "2019-11-04",
+                            "name": "Day off for All Saints' Day"
                         }
                     ]
                 },
@@ -164,10 +188,6 @@
                         {
                             "date": "2020-01-06",
                             "name": "Epiphany"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Saint Joseph's Day"
                         },
                         {
                             "date": "2020-04-05",
@@ -206,10 +226,6 @@
                             "name": "Ascension Day"
                         },
                         {
-                            "date": "2020-06-15",
-                            "name": "Corpus Christi"
-                        },
-                        {
                             "date": "2020-06-21",
                             "name": "Father's Day"
                         },
@@ -230,10 +246,6 @@
                             "name": "Battle of Boyac\u00e1 Day"
                         },
                         {
-                            "date": "2020-08-17",
-                            "name": "Assumption of Mary"
-                        },
-                        {
                             "date": "2020-09-19",
                             "name": "Valentine's Day"
                         },
@@ -246,16 +258,8 @@
                             "name": "Halloween"
                         },
                         {
-                            "date": "2020-11-02",
-                            "name": "All Saints' Day"
-                        },
-                        {
                             "date": "2020-11-14",
                             "name": "Colombian Women's Day"
-                        },
-                        {
-                            "date": "2020-11-16",
-                            "name": "Independence of Cartagena"
                         },
                         {
                             "date": "2020-12-07",
@@ -292,6 +296,42 @@
                         {
                             "date": "2020-05-15",
                             "name": "Teacher's Day"
+                        },
+                        {
+                            "date": "2020-03-19",
+                            "name": "Saint Joseph's Day"
+                        },
+                        {
+                            "date": "2020-06-11",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2020-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2020-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2020-11-02",
+                            "name": "Day off for All Saints' Day"
+                        },
+                        {
+                            "date": "2020-11-11",
+                            "name": "Independence of Cartagena"
+                        },
+                        {
+                            "date": "2020-03-23",
+                            "name": "Day off for Saint Joseph's Day"
+                        },
+                        {
+                            "date": "2020-08-17",
+                            "name": "Day off for Assumption of Mary"
+                        },
+                        {
+                            "date": "2020-11-16",
+                            "name": "Day off for Independence of Cartagena"
                         }
                     ]
                 },
@@ -301,14 +341,6 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2021-01-11",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2021-03-22",
-                            "name": "Saint Joseph's Day"
                         },
                         {
                             "date": "2021-03-28",
@@ -347,20 +379,12 @@
                             "name": "Ascension Day"
                         },
                         {
-                            "date": "2021-06-07",
-                            "name": "Corpus Christi"
-                        },
-                        {
                             "date": "2021-06-14",
                             "name": "Sacred Heart"
                         },
                         {
                             "date": "2021-06-20",
                             "name": "Father's Day"
-                        },
-                        {
-                            "date": "2021-07-05",
-                            "name": "Feast of Saint Peter and Saint Paul"
                         },
                         {
                             "date": "2021-07-20",
@@ -371,16 +395,8 @@
                             "name": "Battle of Boyac\u00e1 Day"
                         },
                         {
-                            "date": "2021-08-16",
-                            "name": "Assumption of Mary"
-                        },
-                        {
                             "date": "2021-09-18",
                             "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2021-10-18",
-                            "name": "Columbus Day"
                         },
                         {
                             "date": "2021-10-31",
@@ -393,10 +409,6 @@
                         {
                             "date": "2021-11-14",
                             "name": "Colombian Women's Day"
-                        },
-                        {
-                            "date": "2021-11-15",
-                            "name": "Independence of Cartagena"
                         },
                         {
                             "date": "2021-12-07",
@@ -433,6 +445,58 @@
                         {
                             "date": "2021-05-15",
                             "name": "Teacher's Day"
+                        },
+                        {
+                            "date": "2021-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2021-06-03",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2021-10-12",
+                            "name": "Columbus Day"
+                        },
+                        {
+                            "date": "2021-03-19",
+                            "name": "Saint Joseph's Day"
+                        },
+                        {
+                            "date": "2021-06-29",
+                            "name": "Feast of Saint Peter and Saint Paul"
+                        },
+                        {
+                            "date": "2021-08-16",
+                            "name": "Day off for Assumption of Mary"
+                        },
+                        {
+                            "date": "2021-10-18",
+                            "name": "Day off for Columbus Day"
+                        },
+                        {
+                            "date": "2021-11-11",
+                            "name": "Independence of Cartagena"
+                        },
+                        {
+                            "date": "2021-01-11",
+                            "name": "Day off for Epiphany"
+                        },
+                        {
+                            "date": "2021-03-22",
+                            "name": "Day off for Saint Joseph's Day"
+                        },
+                        {
+                            "date": "2021-07-05",
+                            "name": "Day off for Feast of Saint Peter and Saint Paul"
+                        },
+                        {
+                            "date": "2021-11-15",
+                            "name": "Day off for Independence of Cartagena"
                         }
                     ]
                 }
