@@ -126,10 +126,6 @@
                             "name": "Easter Monday"
                         },
                         {
-                            "date": "2020-06-30",
-                            "name": "Army Day"
-                        },
-                        {
                             "date": "2020-09-15",
                             "name": "Independence Day"
                         },
@@ -164,6 +160,14 @@
                         {
                             "date": "2020-05-01",
                             "name": "Labor Day"
+                        },
+                        {
+                            "date": "2020-06-29",
+                            "name": "Army Day Holiday"
+                        },
+                        {
+                            "date": "2020-06-30",
+                            "name": "Army Day"
                         }
                     ]
                 },
@@ -193,10 +197,6 @@
                         {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2021-06-30",
-                            "name": "Army Day"
                         },
                         {
                             "date": "2021-09-15",
@@ -233,6 +233,14 @@
                         {
                             "date": "2021-05-01",
                             "name": "Labor Day"
+                        },
+                        {
+                            "date": "2021-06-28",
+                            "name": "Army Day Holiday"
+                        },
+                        {
+                            "date": "2021-06-30",
+                            "name": "Army Day"
                         }
                     ]
                 }
