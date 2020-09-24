@@ -309,6 +309,30 @@
                         {
                             "date": "2021-05-01",
                             "name": "Constituent Assembly Convocation Day"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Public Holiday"
+                        },
+                        {
+                            "date": "2021-05-08",
+                            "name": "Working Day"
+                        },
+                        {
+                            "date": "2021-06-19",
+                            "name": "Working Day"
+                        },
+                        {
+                            "date": "2021-06-25",
+                            "name": "Public Holiday"
+                        },
+                        {
+                            "date": "2021-11-13",
+                            "name": "Working Day"
+                        },
+                        {
+                            "date": "2021-11-19",
+                            "name": "Public Holiday"
                         }
                     ]
                 }
