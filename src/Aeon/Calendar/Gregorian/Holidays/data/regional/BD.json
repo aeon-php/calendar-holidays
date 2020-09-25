@@ -222,10 +222,6 @@
                             "name": "National Mourning Day"
                         },
                         {
-                            "date": "2020-08-29",
-                            "name": "Ashura"
-                        },
-                        {
                             "date": "2020-09-02",
                             "name": "Madhu Purnima"
                         },
@@ -564,6 +560,10 @@
                         {
                             "date": "2020-08-03",
                             "name": "Eid al-Adha Day 3"
+                        },
+                        {
+                            "date": "2020-08-30",
+                            "name": "Ashura"
                         }
                     ]
                 },
