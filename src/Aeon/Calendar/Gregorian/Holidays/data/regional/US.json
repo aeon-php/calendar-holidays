@@ -133,10 +133,6 @@
                             "name": "Presidents' Day (regional holiday)"
                         },
                         {
-                            "date": "2019-10-14",
-                            "name": "Columbus Day (regional holiday)"
-                        },
-                        {
                             "date": "2019-02-01",
                             "name": "First Day of Black History Month"
                         },
@@ -151,6 +147,10 @@
                         {
                             "date": "2019-06-19",
                             "name": "Juneteenth"
+                        },
+                        {
+                            "date": "2019-10-14",
+                            "name": "Columbus Day"
                         },
                         {
                             "date": "2019-12-24",
@@ -254,10 +254,6 @@
                             "name": "Presidents' Day (regional holiday)"
                         },
                         {
-                            "date": "2020-10-12",
-                            "name": "Columbus Day (regional holiday)"
-                        },
-                        {
                             "date": "2020-03-03",
                             "name": "Super Tuesday (regional holiday)"
                         },
@@ -280,6 +276,10 @@
                         {
                             "date": "2020-06-19",
                             "name": "Juneteenth"
+                        },
+                        {
+                            "date": "2020-10-12",
+                            "name": "Columbus Day"
                         }
                     ]
                 },
@@ -391,10 +391,6 @@
                             "name": "Presidents' Day (regional holiday)"
                         },
                         {
-                            "date": "2021-10-11",
-                            "name": "Columbus Day (regional holiday)"
-                        },
-                        {
                             "date": "2021-02-01",
                             "name": "First Day of Black History Month"
                         },
@@ -409,6 +405,10 @@
                         {
                             "date": "2021-06-19",
                             "name": "Juneteenth"
+                        },
+                        {
+                            "date": "2021-10-11",
+                            "name": "Columbus Day"
                         }
                     ]
                 }
