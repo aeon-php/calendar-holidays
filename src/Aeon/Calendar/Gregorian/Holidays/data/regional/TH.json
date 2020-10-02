@@ -206,14 +206,6 @@
                             "name": "Chulalongkorn Day"
                         },
                         {
-                            "date": "2020-12-05",
-                            "name": "King Bhumibol's Birthday"
-                        },
-                        {
-                            "date": "2020-12-07",
-                            "name": "King Bhumibol's Birthday observed"
-                        },
-                        {
                             "date": "2020-12-10",
                             "name": "Constitution Day"
                         },
@@ -284,6 +276,18 @@
                         {
                             "date": "2020-09-07",
                             "name": "Songkran Replacement Holiday"
+                        },
+                        {
+                            "date": "2020-11-19",
+                            "name": "Special public holiday"
+                        },
+                        {
+                            "date": "2020-11-20",
+                            "name": "Special public holiday"
+                        },
+                        {
+                            "date": "2020-12-11",
+                            "name": "King Bhumibol's Birthday"
                         }
                     ]
                 },

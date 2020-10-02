@@ -37,10 +37,6 @@
                             "name": "International Labor Day"
                         },
                         {
-                            "date": "2019-05-05",
-                            "name": "Freedom Day"
-                        },
-                        {
                             "date": "2019-05-28",
                             "name": "Derg Downfall Day"
                         },
@@ -67,6 +63,10 @@
                         {
                             "date": "2019-08-11",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-05-05",
+                            "name": "Patriots' Day"
                         }
                     ]
                 },
@@ -92,10 +92,6 @@
                         {
                             "date": "2020-05-01",
                             "name": "International Labor Day"
-                        },
-                        {
-                            "date": "2020-05-05",
-                            "name": "Freedom Day"
                         },
                         {
                             "date": "2020-05-24",
@@ -124,6 +120,10 @@
                         {
                             "date": "2020-01-20",
                             "name": "Epiphany \/ Timkat"
+                        },
+                        {
+                            "date": "2020-05-05",
+                            "name": "Patriots' Day"
                         }
                     ]
                 },
@@ -151,10 +151,6 @@
                             "name": "Ethiopian Easter Sunday"
                         },
                         {
-                            "date": "2021-05-05",
-                            "name": "Freedom Day"
-                        },
-                        {
                             "date": "2021-05-13",
                             "name": "Eid ul Fitr"
                         },
@@ -177,6 +173,10 @@
                         {
                             "date": "2021-01-19",
                             "name": "Epiphany \/ Timkat"
+                        },
+                        {
+                            "date": "2021-05-05",
+                            "name": "Patriots' Day"
                         }
                     ]
                 }

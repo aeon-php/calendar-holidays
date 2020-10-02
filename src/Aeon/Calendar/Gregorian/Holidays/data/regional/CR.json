@@ -122,18 +122,6 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
-                            "date": "2020-07-25",
-                            "name": "Annexation of Guanacaste"
-                        },
-                        {
-                            "date": "2020-08-02",
-                            "name": "Our Lady of Los \u00c1ngeles"
-                        },
-                        {
-                            "date": "2020-09-15",
-                            "name": "Independence Day"
-                        },
-                        {
                             "date": "2020-11-02",
                             "name": "All Souls' Day"
                         },
@@ -144,10 +132,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Mother's Day"
                         },
                         {
                             "date": "2020-09-09",
@@ -170,7 +154,23 @@
                             "name": "Teacher's Day"
                         },
                         {
-                            "date": "2020-12-01",
+                            "date": "2020-07-27",
+                            "name": "Annexation of Guanacaste"
+                        },
+                        {
+                            "date": "2020-08-03",
+                            "name": "Our Lady of Los \u00c1ngeles"
+                        },
+                        {
+                            "date": "2020-08-17",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2020-09-14",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2020-11-30",
                             "name": "Day of Abolition of the Army"
                         }
                     ]
@@ -193,18 +193,6 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
-                        },
-                        {
-                            "date": "2021-04-11",
-                            "name": "Battle of Rivas"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2021-07-25",
-                            "name": "Annexation of Guanacaste"
                         },
                         {
                             "date": "2021-08-02",
@@ -253,6 +241,18 @@
                         {
                             "date": "2021-12-01",
                             "name": "Day of Abolition of the Army"
+                        },
+                        {
+                            "date": "2021-04-12",
+                            "name": "Battle of Rivas"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2021-07-26",
+                            "name": "Annexation of Guanacaste"
                         }
                     ]
                 }
