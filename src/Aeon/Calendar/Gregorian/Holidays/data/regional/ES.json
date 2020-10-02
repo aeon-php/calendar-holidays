@@ -652,10 +652,6 @@
                             "name": "Statute of the Autonomous City of Melilla Day (Melilla)"
                         },
                         {
-                            "date": "2020-04-14",
-                            "name": "D\u00eda del Bando de la Huerta (Murcia)"
-                        },
-                        {
                             "date": "2020-04-23",
                             "name": "Santa Faz (Alicante)"
                         },
@@ -772,12 +768,16 @@
                             "name": "Feast of Our Lady of the Rosary (regional holiday)"
                         },
                         {
-                            "date": "2020-06-11",
-                            "name": "Corpus Christi (regional holiday)"
-                        },
-                        {
                             "date": "2020-12-26",
                             "name": "Day of the Banner (Almer\u00eda)"
+                        },
+                        {
+                            "date": "2020-11-01",
+                            "name": "All Saints' Day (regional holiday)"
+                        },
+                        {
+                            "date": "2020-11-02",
+                            "name": "All Saint's Day Holiday (regional holiday)"
                         }
                     ]
                 },

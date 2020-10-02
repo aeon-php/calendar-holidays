@@ -153,6 +153,10 @@
                             "name": "Columbus Day"
                         },
                         {
+                            "date": "2019-11-29",
+                            "name": "Native American Heritage Day"
+                        },
+                        {
                             "date": "2019-12-24",
                             "name": "Christmas Eve"
                         }
@@ -278,8 +282,20 @@
                             "name": "Juneteenth"
                         },
                         {
+                            "date": "2020-09-15",
+                            "name": "First Day of Hispanic Heritage Month"
+                        },
+                        {
                             "date": "2020-10-12",
                             "name": "Columbus Day"
+                        },
+                        {
+                            "date": "2020-10-12",
+                            "name": "Indigenous Peoples' Day"
+                        },
+                        {
+                            "date": "2020-11-27",
+                            "name": "Native American Heritage Day"
                         }
                     ]
                 },
@@ -409,6 +425,10 @@
                         {
                             "date": "2021-10-11",
                             "name": "Columbus Day"
+                        },
+                        {
+                            "date": "2021-11-26",
+                            "name": "Native American Heritage Day"
                         }
                     ]
                 }

@@ -183,6 +183,10 @@
                         {
                             "date": "2019-12-28",
                             "name": "Hanukkah (Day 6) \/ Rosh Chodesh Tevet"
+                        },
+                        {
+                            "date": "2019-10-01",
+                            "name": "Rosh Hashana (Day 2)"
                         }
                     ]
                 },
@@ -352,6 +356,10 @@
                         {
                             "date": "2020-03-02",
                             "name": "Election Day"
+                        },
+                        {
+                            "date": "2020-09-20",
+                            "name": "Rosh Hashana (Day 2)"
                         }
                     ]
                 },
@@ -517,6 +525,10 @@
                         {
                             "date": "2021-07-17",
                             "name": "Tisha B'Av Eve"
+                        },
+                        {
+                            "date": "2021-09-08",
+                            "name": "Rosh Hashana (Day 2)"
                         }
                     ]
                 }
