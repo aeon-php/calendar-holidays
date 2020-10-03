@@ -289,6 +289,10 @@
                         {
                             "date": "2019-11-01",
                             "name": "All Saint's Day Holiday (regional holiday)"
+                        },
+                        {
+                            "date": "2019-03-19",
+                            "name": "San Jose (regional holiday)"
                         }
                     ]
                 },
@@ -586,10 +590,6 @@
                         {
                             "date": "2020-02-03",
                             "name": "Day off for Festival of Candles (Palencia)"
-                        },
-                        {
-                            "date": "2020-02-26",
-                            "name": "Ash Wednesday (Pontevedra)"
                         },
                         {
                             "date": "2020-04-13",

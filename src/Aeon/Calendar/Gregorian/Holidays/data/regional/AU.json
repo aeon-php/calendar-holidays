@@ -229,12 +229,12 @@
                             "name": "Queen's Birthday (regional holiday)"
                         },
                         {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday (regional holiday)"
-                        },
-                        {
                             "date": "2019-12-24",
                             "name": "Christmas Eve (regional holiday)"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday (regional holiday)"
                         },
                         {
                             "date": "2019-12-31",
@@ -454,16 +454,16 @@
                             "name": "Easter Sunday (regional holiday)"
                         },
                         {
+                            "date": "2020-10-23",
+                            "name": "Friday before the AFL Grand Final (Victoria)"
+                        },
+                        {
                             "date": "2020-12-24",
                             "name": "Christmas Eve (regional holiday)"
                         },
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve (regional holiday)"
-                        },
-                        {
-                            "date": "2020-10-23",
-                            "name": "Friday before the AFL Grand Final (Victoria)"
                         }
                     ]
                 },

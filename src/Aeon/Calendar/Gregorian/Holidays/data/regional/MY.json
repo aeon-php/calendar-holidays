@@ -407,10 +407,6 @@
                             "name": "New Year's Day (regional holiday)"
                         },
                         {
-                            "date": "2020-01-26",
-                            "name": "Second day of Chinese Lunar New Year (regional holiday)"
-                        },
-                        {
                             "date": "2020-02-08",
                             "name": "Thaipusam (regional holiday)"
                         },
@@ -461,6 +457,10 @@
                         {
                             "date": "2020-07-30",
                             "name": "Day of Arafat (Terengganu)"
+                        },
+                        {
+                            "date": "2020-01-26",
+                            "name": "Second day of Chinese Lunar New Year (regional holiday)"
                         }
                     ]
                 },

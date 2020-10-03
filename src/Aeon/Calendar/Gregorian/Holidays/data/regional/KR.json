@@ -41,10 +41,6 @@
                             "name": "Arbor Day"
                         },
                         {
-                            "date": "2019-05-05",
-                            "name": "Children's Day"
-                        },
-                        {
                             "date": "2019-05-06",
                             "name": "Children's Day observed"
                         },
@@ -107,6 +103,10 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
+                        },
+                        {
+                            "date": "2019-05-05",
+                            "name": "Children's Day"
                         }
                     ]
                 },

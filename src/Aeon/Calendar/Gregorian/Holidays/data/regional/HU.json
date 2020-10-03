@@ -243,12 +243,12 @@
                             "name": "Easter Sunday"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2021-12-26",
                             "name": "Second Day of Christmas"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

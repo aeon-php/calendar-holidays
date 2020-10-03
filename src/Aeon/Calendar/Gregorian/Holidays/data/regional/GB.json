@@ -206,12 +206,12 @@
                             "name": "St Andrew's Day (Scotland)"
                         },
                         {
-                            "date": "2020-04-13",
-                            "name": "Easter Monday (regional holiday)"
-                        },
-                        {
                             "date": "2020-05-08",
                             "name": "Early May Bank Holiday \/ VE Day"
+                        },
+                        {
+                            "date": "2020-04-13",
+                            "name": "Easter Monday (regional holiday)"
                         }
                     ]
                 },

@@ -170,10 +170,6 @@
                             "name": "Assumption of Mary (regional holiday)"
                         },
                         {
-                            "date": "2019-06-09",
-                            "name": "Whit Sunday (regional holiday)"
-                        },
-                        {
                             "date": "2019-09-20",
                             "name": "German World Children's Day (Thuringia)"
                         },
@@ -184,6 +180,10 @@
                         {
                             "date": "2019-04-21",
                             "name": "Easter Sunday (regional holiday)"
+                        },
+                        {
+                            "date": "2019-06-09",
+                            "name": "Whit Sunday (regional holiday)"
                         }
                     ]
                 },
@@ -339,14 +339,6 @@
                             "name": "Assumption of Mary (regional holiday)"
                         },
                         {
-                            "date": "2020-05-08",
-                            "name": "Anniversary of the End of World War II (Berlin)"
-                        },
-                        {
-                            "date": "2020-05-31",
-                            "name": "Whit Sunday (regional holiday)"
-                        },
-                        {
                             "date": "2020-09-20",
                             "name": "German World Children's Day (Thuringia)"
                         },
@@ -357,6 +349,14 @@
                         {
                             "date": "2020-04-12",
                             "name": "Easter Sunday (regional holiday)"
+                        },
+                        {
+                            "date": "2020-05-08",
+                            "name": "Anniversary of the End of World War II (Berlin)"
+                        },
+                        {
+                            "date": "2020-05-31",
+                            "name": "Whit Sunday (regional holiday)"
                         }
                     ]
                 },
@@ -512,10 +512,6 @@
                             "name": "Anniversary of the End of World War II"
                         },
                         {
-                            "date": "2021-03-08",
-                            "name": "International Women's Day (regional holiday)"
-                        },
-                        {
                             "date": "2021-05-23",
                             "name": "Whit Sunday (regional holiday)"
                         },
@@ -530,6 +526,10 @@
                         {
                             "date": "2021-09-20",
                             "name": "German World Children's Day (Thuringia)"
+                        },
+                        {
+                            "date": "2021-03-08",
+                            "name": "International Women's Day (regional holiday)"
                         }
                     ]
                 }
