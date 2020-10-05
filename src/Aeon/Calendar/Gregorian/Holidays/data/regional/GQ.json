@@ -33,6 +33,10 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2019-06-05",
+                            "name": "President's Day"
+                        },
+                        {
                             "date": "2019-06-20",
                             "name": "Corpus Christi"
                         },
@@ -71,10 +75,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "President's Day"
                         }
                     ]
                 },
@@ -96,6 +96,10 @@
                         {
                             "date": "2020-05-01",
                             "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2020-06-05",
+                            "name": "President's Day"
                         },
                         {
                             "date": "2020-06-11",
@@ -132,10 +136,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-06-05",
-                            "name": "President's Day"
                         }
                     ]
                 },
@@ -161,6 +161,10 @@
                         {
                             "date": "2021-06-03",
                             "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2021-06-05",
+                            "name": "President's Day"
                         },
                         {
                             "date": "2021-08-03",
@@ -197,10 +201,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-06-05",
-                            "name": "President's Day"
                         }
                     ]
                 }

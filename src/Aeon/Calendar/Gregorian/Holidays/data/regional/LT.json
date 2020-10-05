@@ -25,8 +25,16 @@
                             "name": "Valentine's Day"
                         },
                         {
+                            "date": "2019-02-16",
+                            "name": "Independence Restoration Day"
+                        },
+                        {
                             "date": "2019-03-05",
                             "name": "Carnival"
+                        },
+                        {
+                            "date": "2019-03-11",
+                            "name": "Independence Day\/National Day"
                         },
                         {
                             "date": "2019-03-31",
@@ -85,6 +93,10 @@
                             "name": "All Saints' Day"
                         },
                         {
+                            "date": "2019-11-02",
+                            "name": "All Souls'Day"
+                        },
+                        {
                             "date": "2019-12-24",
                             "name": "Christmas Eve"
                         },
@@ -99,18 +111,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-02-16",
-                            "name": "Independence Restoration Day"
-                        },
-                        {
-                            "date": "2019-03-11",
-                            "name": "Independence Day\/National Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls'Day"
                         }
                     ]
                 },
@@ -126,8 +126,16 @@
                             "name": "Valentine's Day"
                         },
                         {
+                            "date": "2020-02-16",
+                            "name": "Independence Restoration Day"
+                        },
+                        {
                             "date": "2020-02-25",
                             "name": "Carnival"
+                        },
+                        {
+                            "date": "2020-03-11",
+                            "name": "Independence Day\/National Day"
                         },
                         {
                             "date": "2020-03-29",
@@ -186,6 +194,10 @@
                             "name": "All Saints' Day"
                         },
                         {
+                            "date": "2020-11-02",
+                            "name": "All Souls'Day"
+                        },
+                        {
                             "date": "2020-12-24",
                             "name": "Christmas Eve"
                         },
@@ -200,18 +212,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-02-16",
-                            "name": "Independence Restoration Day"
-                        },
-                        {
-                            "date": "2020-03-11",
-                            "name": "Independence Day\/National Day"
-                        },
-                        {
-                            "date": "2020-11-02",
-                            "name": "All Souls'Day"
                         }
                     ]
                 },
@@ -228,7 +228,15 @@
                         },
                         {
                             "date": "2021-02-16",
+                            "name": "Independence Restoration Day"
+                        },
+                        {
+                            "date": "2021-02-16",
                             "name": "Carnival"
+                        },
+                        {
+                            "date": "2021-03-11",
+                            "name": "Independence Day\/National Day"
                         },
                         {
                             "date": "2021-03-28",
@@ -287,6 +295,10 @@
                             "name": "All Saints' Day"
                         },
                         {
+                            "date": "2021-11-02",
+                            "name": "All Souls'Day"
+                        },
+                        {
                             "date": "2021-12-24",
                             "name": "Christmas Eve"
                         },
@@ -301,18 +313,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-02-16",
-                            "name": "Independence Restoration Day"
-                        },
-                        {
-                            "date": "2021-03-11",
-                            "name": "Independence Day\/National Day"
-                        },
-                        {
-                            "date": "2021-11-02",
-                            "name": "All Souls'Day"
                         }
                     ]
                 }

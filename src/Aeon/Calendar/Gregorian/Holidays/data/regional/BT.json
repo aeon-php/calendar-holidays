@@ -25,6 +25,26 @@
                             "name": "Traditional Day of Offerings"
                         },
                         {
+                            "date": "2019-02-05",
+                            "name": "Losar (New Year)"
+                        },
+                        {
+                            "date": "2019-02-06",
+                            "name": "Losar Holiday"
+                        },
+                        {
+                            "date": "2019-02-21",
+                            "name": "King's Birthday"
+                        },
+                        {
+                            "date": "2019-02-22",
+                            "name": "King's Birthday Holiday"
+                        },
+                        {
+                            "date": "2019-02-23",
+                            "name": "King's Birthday Holiday"
+                        },
+                        {
                             "date": "2019-04-14",
                             "name": "Death Anniversary of Zhabdrung (Zhabdrung Kuchoe)"
                         },
@@ -67,26 +87,6 @@
                         {
                             "date": "2019-12-17",
                             "name": "National Day"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Losar (New Year)"
-                        },
-                        {
-                            "date": "2019-02-06",
-                            "name": "Losar Holiday"
-                        },
-                        {
-                            "date": "2019-02-21",
-                            "name": "King's Birthday"
-                        },
-                        {
-                            "date": "2019-02-22",
-                            "name": "King's Birthday Holiday"
-                        },
-                        {
-                            "date": "2019-02-23",
-                            "name": "King's Birthday Holiday"
                         }
                     ]
                 },
@@ -102,12 +102,32 @@
                             "name": "Traditional Day of Offerings"
                         },
                         {
-                            "date": "2020-05-02",
-                            "name": "Birth Anniversary of Third Druk Gyalpo"
+                            "date": "2020-01-25",
+                            "name": "Losar (New Year)"
+                        },
+                        {
+                            "date": "2020-01-26",
+                            "name": "Losar Holiday"
+                        },
+                        {
+                            "date": "2020-02-21",
+                            "name": "King's Birthday"
+                        },
+                        {
+                            "date": "2020-02-22",
+                            "name": "King's Birthday Holiday"
+                        },
+                        {
+                            "date": "2020-02-23",
+                            "name": "King's Birthday Holiday"
                         },
                         {
                             "date": "2020-05-02",
                             "name": "Death Anniversary of Zhabdrung (Zhabdrung Kuchoe)"
+                        },
+                        {
+                            "date": "2020-05-02",
+                            "name": "Birth Anniversary of Third Druk Gyalpo"
                         },
                         {
                             "date": "2020-06-05",
@@ -144,26 +164,6 @@
                         {
                             "date": "2020-12-17",
                             "name": "National Day"
-                        },
-                        {
-                            "date": "2020-01-25",
-                            "name": "Losar (New Year)"
-                        },
-                        {
-                            "date": "2020-01-26",
-                            "name": "Losar Holiday"
-                        },
-                        {
-                            "date": "2020-02-21",
-                            "name": "King's Birthday"
-                        },
-                        {
-                            "date": "2020-02-22",
-                            "name": "King's Birthday Holiday"
-                        },
-                        {
-                            "date": "2020-02-23",
-                            "name": "King's Birthday Holiday"
                         }
                     ]
                 },

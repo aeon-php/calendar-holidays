@@ -25,8 +25,16 @@
                             "name": "Al Isra' wal Miraj"
                         },
                         {
+                            "date": "2019-04-14",
+                            "name": "Palm Sunday"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-04-22",
@@ -35,6 +43,10 @@
                         {
                             "date": "2019-04-28",
                             "name": "Orthodox Easter Day"
+                        },
+                        {
+                            "date": "2019-04-29",
+                            "name": "Orthodox Easter Monday"
                         },
                         {
                             "date": "2019-05-01",
@@ -47,30 +59,6 @@
                         {
                             "date": "2019-05-25",
                             "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-04-14",
-                            "name": "Palm Sunday"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-29",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2019-06-09",
-                            "name": "20th Anniversary of King Abdullah\u2019s Coronation"
                         },
                         {
                             "date": "2019-06-04",
@@ -87,6 +75,10 @@
                         {
                             "date": "2019-06-07",
                             "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2019-06-09",
+                            "name": "20th Anniversary of King Abdullah\u2019s Coronation"
                         },
                         {
                             "date": "2019-08-10",
@@ -115,6 +107,14 @@
                         {
                             "date": "2019-11-09",
                             "name": "Prophet's Birthday"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2019-12-26",
+                            "name": "Boxing Day"
                         }
                     ]
                 },
@@ -128,90 +128,6 @@
                         {
                             "date": "2020-03-21",
                             "name": "Al Isra' wal Miraj"
-                        },
-                        {
-                            "date": "2020-04-10",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2020-04-13",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2020-04-19",
-                            "name": "Orthodox Easter Day"
-                        },
-                        {
-                            "date": "2020-04-24",
-                            "name": "Ramadan begins"
-                        },
-                        {
-                            "date": "2020-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2020-05-27",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-08-20",
-                            "name": "Muharram\/New Year"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-08-03",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2020-04-05",
-                            "name": "Palm Sunday"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2020-08-02",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2020-12-26",
-                            "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-04-20",
-                            "name": "Orthodox Easter Monday"
                         },
                         {
                             "date": "2020-04-01",
@@ -228,6 +144,10 @@
                         {
                             "date": "2020-04-04",
                             "name": "Public Holiday"
+                        },
+                        {
+                            "date": "2020-04-05",
+                            "name": "Palm Sunday"
                         },
                         {
                             "date": "2020-04-05",
@@ -254,6 +174,10 @@
                             "name": "Public Holiday"
                         },
                         {
+                            "date": "2020-04-10",
+                            "name": "Good Friday"
+                        },
+                        {
                             "date": "2020-04-11",
                             "name": "Public Holiday"
                         },
@@ -262,8 +186,16 @@
                             "name": "Public Holiday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Public Holiday"
+                        },
+                        {
+                            "date": "2020-04-13",
+                            "name": "Easter Monday"
                         },
                         {
                             "date": "2020-04-14",
@@ -290,6 +222,14 @@
                             "name": "Public Holiday"
                         },
                         {
+                            "date": "2020-04-19",
+                            "name": "Orthodox Easter Day"
+                        },
+                        {
+                            "date": "2020-04-20",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
                             "date": "2020-04-20",
                             "name": "Public Holiday"
                         },
@@ -304,6 +244,10 @@
                         {
                             "date": "2020-04-23",
                             "name": "Public Holiday"
+                        },
+                        {
+                            "date": "2020-04-24",
+                            "name": "Ramadan begins"
                         },
                         {
                             "date": "2020-04-24",
@@ -332,6 +276,10 @@
                         {
                             "date": "2020-04-30",
                             "name": "Public Holiday"
+                        },
+                        {
+                            "date": "2020-05-01",
+                            "name": "Labour Day"
                         },
                         {
                             "date": "2020-05-01",
@@ -430,8 +378,60 @@
                             "name": "Public Holiday"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2020-05-27",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
                             "date": "2020-07-30",
                             "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2020-08-02",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2020-08-03",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2020-08-20",
+                            "name": "Muharram\/New Year"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2020-12-26",
+                            "name": "Boxing Day"
                         }
                     ]
                 },
@@ -447,8 +447,16 @@
                             "name": "Al Isra' wal Miraj"
                         },
                         {
+                            "date": "2021-03-28",
+                            "name": "Palm Sunday"
+                        },
+                        {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -465,6 +473,10 @@
                         {
                             "date": "2021-05-02",
                             "name": "Orthodox Easter Day"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Orthodox Easter Monday"
                         },
                         {
                             "date": "2021-05-13",
@@ -491,6 +503,22 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2021-07-22",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2021-07-23",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2021-07-24",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
                             "date": "2021-08-10",
                             "name": "Muharram\/New Year"
                         },
@@ -503,36 +531,8 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2021-03-28",
-                            "name": "Palm Sunday"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2021-07-22",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-07-23",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-05-03",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2021-07-24",
-                            "name": "Eid al-Adha holiday"
                         }
                     ]
                 }

@@ -37,8 +37,20 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid ul Fitr"
+                        },
+                        {
                             "date": "2019-07-01",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-08-12",
+                            "name": "Day off for Eid al-Adha"
                         },
                         {
                             "date": "2019-08-15",
@@ -59,18 +71,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid ul Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Day off for Eid al-Adha"
                         }
                     ]
                 },
@@ -96,6 +96,10 @@
                         {
                             "date": "2020-05-21",
                             "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2020-05-24",
+                            "name": "Eid ul Fitr"
                         },
                         {
                             "date": "2020-07-01",
@@ -128,10 +132,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eid ul Fitr"
                         }
                     ]
                 },
@@ -157,6 +157,10 @@
                         {
                             "date": "2021-05-13",
                             "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2021-05-13",
+                            "name": "Eid ul Fitr"
                         },
                         {
                             "date": "2021-07-01",
@@ -185,10 +189,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Eid ul Fitr"
                         }
                     ]
                 }

@@ -17,6 +17,10 @@
                     "year": 2019,
                     "holidays": [
                         {
+                            "date": "2019-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
                             "date": "2019-04-03",
                             "name": "Mi'raj"
                         },
@@ -27,6 +31,10 @@
                         {
                             "date": "2019-05-01",
                             "name": "Labour Day"
+                        },
+                        {
+                            "date": "2019-05-08",
+                            "name": "Victory Day"
                         },
                         {
                             "date": "2019-05-30",
@@ -41,46 +49,42 @@
                             "name": "Whit Monday"
                         },
                         {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-05-08",
-                            "name": "Victory Day"
-                        },
-                        {
                             "date": "2019-07-14",
                             "name": "French National Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
                         },
                         {
                             "date": "2019-11-01",
                             "name": "All Saints' Day"
                         },
                         {
+                            "date": "2019-11-10",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
                             "date": "2019-11-11",
                             "name": "Armistice Day"
                         },
                         {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
                 {
                     "year": 2020,
                     "holidays": [
+                        {
+                            "date": "2020-01-01",
+                            "name": "New Year's Day"
+                        },
                         {
                             "date": "2020-03-22",
                             "name": "Mi'raj"
@@ -92,6 +96,10 @@
                         {
                             "date": "2020-05-01",
                             "name": "Labour Day"
+                        },
+                        {
+                            "date": "2020-05-08",
+                            "name": "Victory Day"
                         },
                         {
                             "date": "2020-05-21",
@@ -106,6 +114,10 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2020-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2020-07-31",
                             "name": "Eid al-Adha"
                         },
@@ -118,34 +130,26 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2020-05-08",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2020-07-14",
-                            "name": "French National Day"
-                        },
-                        {
                             "date": "2020-11-01",
                             "name": "All Saints' Day"
                         },
                         {
                             "date": "2020-11-11",
                             "name": "Armistice Day"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
                 {
                     "year": 2021,
                     "holidays": [
+                        {
+                            "date": "2021-01-01",
+                            "name": "New Year's Day"
+                        },
                         {
                             "date": "2021-03-11",
                             "name": "Mi'raj"
@@ -157,6 +161,10 @@
                         {
                             "date": "2021-05-01",
                             "name": "Labour Day"
+                        },
+                        {
+                            "date": "2021-05-08",
+                            "name": "Victory Day"
                         },
                         {
                             "date": "2021-05-13",
@@ -171,6 +179,10 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2021-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2021-07-20",
                             "name": "Eid al-Adha"
                         },
@@ -183,28 +195,16 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2021-05-08",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2021-07-14",
-                            "name": "French National Day"
-                        },
-                        {
                             "date": "2021-11-01",
                             "name": "All Saints' Day"
                         },
                         {
                             "date": "2021-11-11",
                             "name": "Armistice Day"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

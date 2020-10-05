@@ -33,6 +33,14 @@
                             "name": "ANZAC Day"
                         },
                         {
+                            "date": "2019-06-03",
+                            "name": "Day off for Emancipation Day"
+                        },
+                        {
+                            "date": "2019-06-04",
+                            "name": "Emancipation Day"
+                        },
+                        {
                             "date": "2019-07-04",
                             "name": "Birthday of His Majesty King Tupou VI"
                         },
@@ -41,8 +49,24 @@
                             "name": "Birthday of Crown Prince Tupouto'a-'Ulukalala"
                         },
                         {
+                            "date": "2019-09-19",
+                            "name": "National Day of Mourning"
+                        },
+                        {
                             "date": "2019-11-04",
                             "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2019-11-15",
+                            "name": "Test Match Win Celebration Holiday"
+                        },
+                        {
+                            "date": "2019-12-02",
+                            "name": "Day off for Anniversary of the Coronation of King Tupou I"
+                        },
+                        {
+                            "date": "2019-12-04",
+                            "name": "Anniversary of the Coronation of King Tupou I"
                         },
                         {
                             "date": "2019-12-25",
@@ -51,30 +75,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-09-19",
-                            "name": "National Day of Mourning"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Emancipation Day"
-                        },
-                        {
-                            "date": "2019-11-15",
-                            "name": "Test Match Win Celebration Holiday"
-                        },
-                        {
-                            "date": "2019-12-04",
-                            "name": "Anniversary of the Coronation of King Tupou I"
-                        },
-                        {
-                            "date": "2019-06-03",
-                            "name": "Day off for Emancipation Day"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "Day off for Anniversary of the Coronation of King Tupou I"
                         }
                     ]
                 },
@@ -98,6 +98,14 @@
                             "name": "ANZAC Day"
                         },
                         {
+                            "date": "2020-06-04",
+                            "name": "Emancipation Day"
+                        },
+                        {
+                            "date": "2020-06-08",
+                            "name": "Day off for Emancipation Day"
+                        },
+                        {
                             "date": "2020-07-04",
                             "name": "Birthday of His Majesty King Tupou VI"
                         },
@@ -106,36 +114,28 @@
                             "name": "Birthday of Crown Prince Tupouto'a-'Ulukalala"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-12-26",
-                            "name": "Boxing Day"
+                            "date": "2020-11-02",
+                            "name": "Day off for Constitution Day"
                         },
                         {
                             "date": "2020-11-04",
                             "name": "Constitution Day"
                         },
                         {
-                            "date": "2020-06-04",
-                            "name": "Emancipation Day"
-                        },
-                        {
                             "date": "2020-12-04",
                             "name": "Anniversary of the Coronation of King Tupou I"
                         },
                         {
-                            "date": "2020-06-08",
-                            "name": "Day off for Emancipation Day"
-                        },
-                        {
-                            "date": "2020-11-02",
-                            "name": "Day off for Constitution Day"
-                        },
-                        {
                             "date": "2020-12-07",
                             "name": "Day off for Anniversary of the Coronation of King Tupou I"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2020-12-26",
+                            "name": "Boxing Day"
                         }
                     ]
                 },
@@ -159,12 +159,44 @@
                             "name": "ANZAC Day"
                         },
                         {
+                            "date": "2021-04-26",
+                            "name": "Day off for ANZAC Day"
+                        },
+                        {
+                            "date": "2021-06-04",
+                            "name": "Emancipation Day"
+                        },
+                        {
+                            "date": "2021-06-07",
+                            "name": "Day off for Emancipation Day"
+                        },
+                        {
                             "date": "2021-07-04",
                             "name": "Birthday of His Majesty King Tupou VI"
                         },
                         {
+                            "date": "2021-07-05",
+                            "name": "Day off for Birthday of His Majesty King Tupou VI"
+                        },
+                        {
                             "date": "2021-09-17",
                             "name": "Birthday of Crown Prince Tupouto'a-'Ulukalala"
+                        },
+                        {
+                            "date": "2021-11-04",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2021-11-08",
+                            "name": "Day off for Constitution Day"
+                        },
+                        {
+                            "date": "2021-12-04",
+                            "name": "Anniversary of the Coronation of King Tupou I"
+                        },
+                        {
+                            "date": "2021-12-06",
+                            "name": "Day off for Anniversary of the Coronation of King Tupou I"
                         },
                         {
                             "date": "2021-12-25",
@@ -175,40 +207,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-04-26",
-                            "name": "Day off for ANZAC Day"
-                        },
-                        {
-                            "date": "2021-07-05",
-                            "name": "Day off for Birthday of His Majesty King Tupou VI"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Boxing Day"
-                        },
-                        {
-                            "date": "2021-11-04",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2021-06-04",
-                            "name": "Emancipation Day"
-                        },
-                        {
-                            "date": "2021-12-04",
-                            "name": "Anniversary of the Coronation of King Tupou I"
-                        },
-                        {
-                            "date": "2021-06-07",
-                            "name": "Day off for Emancipation Day"
-                        },
-                        {
-                            "date": "2021-11-08",
-                            "name": "Day off for Constitution Day"
-                        },
-                        {
-                            "date": "2021-12-06",
-                            "name": "Day off for Anniversary of the Coronation of King Tupou I"
                         }
                     ]
                 }

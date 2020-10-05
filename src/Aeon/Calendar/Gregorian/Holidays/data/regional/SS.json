@@ -41,6 +41,14 @@
                             "name": "SPLA Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2019-06-10",
+                            "name": "Father's Day"
+                        },
+                        {
                             "date": "2019-07-01",
                             "name": "Mother's Day"
                         },
@@ -51,6 +59,10 @@
                         {
                             "date": "2019-07-30",
                             "name": "Martyrs Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-11-10",
@@ -67,18 +79,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Father's Day"
                         }
                     ]
                 },
@@ -114,6 +114,10 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2020-06-10",
+                            "name": "Father's Day"
+                        },
+                        {
                             "date": "2020-07-06",
                             "name": "Mother's Day"
                         },
@@ -144,10 +148,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-06-10",
-                            "name": "Father's Day"
                         }
                     ]
                 },
@@ -183,6 +183,10 @@
                             "name": "SPLA Day"
                         },
                         {
+                            "date": "2021-06-10",
+                            "name": "Father's Day"
+                        },
+                        {
                             "date": "2021-07-05",
                             "name": "Mother's Day"
                         },
@@ -213,10 +217,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-06-10",
-                            "name": "Father's Day"
                         }
                     ]
                 }

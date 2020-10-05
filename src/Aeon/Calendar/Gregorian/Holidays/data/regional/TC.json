@@ -33,8 +33,16 @@
                             "name": "Easter Monday"
                         },
                         {
+                            "date": "2019-05-27",
+                            "name": "National Heroes Day"
+                        },
+                        {
                             "date": "2019-06-10",
                             "name": "Queen's Birthday"
+                        },
+                        {
+                            "date": "2019-08-01",
+                            "name": "Emancipation Day"
                         },
                         {
                             "date": "2019-09-27",
@@ -49,6 +57,10 @@
                             "name": "Remembrance Day"
                         },
                         {
+                            "date": "2019-11-29",
+                            "name": "Thanksgiving Day"
+                        },
+                        {
                             "date": "2019-12-10",
                             "name": "International Human Rights Day"
                         },
@@ -59,18 +71,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-08-01",
-                            "name": "Emancipation Day"
-                        },
-                        {
-                            "date": "2019-11-29",
-                            "name": "Thanksgiving Day"
-                        },
-                        {
-                            "date": "2019-05-27",
-                            "name": "National Heroes Day"
                         }
                     ]
                 },
@@ -94,8 +94,20 @@
                             "name": "Easter Monday"
                         },
                         {
+                            "date": "2020-05-25",
+                            "name": "JAGS McCartney Day"
+                        },
+                        {
                             "date": "2020-06-08",
                             "name": "Queen's Birthday"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Emancipation Day"
+                        },
+                        {
+                            "date": "2020-08-03",
+                            "name": "Day off for Emancipation Day"
                         },
                         {
                             "date": "2020-09-25",
@@ -126,20 +138,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2020-08-01",
-                            "name": "Emancipation Day"
-                        },
-                        {
-                            "date": "2020-08-03",
-                            "name": "Day off for Emancipation Day"
-                        },
-                        {
                             "date": "2020-12-28",
                             "name": "Day off for Boxing Day"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "JAGS McCartney Day"
                         }
                     ]
                 },
@@ -163,8 +163,20 @@
                             "name": "Easter Monday"
                         },
                         {
+                            "date": "2021-05-31",
+                            "name": "JAGS McCartney Day"
+                        },
+                        {
                             "date": "2021-06-14",
                             "name": "Queen's Birthday"
+                        },
+                        {
+                            "date": "2021-08-01",
+                            "name": "Emancipation Day"
+                        },
+                        {
+                            "date": "2021-08-02",
+                            "name": "Day off for Emancipation Day"
                         },
                         {
                             "date": "2021-09-24",
@@ -195,24 +207,12 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-08-01",
-                            "name": "Emancipation Day"
-                        },
-                        {
-                            "date": "2021-08-02",
-                            "name": "Day off for Emancipation Day"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Christmas Day"
                         },
                         {
                             "date": "2021-12-28",
                             "name": "Day off for Boxing Day"
-                        },
-                        {
-                            "date": "2021-05-31",
-                            "name": "JAGS McCartney Day"
                         }
                     ]
                 }

@@ -155,10 +155,6 @@
                             "name": "Emancipation Day"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "Festival Day"
-                        },
-                        {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
                         },
@@ -173,6 +169,10 @@
                         {
                             "date": "2021-12-28",
                             "name": "Boxing Day observed"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "Festival Day"
                         }
                     ]
                 }

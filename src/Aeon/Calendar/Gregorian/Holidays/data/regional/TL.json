@@ -33,8 +33,16 @@
                             "name": "Restoration of Independence Day"
                         },
                         {
+                            "date": "2019-06-06",
+                            "name": "Eid ul Fitr"
+                        },
+                        {
                             "date": "2019-06-20",
                             "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid ul Adha"
                         },
                         {
                             "date": "2019-08-30",
@@ -67,14 +75,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Eid ul Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid ul Adha"
                         }
                     ]
                 },
@@ -84,6 +84,14 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-03-17",
+                            "name": "Tolerance Day"
+                        },
+                        {
+                            "date": "2020-03-18",
+                            "name": "Tolerance Day"
                         },
                         {
                             "date": "2020-04-10",
@@ -140,14 +148,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-03-17",
-                            "name": "Tolerance Day"
-                        },
-                        {
-                            "date": "2020-03-18",
-                            "name": "Tolerance Day"
                         }
                     ]
                 },

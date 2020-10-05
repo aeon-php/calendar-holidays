@@ -27,6 +27,18 @@
                             "name": "Constitution Day"
                         },
                         {
+                            "date": "2019-02-05",
+                            "name": "Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2019-02-06",
+                            "name": "Second Day of Lunar New Year"
+                        },
+                        {
+                            "date": "2019-02-07",
+                            "name": "Third Day of Lunar New Year"
+                        },
+                        {
                             "date": "2019-02-14",
                             "name": "Valentine's Day"
                         },
@@ -53,6 +65,10 @@
                         {
                             "date": "2019-05-15",
                             "name": "Family Day"
+                        },
+                        {
+                            "date": "2019-06-01",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2019-07-10",
@@ -99,32 +115,16 @@
                             "name": "Republic's Day"
                         },
                         {
+                            "date": "2019-11-27",
+                            "name": "Genghis Khan Day"
+                        },
+                        {
                             "date": "2019-12-10",
                             "name": "Human Rights Day"
                         },
                         {
                             "date": "2019-12-29",
                             "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Lunar New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-06",
-                            "name": "Second Day of Lunar New Year"
-                        },
-                        {
-                            "date": "2019-02-07",
-                            "name": "Third Day of Lunar New Year"
-                        },
-                        {
-                            "date": "2019-06-01",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-11-27",
-                            "name": "Genghis Khan Day"
                         }
                     ]
                 },
@@ -138,6 +138,18 @@
                         {
                             "date": "2020-01-13",
                             "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2020-01-25",
+                            "name": "Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2020-01-26",
+                            "name": "Second Day of Lunar New Year"
+                        },
+                        {
+                            "date": "2020-01-27",
+                            "name": "Third Day of Lunar New Year"
                         },
                         {
                             "date": "2020-02-14",
@@ -166,6 +178,10 @@
                         {
                             "date": "2020-05-15",
                             "name": "Family Day"
+                        },
+                        {
+                            "date": "2020-06-01",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2020-07-10",
@@ -204,8 +220,16 @@
                             "name": "Elders' Day"
                         },
                         {
+                            "date": "2020-10-15",
+                            "name": "Election Day"
+                        },
+                        {
                             "date": "2020-10-29",
                             "name": "Capital City Day"
+                        },
+                        {
+                            "date": "2020-11-16",
+                            "name": "Genghis Khan Day"
                         },
                         {
                             "date": "2020-11-26",
@@ -218,30 +242,6 @@
                         {
                             "date": "2020-12-29",
                             "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-01-25",
-                            "name": "Lunar New Year's Day"
-                        },
-                        {
-                            "date": "2020-01-26",
-                            "name": "Second Day of Lunar New Year"
-                        },
-                        {
-                            "date": "2020-01-27",
-                            "name": "Third Day of Lunar New Year"
-                        },
-                        {
-                            "date": "2020-06-01",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2020-11-16",
-                            "name": "Genghis Khan Day"
-                        },
-                        {
-                            "date": "2020-10-15",
-                            "name": "Election Day"
                         }
                     ]
                 },
@@ -257,8 +257,20 @@
                             "name": "Constitution Day"
                         },
                         {
+                            "date": "2021-02-12",
+                            "name": "Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2021-02-13",
+                            "name": "Second Day of Lunar New Year"
+                        },
+                        {
                             "date": "2021-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2021-02-14",
+                            "name": "Third Day of Lunar New Year"
                         },
                         {
                             "date": "2021-03-01",
@@ -283,6 +295,10 @@
                         {
                             "date": "2021-05-15",
                             "name": "Family Day"
+                        },
+                        {
+                            "date": "2021-06-01",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2021-07-10",
@@ -325,6 +341,10 @@
                             "name": "Capital City Day"
                         },
                         {
+                            "date": "2021-11-05",
+                            "name": "Genghis Khan Day"
+                        },
+                        {
                             "date": "2021-11-26",
                             "name": "Republic's Day"
                         },
@@ -335,26 +355,6 @@
                         {
                             "date": "2021-12-29",
                             "name": "Independence Day"
-                        },
-                        {
-                            "date": "2021-02-12",
-                            "name": "Lunar New Year's Day"
-                        },
-                        {
-                            "date": "2021-02-13",
-                            "name": "Second Day of Lunar New Year"
-                        },
-                        {
-                            "date": "2021-02-14",
-                            "name": "Third Day of Lunar New Year"
-                        },
-                        {
-                            "date": "2021-06-01",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2021-11-05",
-                            "name": "Genghis Khan Day"
                         }
                     ]
                 }

@@ -21,28 +21,12 @@
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2019-04-28",
-                            "name": "Turkmen Racing Horse Festival"
-                        },
-                        {
-                            "date": "2019-05-26",
-                            "name": "Carpet Day"
-                        },
-                        {
-                            "date": "2019-10-06",
-                            "name": "Day of Commemoration and National Mourning"
-                        },
-                        {
-                            "date": "2019-12-12",
-                            "name": "Day of Neutrality"
-                        },
-                        {
                             "date": "2019-03-08",
                             "name": "International Women's Day"
                         },
                         {
-                            "date": "2019-05-18",
-                            "name": "Constitution Day"
+                            "date": "2019-03-21",
+                            "name": "Nowruz Bayram (Spring Festival)"
                         },
                         {
                             "date": "2019-03-22",
@@ -53,32 +37,28 @@
                             "name": "World Health Day"
                         },
                         {
+                            "date": "2019-04-28",
+                            "name": "Turkmen Racing Horse Festival"
+                        },
+                        {
                             "date": "2019-05-09",
                             "name": "Victory Day"
                         },
                         {
-                            "date": "2019-06-27",
-                            "name": "Day of Turkmen Workers of Culture and Art"
+                            "date": "2019-05-18",
+                            "name": "Constitution Day"
                         },
                         {
-                            "date": "2019-09-14",
-                            "name": "Day of the Workers in the Energy Sector"
-                        },
-                        {
-                            "date": "2019-09-27",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "Harvest Festival"
-                        },
-                        {
-                            "date": "2019-03-21",
-                            "name": "Nowruz Bayram (Spring Festival)"
+                            "date": "2019-05-26",
+                            "name": "Carpet Day"
                         },
                         {
                             "date": "2019-06-04",
                             "name": "Oraza Bayram"
+                        },
+                        {
+                            "date": "2019-06-27",
+                            "name": "Day of Turkmen Workers of Culture and Art"
                         },
                         {
                             "date": "2019-08-11",
@@ -91,6 +71,26 @@
                         {
                             "date": "2019-08-13",
                             "name": "Kurban Bayramy Holiday"
+                        },
+                        {
+                            "date": "2019-09-14",
+                            "name": "Day of the Workers in the Energy Sector"
+                        },
+                        {
+                            "date": "2019-09-27",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-10-06",
+                            "name": "Day of Commemoration and National Mourning"
+                        },
+                        {
+                            "date": "2019-11-10",
+                            "name": "Harvest Festival"
+                        },
+                        {
+                            "date": "2019-12-12",
+                            "name": "Day of Neutrality"
                         }
                     ]
                 },
@@ -102,32 +102,8 @@
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2020-04-26",
-                            "name": "Turkmen Racing Horse Festival"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Carpet Day"
-                        },
-                        {
-                            "date": "2020-10-06",
-                            "name": "Day of Commemoration and National Mourning"
-                        },
-                        {
-                            "date": "2020-12-12",
-                            "name": "Day of Neutrality"
-                        },
-                        {
                             "date": "2020-03-08",
                             "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2020-05-18",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Kurban Bayramy"
                         },
                         {
                             "date": "2020-03-21",
@@ -138,28 +114,24 @@
                             "name": "Nowruz Bayram (Spring Festival)"
                         },
                         {
-                            "date": "2020-05-09",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2020-06-27",
-                            "name": "Day of Turkmen Workers of Culture and Art"
-                        },
-                        {
-                            "date": "2020-09-12",
-                            "name": "Day of the Workers in the Energy Sector"
-                        },
-                        {
-                            "date": "2020-11-08",
-                            "name": "Harvest Festival"
-                        },
-                        {
                             "date": "2020-04-07",
                             "name": "World Health Day"
                         },
                         {
-                            "date": "2020-09-27",
-                            "name": "Independence Day"
+                            "date": "2020-04-26",
+                            "name": "Turkmen Racing Horse Festival"
+                        },
+                        {
+                            "date": "2020-05-09",
+                            "name": "Victory Day"
+                        },
+                        {
+                            "date": "2020-05-18",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2020-05-24",
+                            "name": "Carpet Day"
                         },
                         {
                             "date": "2020-05-24",
@@ -170,12 +142,40 @@
                             "name": "Day off for Oraza Bayram"
                         },
                         {
+                            "date": "2020-06-27",
+                            "name": "Day of Turkmen Workers of Culture and Art"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Kurban Bayramy"
+                        },
+                        {
                             "date": "2020-08-01",
                             "name": "Kurban Bayramy Holiday"
                         },
                         {
                             "date": "2020-08-02",
                             "name": "Kurban Bayramy Holiday"
+                        },
+                        {
+                            "date": "2020-09-12",
+                            "name": "Day of the Workers in the Energy Sector"
+                        },
+                        {
+                            "date": "2020-09-27",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2020-10-06",
+                            "name": "Day of Commemoration and National Mourning"
+                        },
+                        {
+                            "date": "2020-11-08",
+                            "name": "Harvest Festival"
+                        },
+                        {
+                            "date": "2020-12-12",
+                            "name": "Day of Neutrality"
                         }
                     ]
                 },
@@ -187,36 +187,8 @@
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2021-04-25",
-                            "name": "Turkmen Racing Horse Festival"
-                        },
-                        {
-                            "date": "2021-05-23",
-                            "name": "Carpet Day"
-                        },
-                        {
-                            "date": "2021-10-06",
-                            "name": "Day of Commemoration and National Mourning"
-                        },
-                        {
-                            "date": "2021-12-12",
-                            "name": "Day of Neutrality"
-                        },
-                        {
                             "date": "2021-03-08",
                             "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Oraza Bayram"
-                        },
-                        {
-                            "date": "2021-05-18",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2021-07-20",
-                            "name": "Kurban Bayramy"
                         },
                         {
                             "date": "2021-03-21",
@@ -231,24 +203,52 @@
                             "name": "World Health Day"
                         },
                         {
+                            "date": "2021-04-25",
+                            "name": "Turkmen Racing Horse Festival"
+                        },
+                        {
                             "date": "2021-05-09",
                             "name": "Victory Day"
+                        },
+                        {
+                            "date": "2021-05-13",
+                            "name": "Oraza Bayram"
+                        },
+                        {
+                            "date": "2021-05-18",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2021-05-23",
+                            "name": "Carpet Day"
                         },
                         {
                             "date": "2021-06-27",
                             "name": "Day of Turkmen Workers of Culture and Art"
                         },
                         {
+                            "date": "2021-07-20",
+                            "name": "Kurban Bayramy"
+                        },
+                        {
+                            "date": "2021-09-11",
+                            "name": "Day of the Workers in the Energy Sector"
+                        },
+                        {
                             "date": "2021-09-27",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2021-10-06",
+                            "name": "Day of Commemoration and National Mourning"
                         },
                         {
                             "date": "2021-11-14",
                             "name": "Harvest Festival"
                         },
                         {
-                            "date": "2021-09-11",
-                            "name": "Day of the Workers in the Energy Sector"
+                            "date": "2021-12-12",
+                            "name": "Day of Neutrality"
                         }
                     ]
                 }

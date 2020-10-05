@@ -21,24 +21,12 @@
                             "name": "New Year"
                         },
                         {
-                            "date": "2019-05-01",
-                            "name": "May Day"
-                        },
-                        {
-                            "date": "2019-07-05",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "Anniversary of the Revolution"
-                        },
-                        {
                             "date": "2019-01-12",
                             "name": "Berber New Year"
                         },
                         {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
+                            "date": "2019-05-01",
+                            "name": "May Day"
                         },
                         {
                             "date": "2019-06-04",
@@ -49,6 +37,18 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
+                            "date": "2019-07-05",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-08-12",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
                             "date": "2019-09-01",
                             "name": "Muharram"
                         },
@@ -57,12 +57,12 @@
                             "name": "Day of Achura"
                         },
                         {
-                            "date": "2019-11-09",
-                            "name": "The Prophet's Birthday"
+                            "date": "2019-11-01",
+                            "name": "Anniversary of the Revolution"
                         },
                         {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha Holiday"
+                            "date": "2019-11-09",
+                            "name": "The Prophet's Birthday"
                         }
                     ]
                 },
@@ -74,28 +74,12 @@
                             "name": "New Year"
                         },
                         {
-                            "date": "2020-05-01",
-                            "name": "May Day"
-                        },
-                        {
-                            "date": "2020-07-05",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-08-20",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-11-01",
-                            "name": "Anniversary of the Revolution"
-                        },
-                        {
                             "date": "2020-01-12",
                             "name": "Berber New Year"
+                        },
+                        {
+                            "date": "2020-05-01",
+                            "name": "May Day"
                         },
                         {
                             "date": "2020-05-24",
@@ -106,6 +90,10 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
+                            "date": "2020-07-05",
+                            "name": "Independence Day"
+                        },
+                        {
                             "date": "2020-07-31",
                             "name": "Eid al-Adha"
                         },
@@ -114,8 +102,20 @@
                             "name": "Eid al-Adha Holiday"
                         },
                         {
+                            "date": "2020-08-20",
+                            "name": "Muharram"
+                        },
+                        {
                             "date": "2020-08-29",
                             "name": "Day of Achura"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-11-01",
+                            "name": "Anniversary of the Revolution"
                         }
                     ]
                 },
@@ -127,12 +127,20 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2021-01-12",
+                            "name": "Berber New Year"
+                        },
+                        {
                             "date": "2021-05-01",
                             "name": "May Day"
                         },
                         {
                             "date": "2021-05-13",
                             "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr Holiday"
                         },
                         {
                             "date": "2021-07-05",
@@ -143,8 +151,16 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
                             "date": "2021-08-10",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2021-08-19",
+                            "name": "Day of Achura"
                         },
                         {
                             "date": "2021-10-19",
@@ -153,22 +169,6 @@
                         {
                             "date": "2021-11-01",
                             "name": "Anniversary of the Revolution"
-                        },
-                        {
-                            "date": "2021-01-12",
-                            "name": "Berber New Year"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-08-19",
-                            "name": "Day of Achura"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha Holiday"
                         }
                     ]
                 }

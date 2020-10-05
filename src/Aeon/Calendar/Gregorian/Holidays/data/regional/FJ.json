@@ -49,6 +49,10 @@
                             "name": "Diwali"
                         },
                         {
+                            "date": "2019-11-10",
+                            "name": "Daylight Saving Time starts"
+                        },
+                        {
                             "date": "2019-11-11",
                             "name": "The Prophet's Birthday"
                         },
@@ -59,10 +63,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "Daylight Saving Time starts"
                         }
                     ]
                 },
@@ -72,6 +72,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2020-01-12",
+                            "name": "Daylight Saving Time ends"
                         },
                         {
                             "date": "2020-04-10",
@@ -98,8 +102,16 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
+                            "date": "2020-11-08",
+                            "name": "Daylight Saving Time starts"
+                        },
+                        {
                             "date": "2020-11-14",
                             "name": "Diwali"
+                        },
+                        {
+                            "date": "2020-11-16",
+                            "name": "Day off for Diwali"
                         },
                         {
                             "date": "2020-12-25",
@@ -110,20 +122,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2020-11-16",
-                            "name": "Day off for Diwali"
-                        },
-                        {
                             "date": "2020-12-28",
                             "name": "Day off for Boxing Day"
-                        },
-                        {
-                            "date": "2020-01-12",
-                            "name": "Daylight Saving Time ends"
-                        },
-                        {
-                            "date": "2020-11-08",
-                            "name": "Daylight Saving Time starts"
                         }
                     ]
                 },
@@ -163,20 +163,20 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-12-26",
-                            "name": "Boxing Day"
+                            "date": "2021-11-04",
+                            "name": "Diwali"
                         },
                         {
                             "date": "2021-11-14",
                             "name": "Daylight Saving Time starts"
                         },
                         {
-                            "date": "2021-11-04",
-                            "name": "Diwali"
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2021-12-26",
+                            "name": "Boxing Day"
                         },
                         {
                             "date": "2021-12-27",

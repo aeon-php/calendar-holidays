@@ -41,6 +41,10 @@
                             "name": "Daylight Saving Time starts"
                         },
                         {
+                            "date": "2019-04-13",
+                            "name": "Special working day"
+                        },
+                        {
                             "date": "2019-04-26",
                             "name": "Orthodox Good Friday"
                         },
@@ -61,6 +65,10 @@
                             "name": "Orthodox Easter Monday"
                         },
                         {
+                            "date": "2019-04-30",
+                            "name": "Orthodox Easter Monday holiday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "International Day of Solidarity of Workers"
                         },
@@ -70,15 +78,31 @@
                         },
                         {
                             "date": "2019-05-09",
+                            "name": "Europe Day"
+                        },
+                        {
+                            "date": "2019-05-09",
                             "name": "Victory Day"
+                        },
+                        {
+                            "date": "2019-05-10",
+                            "name": "Victory Day holiday"
                         },
                         {
                             "date": "2019-05-15",
                             "name": "Family Day"
                         },
                         {
+                            "date": "2019-05-18",
+                            "name": "Special Working Day"
+                        },
+                        {
                             "date": "2019-05-26",
                             "name": "Dniester Day"
+                        },
+                        {
+                            "date": "2019-06-01",
+                            "name": "International Children's Day"
                         },
                         {
                             "date": "2019-06-05",
@@ -91,6 +115,14 @@
                         {
                             "date": "2019-07-29",
                             "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2019-08-17",
+                            "name": "Special Working Day"
+                        },
+                        {
+                            "date": "2019-08-26",
+                            "name": "Independence Day holiday"
                         },
                         {
                             "date": "2019-08-27",
@@ -127,38 +159,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-13",
-                            "name": "Special working day"
-                        },
-                        {
-                            "date": "2019-05-09",
-                            "name": "Europe Day"
-                        },
-                        {
-                            "date": "2019-04-30",
-                            "name": "Orthodox Easter Monday holiday"
-                        },
-                        {
-                            "date": "2019-05-10",
-                            "name": "Victory Day holiday"
-                        },
-                        {
-                            "date": "2019-05-18",
-                            "name": "Special Working Day"
-                        },
-                        {
-                            "date": "2019-06-01",
-                            "name": "International Children's Day"
-                        },
-                        {
-                            "date": "2019-08-17",
-                            "name": "Special Working Day"
-                        },
-                        {
-                            "date": "2019-08-26",
-                            "name": "Independence Day holiday"
                         }
                     ]
                 },
@@ -219,6 +219,10 @@
                         },
                         {
                             "date": "2020-05-09",
+                            "name": "Europe Day"
+                        },
+                        {
+                            "date": "2020-05-09",
                             "name": "Victory Day"
                         },
                         {
@@ -228,6 +232,10 @@
                         {
                             "date": "2020-05-24",
                             "name": "Dniester Day"
+                        },
+                        {
+                            "date": "2020-06-01",
+                            "name": "International Children's Day"
                         },
                         {
                             "date": "2020-06-05",
@@ -276,14 +284,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-05-09",
-                            "name": "Europe Day"
-                        },
-                        {
-                            "date": "2020-06-01",
-                            "name": "International Children's Day"
                         }
                     ]
                 },
@@ -340,6 +340,10 @@
                         },
                         {
                             "date": "2021-05-09",
+                            "name": "Europe Day"
+                        },
+                        {
+                            "date": "2021-05-09",
                             "name": "Victory Day"
                         },
                         {
@@ -349,6 +353,10 @@
                         {
                             "date": "2021-05-23",
                             "name": "Dniester Day"
+                        },
+                        {
+                            "date": "2021-06-01",
+                            "name": "International Children's Day"
                         },
                         {
                             "date": "2021-06-05",
@@ -397,14 +405,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-05-09",
-                            "name": "Europe Day"
-                        },
-                        {
-                            "date": "2021-06-01",
-                            "name": "International Children's Day"
                         }
                     ]
                 }

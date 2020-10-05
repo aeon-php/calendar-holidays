@@ -21,6 +21,34 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-02-28",
+                            "name": "Carnaval Non-working Holiday"
+                        },
+                        {
+                            "date": "2019-03-01",
+                            "name": "Carnaval Non-working Holiday"
+                        },
+                        {
+                            "date": "2019-03-04",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2019-03-05",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2019-03-11",
+                            "name": "Power Outage National Holiday"
+                        },
+                        {
+                            "date": "2019-03-12",
+                            "name": "Power Outage National Holiday"
+                        },
+                        {
+                            "date": "2019-03-26",
+                            "name": "Power Outage National Holiday"
+                        },
+                        {
                             "date": "2019-04-14",
                             "name": "Palm Sunday"
                         },
@@ -37,8 +65,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2019-05-30",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2019-06-20",
+                            "name": "Corpus Christi"
                         },
                         {
                             "date": "2019-06-24",
@@ -49,8 +89,40 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2019-07-24",
+                            "name": "Sim\u00f3n Bol\u00edvar's Birthday"
+                        },
+                        {
+                            "date": "2019-08-03",
+                            "name": "Flag's Day"
+                        },
+                        {
+                            "date": "2019-08-04",
+                            "name": "National Guard's Day"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
                             "date": "2019-09-11",
                             "name": "Our Lady of Coromoto"
+                        },
+                        {
+                            "date": "2019-10-12",
+                            "name": "Indigenous Resistance's Day"
+                        },
+                        {
+                            "date": "2019-11-01",
+                            "name": "All Saints Day"
+                        },
+                        {
+                            "date": "2019-11-02",
+                            "name": "All Souls Day"
+                        },
+                        {
+                            "date": "2019-11-04",
+                            "name": "All Saints Day observed"
                         },
                         {
                             "date": "2019-11-27",
@@ -65,80 +137,8 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2019-03-04",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-03-11",
-                            "name": "Power Outage National Holiday"
-                        },
-                        {
-                            "date": "2019-03-12",
-                            "name": "Power Outage National Holiday"
-                        },
-                        {
-                            "date": "2019-03-26",
-                            "name": "Power Outage National Holiday"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints Day"
-                        },
-                        {
-                            "date": "2019-11-04",
-                            "name": "All Saints Day observed"
-                        },
-                        {
-                            "date": "2019-07-24",
-                            "name": "Sim\u00f3n Bol\u00edvar's Birthday"
-                        },
-                        {
-                            "date": "2019-08-04",
-                            "name": "National Guard's Day"
-                        },
-                        {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-02-28",
-                            "name": "Carnaval Non-working Holiday"
-                        },
-                        {
-                            "date": "2019-03-01",
-                            "name": "Carnaval Non-working Holiday"
-                        },
-                        {
-                            "date": "2019-08-03",
-                            "name": "Flag's Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Indigenous Resistance's Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls Day"
                         }
                     ]
                 },
@@ -148,6 +148,14 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-02-24",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2020-02-25",
+                            "name": "Carnival \/ Shrove Tuesday"
                         },
                         {
                             "date": "2020-04-05",
@@ -160,6 +168,10 @@
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-19",
@@ -178,12 +190,32 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-07-24",
+                            "name": "Sim\u00f3n Bol\u00edvar's Birthday"
+                        },
+                        {
+                            "date": "2020-08-03",
+                            "name": "Flag's Day"
+                        },
+                        {
+                            "date": "2020-08-04",
+                            "name": "National Guard's Day"
+                        },
+                        {
                             "date": "2020-09-11",
                             "name": "Our Lady of Coromoto"
                         },
                         {
+                            "date": "2020-10-12",
+                            "name": "Indigenous Resistance's Day"
+                        },
+                        {
                             "date": "2020-11-01",
                             "name": "All Saints Day"
+                        },
+                        {
+                            "date": "2020-11-02",
+                            "name": "All Souls Day"
                         },
                         {
                             "date": "2020-11-27",
@@ -198,40 +230,8 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2020-02-24",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2020-02-25",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-07-24",
-                            "name": "Sim\u00f3n Bol\u00edvar's Birthday"
-                        },
-                        {
-                            "date": "2020-08-03",
-                            "name": "Flag's Day"
-                        },
-                        {
-                            "date": "2020-08-04",
-                            "name": "National Guard's Day"
-                        },
-                        {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-10-12",
-                            "name": "Indigenous Resistance's Day"
-                        },
-                        {
-                            "date": "2020-11-02",
-                            "name": "All Souls Day"
                         }
                     ]
                 },
@@ -241,6 +241,14 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2021-02-16",
+                            "name": "Carnival \/ Shrove Tuesday"
                         },
                         {
                             "date": "2021-03-28",
@@ -253,6 +261,10 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-19",
@@ -271,12 +283,32 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2021-07-24",
+                            "name": "Sim\u00f3n Bol\u00edvar's Birthday"
+                        },
+                        {
+                            "date": "2021-08-03",
+                            "name": "Flag's Day"
+                        },
+                        {
+                            "date": "2021-08-04",
+                            "name": "National Guard's Day"
+                        },
+                        {
                             "date": "2021-09-11",
                             "name": "Our Lady of Coromoto"
                         },
                         {
+                            "date": "2021-10-12",
+                            "name": "Indigenous Resistance's Day"
+                        },
+                        {
                             "date": "2021-11-01",
                             "name": "All Saints Day"
+                        },
+                        {
+                            "date": "2021-11-02",
+                            "name": "All Souls Day"
                         },
                         {
                             "date": "2021-11-27",
@@ -289,38 +321,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2021-02-16",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-08-03",
-                            "name": "Flag's Day"
-                        },
-                        {
-                            "date": "2021-10-12",
-                            "name": "Indigenous Resistance's Day"
-                        },
-                        {
-                            "date": "2021-11-02",
-                            "name": "All Souls Day"
-                        },
-                        {
-                            "date": "2021-07-24",
-                            "name": "Sim\u00f3n Bol\u00edvar's Birthday"
-                        },
-                        {
-                            "date": "2021-08-04",
-                            "name": "National Guard's Day"
                         },
                         {
                             "date": "2021-12-31",

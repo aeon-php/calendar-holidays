@@ -37,28 +37,8 @@
                             "name": "Labour Day"
                         },
                         {
-                            "date": "2019-07-25",
-                            "name": "Republic Day"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Women's and Family Day"
-                        },
-                        {
-                            "date": "2019-10-15",
-                            "name": "Evacuation Day"
-                        },
-                        {
                             "date": "2019-06-04",
                             "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-31",
-                            "name": "Muharram"
                         },
                         {
                             "date": "2019-06-05",
@@ -69,8 +49,28 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
+                            "date": "2019-07-25",
+                            "name": "Republic Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2019-08-12",
                             "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2019-08-13",
+                            "name": "Women's and Family Day"
+                        },
+                        {
+                            "date": "2019-08-31",
+                            "name": "Muharram"
+                        },
+                        {
+                            "date": "2019-10-15",
+                            "name": "Evacuation Day"
                         },
                         {
                             "date": "2019-11-09",
@@ -106,12 +106,24 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
                             "date": "2020-07-25",
                             "name": "Republic Day"
                         },
                         {
                             "date": "2020-07-31",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2020-08-13",
@@ -128,18 +140,6 @@
                         {
                             "date": "2020-10-29",
                             "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha Holiday"
                         }
                     ]
                 },
@@ -171,8 +171,20 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-05-15",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
                             "date": "2021-07-20",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2021-07-25",
@@ -193,18 +205,6 @@
                         {
                             "date": "2021-10-19",
                             "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-05-15",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha Holiday"
                         }
                     ]
                 }

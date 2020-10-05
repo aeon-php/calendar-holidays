@@ -29,6 +29,10 @@
                             "name": "Africa Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid ul Fitr"
+                        },
+                        {
                             "date": "2019-08-12",
                             "name": "Eid ul Adha"
                         },
@@ -43,10 +47,6 @@
                         {
                             "date": "2019-11-28",
                             "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid ul Fitr"
                         }
                     ]
                 },
@@ -62,6 +62,10 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2020-05-23",
+                            "name": "Eid ul Fitr"
+                        },
+                        {
                             "date": "2020-05-25",
                             "name": "Africa Day"
                         },
@@ -70,20 +74,16 @@
                             "name": "Eid ul Adha"
                         },
                         {
+                            "date": "2020-08-21",
+                            "name": "Muharram\/Islamic New Year"
+                        },
+                        {
                             "date": "2020-10-29",
                             "name": "Milad un Nabi (Mawlid)"
                         },
                         {
                             "date": "2020-11-28",
                             "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-08-21",
-                            "name": "Muharram\/Islamic New Year"
-                        },
-                        {
-                            "date": "2020-05-23",
-                            "name": "Eid ul Fitr"
                         }
                     ]
                 },

@@ -25,12 +25,20 @@
                             "name": "Orthodox Christmas Day"
                         },
                         {
+                            "date": "2019-01-19",
+                            "name": "Timket"
+                        },
+                        {
                             "date": "2019-03-08",
                             "name": "Women's Day"
                         },
                         {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-05-01",
@@ -41,8 +49,16 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2019-06-20",
                             "name": "Martyrs' Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-09-01",
@@ -63,22 +79,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-01-19",
-                            "name": "Timket"
                         }
                     ]
                 },
@@ -94,12 +94,20 @@
                             "name": "Orthodox Christmas Day"
                         },
                         {
+                            "date": "2020-01-20",
+                            "name": "Timket"
+                        },
+                        {
                             "date": "2020-03-08",
                             "name": "Women's Day"
                         },
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-05-01",
@@ -140,14 +148,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-01-20",
-                            "name": "Timket"
                         }
                     ]
                 },
@@ -163,12 +163,20 @@
                             "name": "Orthodox Christmas Day"
                         },
                         {
+                            "date": "2021-01-19",
+                            "name": "Timket"
+                        },
+                        {
                             "date": "2021-03-08",
                             "name": "Women's Day"
                         },
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-05-01",
@@ -205,14 +213,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-01-19",
-                            "name": "Timket"
                         }
                     ]
                 }

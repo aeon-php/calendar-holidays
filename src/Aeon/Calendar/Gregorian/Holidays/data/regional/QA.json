@@ -21,12 +21,12 @@
                             "name": "National Sports Day"
                         },
                         {
-                            "date": "2019-12-18",
-                            "name": "National Day"
+                            "date": "2019-06-02",
+                            "name": "Eid al-Fitr Holiday"
                         },
                         {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
+                            "date": "2019-06-03",
+                            "name": "Eid al-Fitr Holiday"
                         },
                         {
                             "date": "2019-06-04",
@@ -41,11 +41,19 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
-                            "date": "2019-06-02",
+                            "date": "2019-06-07",
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
-                            "date": "2019-06-03",
+                            "date": "2019-06-08",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2019-06-09",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2019-06-10",
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
@@ -69,24 +77,16 @@
                             "name": "Eid al-Adha Holiday"
                         },
                         {
+                            "date": "2019-12-18",
+                            "name": "National Day"
+                        },
+                        {
                             "date": "2019-12-19",
                             "name": "National Day Holiday"
                         },
                         {
-                            "date": "2019-06-07",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-06-08",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-06-09",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Eid al-Fitr Holiday"
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -96,38 +96,6 @@
                         {
                             "date": "2020-02-11",
                             "name": "National Sports Day"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha (Feast of Sacrifice)"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-08-02",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-12-18",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
                         },
                         {
                             "date": "2020-05-19",
@@ -150,12 +118,44 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
                             "date": "2020-05-27",
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
                             "date": "2020-05-28",
                             "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha (Feast of Sacrifice)"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-02",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-12-18",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },

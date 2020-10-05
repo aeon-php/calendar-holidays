@@ -41,6 +41,10 @@
                             "name": "Labor Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2019-07-01",
                             "name": "Independence Day"
                         },
@@ -53,20 +57,16 @@
                             "name": "Umuganura Day"
                         },
                         {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
                         }
                     ]
                 },
@@ -106,6 +106,10 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr observed"
+                        },
+                        {
                             "date": "2020-07-01",
                             "name": "Independence Day"
                         },
@@ -122,6 +126,14 @@
                             "name": "Umuganura Day"
                         },
                         {
+                            "date": "2020-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2020-08-17",
+                            "name": "Assumption of Mary observed"
+                        },
+                        {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
                         },
@@ -132,24 +144,16 @@
                         {
                             "date": "2020-12-28",
                             "name": "Boxing Day observed"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2020-08-17",
-                            "name": "Assumption of Mary observed"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr observed"
                         }
                     ]
                 },
                 {
                     "year": 2021,
                     "holidays": [
+                        {
+                            "date": "2021-01-01",
+                            "name": "New Year"
+                        },
                         {
                             "date": "2021-01-02",
                             "name": "Day After New Year's Day"
@@ -199,8 +203,12 @@
                             "name": "Umuganura Day"
                         },
                         {
-                            "date": "2021-01-01",
-                            "name": "New Year"
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2021-08-16",
+                            "name": "Assumption of Mary observed"
                         },
                         {
                             "date": "2021-12-25",
@@ -217,14 +225,6 @@
                         {
                             "date": "2021-12-27",
                             "name": "Boxing Day observed"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2021-08-16",
-                            "name": "Assumption of Mary observed"
                         }
                     ]
                 }

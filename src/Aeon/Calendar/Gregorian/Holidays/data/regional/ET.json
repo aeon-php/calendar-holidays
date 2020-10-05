@@ -21,6 +21,10 @@
                             "name": "Ethiopian Christmas Day"
                         },
                         {
+                            "date": "2019-01-19",
+                            "name": "Epiphany \/ Timkat"
+                        },
+                        {
                             "date": "2019-03-02",
                             "name": "Adwa Victory Day"
                         },
@@ -37,8 +41,20 @@
                             "name": "International Labor Day"
                         },
                         {
+                            "date": "2019-05-05",
+                            "name": "Patriots' Day"
+                        },
+                        {
                             "date": "2019-05-28",
                             "name": "Derg Downfall Day"
+                        },
+                        {
+                            "date": "2019-06-04",
+                            "name": "Eid ul Fitr"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-09-12",
@@ -51,22 +67,6 @@
                         {
                             "date": "2019-11-10",
                             "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-01-19",
-                            "name": "Epiphany \/ Timkat"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid ul Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-05-05",
-                            "name": "Patriots' Day"
                         }
                     ]
                 },
@@ -76,6 +76,10 @@
                         {
                             "date": "2020-01-07",
                             "name": "Ethiopian Christmas Day"
+                        },
+                        {
+                            "date": "2020-01-20",
+                            "name": "Epiphany \/ Timkat"
                         },
                         {
                             "date": "2020-03-02",
@@ -92,6 +96,10 @@
                         {
                             "date": "2020-05-01",
                             "name": "International Labor Day"
+                        },
+                        {
+                            "date": "2020-05-05",
+                            "name": "Patriots' Day"
                         },
                         {
                             "date": "2020-05-24",
@@ -116,14 +124,6 @@
                         {
                             "date": "2020-10-29",
                             "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-01-20",
-                            "name": "Epiphany \/ Timkat"
-                        },
-                        {
-                            "date": "2020-05-05",
-                            "name": "Patriots' Day"
                         }
                     ]
                 },
@@ -133,6 +133,10 @@
                         {
                             "date": "2021-01-07",
                             "name": "Ethiopian Christmas Day"
+                        },
+                        {
+                            "date": "2021-01-19",
+                            "name": "Epiphany \/ Timkat"
                         },
                         {
                             "date": "2021-03-02",
@@ -149,6 +153,10 @@
                         {
                             "date": "2021-05-02",
                             "name": "Ethiopian Easter Sunday"
+                        },
+                        {
+                            "date": "2021-05-05",
+                            "name": "Patriots' Day"
                         },
                         {
                             "date": "2021-05-13",
@@ -169,14 +177,6 @@
                         {
                             "date": "2021-10-19",
                             "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2021-01-19",
-                            "name": "Epiphany \/ Timkat"
-                        },
-                        {
-                            "date": "2021-05-05",
-                            "name": "Patriots' Day"
                         }
                     ]
                 }

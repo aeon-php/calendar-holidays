@@ -89,6 +89,14 @@
                             "name": "Working day for Liberation Day Holiday"
                         },
                         {
+                            "date": "2019-08-31",
+                            "name": "Independence Day Holiday"
+                        },
+                        {
+                            "date": "2019-09-01",
+                            "name": "Independence Day Holiday"
+                        },
+                        {
                             "date": "2019-09-02",
                             "name": "Independence Day"
                         },
@@ -103,14 +111,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "International New Year's Eve"
-                        },
-                        {
-                            "date": "2019-08-31",
-                            "name": "Independence Day Holiday"
-                        },
-                        {
-                            "date": "2019-09-01",
-                            "name": "Independence Day Holiday"
                         }
                     ]
                 },
@@ -120,6 +120,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "International New Year's Day"
+                        },
+                        {
+                            "date": "2020-01-23",
+                            "name": "Tet Holiday"
                         },
                         {
                             "date": "2020-01-24",
@@ -172,10 +176,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "International New Year's Eve"
-                        },
-                        {
-                            "date": "2020-01-23",
-                            "name": "Tet Holiday"
                         }
                     ]
                 },

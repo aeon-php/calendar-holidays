@@ -45,18 +45,6 @@
                             "name": "Lailat al-Qadr"
                         },
                         {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Ashura"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
                             "date": "2019-06-04",
                             "name": "Eid al-Fitr"
                         },
@@ -73,8 +61,20 @@
                             "name": "Day off for Eid al-Adha"
                         },
                         {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2019-09-10",
+                            "name": "Ashura"
+                        },
+                        {
                             "date": "2019-11-09",
                             "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -106,12 +106,20 @@
                             "name": "Lailat al-Qadr"
                         },
                         {
+                            "date": "2020-05-23",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2020-05-25",
                             "name": "Africa Day"
                         },
                         {
                             "date": "2020-07-31",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2020-08-15",
@@ -128,14 +136,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-05-23",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha Holiday"
                         }
                     ]
                 },

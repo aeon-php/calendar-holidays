@@ -21,6 +21,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
                             "date": "2019-01-22",
                             "name": "Plurinational State Foundation Day"
                         },
@@ -29,8 +33,24 @@
                             "name": "Feast of Candelaria"
                         },
                         {
+                            "date": "2019-03-04",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2019-03-05",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
                             "date": "2019-03-19",
                             "name": "Father Day"
+                        },
+                        {
+                            "date": "2019-03-23",
+                            "name": "Day of the Sea"
+                        },
+                        {
+                            "date": "2019-04-12",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2019-04-18",
@@ -53,6 +73,10 @@
                             "name": "Corpus Christi"
                         },
                         {
+                            "date": "2019-06-21",
+                            "name": "Aymara New Year Day"
+                        },
+                        {
                             "date": "2019-08-06",
                             "name": "Independence Day"
                         },
@@ -61,40 +85,16 @@
                             "name": "Flag Day"
                         },
                         {
+                            "date": "2019-10-12",
+                            "name": "Indigenous Resistance's Day"
+                        },
+                        {
                             "date": "2019-11-02",
                             "name": "All Saints Day"
                         },
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-06-21",
-                            "name": "Aymara New Year Day"
-                        },
-                        {
-                            "date": "2019-04-12",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Indigenous Resistance's Day"
-                        },
-                        {
-                            "date": "2019-03-23",
-                            "name": "Day of the Sea"
                         }
                     ]
                 },
@@ -106,6 +106,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2020-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
                             "date": "2020-01-22",
                             "name": "Plurinational State Foundation Day"
                         },
@@ -114,8 +118,20 @@
                             "name": "Feast of Candelaria"
                         },
                         {
+                            "date": "2020-02-24",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2020-02-25",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
                             "date": "2020-03-19",
                             "name": "Father Day"
+                        },
+                        {
+                            "date": "2020-03-23",
+                            "name": "Day of the Sea"
                         },
                         {
                             "date": "2020-04-09",
@@ -124,6 +140,10 @@
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2020-05-01",
@@ -138,6 +158,14 @@
                             "name": "Corpus Christi"
                         },
                         {
+                            "date": "2020-06-21",
+                            "name": "Aymara New Year Day"
+                        },
+                        {
+                            "date": "2020-06-22",
+                            "name": "Day off for Aymara New Year Day"
+                        },
+                        {
                             "date": "2020-08-06",
                             "name": "Independence Day"
                         },
@@ -146,44 +174,16 @@
                             "name": "Flag Day"
                         },
                         {
+                            "date": "2020-10-12",
+                            "name": "Indigenous Resistance's Day"
+                        },
+                        {
                             "date": "2020-11-02",
                             "name": "All Saints Day"
                         },
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2020-02-24",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2020-02-25",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2020-06-21",
-                            "name": "Aymara New Year Day"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2020-10-12",
-                            "name": "Indigenous Resistance's Day"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Day of the Sea"
-                        },
-                        {
-                            "date": "2020-06-22",
-                            "name": "Day off for Aymara New Year Day"
                         }
                     ]
                 },
@@ -195,6 +195,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2021-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
                             "date": "2021-01-22",
                             "name": "Plurinational State Foundation Day"
                         },
@@ -203,8 +207,20 @@
                             "name": "Feast of Candelaria"
                         },
                         {
+                            "date": "2021-02-15",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2021-02-16",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
                             "date": "2021-03-19",
                             "name": "Father Day"
+                        },
+                        {
+                            "date": "2021-03-23",
+                            "name": "Day of the Sea"
                         },
                         {
                             "date": "2021-04-01",
@@ -213,6 +229,10 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-12",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2021-05-01",
@@ -227,6 +247,10 @@
                             "name": "Corpus Christi"
                         },
                         {
+                            "date": "2021-06-21",
+                            "name": "Aymara New Year Day"
+                        },
+                        {
                             "date": "2021-08-06",
                             "name": "Independence Day"
                         },
@@ -235,40 +259,16 @@
                             "name": "Flag Day"
                         },
                         {
+                            "date": "2021-10-12",
+                            "name": "Indigenous Resistance's Day"
+                        },
+                        {
                             "date": "2021-11-02",
                             "name": "All Saints Day"
                         },
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2021-02-16",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2021-06-21",
-                            "name": "Aymara New Year Day"
-                        },
-                        {
-                            "date": "2021-04-12",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2021-10-12",
-                            "name": "Indigenous Resistance's Day"
-                        },
-                        {
-                            "date": "2021-03-23",
-                            "name": "Day of the Sea"
                         }
                     ]
                 }

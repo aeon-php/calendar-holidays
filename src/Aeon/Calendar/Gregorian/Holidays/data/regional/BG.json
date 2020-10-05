@@ -69,6 +69,10 @@
                             "name": "Culture and Literacy Day"
                         },
                         {
+                            "date": "2019-07-01",
+                            "name": "July Morning"
+                        },
+                        {
                             "date": "2019-09-06",
                             "name": "Unification Day"
                         },
@@ -99,10 +103,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Second day of Christmas"
-                        },
-                        {
-                            "date": "2019-07-01",
-                            "name": "July Morning"
                         }
                     ]
                 },
@@ -162,6 +162,10 @@
                             "name": "Culture and Literacy Day observed"
                         },
                         {
+                            "date": "2020-07-01",
+                            "name": "July Morning"
+                        },
+                        {
                             "date": "2020-09-06",
                             "name": "Unification Day"
                         },
@@ -196,10 +200,6 @@
                         {
                             "date": "2020-12-28",
                             "name": "Christmas holiday"
-                        },
-                        {
-                            "date": "2020-07-01",
-                            "name": "July Morning"
                         }
                     ]
                 },
@@ -259,6 +259,10 @@
                             "name": "Culture and Literacy Day"
                         },
                         {
+                            "date": "2021-07-01",
+                            "name": "July Morning"
+                        },
+                        {
                             "date": "2021-09-06",
                             "name": "Unification Day"
                         },
@@ -293,10 +297,6 @@
                         {
                             "date": "2021-12-28",
                             "name": "Christmas holiday"
-                        },
-                        {
-                            "date": "2021-07-01",
-                            "name": "July Morning"
                         }
                     ]
                 }

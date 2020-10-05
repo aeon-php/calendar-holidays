@@ -29,32 +29,16 @@
                             "name": "Eid al-Fitr"
                         },
                         {
-                            "date": "2019-08-10",
-                            "name": "Arafat Day"
-                        },
-                        {
-                            "date": "2019-09-09",
-                            "name": "Ashoora"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Ashoora (second day)"
-                        },
-                        {
-                            "date": "2019-12-16",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-12-17",
-                            "name": "National Day (second day)"
-                        },
-                        {
                             "date": "2019-06-05",
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
                             "date": "2019-06-06",
                             "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2019-08-10",
+                            "name": "Arafat Day"
                         },
                         {
                             "date": "2019-08-11",
@@ -73,6 +57,14 @@
                             "name": "Muharram"
                         },
                         {
+                            "date": "2019-09-09",
+                            "name": "Ashoora"
+                        },
+                        {
+                            "date": "2019-09-10",
+                            "name": "Ashoora (second day)"
+                        },
+                        {
                             "date": "2019-11-09",
                             "name": "The Prophet's Birthday"
                         },
@@ -83,6 +75,14 @@
                         {
                             "date": "2019-12-09",
                             "name": "Gulf Cup Win Holiday"
+                        },
+                        {
+                            "date": "2019-12-16",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2019-12-17",
+                            "name": "National Day (second day)"
                         }
                     ]
                 },
@@ -102,12 +102,36 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
                             "date": "2020-07-30",
                             "name": "Arafat Day"
                         },
                         {
                             "date": "2020-07-31",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-02",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-03",
+                            "name": "Day off for Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-04",
+                            "name": "Day off for Eid al-Adha Holiday"
                         },
                         {
                             "date": "2020-08-20",
@@ -132,30 +156,6 @@
                         {
                             "date": "2020-12-17",
                             "name": "National Day (second day)"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-08-02",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-08-03",
-                            "name": "Day off for Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-08-04",
-                            "name": "Day off for Eid al-Adha Holiday"
                         }
                     ]
                 },
@@ -175,6 +175,14 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-05-15",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
                             "date": "2021-07-19",
                             "name": "Arafat Day"
                         },
@@ -183,8 +191,24 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2021-07-22",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
                             "date": "2021-08-10",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2021-08-19",
+                            "name": "Ashoora"
+                        },
+                        {
+                            "date": "2021-08-20",
+                            "name": "Ashoora (second day)"
                         },
                         {
                             "date": "2021-10-19",
@@ -197,30 +221,6 @@
                         {
                             "date": "2021-12-17",
                             "name": "National Day (second day)"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-05-15",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2021-07-22",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2021-08-19",
-                            "name": "Ashoora"
-                        },
-                        {
-                            "date": "2021-08-20",
-                            "name": "Ashoora (second day)"
                         }
                     ]
                 }

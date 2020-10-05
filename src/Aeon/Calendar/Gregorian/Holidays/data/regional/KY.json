@@ -33,6 +33,10 @@
                             "name": "Ash Wednesday"
                         },
                         {
+                            "date": "2019-03-28",
+                            "name": "Royal Visit Holiday"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
                         },
@@ -73,6 +77,10 @@
                             "name": "Remembrance Day"
                         },
                         {
+                            "date": "2019-12-19",
+                            "name": "Referendum Day"
+                        },
+                        {
                             "date": "2019-12-24",
                             "name": "Christmas Eve"
                         },
@@ -87,14 +95,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-03-28",
-                            "name": "Royal Visit Holiday"
-                        },
-                        {
-                            "date": "2019-12-19",
-                            "name": "Referendum Day"
                         }
                     ]
                 },
@@ -170,12 +170,12 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2020-12-28",
                             "name": "Day off for Boxing Day"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -251,12 +251,12 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Boxing Day"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

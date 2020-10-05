@@ -37,6 +37,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2019-08-05",
+                            "name": "Carnival Holiday"
+                        },
+                        {
+                            "date": "2019-08-06",
+                            "name": "Carnival Holiday"
+                        },
+                        {
                             "date": "2019-11-01",
                             "name": "Independence Day"
                         },
@@ -51,14 +59,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-08-05",
-                            "name": "Carnival Holiday"
-                        },
-                        {
-                            "date": "2019-08-06",
-                            "name": "Carnival Holiday"
                         }
                     ]
                 },
@@ -86,6 +86,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2020-08-03",
+                            "name": "Carnival Holiday"
+                        },
+                        {
+                            "date": "2020-08-04",
+                            "name": "Carnival Holiday"
+                        },
+                        {
                             "date": "2020-11-01",
                             "name": "Independence Day"
                         },
@@ -104,14 +112,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-08-03",
-                            "name": "Carnival Holiday"
-                        },
-                        {
-                            "date": "2020-08-04",
-                            "name": "Carnival Holiday"
                         }
                     ]
                 },
@@ -139,6 +139,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2021-08-02",
+                            "name": "Carnival Holiday"
+                        },
+                        {
+                            "date": "2021-08-03",
+                            "name": "Carnival Holiday"
+                        },
+                        {
                             "date": "2021-11-01",
                             "name": "Independence Day"
                         },
@@ -147,24 +155,16 @@
                             "name": "National Heroes Day"
                         },
                         {
-                            "date": "2021-12-26",
-                            "name": "Boxing Day"
-                        },
-                        {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
                         },
                         {
+                            "date": "2021-12-26",
+                            "name": "Boxing Day"
+                        },
+                        {
                             "date": "2021-12-27",
                             "name": "Christmas Day observed"
-                        },
-                        {
-                            "date": "2021-08-02",
-                            "name": "Carnival Holiday"
-                        },
-                        {
-                            "date": "2021-08-03",
-                            "name": "Carnival Holiday"
                         }
                     ]
                 }

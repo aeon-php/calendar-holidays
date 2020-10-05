@@ -46,8 +46,24 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-01-02",
+                            "name": "New Year Holiday"
+                        },
+                        {
+                            "date": "2019-01-03",
+                            "name": "New Year Holiday"
+                        },
+                        {
+                            "date": "2019-01-04",
+                            "name": "New Year Holiday"
+                        },
+                        {
                             "date": "2019-01-07",
                             "name": "Orthodox Christmas Day"
+                        },
+                        {
+                            "date": "2019-01-08",
+                            "name": "New Year Holiday"
                         },
                         {
                             "date": "2019-02-23",
@@ -88,22 +104,6 @@
                         {
                             "date": "2019-11-04",
                             "name": "Unity Day"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "New Year Holiday"
-                        },
-                        {
-                            "date": "2019-01-03",
-                            "name": "New Year Holiday"
-                        },
-                        {
-                            "date": "2019-01-04",
-                            "name": "New Year Holiday"
-                        },
-                        {
-                            "date": "2019-01-08",
-                            "name": "New Year Holiday"
                         }
                     ]
                 },
@@ -113,54 +113,6 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2020-01-07",
-                            "name": "Orthodox Christmas Day"
-                        },
-                        {
-                            "date": "2020-02-23",
-                            "name": "Defender of the Fatherland Day"
-                        },
-                        {
-                            "date": "2020-03-08",
-                            "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2020-05-01",
-                            "name": "Spring and Labor Day"
-                        },
-                        {
-                            "date": "2020-05-09",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2020-06-12",
-                            "name": "Russia Day"
-                        },
-                        {
-                            "date": "2020-09-01",
-                            "name": "Day of Knowledge"
-                        },
-                        {
-                            "date": "2020-11-04",
-                            "name": "Unity Day"
-                        },
-                        {
-                            "date": "2020-01-08",
-                            "name": "New Year Holiday"
-                        },
-                        {
-                            "date": "2020-02-24",
-                            "name": "Day off for Defender of the Fatherland Day"
-                        },
-                        {
-                            "date": "2020-03-09",
-                            "name": "Day off for International Women's Day"
-                        },
-                        {
-                            "date": "2020-05-11",
-                            "name": "Day off for Victory Day"
                         },
                         {
                             "date": "2020-01-02",
@@ -175,12 +127,28 @@
                             "name": "New Year Holiday"
                         },
                         {
-                            "date": "2020-05-04",
-                            "name": "Public Holiday (Moved from Jan 4)"
+                            "date": "2020-01-07",
+                            "name": "Orthodox Christmas Day"
                         },
                         {
-                            "date": "2020-05-05",
-                            "name": "Public Holiday (Moved from Jan 5)"
+                            "date": "2020-01-08",
+                            "name": "New Year Holiday"
+                        },
+                        {
+                            "date": "2020-02-23",
+                            "name": "Defender of the Fatherland Day"
+                        },
+                        {
+                            "date": "2020-02-24",
+                            "name": "Day off for Defender of the Fatherland Day"
+                        },
+                        {
+                            "date": "2020-03-08",
+                            "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2020-03-09",
+                            "name": "Day off for International Women's Day"
                         },
                         {
                             "date": "2020-03-28",
@@ -319,12 +287,44 @@
                             "name": "Non-Working Day (COVID-19)"
                         },
                         {
+                            "date": "2020-05-01",
+                            "name": "Spring and Labor Day"
+                        },
+                        {
+                            "date": "2020-05-04",
+                            "name": "Public Holiday (Moved from Jan 4)"
+                        },
+                        {
+                            "date": "2020-05-05",
+                            "name": "Public Holiday (Moved from Jan 5)"
+                        },
+                        {
+                            "date": "2020-05-09",
+                            "name": "Victory Day"
+                        },
+                        {
+                            "date": "2020-05-11",
+                            "name": "Day off for Victory Day"
+                        },
+                        {
+                            "date": "2020-06-12",
+                            "name": "Russia Day"
+                        },
+                        {
                             "date": "2020-06-24",
                             "name": "Victory Day 75th Anniversary"
                         },
                         {
                             "date": "2020-07-01",
                             "name": "Constitutional Referendum Holiday"
+                        },
+                        {
+                            "date": "2020-09-01",
+                            "name": "Day of Knowledge"
+                        },
+                        {
+                            "date": "2020-11-04",
+                            "name": "Unity Day"
                         }
                     ]
                 },
@@ -334,38 +334,6 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2021-01-07",
-                            "name": "Orthodox Christmas Day"
-                        },
-                        {
-                            "date": "2021-02-23",
-                            "name": "Defender of the Fatherland Day"
-                        },
-                        {
-                            "date": "2021-03-08",
-                            "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Spring and Labor Day"
-                        },
-                        {
-                            "date": "2021-05-09",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2021-06-12",
-                            "name": "Russia Day"
-                        },
-                        {
-                            "date": "2021-09-01",
-                            "name": "Day of Knowledge"
-                        },
-                        {
-                            "date": "2021-11-04",
-                            "name": "Unity Day"
                         },
                         {
                             "date": "2021-01-04",
@@ -380,20 +348,52 @@
                             "name": "New Year Holiday"
                         },
                         {
+                            "date": "2021-01-07",
+                            "name": "Orthodox Christmas Day"
+                        },
+                        {
+                            "date": "2021-01-08",
+                            "name": "New Year Holiday"
+                        },
+                        {
+                            "date": "2021-02-23",
+                            "name": "Defender of the Fatherland Day"
+                        },
+                        {
+                            "date": "2021-03-08",
+                            "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2021-05-01",
+                            "name": "Spring and Labor Day"
+                        },
+                        {
                             "date": "2021-05-03",
                             "name": "Day off for Spring and Labor Day"
+                        },
+                        {
+                            "date": "2021-05-09",
+                            "name": "Victory Day"
                         },
                         {
                             "date": "2021-05-10",
                             "name": "Day off for Victory Day"
                         },
                         {
+                            "date": "2021-06-12",
+                            "name": "Russia Day"
+                        },
+                        {
                             "date": "2021-06-14",
                             "name": "Day off for Russia Day"
                         },
                         {
-                            "date": "2021-01-08",
-                            "name": "New Year Holiday"
+                            "date": "2021-09-01",
+                            "name": "Day of Knowledge"
+                        },
+                        {
+                            "date": "2021-11-04",
+                            "name": "Unity Day"
                         }
                     ]
                 }

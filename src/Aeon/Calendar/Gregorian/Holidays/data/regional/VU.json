@@ -106,40 +106,12 @@
                             "name": "Ascension Day"
                         },
                         {
-                            "date": "2020-07-24",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2020-07-30",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2020-10-05",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2020-11-29",
-                            "name": "Unity Day"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-12-26",
-                            "name": "Family Day"
-                        },
-                        {
-                            "date": "2020-11-30",
-                            "name": "Day off for Unity Day"
-                        },
-                        {
                             "date": "2020-07-23",
                             "name": "Independence Day Anniversary"
+                        },
+                        {
+                            "date": "2020-07-24",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2020-07-27",
@@ -154,8 +126,36 @@
                             "name": "Independence Day Anniversary"
                         },
                         {
+                            "date": "2020-07-30",
+                            "name": "Independence Day"
+                        },
+                        {
                             "date": "2020-07-31",
                             "name": "Independence Day Anniversary"
+                        },
+                        {
+                            "date": "2020-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2020-10-05",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2020-11-29",
+                            "name": "Unity Day"
+                        },
+                        {
+                            "date": "2020-11-30",
+                            "name": "Day off for Unity Day"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2020-12-26",
+                            "name": "Family Day"
                         }
                     ]
                 },
@@ -169,6 +169,10 @@
                         {
                             "date": "2021-02-21",
                             "name": "Father Lini Day"
+                        },
+                        {
+                            "date": "2021-02-22",
+                            "name": "Day off for Father Lini Day"
                         },
                         {
                             "date": "2021-03-05",
@@ -203,6 +207,10 @@
                             "name": "Assumption of Mary"
                         },
                         {
+                            "date": "2021-08-16",
+                            "name": "Day off for Assumption of Mary"
+                        },
+                        {
                             "date": "2021-10-05",
                             "name": "Constitution Day"
                         },
@@ -217,14 +225,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Family Day"
-                        },
-                        {
-                            "date": "2021-02-22",
-                            "name": "Day off for Father Lini Day"
-                        },
-                        {
-                            "date": "2021-08-16",
-                            "name": "Day off for Assumption of Mary"
                         },
                         {
                             "date": "2021-12-27",

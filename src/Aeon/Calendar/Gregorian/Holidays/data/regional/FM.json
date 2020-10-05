@@ -35,16 +35,16 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2019-11-04",
+                            "name": "Independence Day observed"
+                        },
+                        {
                             "date": "2019-11-11",
                             "name": "Veterans of Foreign Wars Day"
                         },
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-11-04",
-                            "name": "Independence Day observed"
                         }
                     ]
                 },
@@ -58,6 +58,14 @@
                         {
                             "date": "2020-05-10",
                             "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2020-05-11",
+                            "name": "Constitution Day observed"
+                        },
+                        {
+                            "date": "2020-10-23",
+                            "name": "United Nations Day observed"
                         },
                         {
                             "date": "2020-10-24",
@@ -74,14 +82,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-05-11",
-                            "name": "Constitution Day observed"
-                        },
-                        {
-                            "date": "2020-10-23",
-                            "name": "United Nations Day observed"
                         }
                     ]
                 },
@@ -101,6 +101,10 @@
                             "name": "United Nations Day"
                         },
                         {
+                            "date": "2021-10-25",
+                            "name": "United Nations Day observed"
+                        },
+                        {
                             "date": "2021-11-03",
                             "name": "Independence Day"
                         },
@@ -109,16 +113,12 @@
                             "name": "Veterans of Foreign Wars Day"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-10-25",
-                            "name": "United Nations Day observed"
-                        },
-                        {
                             "date": "2021-12-24",
                             "name": "Christmas Day observed"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2021-12-31",

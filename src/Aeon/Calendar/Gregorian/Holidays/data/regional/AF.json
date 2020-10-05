@@ -17,32 +17,12 @@
                     "year": 2019,
                     "holidays": [
                         {
-                            "date": "2019-04-28",
-                            "name": "Afghan Victory Day"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Ramadan starts"
-                        },
-                        {
-                            "date": "2019-08-19",
-                            "name": "Independence Day (National Day)"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Ashura"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
                             "date": "2019-03-21",
                             "name": "Naw Roz"
                         },
                         {
-                            "date": "2019-09-09",
-                            "name": "Martyrs and Ahmad Shah Masoud Day"
+                            "date": "2019-04-28",
+                            "name": "Afghan Victory Day"
                         },
                         {
                             "date": "2019-04-29",
@@ -63,6 +43,10 @@
                         {
                             "date": "2019-05-03",
                             "name": "Loya Jirga Gathering Holiday (Kabul Only)"
+                        },
+                        {
+                            "date": "2019-05-06",
+                            "name": "Ramadan starts"
                         },
                         {
                             "date": "2019-06-04",
@@ -93,14 +77,34 @@
                             "name": "Eid al-Qurban Holiday"
                         },
                         {
+                            "date": "2019-08-19",
+                            "name": "Independence Day (National Day)"
+                        },
+                        {
+                            "date": "2019-09-09",
+                            "name": "Martyrs and Ahmad Shah Masoud Day"
+                        },
+                        {
+                            "date": "2019-09-10",
+                            "name": "Ashura"
+                        },
+                        {
                             "date": "2019-09-28",
                             "name": "Presidential Elections"
+                        },
+                        {
+                            "date": "2019-11-10",
+                            "name": "The Prophet's Birthday"
                         }
                     ]
                 },
                 {
                     "year": 2020,
                     "holidays": [
+                        {
+                            "date": "2020-03-21",
+                            "name": "Naw Roz"
+                        },
                         {
                             "date": "2020-04-24",
                             "name": "Ramadan starts"
@@ -114,36 +118,20 @@
                             "name": "Eid al-Fitr"
                         },
                         {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Qurban"
-                        },
-                        {
-                            "date": "2020-08-19",
-                            "name": "Independence Day (National Day)"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-07-30",
-                            "name": "Day of Arafat"
-                        },
-                        {
-                            "date": "2020-03-21",
-                            "name": "Naw Roz"
-                        },
-                        {
-                            "date": "2020-09-09",
-                            "name": "Martyrs and Ahmad Shah Masoud Day"
-                        },
-                        {
                             "date": "2020-05-25",
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
                             "date": "2020-05-26",
                             "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-07-30",
+                            "name": "Day of Arafat"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Qurban"
                         },
                         {
                             "date": "2020-08-01",
@@ -154,8 +142,20 @@
                             "name": "Eid al-Qurban Holiday"
                         },
                         {
+                            "date": "2020-08-19",
+                            "name": "Independence Day (National Day)"
+                        },
+                        {
                             "date": "2020-08-30",
                             "name": "Ashura"
+                        },
+                        {
+                            "date": "2020-09-09",
+                            "name": "Martyrs and Ahmad Shah Masoud Day"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
                         }
                     ]
                 },
@@ -175,8 +175,28 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-05-15",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-07-19",
+                            "name": "Day of Arafat"
+                        },
+                        {
                             "date": "2021-07-20",
                             "name": "Eid al-Qurban"
+                        },
+                        {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Qurban Holiday"
+                        },
+                        {
+                            "date": "2021-07-22",
+                            "name": "Eid al-Qurban Holiday"
                         },
                         {
                             "date": "2021-08-19",
@@ -187,32 +207,12 @@
                             "name": "Ashura"
                         },
                         {
-                            "date": "2021-10-19",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2021-07-19",
-                            "name": "Day of Arafat"
-                        },
-                        {
                             "date": "2021-09-09",
                             "name": "Martyrs and Ahmad Shah Masoud Day"
                         },
                         {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-05-15",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Qurban Holiday"
-                        },
-                        {
-                            "date": "2021-07-22",
-                            "name": "Eid al-Qurban Holiday"
+                            "date": "2021-10-19",
+                            "name": "The Prophet's Birthday"
                         }
                     ]
                 }

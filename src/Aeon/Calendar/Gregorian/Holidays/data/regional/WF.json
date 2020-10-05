@@ -37,6 +37,10 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2019-06-10",
+                            "name": "Whit Monday"
+                        },
+                        {
                             "date": "2019-07-14",
                             "name": "Bastille Day"
                         },
@@ -59,10 +63,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
                         }
                     ]
                 },
@@ -90,6 +90,10 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2020-06-01",
+                            "name": "Whit Monday"
+                        },
+                        {
                             "date": "2020-07-14",
                             "name": "Bastille Day"
                         },
@@ -112,10 +116,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-06-01",
-                            "name": "Whit Monday"
                         }
                     ]
                 },
@@ -143,6 +143,10 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2021-05-24",
+                            "name": "Whit Monday"
+                        },
+                        {
                             "date": "2021-07-14",
                             "name": "Bastille Day"
                         },
@@ -165,10 +169,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-05-24",
-                            "name": "Whit Monday"
                         }
                     ]
                 }

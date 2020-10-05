@@ -21,8 +21,12 @@
                             "name": "New Year"
                         },
                         {
-                            "date": "2019-06-27",
-                            "name": "Independence Day"
+                            "date": "2019-04-03",
+                            "name": "Isra and Miraj"
+                        },
+                        {
+                            "date": "2019-05-01",
+                            "name": "Labor Day \/ May Day"
                         },
                         {
                             "date": "2019-06-04",
@@ -33,16 +37,8 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "Milad un Nabi (Mawlid)"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Isra and Miraj"
+                            "date": "2019-06-27",
+                            "name": "Independence Day"
                         },
                         {
                             "date": "2019-06-28",
@@ -63,6 +59,10 @@
                         {
                             "date": "2019-08-31",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2019-11-10",
+                            "name": "Milad un Nabi (Mawlid)"
                         }
                     ]
                 },
@@ -74,44 +74,44 @@
                             "name": "New Year"
                         },
                         {
-                            "date": "2020-05-24",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-06-27",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-08-20",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr Holiday"
+                            "date": "2020-03-22",
+                            "name": "Isra and Miraj"
                         },
                         {
                             "date": "2020-05-01",
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-06-27",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2020-06-28",
+                            "name": "Independence Day Holiday"
+                        },
+                        {
                             "date": "2020-07-30",
                             "name": "Arafat Day"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2020-08-01",
                             "name": "Eid al-Adha Holiday"
                         },
                         {
-                            "date": "2020-03-22",
-                            "name": "Isra and Miraj"
-                        },
-                        {
-                            "date": "2020-06-28",
-                            "name": "Independence Day Holiday"
+                            "date": "2020-08-20",
+                            "name": "Muharram"
                         },
                         {
                             "date": "2020-10-29",
@@ -127,48 +127,48 @@
                             "name": "New Year"
                         },
                         {
-                            "date": "2021-05-13",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2021-06-27",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2021-07-20",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2021-08-10",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr Holiday"
+                            "date": "2021-03-11",
+                            "name": "Isra and Miraj"
                         },
                         {
                             "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-06-27",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2021-06-28",
+                            "name": "Independence Day Holiday"
+                        },
+                        {
                             "date": "2021-07-19",
                             "name": "Arafat Day"
+                        },
+                        {
+                            "date": "2021-07-20",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2021-07-21",
                             "name": "Eid al-Adha Holiday"
                         },
                         {
+                            "date": "2021-08-10",
+                            "name": "Muharram"
+                        },
+                        {
                             "date": "2021-10-19",
                             "name": "Milad un Nabi (Mawlid)"
-                        },
-                        {
-                            "date": "2021-03-11",
-                            "name": "Isra and Miraj"
-                        },
-                        {
-                            "date": "2021-06-28",
-                            "name": "Independence Day Holiday"
                         }
                     ]
                 }

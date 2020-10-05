@@ -29,6 +29,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -43,6 +47,14 @@
                         {
                             "date": "2019-06-02",
                             "name": "Republic Day"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Ferragosto"
                         },
                         {
                             "date": "2019-11-01",
@@ -63,18 +75,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Ferragosto"
                         }
                     ]
                 },
@@ -94,6 +94,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
                         },
@@ -108,6 +112,14 @@
                         {
                             "date": "2020-06-02",
                             "name": "Republic Day"
+                        },
+                        {
+                            "date": "2020-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2020-08-15",
+                            "name": "Ferragosto"
                         },
                         {
                             "date": "2020-11-01",
@@ -128,18 +140,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Ferragosto"
                         }
                     ]
                 },
@@ -159,6 +159,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
                         },
@@ -173,6 +177,14 @@
                         {
                             "date": "2021-06-02",
                             "name": "Republic Day"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Ferragosto"
                         },
                         {
                             "date": "2021-11-01",
@@ -193,18 +205,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Ferragosto"
                         }
                     ]
                 }

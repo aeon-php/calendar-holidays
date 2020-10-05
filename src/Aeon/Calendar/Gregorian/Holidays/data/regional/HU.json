@@ -29,6 +29,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -43,6 +47,14 @@
                         {
                             "date": "2019-06-10",
                             "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2019-08-10",
+                            "name": "Extra Work Day"
+                        },
+                        {
+                            "date": "2019-08-19",
+                            "name": "Hungary National Day Holiday"
                         },
                         {
                             "date": "2019-08-20",
@@ -61,26 +73,6 @@
                             "name": "Saint Nicholas Day"
                         },
                         {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-08-10",
-                            "name": "Extra Work Day"
-                        },
-                        {
-                            "date": "2019-08-19",
-                            "name": "Hungary National Day Holiday"
-                        },
-                        {
                             "date": "2019-12-07",
                             "name": "Extra Work Day"
                         },
@@ -93,12 +85,20 @@
                             "name": "Christmas Eve"
                         },
                         {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
                             "date": "2019-12-26",
                             "name": "Second Day of Christmas"
                         },
                         {
                             "date": "2019-12-27",
                             "name": "Christmas Holiday"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -116,6 +116,10 @@
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -138,6 +142,14 @@
                             "name": "Hungary National Day"
                         },
                         {
+                            "date": "2020-08-21",
+                            "name": "Hungary National Day Holiday"
+                        },
+                        {
+                            "date": "2020-08-29",
+                            "name": "Extra Work Day"
+                        },
+                        {
                             "date": "2020-10-23",
                             "name": "1956 Revolution Memorial Day"
                         },
@@ -150,26 +162,6 @@
                             "name": "Saint Nicholas Day"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-08-21",
-                            "name": "Hungary National Day Holiday"
-                        },
-                        {
-                            "date": "2020-08-29",
-                            "name": "Extra Work Day"
-                        },
-                        {
                             "date": "2020-12-12",
                             "name": "Extra Work Day"
                         },
@@ -178,8 +170,16 @@
                             "name": "Christmas Eve"
                         },
                         {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
                             "date": "2020-12-26",
                             "name": "Second Day of Christmas"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -197,6 +197,10 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -239,16 +243,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
+                            "date": "2021-12-26",
+                            "name": "Second Day of Christmas"
                         },
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-12-26",
-                            "name": "Second Day of Christmas"
                         }
                     ]
                 }

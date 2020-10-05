@@ -37,6 +37,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -65,12 +69,20 @@
                             "name": "Assumption of Mary"
                         },
                         {
+                            "date": "2019-10-09",
+                            "name": "Yom Kippur"
+                        },
+                        {
                             "date": "2019-10-26",
                             "name": "National Day"
                         },
                         {
                             "date": "2019-10-27",
                             "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2019-10-31",
+                            "name": "Reformation Day"
                         },
                         {
                             "date": "2019-11-01",
@@ -103,18 +115,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-10-09",
-                            "name": "Yom Kippur"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Reformation Day"
                         }
                     ]
                 },
@@ -140,6 +140,10 @@
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -170,12 +174,20 @@
                             "name": "Assumption of Mary"
                         },
                         {
+                            "date": "2020-09-28",
+                            "name": "Yom Kippur"
+                        },
+                        {
                             "date": "2020-10-25",
                             "name": "Daylight Saving Time ends"
                         },
                         {
                             "date": "2020-10-26",
                             "name": "National Day"
+                        },
+                        {
+                            "date": "2020-10-31",
+                            "name": "Reformation Day"
                         },
                         {
                             "date": "2020-11-01",
@@ -208,18 +220,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-09-28",
-                            "name": "Yom Kippur"
-                        },
-                        {
-                            "date": "2020-10-31",
-                            "name": "Reformation Day"
                         }
                     ]
                 },
@@ -245,6 +245,10 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -275,12 +279,20 @@
                             "name": "Assumption of Mary"
                         },
                         {
+                            "date": "2021-09-16",
+                            "name": "Yom Kippur"
+                        },
+                        {
                             "date": "2021-10-26",
                             "name": "National Day"
                         },
                         {
                             "date": "2021-10-31",
                             "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2021-10-31",
+                            "name": "Reformation Day"
                         },
                         {
                             "date": "2021-11-01",
@@ -313,18 +325,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-09-16",
-                            "name": "Yom Kippur"
-                        },
-                        {
-                            "date": "2021-10-31",
-                            "name": "Reformation Day"
                         }
                     ]
                 }

@@ -21,6 +21,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-01-02",
+                            "name": "Day After New Year's Day"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
                         },
@@ -49,20 +53,16 @@
                             "name": "Gospel Day"
                         },
                         {
+                            "date": "2019-10-28",
+                            "name": "Gospel Day observed"
+                        },
+                        {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "Day After New Year's Day"
-                        },
-                        {
-                            "date": "2019-10-28",
-                            "name": "Gospel Day observed"
                         }
                     ]
                 },
@@ -72,6 +72,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-01-02",
+                            "name": "Day After New Year's Day"
                         },
                         {
                             "date": "2020-04-10",
@@ -106,10 +110,6 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2020-01-02",
-                            "name": "Day After New Year's Day"
-                        },
-                        {
                             "date": "2020-12-28",
                             "name": "Boxing Day observed"
                         }
@@ -121,6 +121,14 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "name": "Day After New Year's Day"
+                        },
+                        {
+                            "date": "2021-01-04",
+                            "name": "Day After New Year's Day observed"
                         },
                         {
                             "date": "2021-04-02",
@@ -157,14 +165,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-01-02",
-                            "name": "Day After New Year's Day"
-                        },
-                        {
-                            "date": "2021-01-04",
-                            "name": "Day After New Year's Day observed"
                         },
                         {
                             "date": "2021-12-27",

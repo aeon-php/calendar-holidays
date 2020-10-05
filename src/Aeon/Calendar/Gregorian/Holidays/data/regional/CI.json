@@ -37,12 +37,20 @@
                             "name": "Day After Laila tou-Kadr"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Aid el-Fitr"
+                        },
+                        {
                             "date": "2019-06-10",
                             "name": "Whit Monday"
                         },
                         {
                             "date": "2019-08-07",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Aid el-Kebir"
                         },
                         {
                             "date": "2019-08-15",
@@ -63,14 +71,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Aid el-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Aid el-Kebir"
                         }
                     ]
                 },
@@ -96,6 +96,10 @@
                         {
                             "date": "2020-05-21",
                             "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2020-05-23",
+                            "name": "Aid el-Fitr"
                         },
                         {
                             "date": "2020-06-01",
@@ -126,16 +130,12 @@
                             "name": "National Peace Day"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
                             "date": "2020-11-16",
                             "name": "National Peace Day observed"
                         },
                         {
-                            "date": "2020-05-23",
-                            "name": "Aid el-Fitr"
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },

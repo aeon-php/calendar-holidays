@@ -223,6 +223,10 @@
                             "name": "Emancipation Day"
                         },
                         {
+                            "date": "2021-07-30",
+                            "name": "Mary Prince Day"
+                        },
+                        {
                             "date": "2021-09-06",
                             "name": "Labour Day"
                         },
@@ -261,10 +265,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-07-30",
-                            "name": "Mary Prince Day"
                         }
                     ]
                 }

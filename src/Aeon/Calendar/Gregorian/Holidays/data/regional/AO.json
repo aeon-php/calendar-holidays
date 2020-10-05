@@ -41,12 +41,20 @@
                             "name": "Peace Day"
                         },
                         {
+                            "date": "2019-04-05",
+                            "name": "Day off for Peace Day"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
                         },
                         {
                             "date": "2019-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2019-09-16",
+                            "name": "Day off for National Hero Day"
                         },
                         {
                             "date": "2019-09-17",
@@ -63,14 +71,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-04-05",
-                            "name": "Day off for Peace Day"
-                        },
-                        {
-                            "date": "2019-09-16",
-                            "name": "Day off for National Hero Day"
                         }
                     ]
                 },
@@ -80,6 +80,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2020-02-03",
+                            "name": "Day off for Liberation Movement Day"
                         },
                         {
                             "date": "2020-02-04",
@@ -114,6 +118,10 @@
                             "name": "National Hero Day"
                         },
                         {
+                            "date": "2020-09-18",
+                            "name": "Day off for National Hero Day"
+                        },
+                        {
                             "date": "2020-11-02",
                             "name": "All Souls' Day"
                         },
@@ -124,14 +132,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-02-03",
-                            "name": "Day off for Liberation Movement Day"
-                        },
-                        {
-                            "date": "2020-09-18",
-                            "name": "Day off for National Hero Day"
                         }
                     ]
                 },
@@ -147,12 +147,20 @@
                             "name": "Liberation Movement Day"
                         },
                         {
+                            "date": "2021-02-05",
+                            "name": "Day off for Liberation Movement Day"
+                        },
+                        {
                             "date": "2021-02-16",
                             "name": "Carnival"
                         },
                         {
                             "date": "2021-03-08",
                             "name": "International Woman's Day"
+                        },
+                        {
+                            "date": "2021-03-22",
+                            "name": "Day off for Southern Africa Liberation Day"
                         },
                         {
                             "date": "2021-03-23",
@@ -175,6 +183,10 @@
                             "name": "National Hero Day"
                         },
                         {
+                            "date": "2021-11-01",
+                            "name": "Day off for All Souls' Day"
+                        },
+                        {
                             "date": "2021-11-02",
                             "name": "All Souls' Day"
                         },
@@ -183,24 +195,12 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-02-05",
-                            "name": "Day off for Liberation Movement Day"
-                        },
-                        {
-                            "date": "2021-03-22",
-                            "name": "Day off for Southern Africa Liberation Day"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "Day off for All Souls' Day"
-                        },
-                        {
                             "date": "2021-11-12",
                             "name": "Day off for Independence Day"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

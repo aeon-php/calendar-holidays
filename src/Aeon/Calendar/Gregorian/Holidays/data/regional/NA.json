@@ -29,8 +29,16 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2019-05-01",
+                            "name": "Workers' Day"
                         },
                         {
                             "date": "2019-05-04",
@@ -49,28 +57,20 @@
                             "name": "Heroes' Day"
                         },
                         {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Workers' Day"
+                            "date": "2019-11-27",
+                            "name": "Election Day"
                         },
                         {
                             "date": "2019-12-10",
                             "name": "Day of the Namibian Women and International Human Rights Day"
                         },
                         {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
                             "date": "2019-12-26",
                             "name": "Family Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-11-27",
-                            "name": "Election Day"
                         }
                     ]
                 },
@@ -90,8 +90,16 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2020-05-01",
+                            "name": "Workers' Day"
                         },
                         {
                             "date": "2020-05-04",
@@ -110,24 +118,16 @@
                             "name": "Heroes' Day"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-05-01",
-                            "name": "Workers' Day"
-                        },
-                        {
                             "date": "2020-12-10",
                             "name": "Day of the Namibian Women and International Human Rights Day"
                         },
                         {
-                            "date": "2020-12-26",
-                            "name": "Family Day"
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         },
                         {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
+                            "date": "2020-12-26",
+                            "name": "Family Day"
                         }
                     ]
                 },
@@ -143,12 +143,24 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2021-03-22",
+                            "name": "Independence Day observed"
+                        },
+                        {
                             "date": "2021-04-02",
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2021-05-01",
+                            "name": "Workers' Day"
                         },
                         {
                             "date": "2021-05-04",
@@ -167,20 +179,12 @@
                             "name": "Heroes' Day"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-03-22",
-                            "name": "Independence Day observed"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Workers' Day"
-                        },
-                        {
                             "date": "2021-12-10",
                             "name": "Day of the Namibian Women and International Human Rights Day"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2021-12-26",
@@ -189,10 +193,6 @@
                         {
                             "date": "2021-12-27",
                             "name": "Family Day observed"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
                         }
                     ]
                 }

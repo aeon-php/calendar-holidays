@@ -37,8 +37,16 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2019-05-01",
+                            "name": "Labour Day"
                         },
                         {
                             "date": "2019-05-12",
@@ -61,6 +69,10 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2019-10-09",
                             "name": "Independence Day"
                         },
@@ -71,18 +83,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
                         }
                     ]
                 },
@@ -110,8 +110,16 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2020-05-01",
+                            "name": "Labour Day"
                         },
                         {
                             "date": "2020-05-10",
@@ -138,6 +146,10 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2020-08-29",
+                            "name": "National day for prayer"
+                        },
+                        {
                             "date": "2020-10-09",
                             "name": "Independence Day"
                         },
@@ -148,18 +160,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2020-08-29",
-                            "name": "National day for prayer"
                         }
                     ]
                 },
@@ -187,8 +187,16 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2021-05-01",
+                            "name": "Labour Day"
                         },
                         {
                             "date": "2021-05-09",
@@ -225,14 +233,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Labour Day"
                         }
                     ]
                 }

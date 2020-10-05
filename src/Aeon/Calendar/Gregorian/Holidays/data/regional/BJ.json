@@ -25,6 +25,18 @@
                             "name": "Vodoun Festival"
                         },
                         {
+                            "date": "2019-01-16",
+                            "name": "Day of Remembrance"
+                        },
+                        {
+                            "date": "2019-02-28",
+                            "name": "People's Sovereignty Day"
+                        },
+                        {
+                            "date": "2019-03-08",
+                            "name": "Women's Day"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -41,6 +53,10 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Korit\u00e9"
+                        },
+                        {
                             "date": "2019-06-10",
                             "name": "Whit Monday"
                         },
@@ -53,40 +69,24 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
+                            "date": "2019-08-11",
+                            "name": "Tabaski"
                         },
                         {
                             "date": "2019-08-15",
                             "name": "Assumption of Mary"
                         },
                         {
-                            "date": "2019-06-04",
-                            "name": "Korit\u00e9"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Tabaski"
-                        },
-                        {
-                            "date": "2019-01-16",
-                            "name": "Day of Remembrance"
-                        },
-                        {
-                            "date": "2019-02-28",
-                            "name": "People's Sovereignty Day"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "Women's Day"
+                            "date": "2019-11-01",
+                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2019-11-09",
                             "name": "Maouloud"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -100,6 +100,18 @@
                         {
                             "date": "2020-01-10",
                             "name": "Vodoun Festival"
+                        },
+                        {
+                            "date": "2020-01-16",
+                            "name": "Day of Remembrance"
+                        },
+                        {
+                            "date": "2020-02-28",
+                            "name": "People's Sovereignty Day"
+                        },
+                        {
+                            "date": "2020-03-08",
+                            "name": "Women's Day"
                         },
                         {
                             "date": "2020-04-13",
@@ -138,6 +150,10 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
                             "date": "2020-10-29",
                             "name": "Maouloud"
                         },
@@ -148,22 +164,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2020-01-16",
-                            "name": "Day of Remembrance"
-                        },
-                        {
-                            "date": "2020-02-28",
-                            "name": "People's Sovereignty Day"
-                        },
-                        {
-                            "date": "2020-03-08",
-                            "name": "Women's Day"
                         }
                     ]
                 },
@@ -177,6 +177,18 @@
                         {
                             "date": "2021-01-10",
                             "name": "Vodoun Festival"
+                        },
+                        {
+                            "date": "2021-01-16",
+                            "name": "Day of Remembrance"
+                        },
+                        {
+                            "date": "2021-02-28",
+                            "name": "People's Sovereignty Day"
+                        },
+                        {
+                            "date": "2021-03-08",
+                            "name": "Women's Day"
                         },
                         {
                             "date": "2021-04-05",
@@ -215,6 +227,10 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
                             "date": "2021-10-19",
                             "name": "Maouloud"
                         },
@@ -225,22 +241,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2021-01-16",
-                            "name": "Day of Remembrance"
-                        },
-                        {
-                            "date": "2021-02-28",
-                            "name": "People's Sovereignty Day"
-                        },
-                        {
-                            "date": "2021-03-08",
-                            "name": "Women's Day"
                         }
                     ]
                 }

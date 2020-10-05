@@ -21,6 +21,14 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2019-01-03",
+                            "name": "Burkina Faso Popular Uprising Day"
+                        },
+                        {
+                            "date": "2019-03-08",
+                            "name": "International Women's Day"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -33,44 +41,36 @@
                             "name": "Ascension Day"
                         },
                         {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-03",
-                            "name": "Burkina Faso Popular Uprising Day"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "International Women's Day"
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
                         },
                         {
                             "date": "2019-08-05",
                             "name": "National Day"
                         },
                         {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
                             "date": "2019-08-11",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
                         },
                         {
                             "date": "2019-11-01",
                             "name": "All Saints"
                         },
                         {
+                            "date": "2019-11-10",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
                             "date": "2019-12-11",
                             "name": "Proclamation of Independence Day"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -80,6 +80,14 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2020-01-03",
+                            "name": "Burkina Faso Popular Uprising Day"
+                        },
+                        {
+                            "date": "2020-03-08",
+                            "name": "International Women's Day"
                         },
                         {
                             "date": "2020-04-13",
@@ -102,6 +110,10 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2020-08-05",
+                            "name": "National Day"
+                        },
+                        {
                             "date": "2020-08-15",
                             "name": "Assumption of Mary"
                         },
@@ -110,28 +122,16 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-03",
-                            "name": "Burkina Faso Popular Uprising Day"
-                        },
-                        {
-                            "date": "2020-03-08",
-                            "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2020-08-05",
-                            "name": "National Day"
-                        },
-                        {
                             "date": "2020-11-01",
                             "name": "All Saints"
                         },
                         {
                             "date": "2020-12-11",
                             "name": "Proclamation of Independence Day"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -141,6 +141,14 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2021-01-03",
+                            "name": "Burkina Faso Popular Uprising Day"
+                        },
+                        {
+                            "date": "2021-03-08",
+                            "name": "International Women's Day"
                         },
                         {
                             "date": "2021-04-05",
@@ -163,6 +171,10 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-08-05",
+                            "name": "National Day"
+                        },
+                        {
                             "date": "2021-08-15",
                             "name": "Assumption of Mary"
                         },
@@ -171,32 +183,20 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-01-03",
-                            "name": "Burkina Faso Popular Uprising Day"
-                        },
-                        {
-                            "date": "2021-03-08",
-                            "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2021-08-05",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2021-12-12",
-                            "name": "Independence Day Holiday"
-                        },
-                        {
                             "date": "2021-11-01",
                             "name": "All Saints"
                         },
                         {
                             "date": "2021-12-11",
                             "name": "Proclamation of Independence Day"
+                        },
+                        {
+                            "date": "2021-12-12",
+                            "name": "Independence Day Holiday"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

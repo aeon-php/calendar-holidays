@@ -25,18 +25,6 @@
                             "name": "Isra and Mi'raj"
                         },
                         {
-                            "date": "2019-07-23",
-                            "name": "Renaissance Day"
-                        },
-                        {
-                            "date": "2019-11-09",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-11-18",
-                            "name": "National Day"
-                        },
-                        {
                             "date": "2019-04-04",
                             "name": "Isra and Mi'raj Holiday"
                         },
@@ -51,6 +39,10 @@
                         {
                             "date": "2019-06-06",
                             "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2019-07-23",
+                            "name": "Renaissance Day"
                         },
                         {
                             "date": "2019-08-11",
@@ -85,8 +77,16 @@
                             "name": "Muharram"
                         },
                         {
+                            "date": "2019-11-09",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
                             "date": "2019-11-10",
                             "name": "The Prophet's Birthday Holiday"
+                        },
+                        {
+                            "date": "2019-11-18",
+                            "name": "National Day"
                         }
                     ]
                 },
@@ -98,28 +98,20 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2020-01-11",
+                            "name": "Mourning Holiday for Sultan Qaboos Bin Said"
+                        },
+                        {
+                            "date": "2020-01-12",
+                            "name": "Mourning Holiday for Sultan Qaboos Bin Said"
+                        },
+                        {
+                            "date": "2020-01-13",
+                            "name": "Mourning Holiday for Sultan Qaboos Bin Said"
+                        },
+                        {
                             "date": "2020-03-22",
                             "name": "Isra and Mi'raj"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-11-18",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2020-08-03",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-08-04",
-                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2020-05-24",
@@ -134,6 +126,10 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2020-08-01",
                             "name": "Eid al-Adha Holiday"
                         },
@@ -142,16 +138,12 @@
                             "name": "Eid al-Adha Holiday"
                         },
                         {
-                            "date": "2020-01-11",
-                            "name": "Mourning Holiday for Sultan Qaboos Bin Said"
+                            "date": "2020-08-03",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
-                            "date": "2020-01-12",
-                            "name": "Mourning Holiday for Sultan Qaboos Bin Said"
-                        },
-                        {
-                            "date": "2020-01-13",
-                            "name": "Mourning Holiday for Sultan Qaboos Bin Said"
+                            "date": "2020-08-04",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2020-08-05",
@@ -176,6 +168,14 @@
                         {
                             "date": "2020-08-23",
                             "name": "Muharram Holiday"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-11-18",
+                            "name": "National Day"
                         }
                     ]
                 },
@@ -195,20 +195,16 @@
                             "name": "Eid al-Fitr"
                         },
                         {
-                            "date": "2021-07-20",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2021-11-18",
-                            "name": "National Day"
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr Holiday"
                         },
                         {
                             "date": "2021-05-15",
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr Holiday"
+                            "date": "2021-07-20",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2021-07-21",
@@ -225,6 +221,10 @@
                         {
                             "date": "2021-08-10",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2021-11-18",
+                            "name": "National Day"
                         }
                     ]
                 }

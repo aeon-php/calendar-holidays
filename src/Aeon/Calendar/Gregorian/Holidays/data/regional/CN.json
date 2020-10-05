@@ -34,6 +34,22 @@
                             "name": "Spring Festival Golden Week holiday"
                         },
                         {
+                            "date": "2019-02-07",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2019-02-08",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2019-02-09",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2019-02-10",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
                             "date": "2019-02-19",
                             "name": "Lantern Festival"
                         },
@@ -66,6 +82,14 @@
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2019-05-02",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
+                            "date": "2019-05-03",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
                             "date": "2019-05-04",
                             "name": "Youth Day"
                         },
@@ -76,6 +100,10 @@
                         {
                             "date": "2019-06-07",
                             "name": "Dragon Boat Festival"
+                        },
+                        {
+                            "date": "2019-08-01",
+                            "name": "Army Day"
                         },
                         {
                             "date": "2019-08-07",
@@ -106,56 +134,28 @@
                             "name": "National Day Golden Week holiday"
                         },
                         {
-                            "date": "2019-10-07",
-                            "name": "Double Ninth Festival"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-05-02",
-                            "name": "Labour Day Holiday"
-                        },
-                        {
-                            "date": "2019-05-03",
-                            "name": "Labour Day Holiday"
-                        },
-                        {
-                            "date": "2019-02-07",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2019-02-08",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2019-02-09",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2019-02-10",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2019-08-01",
-                            "name": "Army Day"
+                            "date": "2019-10-04",
+                            "name": "National Day Golden Week holiday"
                         },
                         {
                             "date": "2019-10-05",
                             "name": "National Day Golden Week holiday"
                         },
                         {
+                            "date": "2019-10-06",
+                            "name": "National Day Golden Week holiday"
+                        },
+                        {
+                            "date": "2019-10-07",
+                            "name": "Double Ninth Festival"
+                        },
+                        {
                             "date": "2019-10-07",
                             "name": "National Day Golden Week holiday"
                         },
                         {
-                            "date": "2019-10-04",
-                            "name": "National Day Golden Week holiday"
-                        },
-                        {
-                            "date": "2019-10-06",
-                            "name": "National Day Golden Week holiday"
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -179,6 +179,34 @@
                             "name": "Spring Festival Golden Week holiday"
                         },
                         {
+                            "date": "2020-01-27",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2020-01-28",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2020-01-29",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2020-01-30",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2020-01-31",
+                            "name": "Spring Festival Golden Week Extended Holiday"
+                        },
+                        {
+                            "date": "2020-02-01",
+                            "name": "Spring Festival Golden Week Extended Holiday"
+                        },
+                        {
+                            "date": "2020-02-02",
+                            "name": "Spring Festival Golden Week Extended Holiday"
+                        },
+                        {
                             "date": "2020-02-08",
                             "name": "Lantern Festival"
                         },
@@ -199,12 +227,36 @@
                             "name": "Qing Ming Jie"
                         },
                         {
+                            "date": "2020-04-05",
+                            "name": "Qing Ming Jie holiday"
+                        },
+                        {
+                            "date": "2020-04-06",
+                            "name": "Qing Ming Jie holiday"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2020-05-02",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
+                            "date": "2020-05-03",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
+                            "date": "2020-05-04",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
                             "date": "2020-05-04",
                             "name": "Youth Day"
+                        },
+                        {
+                            "date": "2020-05-05",
+                            "name": "Labour Day Holiday"
                         },
                         {
                             "date": "2020-06-01",
@@ -213,6 +265,18 @@
                         {
                             "date": "2020-06-25",
                             "name": "Dragon Boat Festival"
+                        },
+                        {
+                            "date": "2020-06-26",
+                            "name": "Dragon Boat Festival holiday"
+                        },
+                        {
+                            "date": "2020-06-27",
+                            "name": "Dragon Boat Festival holiday"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Army Day"
                         },
                         {
                             "date": "2020-08-25",
@@ -228,11 +292,11 @@
                         },
                         {
                             "date": "2020-10-01",
-                            "name": "National Day"
+                            "name": "Mid-Autumn Festival"
                         },
                         {
                             "date": "2020-10-01",
-                            "name": "Mid-Autumn Festival"
+                            "name": "National Day"
                         },
                         {
                             "date": "2020-10-02",
@@ -243,44 +307,8 @@
                             "name": "National Day Golden Week holiday"
                         },
                         {
-                            "date": "2020-10-25",
-                            "name": "Double Ninth Festival"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-27",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2020-01-28",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2020-01-29",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2020-01-30",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2020-04-06",
-                            "name": "Qing Ming Jie holiday"
-                        },
-                        {
-                            "date": "2020-05-02",
-                            "name": "Labour Day Holiday"
-                        },
-                        {
-                            "date": "2020-05-04",
-                            "name": "Labour Day Holiday"
-                        },
-                        {
-                            "date": "2020-06-27",
-                            "name": "Dragon Boat Festival holiday"
+                            "date": "2020-10-04",
+                            "name": "National Day Golden Week holiday"
                         },
                         {
                             "date": "2020-10-05",
@@ -299,40 +327,12 @@
                             "name": "National Day Golden Week holiday"
                         },
                         {
-                            "date": "2020-04-05",
-                            "name": "Qing Ming Jie holiday"
+                            "date": "2020-10-25",
+                            "name": "Double Ninth Festival"
                         },
                         {
-                            "date": "2020-05-03",
-                            "name": "Labour Day Holiday"
-                        },
-                        {
-                            "date": "2020-05-05",
-                            "name": "Labour Day Holiday"
-                        },
-                        {
-                            "date": "2020-06-26",
-                            "name": "Dragon Boat Festival holiday"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Army Day"
-                        },
-                        {
-                            "date": "2020-10-04",
-                            "name": "National Day Golden Week holiday"
-                        },
-                        {
-                            "date": "2020-01-31",
-                            "name": "Spring Festival Golden Week Extended Holiday"
-                        },
-                        {
-                            "date": "2020-02-01",
-                            "name": "Spring Festival Golden Week Extended Holiday"
-                        },
-                        {
-                            "date": "2020-02-02",
-                            "name": "Spring Festival Golden Week Extended Holiday"
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -353,6 +353,22 @@
                         },
                         {
                             "date": "2021-02-13",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2021-02-14",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2021-02-16",
+                            "name": "Spring Festival Golden Week holiday"
+                        },
+                        {
+                            "date": "2021-02-17",
                             "name": "Spring Festival Golden Week holiday"
                         },
                         {
@@ -392,6 +408,10 @@
                             "name": "Dragon Boat Festival"
                         },
                         {
+                            "date": "2021-08-01",
+                            "name": "Army Day"
+                        },
+                        {
                             "date": "2021-08-14",
                             "name": "Chinese Valentine's Day"
                         },
@@ -420,31 +440,15 @@
                             "name": "National Day Golden Week holiday"
                         },
                         {
-                            "date": "2021-10-14",
-                            "name": "Double Ninth Festival"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-02-14",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2021-02-16",
-                            "name": "Spring Festival Golden Week holiday"
-                        },
-                        {
-                            "date": "2021-02-17",
-                            "name": "Spring Festival Golden Week holiday"
+                            "date": "2021-10-04",
+                            "name": "National Day Golden Week holiday"
                         },
                         {
                             "date": "2021-10-05",
+                            "name": "National Day Golden Week holiday"
+                        },
+                        {
+                            "date": "2021-10-06",
                             "name": "National Day Golden Week holiday"
                         },
                         {
@@ -452,16 +456,12 @@
                             "name": "National Day Golden Week holiday"
                         },
                         {
-                            "date": "2021-08-01",
-                            "name": "Army Day"
+                            "date": "2021-10-14",
+                            "name": "Double Ninth Festival"
                         },
                         {
-                            "date": "2021-10-04",
-                            "name": "National Day Golden Week holiday"
-                        },
-                        {
-                            "date": "2021-10-06",
-                            "name": "National Day Golden Week holiday"
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

@@ -29,8 +29,16 @@
                             "name": "Martyrs' Day"
                         },
                         {
+                            "date": "2019-03-04",
+                            "name": "Day off for Martyrs' Day"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-20",
+                            "name": "Easter Saturday"
                         },
                         {
                             "date": "2019-04-22",
@@ -53,24 +61,16 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Day off for Martyrs' Day"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Easter Saturday"
-                        },
-                        {
                             "date": "2019-07-08",
                             "name": "Day off for Independence Day"
                         },
                         {
                             "date": "2019-10-15",
                             "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2019-12-26",
@@ -98,6 +98,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-11",
+                            "name": "Easter Saturday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
                         },
@@ -110,18 +114,6 @@
                             "name": "Kamuzu Day"
                         },
                         {
-                            "date": "2020-07-06",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-04-11",
-                            "name": "Easter Saturday"
-                        },
-                        {
                             "date": "2020-05-24",
                             "name": "Eid al-Fitr"
                         },
@@ -130,8 +122,16 @@
                             "name": "Day off for Eid al-Fitr"
                         },
                         {
+                            "date": "2020-07-06",
+                            "name": "Independence Day"
+                        },
+                        {
                             "date": "2020-10-15",
                             "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2020-12-26",
@@ -163,12 +163,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-03",
+                            "name": "Easter Saturday"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
                         },
                         {
                             "date": "2021-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Day off for May Day"
                         },
                         {
                             "date": "2021-05-13",
@@ -183,20 +191,12 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-04-03",
-                            "name": "Easter Saturday"
-                        },
-                        {
-                            "date": "2021-05-03",
-                            "name": "Day off for May Day"
-                        },
-                        {
                             "date": "2021-10-15",
                             "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2021-12-26",

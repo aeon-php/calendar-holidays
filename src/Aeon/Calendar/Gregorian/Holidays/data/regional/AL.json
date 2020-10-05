@@ -81,8 +81,16 @@
                             "name": "International Worker\u2019s Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2019-06-16",
                             "name": "Fathers' Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Feast of the Sacrifice"
                         },
                         {
                             "date": "2019-09-05",
@@ -123,14 +131,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Feast of the Sacrifice"
                         }
                     ]
                 },
@@ -146,6 +146,10 @@
                             "name": "New Year's Day (Day 2)"
                         },
                         {
+                            "date": "2020-01-03",
+                            "name": "Official Holiday"
+                        },
+                        {
                             "date": "2020-02-14",
                             "name": "Valentine's Day"
                         },
@@ -158,8 +162,16 @@
                             "name": "Summer Day"
                         },
                         {
+                            "date": "2020-03-16",
+                            "name": "Day off for Summer Day"
+                        },
+                        {
                             "date": "2020-03-22",
                             "name": "Nevruz Day"
+                        },
+                        {
+                            "date": "2020-03-23",
+                            "name": "Day off for Nevruz Day"
                         },
                         {
                             "date": "2020-03-29",
@@ -248,18 +260,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-01-03",
-                            "name": "Official Holiday"
-                        },
-                        {
-                            "date": "2020-03-16",
-                            "name": "Day off for Summer Day"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Day off for Nevruz Day"
                         }
                     ]
                 },
@@ -275,6 +275,10 @@
                             "name": "New Year's Day (Day 2)"
                         },
                         {
+                            "date": "2021-01-04",
+                            "name": "Day off for New Year's Day (Day 2)"
+                        },
+                        {
                             "date": "2021-02-14",
                             "name": "Valentine's Day"
                         },
@@ -285,6 +289,10 @@
                         {
                             "date": "2021-03-14",
                             "name": "Summer Day"
+                        },
+                        {
+                            "date": "2021-03-15",
+                            "name": "Day off for Summer Day"
                         },
                         {
                             "date": "2021-03-22",
@@ -375,20 +383,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Christmas Day"
                         },
                         {
-                            "date": "2021-01-04",
-                            "name": "Day off for New Year's Day (Day 2)"
-                        },
-                        {
-                            "date": "2021-03-15",
-                            "name": "Day off for Summer Day"
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

@@ -26,12 +26,36 @@
                             "name": "Day after New Year's Day"
                         },
                         {
+                            "date": "2019-01-21",
+                            "name": "Wellington Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2019-01-28",
+                            "name": "Northland Anniversary Day (Northland)"
+                        },
+                        {
+                            "date": "2019-01-28",
+                            "name": "Auckland Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2019-02-04",
+                            "name": "Nelson Anniversary Day (regional holiday)"
+                        },
+                        {
                             "date": "2019-02-06",
                             "name": "Waitangi Day"
                         },
                         {
                             "date": "2019-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2019-03-11",
+                            "name": "Taranaki Anniversary Day (Taranaki)"
+                        },
+                        {
+                            "date": "2019-03-25",
+                            "name": "Otago Anniversary Day (Otago)"
                         },
                         {
                             "date": "2019-04-01",
@@ -46,8 +70,16 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2019-04-23",
+                            "name": "Southland Anniversary Day (Southland)"
                         },
                         {
                             "date": "2019-04-25",
@@ -66,12 +98,36 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2019-09-23",
+                            "name": "South Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2019-10-25",
+                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
+                        },
+                        {
                             "date": "2019-10-28",
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2019-11-04",
+                            "name": "Marlborough Anniversary Day (Marlborough)"
+                        },
+                        {
                             "date": "2019-11-05",
                             "name": "Guy Fawkes Night"
+                        },
+                        {
+                            "date": "2019-11-15",
+                            "name": "Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2019-12-02",
+                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
+                        },
+                        {
+                            "date": "2019-12-02",
+                            "name": "Westland Anniversary Day (West Coast)"
                         },
                         {
                             "date": "2019-12-24",
@@ -88,62 +144,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-01-28",
-                            "name": "Northland Anniversary Day (Northland)"
-                        },
-                        {
-                            "date": "2019-02-04",
-                            "name": "Nelson Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-04-23",
-                            "name": "Southland Anniversary Day (Southland)"
-                        },
-                        {
-                            "date": "2019-09-23",
-                            "name": "South Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
-                        },
-                        {
-                            "date": "2019-03-25",
-                            "name": "Otago Anniversary Day (Otago)"
-                        },
-                        {
-                            "date": "2019-10-25",
-                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
-                        },
-                        {
-                            "date": "2019-11-04",
-                            "name": "Marlborough Anniversary Day (Marlborough)"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "Westland Anniversary Day (West Coast)"
-                        },
-                        {
-                            "date": "2019-03-11",
-                            "name": "Taranaki Anniversary Day (Taranaki)"
-                        },
-                        {
-                            "date": "2019-11-15",
-                            "name": "Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2019-01-21",
-                            "name": "Wellington Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-01-28",
-                            "name": "Auckland Anniversary Day (regional holiday)"
                         }
                     ]
                 },
@@ -159,12 +159,36 @@
                             "name": "Day after New Year's Day"
                         },
                         {
+                            "date": "2020-01-20",
+                            "name": "Wellington Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2020-01-27",
+                            "name": "Northland Anniversary Day (Northland)"
+                        },
+                        {
+                            "date": "2020-01-27",
+                            "name": "Auckland Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2020-02-03",
+                            "name": "Nelson Anniversary Day (regional holiday)"
+                        },
+                        {
                             "date": "2020-02-06",
                             "name": "Waitangi Day"
                         },
                         {
                             "date": "2020-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2020-03-09",
+                            "name": "Taranaki Anniversary Day (Taranaki)"
+                        },
+                        {
+                            "date": "2020-03-23",
+                            "name": "Otago Anniversary Day (Otago)"
                         },
                         {
                             "date": "2020-04-01",
@@ -179,8 +203,16 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2020-04-14",
+                            "name": "Southland Anniversary Day (Southland)"
                         },
                         {
                             "date": "2020-04-25",
@@ -203,12 +235,36 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2020-09-28",
+                            "name": "South Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2020-10-23",
+                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
+                        },
+                        {
                             "date": "2020-10-26",
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2020-11-02",
+                            "name": "Marlborough Anniversary Day (Marlborough)"
+                        },
+                        {
                             "date": "2020-11-05",
                             "name": "Guy Fawkes Night"
+                        },
+                        {
+                            "date": "2020-11-13",
+                            "name": "Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2020-11-30",
+                            "name": "Westland Anniversary Day (West Coast)"
+                        },
+                        {
+                            "date": "2020-11-30",
+                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
                         },
                         {
                             "date": "2020-12-24",
@@ -229,62 +285,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-10-23",
-                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
-                        },
-                        {
-                            "date": "2020-11-30",
-                            "name": "Westland Anniversary Day (West Coast)"
-                        },
-                        {
-                            "date": "2020-03-09",
-                            "name": "Taranaki Anniversary Day (Taranaki)"
-                        },
-                        {
-                            "date": "2020-04-14",
-                            "name": "Southland Anniversary Day (Southland)"
-                        },
-                        {
-                            "date": "2020-09-28",
-                            "name": "South Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2020-01-27",
-                            "name": "Northland Anniversary Day (Northland)"
-                        },
-                        {
-                            "date": "2020-02-03",
-                            "name": "Nelson Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Otago Anniversary Day (Otago)"
-                        },
-                        {
-                            "date": "2020-11-02",
-                            "name": "Marlborough Anniversary Day (Marlborough)"
-                        },
-                        {
-                            "date": "2020-11-13",
-                            "name": "Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2020-11-30",
-                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
-                        },
-                        {
-                            "date": "2020-01-20",
-                            "name": "Wellington Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2020-01-27",
-                            "name": "Auckland Anniversary Day (regional holiday)"
                         }
                     ]
                 },
@@ -300,6 +300,22 @@
                             "name": "Day after New Year's Day"
                         },
                         {
+                            "date": "2021-01-25",
+                            "name": "Wellington Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2021-02-01",
+                            "name": "Northland Anniversary Day (Northland)"
+                        },
+                        {
+                            "date": "2021-02-01",
+                            "name": "Nelson Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2021-02-01",
+                            "name": "Auckland Anniversary Day (regional holiday)"
+                        },
+                        {
                             "date": "2021-02-06",
                             "name": "Waitangi Day"
                         },
@@ -310,6 +326,14 @@
                         {
                             "date": "2021-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2021-03-08",
+                            "name": "Taranaki Anniversary Day (Taranaki)"
+                        },
+                        {
+                            "date": "2021-03-22",
+                            "name": "Otago Anniversary Day (Otago)"
                         },
                         {
                             "date": "2021-04-01",
@@ -324,8 +348,16 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2021-04-06",
+                            "name": "Southland Anniversary Day (Southland)"
                         },
                         {
                             "date": "2021-04-25",
@@ -348,12 +380,36 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2021-09-27",
+                            "name": "South Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2021-10-22",
+                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
+                        },
+                        {
                             "date": "2021-10-25",
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2021-11-01",
+                            "name": "Marlborough Anniversary Day (Marlborough)"
+                        },
+                        {
                             "date": "2021-11-05",
                             "name": "Guy Fawkes Night"
+                        },
+                        {
+                            "date": "2021-11-12",
+                            "name": "Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2021-11-29",
+                            "name": "Westland Anniversary Day (West Coast)"
+                        },
+                        {
+                            "date": "2021-11-29",
+                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
                         },
                         {
                             "date": "2021-12-24",
@@ -378,62 +434,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-02-01",
-                            "name": "Nelson Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2021-03-22",
-                            "name": "Otago Anniversary Day (Otago)"
-                        },
-                        {
-                            "date": "2021-04-06",
-                            "name": "Southland Anniversary Day (Southland)"
-                        },
-                        {
-                            "date": "2021-11-29",
-                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
-                        },
-                        {
-                            "date": "2021-02-01",
-                            "name": "Northland Anniversary Day (Northland)"
-                        },
-                        {
-                            "date": "2021-03-08",
-                            "name": "Taranaki Anniversary Day (Taranaki)"
-                        },
-                        {
-                            "date": "2021-10-22",
-                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "Marlborough Anniversary Day (Marlborough)"
-                        },
-                        {
-                            "date": "2021-11-12",
-                            "name": "Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2021-09-27",
-                            "name": "South Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2021-11-29",
-                            "name": "Westland Anniversary Day (West Coast)"
-                        },
-                        {
-                            "date": "2021-01-25",
-                            "name": "Wellington Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2021-02-01",
-                            "name": "Auckland Anniversary Day (regional holiday)"
                         }
                     ]
                 }

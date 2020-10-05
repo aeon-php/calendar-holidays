@@ -106,6 +106,14 @@
                             "name": "Chinese Lunar New Year's Day"
                         },
                         {
+                            "date": "2020-01-26",
+                            "name": "Second day of Chinese Lunar New Year"
+                        },
+                        {
+                            "date": "2020-01-27",
+                            "name": "Chinese Lunar New Year Holiday"
+                        },
+                        {
                             "date": "2020-04-10",
                             "name": "Good Friday"
                         },
@@ -128,6 +136,14 @@
                         {
                             "date": "2020-05-24",
                             "name": "Hari Raya Puasa"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Hari Raya Puasa observed"
+                        },
+                        {
+                            "date": "2020-07-10",
+                            "name": "2020 Polling Day"
                         },
                         {
                             "date": "2020-07-31",
@@ -160,22 +176,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Hari Raya Puasa observed"
-                        },
-                        {
-                            "date": "2020-01-26",
-                            "name": "Second day of Chinese Lunar New Year"
-                        },
-                        {
-                            "date": "2020-01-27",
-                            "name": "Chinese Lunar New Year Holiday"
-                        },
-                        {
-                            "date": "2020-07-10",
-                            "name": "2020 Polling Day"
                         }
                     ]
                 },
@@ -211,26 +211,6 @@
                             "name": "Labour Day"
                         },
                         {
-                            "date": "2021-08-09",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2021-10-01",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2021-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2021-05-13",
                             "name": "Hari Raya Puasa"
                         },
@@ -243,8 +223,28 @@
                             "name": "Hari Raya Haji"
                         },
                         {
+                            "date": "2021-08-09",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2021-10-01",
+                            "name": "Children's Day"
+                        },
+                        {
                             "date": "2021-11-04",
                             "name": "Diwali\/Deepavali"
+                        },
+                        {
+                            "date": "2021-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

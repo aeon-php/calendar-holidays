@@ -57,6 +57,10 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -113,6 +117,14 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2019-10-27",
+                            "name": "Repentance Day"
+                        },
+                        {
+                            "date": "2019-11-03",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2019-12-01",
                             "name": "First Advent Sunday"
                         },
@@ -143,18 +155,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Repentance Day"
-                        },
-                        {
-                            "date": "2019-11-03",
-                            "name": "All Saints' Day"
                         }
                     ]
                 },
@@ -200,6 +200,10 @@
                         {
                             "date": "2020-04-11",
                             "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -258,6 +262,14 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2020-10-25",
+                            "name": "Repentance Day"
+                        },
+                        {
+                            "date": "2020-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2020-11-29",
                             "name": "First Advent Sunday"
                         },
@@ -288,18 +300,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-10-25",
-                            "name": "Repentance Day"
-                        },
-                        {
-                            "date": "2020-11-01",
-                            "name": "All Saints' Day"
                         }
                     ]
                 },
@@ -345,6 +345,10 @@
                         {
                             "date": "2021-04-03",
                             "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -407,6 +411,14 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2021-10-31",
+                            "name": "Repentance Day"
+                        },
+                        {
+                            "date": "2021-11-07",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2021-11-28",
                             "name": "First Advent Sunday"
                         },
@@ -437,18 +449,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-10-31",
-                            "name": "Repentance Day"
-                        },
-                        {
-                            "date": "2021-11-07",
-                            "name": "All Saints' Day"
                         }
                     ]
                 }

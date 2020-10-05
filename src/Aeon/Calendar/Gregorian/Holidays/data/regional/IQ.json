@@ -29,34 +29,6 @@
                             "name": "Labor Day"
                         },
                         {
-                            "date": "2019-07-14",
-                            "name": "Republic Day"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Ashura"
-                        },
-                        {
-                            "date": "2019-10-03",
-                            "name": "Iraqi Independence Day"
-                        },
-                        {
-                            "date": "2019-12-10",
-                            "name": "Anniversary of Victory over ISIS"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2019-06-04",
                             "name": "Eid al-Fitr"
                         },
@@ -69,12 +41,12 @@
                             "name": "Eid al-Fitr holiday"
                         },
                         {
-                            "date": "2019-08-31",
-                            "name": "Islamic New Year"
+                            "date": "2019-07-14",
+                            "name": "Republic Day"
                         },
                         {
-                            "date": "2019-11-09",
-                            "name": "The Prophet's Birthday"
+                            "date": "2019-08-12",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-08-13",
@@ -87,6 +59,34 @@
                         {
                             "date": "2019-08-15",
                             "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2019-08-31",
+                            "name": "Islamic New Year"
+                        },
+                        {
+                            "date": "2019-09-10",
+                            "name": "Ashura"
+                        },
+                        {
+                            "date": "2019-10-03",
+                            "name": "Iraqi Independence Day"
+                        },
+                        {
+                            "date": "2019-11-09",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2019-12-10",
+                            "name": "Anniversary of Victory over ISIS"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -106,46 +106,6 @@
                             "name": "Labor Day"
                         },
                         {
-                            "date": "2020-05-24",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2020-07-14",
-                            "name": "Republic Day"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-10-03",
-                            "name": "Iraqi Independence Day"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-12-10",
-                            "name": "Anniversary of Victory over ISIS"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2020-05-21",
                             "name": "Eid al-Fitr holiday"
                         },
@@ -158,12 +118,32 @@
                             "name": "Eid al-Fitr holiday"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
                             "date": "2020-05-27",
                             "name": "Eid al-Fitr holiday"
                         },
                         {
                             "date": "2020-05-28",
                             "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2020-07-14",
+                            "name": "Republic Day"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2020-08-01",
@@ -208,6 +188,26 @@
                         {
                             "date": "2020-08-30",
                             "name": "Ashura"
+                        },
+                        {
+                            "date": "2020-10-03",
+                            "name": "Iraqi Independence Day"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-12-10",
+                            "name": "Anniversary of Victory over ISIS"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -247,6 +247,18 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2021-07-22",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2021-07-23",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
                             "date": "2021-08-10",
                             "name": "Islamic New Year"
                         },
@@ -273,18 +285,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2021-07-22",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2021-07-23",
-                            "name": "Eid al-Adha holiday"
                         }
                     ]
                 }

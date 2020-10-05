@@ -25,6 +25,14 @@
                             "name": "Sonam Losar (Tamang New Year)"
                         },
                         {
+                            "date": "2019-02-10",
+                            "name": "Basant Panchami"
+                        },
+                        {
+                            "date": "2019-02-28",
+                            "name": "National Mourning Day"
+                        },
+                        {
                             "date": "2019-03-04",
                             "name": "Maha Shivaratri"
                         },
@@ -45,6 +53,14 @@
                             "name": "Majdoor Divas"
                         },
                         {
+                            "date": "2019-05-18",
+                            "name": "Buddha Jayanti"
+                        },
+                        {
+                            "date": "2019-06-05",
+                            "name": "Ramjan Edul Fikra"
+                        },
+                        {
                             "date": "2019-08-12",
                             "name": "Edul Aajaha"
                         },
@@ -61,6 +77,14 @@
                             "name": "Shree Krishna Janamashtami"
                         },
                         {
+                            "date": "2019-08-23",
+                            "name": "Gaura Parba"
+                        },
+                        {
+                            "date": "2019-09-02",
+                            "name": "Hartalika Teej"
+                        },
+                        {
                             "date": "2019-09-03",
                             "name": "Rishi Panchami"
                         },
@@ -71,6 +95,14 @@
                         {
                             "date": "2019-09-12",
                             "name": "Indra Jatra"
+                        },
+                        {
+                            "date": "2019-09-20",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2019-09-22",
+                            "name": "Jitiya"
                         },
                         {
                             "date": "2019-09-29",
@@ -105,6 +137,10 @@
                             "name": "Kojagrat Purnima"
                         },
                         {
+                            "date": "2019-10-13",
+                            "name": "Holiday for Chinese President's Visit"
+                        },
+                        {
                             "date": "2019-10-27",
                             "name": "Laxmi Puja (Tihar)"
                         },
@@ -125,6 +161,10 @@
                             "name": "Guru Nanak Jayanti"
                         },
                         {
+                            "date": "2019-12-03",
+                            "name": "International Day of Disabled Persons"
+                        },
+                        {
                             "date": "2019-12-12",
                             "name": "Udhauli Parva"
                         },
@@ -135,46 +175,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "Tamu Lhosar"
-                        },
-                        {
-                            "date": "2019-02-28",
-                            "name": "National Mourning Day"
-                        },
-                        {
-                            "date": "2019-08-23",
-                            "name": "Gaura Parba"
-                        },
-                        {
-                            "date": "2019-09-02",
-                            "name": "Hartalika Teej"
-                        },
-                        {
-                            "date": "2019-09-20",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2019-12-03",
-                            "name": "International Day of Disabled Persons"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Ramjan Edul Fikra"
-                        },
-                        {
-                            "date": "2019-09-22",
-                            "name": "Jitiya"
-                        },
-                        {
-                            "date": "2019-02-10",
-                            "name": "Basant Panchami"
-                        },
-                        {
-                            "date": "2019-10-13",
-                            "name": "Holiday for Chinese President's Visit"
-                        },
-                        {
-                            "date": "2019-05-18",
-                            "name": "Buddha Jayanti"
                         }
                     ]
                 },
@@ -190,8 +190,16 @@
                             "name": "Sonam Losar (Tamang New Year)"
                         },
                         {
+                            "date": "2020-01-29",
+                            "name": "Basant Panchami"
+                        },
+                        {
                             "date": "2020-02-21",
                             "name": "Maha Shivaratri"
+                        },
+                        {
+                            "date": "2020-02-24",
+                            "name": "Gyalpo Losar"
                         },
                         {
                             "date": "2020-03-08",
@@ -202,12 +210,24 @@
                             "name": "Ram Nawami"
                         },
                         {
+                            "date": "2020-04-13",
+                            "name": "Nepali New Year"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Majdoor Divas"
                         },
                         {
+                            "date": "2020-05-07",
+                            "name": "Buddha Jayanti"
+                        },
+                        {
                             "date": "2020-05-25",
                             "name": "Ramjan Edul Fikra"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Edul Aajaha"
                         },
                         {
                             "date": "2020-08-03",
@@ -240,6 +260,10 @@
                         {
                             "date": "2020-09-07",
                             "name": "Civil Service Day"
+                        },
+                        {
+                            "date": "2020-09-10",
+                            "name": "Jitiya"
                         },
                         {
                             "date": "2020-09-19",
@@ -308,30 +332,6 @@
                         {
                             "date": "2020-12-30",
                             "name": "Tamu Lhosar"
-                        },
-                        {
-                            "date": "2020-02-24",
-                            "name": "Gyalpo Losar"
-                        },
-                        {
-                            "date": "2020-09-10",
-                            "name": "Jitiya"
-                        },
-                        {
-                            "date": "2020-01-29",
-                            "name": "Basant Panchami"
-                        },
-                        {
-                            "date": "2020-04-13",
-                            "name": "Nepali New Year"
-                        },
-                        {
-                            "date": "2020-05-07",
-                            "name": "Buddha Jayanti"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Edul Aajaha"
                         }
                     ]
                 },
@@ -341,18 +341,6 @@
                         {
                             "date": "2021-03-08",
                             "name": "Nari Dibas"
-                        },
-                        {
-                            "date": "2021-09-19",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2021-09-29",
-                            "name": "Jitiya"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
                         },
                         {
                             "date": "2021-04-14",
@@ -369,6 +357,18 @@
                         {
                             "date": "2021-07-20",
                             "name": "Edul Aajaha"
+                        },
+                        {
+                            "date": "2021-09-19",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2021-09-29",
+                            "name": "Jitiya"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

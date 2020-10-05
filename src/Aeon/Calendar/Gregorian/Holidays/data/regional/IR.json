@@ -29,6 +29,22 @@
                             "name": "Birthday of Imam Ali"
                         },
                         {
+                            "date": "2019-03-21",
+                            "name": "Norooz (Persian New Year)"
+                        },
+                        {
+                            "date": "2019-03-22",
+                            "name": "Norooz Holiday"
+                        },
+                        {
+                            "date": "2019-03-23",
+                            "name": "Norooz Holiday"
+                        },
+                        {
+                            "date": "2019-03-24",
+                            "name": "Norooz Holiday"
+                        },
+                        {
                             "date": "2019-04-03",
                             "name": "Prophet's Ascension"
                         },
@@ -69,6 +85,10 @@
                             "name": "Ashura"
                         },
                         {
+                            "date": "2019-10-19",
+                            "name": "Arbaeen"
+                        },
+                        {
                             "date": "2019-10-28",
                             "name": "Demise of Prophet Muhammad and Martyrdom of Imam Hassan"
                         },
@@ -83,32 +103,16 @@
                         {
                             "date": "2019-11-15",
                             "name": "Birthday of Prophet Muhammad and Imam Sadeq"
-                        },
-                        {
-                            "date": "2019-10-19",
-                            "name": "Arbaeen"
-                        },
-                        {
-                            "date": "2019-03-21",
-                            "name": "Norooz (Persian New Year)"
-                        },
-                        {
-                            "date": "2019-03-22",
-                            "name": "Norooz Holiday"
-                        },
-                        {
-                            "date": "2019-03-23",
-                            "name": "Norooz Holiday"
-                        },
-                        {
-                            "date": "2019-03-24",
-                            "name": "Norooz Holiday"
                         }
                     ]
                 },
                 {
                     "year": 2020,
                     "holidays": [
+                        {
+                            "date": "2020-01-06",
+                            "name": "Funeral of General Qasem Soleimani"
+                        },
                         {
                             "date": "2020-01-29",
                             "name": "Martyrdom of Fatima"
@@ -122,8 +126,24 @@
                             "name": "Birthday of Imam Ali"
                         },
                         {
+                            "date": "2020-03-20",
+                            "name": "Norooz (Persian New Year)"
+                        },
+                        {
+                            "date": "2020-03-21",
+                            "name": "Norooz Holiday"
+                        },
+                        {
                             "date": "2020-03-22",
                             "name": "Prophet's Ascension"
+                        },
+                        {
+                            "date": "2020-03-22",
+                            "name": "Norooz Holiday"
+                        },
+                        {
+                            "date": "2020-03-23",
+                            "name": "Norooz Holiday"
                         },
                         {
                             "date": "2020-04-09",
@@ -158,6 +178,10 @@
                             "name": "Tassoua"
                         },
                         {
+                            "date": "2020-08-30",
+                            "name": "Ashura"
+                        },
+                        {
                             "date": "2020-10-08",
                             "name": "Arbaeen"
                         },
@@ -176,30 +200,6 @@
                         {
                             "date": "2020-11-03",
                             "name": "Birthday of Prophet Muhammad and Imam Sadeq"
-                        },
-                        {
-                            "date": "2020-03-20",
-                            "name": "Norooz (Persian New Year)"
-                        },
-                        {
-                            "date": "2020-03-21",
-                            "name": "Norooz Holiday"
-                        },
-                        {
-                            "date": "2020-03-22",
-                            "name": "Norooz Holiday"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Norooz Holiday"
-                        },
-                        {
-                            "date": "2020-01-06",
-                            "name": "Funeral of General Qasem Soleimani"
-                        },
-                        {
-                            "date": "2020-08-30",
-                            "name": "Ashura"
                         }
                     ]
                 },
@@ -221,6 +221,22 @@
                         {
                             "date": "2021-03-11",
                             "name": "Prophet's Ascension"
+                        },
+                        {
+                            "date": "2021-03-21",
+                            "name": "Norooz (Persian New Year)"
+                        },
+                        {
+                            "date": "2021-03-22",
+                            "name": "Norooz Holiday"
+                        },
+                        {
+                            "date": "2021-03-23",
+                            "name": "Norooz Holiday"
+                        },
+                        {
+                            "date": "2021-03-24",
+                            "name": "Norooz Holiday"
                         },
                         {
                             "date": "2021-03-29",
@@ -277,22 +293,6 @@
                         {
                             "date": "2021-10-24",
                             "name": "Birthday of Prophet Muhammad and Imam Sadeq"
-                        },
-                        {
-                            "date": "2021-03-21",
-                            "name": "Norooz (Persian New Year)"
-                        },
-                        {
-                            "date": "2021-03-22",
-                            "name": "Norooz Holiday"
-                        },
-                        {
-                            "date": "2021-03-23",
-                            "name": "Norooz Holiday"
-                        },
-                        {
-                            "date": "2021-03-24",
-                            "name": "Norooz Holiday"
                         }
                     ]
                 }

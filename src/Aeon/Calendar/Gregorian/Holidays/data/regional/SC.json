@@ -21,8 +21,20 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2019-01-02",
+                            "name": "New Year holiday"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-20",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-04-22",
@@ -37,6 +49,10 @@
                             "name": "Constitution Day"
                         },
                         {
+                            "date": "2019-06-20",
+                            "name": "Corpus Christi"
+                        },
+                        {
                             "date": "2019-06-29",
                             "name": "National Day"
                         },
@@ -45,36 +61,20 @@
                             "name": "Assumption of Mary"
                         },
                         {
-                            "date": "2019-12-08",
-                            "name": "Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "New Year holiday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
                             "date": "2019-11-01",
                             "name": "All Saints' Day"
                         },
                         {
+                            "date": "2019-12-08",
+                            "name": "Immaculate Conception"
+                        },
+                        {
                             "date": "2019-12-09",
                             "name": "Day off for Immaculate Conception"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -86,8 +86,24 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2020-01-02",
+                            "name": "New Year holiday"
+                        },
+                        {
+                            "date": "2020-01-03",
+                            "name": "New Year holiday"
+                        },
+                        {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-11",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -96,6 +112,10 @@
                         {
                             "date": "2020-05-01",
                             "name": "Labour Day"
+                        },
+                        {
+                            "date": "2020-06-11",
+                            "name": "Corpus Christi"
                         },
                         {
                             "date": "2020-06-18",
@@ -110,32 +130,8 @@
                             "name": "Assumption of Mary"
                         },
                         {
-                            "date": "2020-12-08",
-                            "name": "Immaculate Conception"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-02",
-                            "name": "New Year holiday"
-                        },
-                        {
-                            "date": "2020-04-11",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2020-06-11",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-01-03",
-                            "name": "New Year holiday"
+                            "date": "2020-10-24",
+                            "name": "Presidential Elections"
                         },
                         {
                             "date": "2020-11-01",
@@ -146,8 +142,12 @@
                             "name": "Day off for All Saints' Day"
                         },
                         {
-                            "date": "2020-10-24",
-                            "name": "Presidential Elections"
+                            "date": "2020-12-08",
+                            "name": "Immaculate Conception"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -159,8 +159,20 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2021-01-02",
+                            "name": "New Year holiday"
+                        },
+                        {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-03",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -169,6 +181,10 @@
                         {
                             "date": "2021-05-01",
                             "name": "Labour Day"
+                        },
+                        {
+                            "date": "2021-06-03",
+                            "name": "Corpus Christi"
                         },
                         {
                             "date": "2021-06-18",
@@ -183,36 +199,20 @@
                             "name": "Assumption of Mary"
                         },
                         {
-                            "date": "2021-12-08",
-                            "name": "Immaculate Conception"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-01-02",
-                            "name": "New Year holiday"
-                        },
-                        {
-                            "date": "2021-04-03",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2021-06-03",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
                             "date": "2021-08-16",
                             "name": "Day off for Assumption of Mary"
                         },
                         {
                             "date": "2021-11-01",
                             "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2021-12-08",
+                            "name": "Immaculate Conception"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

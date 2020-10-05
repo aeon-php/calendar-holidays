@@ -66,7 +66,7 @@
                         },
                         {
                             "date": "2019-03-21",
-                            "name": "Holi"
+                            "name": "Dolyatra"
                         },
                         {
                             "date": "2019-03-21",
@@ -74,7 +74,7 @@
                         },
                         {
                             "date": "2019-03-21",
-                            "name": "Dolyatra"
+                            "name": "Holi"
                         },
                         {
                             "date": "2019-04-06",
@@ -121,6 +121,10 @@
                             "name": "Jamat Ul-Vida"
                         },
                         {
+                            "date": "2019-06-05",
+                            "name": "Ramzan Id\/Eid-ul-Fitar"
+                        },
+                        {
                             "date": "2019-07-04",
                             "name": "Rath Yatra"
                         },
@@ -130,15 +134,19 @@
                         },
                         {
                             "date": "2019-08-15",
-                            "name": "Independence Day"
+                            "name": "Raksha Bandhan (Rakhi)"
                         },
                         {
                             "date": "2019-08-15",
-                            "name": "Raksha Bandhan (Rakhi)"
+                            "name": "Independence Day"
                         },
                         {
                             "date": "2019-08-17",
                             "name": "Parsi New Year"
+                        },
+                        {
+                            "date": "2019-08-23",
+                            "name": "Janmashtami (Smarta)"
                         },
                         {
                             "date": "2019-08-24",
@@ -223,14 +231,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Ramzan Id\/Eid-ul-Fitar"
-                        },
-                        {
-                            "date": "2019-08-23",
-                            "name": "Janmashtami (Smarta)"
                         }
                     ]
                 },
@@ -262,6 +262,10 @@
                             "name": "Republic Day"
                         },
                         {
+                            "date": "2020-01-30",
+                            "name": "Vasant Panchami"
+                        },
+                        {
                             "date": "2020-02-09",
                             "name": "Guru Ravidas Jayanti"
                         },
@@ -286,8 +290,16 @@
                             "name": "Hazarat Ali's Birthday"
                         },
                         {
+                            "date": "2020-03-10",
+                            "name": "Holi"
+                        },
+                        {
                             "date": "2020-03-25",
                             "name": "Chaitra Sukhladi"
+                        },
+                        {
+                            "date": "2020-04-02",
+                            "name": "Rama Navami"
                         },
                         {
                             "date": "2020-04-06",
@@ -307,27 +319,43 @@
                         },
                         {
                             "date": "2020-04-14",
-                            "name": "Mesadi\/Vaisakhadi"
+                            "name": "Ambedkar Jayanti"
                         },
                         {
-                            "date": "2020-05-07",
-                            "name": "Buddha Purnima\/Vesak"
+                            "date": "2020-04-14",
+                            "name": "Mesadi\/Vaisakhadi"
                         },
                         {
                             "date": "2020-05-07",
                             "name": "Birthday of Ravindranath"
                         },
                         {
+                            "date": "2020-05-07",
+                            "name": "Buddha Purnima\/Vesak"
+                        },
+                        {
                             "date": "2020-05-22",
                             "name": "Jamat Ul-Vida"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Ramzan Id\/Eid-ul-Fitar"
                         },
                         {
                             "date": "2020-06-23",
                             "name": "Rath Yatra"
                         },
                         {
+                            "date": "2020-08-01",
+                            "name": "Bakr Id\/Eid ul-Adha"
+                        },
+                        {
                             "date": "2020-08-03",
                             "name": "Raksha Bandhan (Rakhi)"
+                        },
+                        {
+                            "date": "2020-08-11",
+                            "name": "Janmashtami (Smarta)"
                         },
                         {
                             "date": "2020-08-12",
@@ -338,8 +366,20 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-08-16",
+                            "name": "Parsi New Year"
+                        },
+                        {
                             "date": "2020-08-22",
                             "name": "Ganesh Chaturthi\/Vinayaka Chaturthi"
+                        },
+                        {
+                            "date": "2020-08-30",
+                            "name": "Muharram\/Ashura"
+                        },
+                        {
+                            "date": "2020-08-31",
+                            "name": "Onam"
                         },
                         {
                             "date": "2020-10-02",
@@ -375,11 +415,11 @@
                         },
                         {
                             "date": "2020-11-14",
-                            "name": "Diwali\/Deepavali"
+                            "name": "Naraka Chaturdasi"
                         },
                         {
                             "date": "2020-11-14",
-                            "name": "Naraka Chaturdasi"
+                            "name": "Diwali\/Deepavali"
                         },
                         {
                             "date": "2020-11-15",
@@ -408,46 +448,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas"
-                        },
-                        {
-                            "date": "2020-03-10",
-                            "name": "Holi"
-                        },
-                        {
-                            "date": "2020-04-02",
-                            "name": "Rama Navami"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Ramzan Id\/Eid-ul-Fitar"
-                        },
-                        {
-                            "date": "2020-08-11",
-                            "name": "Janmashtami (Smarta)"
-                        },
-                        {
-                            "date": "2020-08-16",
-                            "name": "Parsi New Year"
-                        },
-                        {
-                            "date": "2020-08-31",
-                            "name": "Onam"
-                        },
-                        {
-                            "date": "2020-01-30",
-                            "name": "Vasant Panchami"
-                        },
-                        {
-                            "date": "2020-04-14",
-                            "name": "Ambedkar Jayanti"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Bakr Id\/Eid ul-Adha"
-                        },
-                        {
-                            "date": "2020-08-30",
-                            "name": "Muharram\/Ashura"
                         }
                     ]
                 },
@@ -459,76 +459,32 @@
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2021-01-26",
-                            "name": "Republic Day"
-                        },
-                        {
-                            "date": "2021-02-19",
-                            "name": "Shivaji Jayanti"
-                        },
-                        {
-                            "date": "2021-03-29",
-                            "name": "Holi"
-                        },
-                        {
-                            "date": "2021-04-02",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Day"
-                        },
-                        {
-                            "date": "2021-04-14",
-                            "name": "Ambedkar Jayanti"
-                        },
-                        {
-                            "date": "2021-04-21",
-                            "name": "Rama Navami"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Ramzan Id\/Eid-ul-Fitar"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2021-10-02",
-                            "name": "Mahatma Gandhi Jayanti"
-                        },
-                        {
-                            "date": "2021-11-24",
-                            "name": "Guru Tegh Bahadur's Martyrdom Day"
-                        },
-                        {
-                            "date": "2021-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas"
-                        },
-                        {
                             "date": "2021-01-13",
                             "name": "Lohri"
-                        },
-                        {
-                            "date": "2021-01-14",
-                            "name": "Pongal"
                         },
                         {
                             "date": "2021-01-14",
                             "name": "Makar Sankranti"
                         },
                         {
+                            "date": "2021-01-14",
+                            "name": "Pongal"
+                        },
+                        {
                             "date": "2021-01-20",
                             "name": "Guru Govind Singh Jayanti"
                         },
                         {
+                            "date": "2021-01-26",
+                            "name": "Republic Day"
+                        },
+                        {
                             "date": "2021-02-16",
                             "name": "Vasant Panchami"
+                        },
+                        {
+                            "date": "2021-02-19",
+                            "name": "Shivaji Jayanti"
                         },
                         {
                             "date": "2021-02-25",
@@ -551,36 +507,40 @@
                             "name": "Holika Dahana"
                         },
                         {
+                            "date": "2021-03-29",
+                            "name": "Holi"
+                        },
+                        {
+                            "date": "2021-04-02",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Day"
+                        },
+                        {
                             "date": "2021-04-13",
                             "name": "Chaitra Sukhladi"
                         },
                         {
-                            "date": "2021-04-25",
-                            "name": "Mahavir Jayanti"
+                            "date": "2021-04-14",
+                            "name": "Ambedkar Jayanti"
                         },
                         {
-                            "date": "2021-08-16",
-                            "name": "Parsi New Year"
-                        },
-                        {
-                            "date": "2021-08-21",
-                            "name": "Onam"
-                        },
-                        {
-                            "date": "2021-08-30",
-                            "name": "Janmashtami"
-                        },
-                        {
-                            "date": "2021-08-30",
-                            "name": "Janmashtami (Smarta)"
+                            "date": "2021-04-14",
+                            "name": "Mesadi\/Vaisakhadi"
                         },
                         {
                             "date": "2021-04-14",
                             "name": "Vaisakhi"
                         },
                         {
-                            "date": "2021-04-14",
-                            "name": "Mesadi\/Vaisakhadi"
+                            "date": "2021-04-21",
+                            "name": "Rama Navami"
+                        },
+                        {
+                            "date": "2021-04-25",
+                            "name": "Mahavir Jayanti"
                         },
                         {
                             "date": "2021-05-07",
@@ -591,6 +551,10 @@
                             "name": "Jamat Ul-Vida"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Ramzan Id\/Eid-ul-Fitar"
+                        },
+                        {
                             "date": "2021-05-26",
                             "name": "Buddha Purnima\/Vesak"
                         },
@@ -599,16 +563,44 @@
                             "name": "Rath Yatra"
                         },
                         {
+                            "date": "2021-07-20",
+                            "name": "Bakr Id\/Eid ul-Adha"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2021-08-16",
+                            "name": "Parsi New Year"
+                        },
+                        {
+                            "date": "2021-08-19",
+                            "name": "Muharram\/Ashura"
+                        },
+                        {
+                            "date": "2021-08-21",
+                            "name": "Onam"
+                        },
+                        {
                             "date": "2021-08-22",
                             "name": "Raksha Bandhan (Rakhi)"
+                        },
+                        {
+                            "date": "2021-08-30",
+                            "name": "Janmashtami (Smarta)"
+                        },
+                        {
+                            "date": "2021-08-30",
+                            "name": "Janmashtami"
                         },
                         {
                             "date": "2021-09-10",
                             "name": "Ganesh Chaturthi\/Vinayaka Chaturthi"
                         },
                         {
-                            "date": "2021-08-19",
-                            "name": "Muharram\/Ashura"
+                            "date": "2021-10-02",
+                            "name": "Mahatma Gandhi Jayanti"
                         },
                         {
                             "date": "2021-10-12",
@@ -659,8 +651,16 @@
                             "name": "Guru Nanak Jayanti"
                         },
                         {
-                            "date": "2021-07-20",
-                            "name": "Bakr Id\/Eid ul-Adha"
+                            "date": "2021-11-24",
+                            "name": "Guru Tegh Bahadur's Martyrdom Day"
+                        },
+                        {
+                            "date": "2021-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas"
                         }
                     ]
                 }

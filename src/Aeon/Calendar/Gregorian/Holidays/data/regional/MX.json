@@ -59,6 +59,10 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -89,10 +93,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
                         }
                     ]
                 },
@@ -132,6 +132,10 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -162,10 +166,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
                         }
                     ]
                 },
@@ -205,6 +205,10 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -235,10 +239,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
                         }
                     ]
                 }

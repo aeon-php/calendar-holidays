@@ -21,6 +21,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-02-04",
+                            "name": "Lunar New Year Eve"
+                        },
+                        {
                             "date": "2019-02-05",
                             "name": "Lunar New Year (First Day)"
                         },
@@ -45,12 +49,20 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2019-04-22",
+                            "name": "Holy Saturday Holiday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
                         },
                         {
                             "date": "2019-05-12",
                             "name": "Buddha's Birthday"
+                        },
+                        {
+                            "date": "2019-05-13",
+                            "name": "Buddha's Birthday Holiday"
                         },
                         {
                             "date": "2019-06-07",
@@ -61,28 +73,12 @@
                             "name": "Day after the Mid-Autumn-Festival"
                         },
                         {
+                            "date": "2019-09-16",
+                            "name": "Mid-Autumn Festival Holiday"
+                        },
+                        {
                             "date": "2019-10-01",
                             "name": "National Day of the People's Republic of China"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Soul's Day"
-                        },
-                        {
-                            "date": "2019-12-20",
-                            "name": "Macau S.A.R. Establishment Day"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
                         },
                         {
                             "date": "2019-10-02",
@@ -93,24 +89,8 @@
                             "name": "Chong Yeung Festival (Festival of Ancestors)"
                         },
                         {
-                            "date": "2019-12-22",
-                            "name": "Winter Solstice"
-                        },
-                        {
-                            "date": "2019-02-04",
-                            "name": "Lunar New Year Eve"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Holy Saturday Holiday"
-                        },
-                        {
-                            "date": "2019-05-13",
-                            "name": "Buddha's Birthday Holiday"
-                        },
-                        {
-                            "date": "2019-09-16",
-                            "name": "Mid-Autumn Festival Holiday"
+                            "date": "2019-11-02",
+                            "name": "All Soul's Day"
                         },
                         {
                             "date": "2019-11-04",
@@ -125,8 +105,28 @@
                             "name": "Feast of the Immaculate Conception Holiday"
                         },
                         {
+                            "date": "2019-12-20",
+                            "name": "Macau S.A.R. Establishment Day"
+                        },
+                        {
+                            "date": "2019-12-22",
+                            "name": "Winter Solstice"
+                        },
+                        {
                             "date": "2019-12-23",
                             "name": "Winter Solstice Holiday"
+                        },
+                        {
+                            "date": "2019-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         },
                         {
                             "date": "2019-12-31",
@@ -142,6 +142,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2020-01-24",
+                            "name": "Lunar New Year Eve"
+                        },
+                        {
                             "date": "2020-01-25",
                             "name": "Lunar New Year (First Day)"
                         },
@@ -154,12 +158,32 @@
                             "name": "Lunar New Year (Third Day)"
                         },
                         {
+                            "date": "2020-01-28",
+                            "name": "Lunar New Year Holiday"
+                        },
+                        {
+                            "date": "2020-01-29",
+                            "name": "Lunar New Year Holiday"
+                        },
+                        {
+                            "date": "2020-04-04",
+                            "name": "Cheng Ming Festival"
+                        },
+                        {
+                            "date": "2020-04-06",
+                            "name": "Cheng Ming Holiday"
+                        },
+                        {
                             "date": "2020-04-10",
                             "name": "Good Friday"
                         },
                         {
                             "date": "2020-04-11",
                             "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2020-04-13",
+                            "name": "Holy Saturday Holiday"
                         },
                         {
                             "date": "2020-04-30",
@@ -179,15 +203,43 @@
                         },
                         {
                             "date": "2020-10-02",
+                            "name": "Day after PRC National Day"
+                        },
+                        {
+                            "date": "2020-10-02",
                             "name": "Day after the Mid-Autumn-Festival"
+                        },
+                        {
+                            "date": "2020-10-05",
+                            "name": "Mid-Autumn Festival Holiday"
+                        },
+                        {
+                            "date": "2020-10-25",
+                            "name": "Chong Yeung Festival (Festival of Ancestors)"
+                        },
+                        {
+                            "date": "2020-10-26",
+                            "name": "Chong Yeung Festival Holiday"
                         },
                         {
                             "date": "2020-11-02",
                             "name": "All Soul's Day"
                         },
                         {
+                            "date": "2020-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
                             "date": "2020-12-20",
                             "name": "Macau S.A.R. Establishment Day"
+                        },
+                        {
+                            "date": "2020-12-21",
+                            "name": "Winter Solstice"
+                        },
+                        {
+                            "date": "2020-12-22",
+                            "name": "Macau S.A.R. Establishment Day Holiday"
                         },
                         {
                             "date": "2020-12-24",
@@ -199,63 +251,11 @@
                         },
                         {
                             "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-10-02",
-                            "name": "Day after PRC National Day"
-                        },
-                        {
-                            "date": "2020-10-25",
-                            "name": "Chong Yeung Festival (Festival of Ancestors)"
-                        },
-                        {
-                            "date": "2020-12-21",
-                            "name": "Winter Solstice"
-                        },
-                        {
-                            "date": "2020-04-04",
-                            "name": "Cheng Ming Festival"
-                        },
-                        {
-                            "date": "2020-01-24",
-                            "name": "Lunar New Year Eve"
-                        },
-                        {
-                            "date": "2020-01-28",
-                            "name": "Lunar New Year Holiday"
-                        },
-                        {
-                            "date": "2020-04-06",
-                            "name": "Cheng Ming Holiday"
-                        },
-                        {
-                            "date": "2020-04-13",
-                            "name": "Holy Saturday Holiday"
-                        },
-                        {
-                            "date": "2020-10-05",
-                            "name": "Mid-Autumn Festival Holiday"
-                        },
-                        {
-                            "date": "2020-10-26",
-                            "name": "Chong Yeung Festival Holiday"
-                        },
-                        {
-                            "date": "2020-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2020-12-22",
-                            "name": "Macau S.A.R. Establishment Day Holiday"
-                        },
-                        {
-                            "date": "2020-12-31",
                             "name": "New Year's Eve Afternoon"
                         },
                         {
-                            "date": "2020-01-29",
-                            "name": "Lunar New Year Holiday"
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -265,6 +265,10 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-02-11",
+                            "name": "Lunar New Year Eve"
                         },
                         {
                             "date": "2021-02-12",
@@ -287,6 +291,14 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Cheng Ming Festival"
+                        },
+                        {
+                            "date": "2021-04-05",
+                            "name": "Holy Saturday Holiday"
+                        },
+                        {
                             "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -307,12 +319,28 @@
                             "name": "National Day of the People's Republic of China"
                         },
                         {
+                            "date": "2021-10-02",
+                            "name": "Day after PRC National Day"
+                        },
+                        {
+                            "date": "2021-10-14",
+                            "name": "Chong Yeung Festival (Festival of Ancestors)"
+                        },
+                        {
                             "date": "2021-11-02",
                             "name": "All Soul's Day"
                         },
                         {
+                            "date": "2021-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
                             "date": "2021-12-20",
                             "name": "Macau S.A.R. Establishment Day"
+                        },
+                        {
+                            "date": "2021-12-21",
+                            "name": "Winter Solstice"
                         },
                         {
                             "date": "2021-12-24",
@@ -325,34 +353,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-10-02",
-                            "name": "Day after PRC National Day"
-                        },
-                        {
-                            "date": "2021-10-14",
-                            "name": "Chong Yeung Festival (Festival of Ancestors)"
-                        },
-                        {
-                            "date": "2021-12-21",
-                            "name": "Winter Solstice"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Cheng Ming Festival"
-                        },
-                        {
-                            "date": "2021-02-11",
-                            "name": "Lunar New Year Eve"
-                        },
-                        {
-                            "date": "2021-04-05",
-                            "name": "Holy Saturday Holiday"
-                        },
-                        {
-                            "date": "2021-12-08",
-                            "name": "Feast of the Immaculate Conception"
                         },
                         {
                             "date": "2021-12-31",

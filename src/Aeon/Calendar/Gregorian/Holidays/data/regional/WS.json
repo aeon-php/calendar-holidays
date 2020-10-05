@@ -33,6 +33,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-20",
+                            "name": "Day After Good Friday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -63,10 +67,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Day After Good Friday"
                         }
                     ]
                 },
@@ -88,6 +88,10 @@
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-11",
+                            "name": "Day After Good Friday"
                         },
                         {
                             "date": "2020-04-13",
@@ -120,10 +124,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-04-11",
-                            "name": "Day After Good Friday"
                         }
                     ]
                 },
@@ -141,6 +141,10 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-03",
+                            "name": "Day After Good Friday"
                         },
                         {
                             "date": "2021-04-04",
@@ -181,10 +185,6 @@
                         {
                             "date": "2021-12-27",
                             "name": "Boxing Day observed"
-                        },
-                        {
-                            "date": "2021-04-03",
-                            "name": "Day After Good Friday"
                         }
                     ]
                 }

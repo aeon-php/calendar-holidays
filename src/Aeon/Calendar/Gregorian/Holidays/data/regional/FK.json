@@ -134,12 +134,12 @@
                             "name": "Day off for Boxing Day"
                         },
                         {
-                            "date": "2020-12-29",
-                            "name": "Day off for Christmas Holiday"
-                        },
-                        {
                             "date": "2020-12-28",
                             "name": "Christmas Holiday"
+                        },
+                        {
+                            "date": "2020-12-29",
+                            "name": "Day off for Christmas Holiday"
                         },
                         {
                             "date": "2020-12-30",
@@ -191,16 +191,16 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-12-28",
-                            "name": "Day off for Boxing Day"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Christmas Day"
                         },
                         {
                             "date": "2021-12-27",
                             "name": "Christmas Holiday"
+                        },
+                        {
+                            "date": "2021-12-28",
+                            "name": "Day off for Boxing Day"
                         },
                         {
                             "date": "2021-12-28",

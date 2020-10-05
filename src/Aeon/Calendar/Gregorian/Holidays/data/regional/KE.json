@@ -45,6 +45,10 @@
                             "name": "Madaraka Day"
                         },
                         {
+                            "date": "2019-06-05",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2019-08-12",
                             "name": "Eid al-Adha"
                         },
@@ -59,6 +63,10 @@
                         {
                             "date": "2019-10-21",
                             "name": "Mashujaa Day observed"
+                        },
+                        {
+                            "date": "2019-10-27",
+                            "name": "Diwali"
                         },
                         {
                             "date": "2019-12-12",
@@ -79,14 +87,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Diwali"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr"
                         }
                     ]
                 },
@@ -96,6 +96,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-02-11",
+                            "name": "President Moi Celebration of Life Day"
                         },
                         {
                             "date": "2020-04-10",
@@ -118,6 +122,14 @@
                             "name": "Mother's Day"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Day off for Eid al-Fitr"
+                        },
+                        {
                             "date": "2020-06-01",
                             "name": "Madaraka Day"
                         },
@@ -132,6 +144,10 @@
                         {
                             "date": "2020-10-20",
                             "name": "Mashujaa Day"
+                        },
+                        {
+                            "date": "2020-11-14",
+                            "name": "Diwali"
                         },
                         {
                             "date": "2020-12-12",
@@ -152,22 +168,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-11-14",
-                            "name": "Diwali"
-                        },
-                        {
-                            "date": "2020-02-11",
-                            "name": "President Moi Celebration of Life Day"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Day off for Eid al-Fitr"
                         }
                     ]
                 },

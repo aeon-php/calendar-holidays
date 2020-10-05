@@ -65,6 +65,10 @@
                             "name": "Orthodox Pentecost Monday"
                         },
                         {
+                            "date": "2019-06-25",
+                            "name": "Funeral of Former President Dimitris Christofias"
+                        },
+                        {
                             "date": "2019-08-15",
                             "name": "Assumption of the Virgin Mary"
                         },
@@ -95,10 +99,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-06-25",
-                            "name": "Funeral of Former President Dimitris Christofias"
                         }
                     ]
                 },

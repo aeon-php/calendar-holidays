@@ -53,12 +53,20 @@
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2019-05-26",
+                            "name": "Mother's Day"
+                        },
+                        {
                             "date": "2019-06-05",
                             "name": "Eid al-Fitr"
                         },
                         {
                             "date": "2019-06-16",
                             "name": "Father's Day"
+                        },
+                        {
+                            "date": "2019-07-29",
+                            "name": "Indian Ocean Island Games Celebration Holiday"
                         },
                         {
                             "date": "2019-09-03",
@@ -79,14 +87,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-07-29",
-                            "name": "Indian Ocean Island Games Celebration Holiday"
-                        },
-                        {
-                            "date": "2019-05-26",
-                            "name": "Mother's Day"
                         }
                     ]
                 },
@@ -110,12 +110,20 @@
                             "name": "Abolition of Slavery"
                         },
                         {
+                            "date": "2020-02-08",
+                            "name": "Thaipoosam Cavadee"
+                        },
+                        {
                             "date": "2020-02-21",
                             "name": "Maha Shivaratree"
                         },
                         {
                             "date": "2020-03-12",
                             "name": "National Day"
+                        },
+                        {
+                            "date": "2020-03-25",
+                            "name": "Ougadi"
                         },
                         {
                             "date": "2020-05-01",
@@ -126,6 +134,10 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2020-05-31",
+                            "name": "Mother's Day"
+                        },
+                        {
                             "date": "2020-06-21",
                             "name": "Father's Day"
                         },
@@ -134,32 +146,20 @@
                             "name": "Assumption of Mary"
                         },
                         {
-                            "date": "2020-11-02",
-                            "name": "Arrival of Indentured Labourers"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-02-08",
-                            "name": "Thaipoosam Cavadee"
-                        },
-                        {
-                            "date": "2020-03-25",
-                            "name": "Ougadi"
-                        },
-                        {
                             "date": "2020-08-23",
                             "name": "Ganesh Chaturthi"
+                        },
+                        {
+                            "date": "2020-11-02",
+                            "name": "Arrival of Indentured Labourers"
                         },
                         {
                             "date": "2020-11-14",
                             "name": "Divali"
                         },
                         {
-                            "date": "2020-05-31",
-                            "name": "Mother's Day"
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -175,40 +175,12 @@
                             "name": "New Year (Day 2)"
                         },
                         {
-                            "date": "2021-02-01",
-                            "name": "Abolition of Slavery"
-                        },
-                        {
-                            "date": "2021-03-12",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2021-06-20",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "All Saints Day"
-                        },
-                        {
-                            "date": "2021-11-02",
-                            "name": "Arrival of Indentured Labourers"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
                             "date": "2021-01-28",
                             "name": "Thaipoosam Cavadee"
+                        },
+                        {
+                            "date": "2021-02-01",
+                            "name": "Abolition of Slavery"
                         },
                         {
                             "date": "2021-02-12",
@@ -219,20 +191,48 @@
                             "name": "Maha Shivaratree"
                         },
                         {
+                            "date": "2021-03-12",
+                            "name": "National Day"
+                        },
+                        {
                             "date": "2021-04-13",
                             "name": "Ougadi"
+                        },
+                        {
+                            "date": "2021-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2021-05-13",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2021-05-30",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2021-06-20",
+                            "name": "Father's Day"
                         },
                         {
                             "date": "2021-09-10",
                             "name": "Ganesh Chaturthi"
                         },
                         {
+                            "date": "2021-11-01",
+                            "name": "All Saints Day"
+                        },
+                        {
+                            "date": "2021-11-02",
+                            "name": "Arrival of Indentured Labourers"
+                        },
+                        {
                             "date": "2021-11-04",
                             "name": "Divali"
                         },
                         {
-                            "date": "2021-05-30",
-                            "name": "Mother's Day"
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

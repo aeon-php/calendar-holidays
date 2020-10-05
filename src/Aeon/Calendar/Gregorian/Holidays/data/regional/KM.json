@@ -33,22 +33,6 @@
                             "name": "Labour Day"
                         },
                         {
-                            "date": "2019-07-06",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-09-01",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-11-12",
-                            "name": "Maore Day"
-                        },
-                        {
                             "date": "2019-06-04",
                             "name": "Eid al-Fitr"
                         },
@@ -61,12 +45,28 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
+                            "date": "2019-07-06",
+                            "name": "National Day"
+                        },
+                        {
                             "date": "2019-08-11",
                             "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-08-12",
                             "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2019-09-01",
+                            "name": "Muharram"
+                        },
+                        {
+                            "date": "2019-11-10",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2019-11-12",
+                            "name": "Maore Day"
                         }
                     ]
                 },
@@ -94,22 +94,6 @@
                             "name": "Eid al-Fitr"
                         },
                         {
-                            "date": "2020-07-06",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-11-12",
-                            "name": "Maore Day"
-                        },
-                        {
                             "date": "2020-05-25",
                             "name": "Eid al-Fitr Holiday"
                         },
@@ -118,12 +102,28 @@
                             "name": "Eid al-Fitr Holiday"
                         },
                         {
+                            "date": "2020-07-06",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2020-08-01",
                             "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2020-08-21",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-11-12",
+                            "name": "Maore Day"
                         }
                     ]
                 },
@@ -151,12 +151,24 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-05-15",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
                             "date": "2021-07-06",
                             "name": "National Day"
                         },
                         {
                             "date": "2021-07-20",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2021-08-10",
@@ -169,18 +181,6 @@
                         {
                             "date": "2021-11-12",
                             "name": "Maore Day"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-05-15",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha Holiday"
                         }
                     ]
                 }

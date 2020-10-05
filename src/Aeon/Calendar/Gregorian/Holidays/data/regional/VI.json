@@ -41,8 +41,16 @@
                             "name": "April Fool's Day"
                         },
                         {
+                            "date": "2019-04-18",
+                            "name": "Holy Thursday"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-04-22",
@@ -77,12 +85,20 @@
                             "name": "Labor Day"
                         },
                         {
+                            "date": "2019-10-14",
+                            "name": "Puerto Rico Friendship Day (Columbus Day)"
+                        },
+                        {
                             "date": "2019-10-25",
                             "name": "Hurricane Thanksgiving"
                         },
                         {
                             "date": "2019-11-01",
                             "name": "Liberty Day"
+                        },
+                        {
+                            "date": "2019-11-11",
+                            "name": "Veterans Day"
                         },
                         {
                             "date": "2019-11-28",
@@ -93,28 +109,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-18",
-                            "name": "Holy Thursday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-10-14",
-                            "name": "Puerto Rico Friendship Day (Columbus Day)"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "Veterans Day"
-                        },
-                        {
                             "date": "2019-12-26",
                             "name": "Christmas Second Day"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -146,8 +146,16 @@
                             "name": "April Fool's Day"
                         },
                         {
+                            "date": "2020-04-09",
+                            "name": "Holy Thursday"
+                        },
+                        {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -182,12 +190,20 @@
                             "name": "Labor Day"
                         },
                         {
+                            "date": "2020-10-12",
+                            "name": "Puerto Rico Friendship Day (Columbus Day)"
+                        },
+                        {
                             "date": "2020-10-25",
                             "name": "Hurricane Thanksgiving"
                         },
                         {
                             "date": "2020-11-01",
                             "name": "Liberty Day"
+                        },
+                        {
+                            "date": "2020-11-11",
+                            "name": "Veterans Day"
                         },
                         {
                             "date": "2020-11-26",
@@ -198,28 +214,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-09",
-                            "name": "Holy Thursday"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-10-12",
-                            "name": "Puerto Rico Friendship Day (Columbus Day)"
-                        },
-                        {
-                            "date": "2020-11-11",
-                            "name": "Veterans Day"
-                        },
-                        {
                             "date": "2020-12-26",
                             "name": "Christmas Second Day"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -248,11 +248,19 @@
                         },
                         {
                             "date": "2021-04-01",
+                            "name": "Holy Thursday"
+                        },
+                        {
+                            "date": "2021-04-01",
                             "name": "April Fool's Day"
                         },
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -287,12 +295,20 @@
                             "name": "Labor Day"
                         },
                         {
+                            "date": "2021-10-11",
+                            "name": "Puerto Rico Friendship Day (Columbus Day)"
+                        },
+                        {
                             "date": "2021-10-25",
                             "name": "Hurricane Thanksgiving"
                         },
                         {
                             "date": "2021-11-01",
                             "name": "Liberty Day"
+                        },
+                        {
+                            "date": "2021-11-11",
+                            "name": "Veterans Day"
                         },
                         {
                             "date": "2021-11-25",
@@ -303,28 +319,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-01",
-                            "name": "Holy Thursday"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-10-11",
-                            "name": "Puerto Rico Friendship Day (Columbus Day)"
-                        },
-                        {
-                            "date": "2021-11-11",
-                            "name": "Veterans Day"
-                        },
-                        {
                             "date": "2021-12-26",
                             "name": "Christmas Second Day"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

@@ -21,6 +21,10 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -63,10 +67,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
                         }
                     ]
                 },
@@ -76,6 +76,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -120,10 +124,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
                         }
                     ]
                 },
@@ -133,6 +133,10 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -177,10 +181,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
                         }
                     ]
                 }

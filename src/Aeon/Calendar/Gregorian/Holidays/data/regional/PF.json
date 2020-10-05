@@ -23,6 +23,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-03-05",
+                            "name": "Missionary Day"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -43,6 +47,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2019-06-29",
+                            "name": "Autonomy Day"
+                        },
+                        {
+                            "date": "2019-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2019-08-15",
                             "name": "Assumption of Mary"
                         },
@@ -57,18 +69,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Missionary Day"
-                        },
-                        {
-                            "date": "2019-06-29",
-                            "name": "Autonomy Day"
-                        },
-                        {
-                            "date": "2019-07-14",
-                            "name": "French National Day"
                         }
                     ]
                 },
@@ -78,6 +78,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-03-05",
+                            "name": "Missionary Day"
                         },
                         {
                             "date": "2020-04-13",
@@ -100,6 +104,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2020-06-29",
+                            "name": "Autonomy Day"
+                        },
+                        {
+                            "date": "2020-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2020-08-15",
                             "name": "Assumption of Mary"
                         },
@@ -114,18 +126,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-03-05",
-                            "name": "Missionary Day"
-                        },
-                        {
-                            "date": "2020-06-29",
-                            "name": "Autonomy Day"
-                        },
-                        {
-                            "date": "2020-07-14",
-                            "name": "French National Day"
                         }
                     ]
                 },
@@ -135,6 +135,10 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-03-05",
+                            "name": "Missionary Day"
                         },
                         {
                             "date": "2021-04-05",
@@ -157,6 +161,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2021-06-29",
+                            "name": "Autonomy Day"
+                        },
+                        {
+                            "date": "2021-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2021-08-15",
                             "name": "Assumption of Mary"
                         },
@@ -171,18 +183,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-03-05",
-                            "name": "Missionary Day"
-                        },
-                        {
-                            "date": "2021-06-29",
-                            "name": "Autonomy Day"
-                        },
-                        {
-                            "date": "2021-07-14",
-                            "name": "French National Day"
                         }
                     ]
                 }

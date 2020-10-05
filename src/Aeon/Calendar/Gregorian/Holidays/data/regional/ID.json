@@ -36,6 +36,10 @@
                             "name": "Ascension of the Prophet Muhammad"
                         },
                         {
+                            "date": "2019-04-17",
+                            "name": "Election Day"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
                         },
@@ -64,12 +68,32 @@
                             "name": "Cuti Bersama"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Cuti Bersama"
+                        },
+                        {
+                            "date": "2019-06-05",
+                            "name": "Idul Fitri Day 1"
+                        },
+                        {
+                            "date": "2019-06-06",
+                            "name": "Idul Fitri Holiday"
+                        },
+                        {
+                            "date": "2019-06-07",
+                            "name": "Cuti Bersama"
+                        },
+                        {
                             "date": "2019-08-11",
                             "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-08-17",
                             "name": "Indonesian Independence Day"
+                        },
+                        {
+                            "date": "2019-09-01",
+                            "name": "Muharram \/ Islamic New Year"
                         },
                         {
                             "date": "2019-10-27",
@@ -90,30 +114,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-17",
-                            "name": "Election Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Cuti Bersama"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Idul Fitri Day 1"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Idul Fitri Holiday"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Cuti Bersama"
-                        },
-                        {
-                            "date": "2019-09-01",
-                            "name": "Muharram \/ Islamic New Year"
                         }
                     ]
                 },
@@ -157,6 +157,14 @@
                             "name": "Ascension Day of Jesus Christ"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Idul Fitri Day 1"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Idul Fitri Holiday"
+                        },
+                        {
                             "date": "2020-06-01",
                             "name": "Pancasila Day"
                         },
@@ -169,30 +177,6 @@
                             "name": "Indonesian Independence Day"
                         },
                         {
-                            "date": "2020-10-29",
-                            "name": "The Prophet Muhammad's Birthday"
-                        },
-                        {
-                            "date": "2020-11-14",
-                            "name": "Diwali\/Deepavali"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-12-24",
-                            "name": "Cuti Bersama (Christmas Eve)"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Idul Fitri Day 1"
-                        },
-                        {
                             "date": "2020-08-20",
                             "name": "Muharram \/ Islamic New Year"
                         },
@@ -201,12 +185,28 @@
                             "name": "Muharram \/ Islamic New Year Holiday"
                         },
                         {
+                            "date": "2020-10-28",
+                            "name": "Cuti Bersama"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet Muhammad's Birthday"
+                        },
+                        {
                             "date": "2020-10-30",
                             "name": "The Prophet Muhammad's Birthday Holiday"
                         },
                         {
-                            "date": "2020-05-25",
-                            "name": "Idul Fitri Holiday"
+                            "date": "2020-11-14",
+                            "name": "Diwali\/Deepavali"
+                        },
+                        {
+                            "date": "2020-12-24",
+                            "name": "Cuti Bersama (Christmas Eve)"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2020-12-28",
@@ -222,10 +222,10 @@
                         },
                         {
                             "date": "2020-12-31",
-                            "name": "Cuti Bersama"
+                            "name": "New Year's Eve"
                         },
                         {
-                            "date": "2020-10-28",
+                            "date": "2020-12-31",
                             "name": "Cuti Bersama"
                         }
                     ]
@@ -263,7 +263,15 @@
                         },
                         {
                             "date": "2021-05-13",
+                            "name": "Idul Fitri Day 1"
+                        },
+                        {
+                            "date": "2021-05-13",
                             "name": "Ascension Day of Jesus Christ"
+                        },
+                        {
+                            "date": "2021-05-14",
+                            "name": "Idul Fitri Holiday"
                         },
                         {
                             "date": "2021-05-26",
@@ -278,12 +286,20 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-08-10",
+                            "name": "Muharram \/ Islamic New Year"
+                        },
+                        {
                             "date": "2021-08-17",
                             "name": "Indonesian Independence Day"
                         },
                         {
                             "date": "2021-10-19",
                             "name": "The Prophet Muhammad's Birthday"
+                        },
+                        {
+                            "date": "2021-11-04",
+                            "name": "Diwali\/Deepavali"
                         },
                         {
                             "date": "2021-12-24",
@@ -296,22 +312,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-11-04",
-                            "name": "Diwali\/Deepavali"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Idul Fitri Day 1"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Idul Fitri Holiday"
-                        },
-                        {
-                            "date": "2021-08-10",
-                            "name": "Muharram \/ Islamic New Year"
                         }
                     ]
                 }

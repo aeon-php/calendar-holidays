@@ -94,6 +94,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2020-07-06",
+                            "name": "Carnival Monday"
+                        },
+                        {
+                            "date": "2020-07-07",
+                            "name": "Carnival Tuesday"
+                        },
+                        {
                             "date": "2020-08-01",
                             "name": "Emancipation Day"
                         },
@@ -108,14 +116,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-07-06",
-                            "name": "Carnival Monday"
-                        },
-                        {
-                            "date": "2020-07-07",
-                            "name": "Carnival Tuesday"
                         }
                     ]
                 },
@@ -147,6 +147,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2021-07-05",
+                            "name": "Carnival Monday"
+                        },
+                        {
+                            "date": "2021-07-06",
+                            "name": "Carnival Tuesday"
+                        },
+                        {
                             "date": "2021-08-01",
                             "name": "Emancipation Day"
                         },
@@ -161,14 +169,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-07-05",
-                            "name": "Carnival Monday"
-                        },
-                        {
-                            "date": "2021-07-06",
-                            "name": "Carnival Tuesday"
                         }
                     ]
                 }
