@@ -49,8 +49,20 @@
                             "name": "Workers' Day"
                         },
                         {
+                            "date": "2019-05-08",
+                            "name": "Election Day"
+                        },
+                        {
                             "date": "2019-05-12",
                             "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2019-05-30",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2019-06-09",
+                            "name": "Pentecost"
                         },
                         {
                             "date": "2019-06-16",
@@ -77,6 +89,10 @@
                             "name": "Heritage Day"
                         },
                         {
+                            "date": "2019-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2019-12-16",
                             "name": "Day of Reconciliation"
                         },
@@ -95,22 +111,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-05-08",
-                            "name": "Election Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-09",
-                            "name": "Pentecost"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
                         }
                     ]
                 },
@@ -154,6 +154,14 @@
                             "name": "Mother's Day"
                         },
                         {
+                            "date": "2020-05-21",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2020-05-31",
+                            "name": "Pentecost"
+                        },
+                        {
                             "date": "2020-06-16",
                             "name": "Youth Day"
                         },
@@ -178,6 +186,10 @@
                             "name": "Heritage Day"
                         },
                         {
+                            "date": "2020-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2020-12-16",
                             "name": "Day of Reconciliation"
                         },
@@ -196,18 +208,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-05-21",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2020-05-31",
-                            "name": "Pentecost"
-                        },
-                        {
-                            "date": "2020-11-01",
-                            "name": "All Saints' Day"
                         }
                     ]
                 },
@@ -255,6 +255,14 @@
                             "name": "Mother's Day"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2021-05-23",
+                            "name": "Pentecost"
+                        },
+                        {
                             "date": "2021-06-16",
                             "name": "Youth Day"
                         },
@@ -273,6 +281,10 @@
                         {
                             "date": "2021-09-24",
                             "name": "Heritage Day"
+                        },
+                        {
+                            "date": "2021-11-01",
+                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2021-12-16",
@@ -297,18 +309,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2021-05-23",
-                            "name": "Pentecost"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "All Saints' Day"
                         }
                     ]
                 }

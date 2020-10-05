@@ -21,6 +21,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-03-04",
+                            "name": "Heroes' Day"
+                        },
+                        {
                             "date": "2019-03-24",
                             "name": "Daylight Saving Time ends"
                         },
@@ -45,6 +49,10 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2019-06-17",
+                            "name": "Chaco Armistice"
+                        },
+                        {
                             "date": "2019-08-15",
                             "name": "Founding of Asuncion"
                         },
@@ -61,24 +69,16 @@
                             "name": "Virgin of Caacup\u00e9 Day"
                         },
                         {
+                            "date": "2019-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Heroes' Day"
-                        },
-                        {
-                            "date": "2019-06-17",
-                            "name": "Chaco Armistice"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
                         }
                     ]
                 },
@@ -138,16 +138,16 @@
                             "name": "Virgin of Caacup\u00e9 Day"
                         },
                         {
+                            "date": "2020-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-12-24",
-                            "name": "Christmas Eve"
                         }
                     ]
                 },
@@ -207,16 +207,16 @@
                             "name": "Virgin of Caacup\u00e9 Day"
                         },
                         {
+                            "date": "2021-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-12-24",
-                            "name": "Christmas Eve"
                         }
                     ]
                 }

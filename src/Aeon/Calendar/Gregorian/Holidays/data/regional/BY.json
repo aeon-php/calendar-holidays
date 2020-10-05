@@ -57,12 +57,28 @@
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2019-05-04",
+                            "name": "Special Working Day"
+                        },
+                        {
+                            "date": "2019-05-06",
+                            "name": "Radonitsa Holiday"
+                        },
+                        {
                             "date": "2019-05-07",
                             "name": "Radonitsa"
                         },
                         {
+                            "date": "2019-05-08",
+                            "name": "Radonitsa Holiday"
+                        },
+                        {
                             "date": "2019-05-09",
                             "name": "Victory Day"
+                        },
+                        {
+                            "date": "2019-05-11",
+                            "name": "Special Working Day"
                         },
                         {
                             "date": "2019-05-12",
@@ -93,36 +109,20 @@
                             "name": "October Revolution Day"
                         },
                         {
-                            "date": "2019-12-25",
-                            "name": "Catholic Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-05-04",
-                            "name": "Special Working Day"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Radonitsa Holiday"
-                        },
-                        {
-                            "date": "2019-05-08",
-                            "name": "Radonitsa Holiday"
-                        },
-                        {
-                            "date": "2019-05-11",
-                            "name": "Special Working Day"
-                        },
-                        {
                             "date": "2019-11-08",
                             "name": "October Revolution Day Holiday"
                         },
                         {
                             "date": "2019-11-16",
                             "name": "Special Working Day"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Catholic Christmas Day"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -132,6 +132,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-01-02",
+                            "name": "New Year Holiday"
                         },
                         {
                             "date": "2020-01-07",
@@ -212,10 +216,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-01-02",
-                            "name": "New Year Holiday"
                         }
                     ]
                 },
@@ -225,6 +225,10 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "name": "New Year Holiday"
                         },
                         {
                             "date": "2021-01-07",
@@ -264,11 +268,11 @@
                         },
                         {
                             "date": "2021-05-09",
-                            "name": "Victory Day"
+                            "name": "Day of the National Emblem and Flag of Belarus"
                         },
                         {
                             "date": "2021-05-09",
-                            "name": "Day of the National Emblem and Flag of Belarus"
+                            "name": "Victory Day"
                         },
                         {
                             "date": "2021-05-11",
@@ -305,10 +309,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-01-02",
-                            "name": "New Year Holiday"
                         }
                     ]
                 }

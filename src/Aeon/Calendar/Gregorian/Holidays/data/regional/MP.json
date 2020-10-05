@@ -33,6 +33,10 @@
                             "name": "Commonwealth Covenant Day"
                         },
                         {
+                            "date": "2019-03-25",
+                            "name": "Day off for Commonwealth Covenant Day"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
                         },
@@ -69,16 +73,12 @@
                             "name": "Constitution Day"
                         },
                         {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-03-25",
-                            "name": "Day off for Commonwealth Covenant Day"
-                        },
-                        {
                             "date": "2019-12-09",
                             "name": "Day off for Constitution Day"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -108,6 +108,10 @@
                         {
                             "date": "2020-05-25",
                             "name": "Memorial Day"
+                        },
+                        {
+                            "date": "2020-07-03",
+                            "name": "Day off for Independence Day"
                         },
                         {
                             "date": "2020-07-04",
@@ -140,10 +144,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-07-03",
-                            "name": "Day off for Independence Day"
                         }
                     ]
                 },
@@ -179,6 +179,10 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2021-07-05",
+                            "name": "Day off for Independence Day"
+                        },
+                        {
                             "date": "2021-09-06",
                             "name": "Labor Day"
                         },
@@ -203,16 +207,12 @@
                             "name": "Constitution Day"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-07-05",
-                            "name": "Day off for Independence Day"
-                        },
-                        {
                             "date": "2021-12-24",
                             "name": "Day off for Christmas Day"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2021-12-31",

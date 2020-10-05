@@ -29,6 +29,10 @@
                             "name": "Our Lady of Altagracia"
                         },
                         {
+                            "date": "2019-01-26",
+                            "name": "Duarte's Day"
+                        },
+                        {
                             "date": "2019-02-27",
                             "name": "Independence Day"
                         },
@@ -39,6 +43,10 @@
                         {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-29",
+                            "name": "Labor Day"
                         },
                         {
                             "date": "2019-05-26",
@@ -75,14 +83,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-29",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2019-01-26",
-                            "name": "Duarte's Day"
                         }
                     ]
                 },
@@ -100,6 +100,10 @@
                         {
                             "date": "2020-01-21",
                             "name": "Our Lady of Altagracia"
+                        },
+                        {
+                            "date": "2020-01-26",
+                            "name": "Duarte's Day"
                         },
                         {
                             "date": "2020-02-27",
@@ -152,10 +156,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-01-26",
-                            "name": "Duarte's Day"
                         }
                     ]
                 },
@@ -173,6 +173,10 @@
                         {
                             "date": "2021-01-21",
                             "name": "Our Lady of Altagracia"
+                        },
+                        {
+                            "date": "2021-01-25",
+                            "name": "Duarte's Day"
                         },
                         {
                             "date": "2021-02-27",
@@ -229,10 +233,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-01-25",
-                            "name": "Duarte's Day"
                         }
                     ]
                 }

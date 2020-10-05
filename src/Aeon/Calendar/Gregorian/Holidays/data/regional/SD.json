@@ -21,28 +21,20 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2019-04-28",
-                            "name": "Coptic Easter"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-30",
-                            "name": "Revolution Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
                             "date": "2019-01-07",
                             "name": "Coptic Christmas"
                         },
                         {
+                            "date": "2019-04-28",
+                            "name": "Coptic Easter"
+                        },
+                        {
                             "date": "2019-06-04",
                             "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2019-06-05",
+                            "name": "Eid al-Fitr"
                         },
                         {
                             "date": "2019-06-06",
@@ -51,6 +43,10 @@
                         {
                             "date": "2019-06-07",
                             "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2019-06-30",
+                            "name": "Revolution Day"
                         },
                         {
                             "date": "2019-08-10",
@@ -77,6 +73,10 @@
                             "name": "Muharram"
                         },
                         {
+                            "date": "2019-11-10",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
                         }
@@ -90,28 +90,16 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-01-07",
+                            "name": "Coptic Christmas"
+                        },
+                        {
                             "date": "2020-04-19",
                             "name": "Coptic Easter"
                         },
                         {
                             "date": "2020-05-24",
                             "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-06-30",
-                            "name": "Revolution Day"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-01-07",
-                            "name": "Coptic Christmas"
                         },
                         {
                             "date": "2020-05-25",
@@ -126,8 +114,16 @@
                             "name": "Eid al-Fitr holiday"
                         },
                         {
+                            "date": "2020-06-30",
+                            "name": "Revolution Day"
+                        },
+                        {
                             "date": "2020-07-30",
                             "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2020-08-01",
@@ -142,12 +138,16 @@
                             "name": "Eid al-Adha holiday"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
                             "date": "2020-08-21",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -159,32 +159,16 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2021-01-07",
+                            "name": "Coptic Christmas"
+                        },
+                        {
                             "date": "2021-05-02",
                             "name": "Coptic Easter"
                         },
                         {
                             "date": "2021-05-13",
                             "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2021-06-30",
-                            "name": "Revolution Day"
-                        },
-                        {
-                            "date": "2021-07-20",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2021-08-10",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2021-10-19",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2021-01-07",
-                            "name": "Coptic Christmas"
                         },
                         {
                             "date": "2021-05-14",
@@ -199,8 +183,16 @@
                             "name": "Eid al-Fitr holiday"
                         },
                         {
+                            "date": "2021-06-30",
+                            "name": "Revolution Day"
+                        },
+                        {
                             "date": "2021-07-19",
                             "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2021-07-20",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2021-07-21",
@@ -213,6 +205,14 @@
                         {
                             "date": "2021-07-23",
                             "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2021-08-10",
+                            "name": "Muharram"
+                        },
+                        {
+                            "date": "2021-10-19",
+                            "name": "The Prophet's Birthday"
                         },
                         {
                             "date": "2021-12-25",

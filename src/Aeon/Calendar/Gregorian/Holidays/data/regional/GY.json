@@ -17,8 +17,16 @@
                     "year": 2019,
                     "holidays": [
                         {
+                            "date": "2019-01-01",
+                            "name": "New Year's Day Holiday"
+                        },
+                        {
                             "date": "2019-02-23",
                             "name": "Mashramani (Republic Day)"
+                        },
+                        {
+                            "date": "2019-03-21",
+                            "name": "Phagwah (Holi)"
                         },
                         {
                             "date": "2019-04-19",
@@ -37,8 +45,16 @@
                             "name": "Arrival Day"
                         },
                         {
+                            "date": "2019-05-06",
+                            "name": "Day off for Arrival Day"
+                        },
+                        {
                             "date": "2019-05-26",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-05-27",
+                            "name": "Day off for Independence Day"
                         },
                         {
                             "date": "2019-07-01",
@@ -49,8 +65,24 @@
                             "name": "Emancipation Day"
                         },
                         {
+                            "date": "2019-08-11",
+                            "name": "Eid ul Adha"
+                        },
+                        {
+                            "date": "2019-10-27",
+                            "name": "Deepavali"
+                        },
+                        {
+                            "date": "2019-10-28",
+                            "name": "Day off for Deepavali"
+                        },
+                        {
                             "date": "2019-11-10",
                             "name": "Youman-Nabi (Mawlid)"
+                        },
+                        {
+                            "date": "2019-11-11",
+                            "name": "Day off for Youman-Nabi (Mawlid)"
                         },
                         {
                             "date": "2019-12-25",
@@ -59,38 +91,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-03-21",
-                            "name": "Phagwah (Holi)"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Day off for Arrival Day"
-                        },
-                        {
-                            "date": "2019-05-27",
-                            "name": "Day off for Independence Day"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Deepavali"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid ul Adha"
-                        },
-                        {
-                            "date": "2019-10-28",
-                            "name": "Day off for Deepavali"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "Day off for Youman-Nabi (Mawlid)"
-                        },
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day Holiday"
                         }
                     ]
                 },
@@ -98,8 +98,24 @@
                     "year": 2020,
                     "holidays": [
                         {
+                            "date": "2020-01-01",
+                            "name": "New Year's Day Holiday"
+                        },
+                        {
                             "date": "2020-02-23",
                             "name": "Mashramani (Republic Day)"
+                        },
+                        {
+                            "date": "2020-02-24",
+                            "name": "Day off for Mashramani (Republic Day)"
+                        },
+                        {
+                            "date": "2020-03-02",
+                            "name": "Election Day Holiday"
+                        },
+                        {
+                            "date": "2020-03-10",
+                            "name": "Phagwah (Holi)"
                         },
                         {
                             "date": "2020-04-10",
@@ -138,32 +154,16 @@
                             "name": "Youman-Nabi (Mawlid)"
                         },
                         {
+                            "date": "2020-11-14",
+                            "name": "Deepavali"
+                        },
+                        {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-02-24",
-                            "name": "Day off for Mashramani (Republic Day)"
-                        },
-                        {
-                            "date": "2020-03-10",
-                            "name": "Phagwah (Holi)"
-                        },
-                        {
-                            "date": "2020-11-14",
-                            "name": "Deepavali"
-                        },
-                        {
-                            "date": "2020-01-01",
-                            "name": "New Year's Day Holiday"
-                        },
-                        {
-                            "date": "2020-03-02",
-                            "name": "Election Day Holiday"
                         }
                     ]
                 },
@@ -171,8 +171,16 @@
                     "year": 2021,
                     "holidays": [
                         {
+                            "date": "2021-01-01",
+                            "name": "New Year's Day Holiday"
+                        },
+                        {
                             "date": "2021-02-23",
                             "name": "Mashramani (Republic Day)"
+                        },
+                        {
+                            "date": "2021-03-29",
+                            "name": "Phagwah (Holi)"
                         },
                         {
                             "date": "2021-04-02",
@@ -207,8 +215,16 @@
                             "name": "Emancipation Day"
                         },
                         {
+                            "date": "2021-08-02",
+                            "name": "Day off for Emancipation Day"
+                        },
+                        {
                             "date": "2021-10-19",
                             "name": "Youman-Nabi (Mawlid)"
+                        },
+                        {
+                            "date": "2021-11-04",
+                            "name": "Deepavali"
                         },
                         {
                             "date": "2021-12-25",
@@ -219,24 +235,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-08-02",
-                            "name": "Day off for Emancipation Day"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Boxing Day"
-                        },
-                        {
-                            "date": "2021-03-29",
-                            "name": "Phagwah (Holi)"
-                        },
-                        {
-                            "date": "2021-11-04",
-                            "name": "Deepavali"
-                        },
-                        {
-                            "date": "2021-01-01",
-                            "name": "New Year's Day Holiday"
                         }
                     ]
                 }

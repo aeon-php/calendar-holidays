@@ -170,6 +170,10 @@
                             "name": "Liberation Day"
                         },
                         {
+                            "date": "2020-08-17",
+                            "name": "Temporary Holiday"
+                        },
+                        {
                             "date": "2020-09-30",
                             "name": "Chuseok Holiday"
                         },
@@ -204,10 +208,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-08-17",
-                            "name": "Temporary Holiday"
                         }
                     ]
                 },

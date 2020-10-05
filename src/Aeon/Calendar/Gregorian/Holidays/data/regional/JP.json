@@ -158,6 +158,10 @@
                             "name": "Sea Day"
                         },
                         {
+                            "date": "2020-07-24",
+                            "name": "Sports Day"
+                        },
+                        {
                             "date": "2020-08-10",
                             "name": "Mountain Day"
                         },
@@ -176,10 +180,6 @@
                         {
                             "date": "2020-11-23",
                             "name": "Labor Thanksgiving Day"
-                        },
-                        {
-                            "date": "2020-07-24",
-                            "name": "Sports Day"
                         }
                     ]
                 },
@@ -239,16 +239,16 @@
                             "name": "Autumn Equinox"
                         },
                         {
+                            "date": "2021-10-11",
+                            "name": "Sports Day"
+                        },
+                        {
                             "date": "2021-11-03",
                             "name": "Culture Day"
                         },
                         {
                             "date": "2021-11-23",
                             "name": "Labor Thanksgiving Day"
-                        },
-                        {
-                            "date": "2021-10-11",
-                            "name": "Sports Day"
                         }
                     ]
                 }

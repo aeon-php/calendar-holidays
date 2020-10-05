@@ -21,6 +21,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2019-03-03",
                             "name": "Carnival"
                         },
@@ -39,6 +43,10 @@
                         {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-04-22",
@@ -91,14 +99,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
                         }
                     ]
                 },
@@ -108,6 +108,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-02-14",
+                            "name": "Valentine's Day"
                         },
                         {
                             "date": "2020-02-23",
@@ -130,6 +134,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
                         },
@@ -150,12 +158,20 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2020-05-22",
+                            "name": "Bank Holiday"
+                        },
+                        {
                             "date": "2020-05-31",
                             "name": "Whit Sunday"
                         },
                         {
                             "date": "2020-06-01",
                             "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2020-06-05",
+                            "name": "Bank Holiday"
                         },
                         {
                             "date": "2020-06-05",
@@ -170,6 +186,10 @@
                             "name": "Christmas Eve"
                         },
                         {
+                            "date": "2020-12-24",
+                            "name": "Bank Holiday"
+                        },
+                        {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
                         },
@@ -180,26 +200,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2020-05-22",
-                            "name": "Bank Holiday"
-                        },
-                        {
-                            "date": "2020-06-05",
-                            "name": "Bank Holiday"
-                        },
-                        {
-                            "date": "2020-12-24",
-                            "name": "Bank Holiday"
                         },
                         {
                             "date": "2020-12-31",
@@ -219,6 +219,10 @@
                             "name": "Carnival"
                         },
                         {
+                            "date": "2021-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2021-03-28",
                             "name": "Daylight Saving Time starts"
                         },
@@ -233,6 +237,10 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -255,6 +263,10 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2021-05-14",
+                            "name": "Bank Holiday"
+                        },
+                        {
                             "date": "2021-05-23",
                             "name": "Whit Sunday"
                         },
@@ -275,6 +287,10 @@
                             "name": "Christmas Eve"
                         },
                         {
+                            "date": "2021-12-24",
+                            "name": "Bank Holiday"
+                        },
+                        {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
                         },
@@ -285,22 +301,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Bank Holiday"
-                        },
-                        {
-                            "date": "2021-12-24",
-                            "name": "Bank Holiday"
                         },
                         {
                             "date": "2021-12-31",

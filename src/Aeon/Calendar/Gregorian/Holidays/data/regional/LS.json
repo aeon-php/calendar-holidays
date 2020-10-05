@@ -37,6 +37,10 @@
                             "name": "May Day"
                         },
                         {
+                            "date": "2019-05-25",
+                            "name": "Africa\/Heroes Day"
+                        },
+                        {
                             "date": "2019-05-30",
                             "name": "Ascension Day"
                         },
@@ -55,10 +59,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-05-25",
-                            "name": "Africa\/Heroes Day"
                         }
                     ]
                 },
@@ -90,6 +90,10 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2020-05-25",
+                            "name": "Africa\/Heroes Day"
+                        },
+                        {
                             "date": "2020-07-17",
                             "name": "King's Birthday"
                         },
@@ -104,10 +108,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Africa\/Heroes Day"
                         }
                     ]
                 },
@@ -139,6 +139,10 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2021-05-25",
+                            "name": "Africa\/Heroes Day"
+                        },
+                        {
                             "date": "2021-07-17",
                             "name": "King's Birthday"
                         },
@@ -153,10 +157,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-05-25",
-                            "name": "Africa\/Heroes Day"
                         }
                     ]
                 }

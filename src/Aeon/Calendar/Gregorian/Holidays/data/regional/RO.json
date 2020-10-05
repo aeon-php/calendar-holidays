@@ -57,6 +57,10 @@
                             "name": "Orthodox Easter Monday"
                         },
                         {
+                            "date": "2019-04-30",
+                            "name": "Public holiday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -101,6 +105,10 @@
                             "name": "St Mary's Day"
                         },
                         {
+                            "date": "2019-08-16",
+                            "name": "St Mary's Day Holiday"
+                        },
+                        {
                             "date": "2019-10-31",
                             "name": "Halloween"
                         },
@@ -131,14 +139,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-30",
-                            "name": "Public holiday"
-                        },
-                        {
-                            "date": "2019-08-16",
-                            "name": "St Mary's Day Holiday"
                         }
                     ]
                 },

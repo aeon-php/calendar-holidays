@@ -41,8 +41,16 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2019-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2019-08-15",
                             "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2019-11-01",
+                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2019-11-11",
@@ -55,14 +63,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-07-14",
-                            "name": "French National Day"
                         }
                     ]
                 },
@@ -94,8 +94,16 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2020-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2020-08-15",
                             "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2020-11-01",
+                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2020-11-11",
@@ -108,14 +116,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2020-07-14",
-                            "name": "French National Day"
                         }
                     ]
                 },
@@ -147,8 +147,16 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2021-07-14",
+                            "name": "French National Day"
+                        },
+                        {
                             "date": "2021-08-15",
                             "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2021-11-01",
+                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2021-11-11",
@@ -161,14 +169,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2021-07-14",
-                            "name": "French National Day"
                         }
                     ]
                 }

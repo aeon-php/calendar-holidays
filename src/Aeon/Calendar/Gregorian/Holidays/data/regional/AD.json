@@ -41,12 +41,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
                         {
                             "date": "2019-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2019-05-30",
+                            "name": "Ascension Day"
                         },
                         {
                             "date": "2019-06-09",
@@ -83,14 +91,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
                         }
                     ]
                 },
@@ -122,12 +122,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
                         },
                         {
                             "date": "2020-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2020-05-21",
+                            "name": "Ascension Day"
                         },
                         {
                             "date": "2020-05-31",
@@ -164,14 +172,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-05-21",
-                            "name": "Ascension Day"
                         }
                     ]
                 },
@@ -203,12 +203,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
                         },
                         {
                             "date": "2021-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2021-05-13",
+                            "name": "Ascension Day"
                         },
                         {
                             "date": "2021-05-23",
@@ -245,14 +253,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Ascension Day"
                         }
                     ]
                 }

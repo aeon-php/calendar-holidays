@@ -21,12 +21,24 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2019-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2019-03-31",
                             "name": "Daylight Saving Time starts"
                         },
                         {
                             "date": "2019-04-19",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-04-22",
@@ -39,6 +51,10 @@
                         {
                             "date": "2019-05-30",
                             "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2019-05-31",
+                            "name": "Day after Ascension Day"
                         },
                         {
                             "date": "2019-06-09",
@@ -61,12 +77,20 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2019-10-31",
+                            "name": "Halloween"
+                        },
+                        {
                             "date": "2019-11-01",
                             "name": "All Saints' Day"
                         },
                         {
                             "date": "2019-11-11",
                             "name": "Armistice Day"
+                        },
+                        {
+                            "date": "2019-12-06",
+                            "name": "St. Nicholas Day"
                         },
                         {
                             "date": "2019-12-24",
@@ -77,36 +101,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Halloween"
-                        },
-                        {
-                            "date": "2019-12-06",
-                            "name": "St. Nicholas Day"
-                        },
-                        {
-                            "date": "2019-05-31",
-                            "name": "Day after Ascension Day"
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -118,12 +118,24 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2020-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2020-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2020-03-29",
                             "name": "Daylight Saving Time starts"
                         },
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -136,6 +148,10 @@
                         {
                             "date": "2020-05-21",
                             "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2020-05-22",
+                            "name": "Day after Ascension Day"
                         },
                         {
                             "date": "2020-05-31",
@@ -158,12 +174,20 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2020-10-31",
+                            "name": "Halloween"
+                        },
+                        {
                             "date": "2020-11-01",
                             "name": "All Saints' Day"
                         },
                         {
                             "date": "2020-11-11",
                             "name": "Armistice Day"
+                        },
+                        {
+                            "date": "2020-12-06",
+                            "name": "St. Nicholas Day"
                         },
                         {
                             "date": "2020-12-24",
@@ -174,36 +198,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2020-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2020-10-31",
-                            "name": "Halloween"
-                        },
-                        {
-                            "date": "2020-12-06",
-                            "name": "St. Nicholas Day"
-                        },
-                        {
-                            "date": "2020-05-22",
-                            "name": "Day after Ascension Day"
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -215,12 +215,24 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2021-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2021-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2021-03-28",
                             "name": "Daylight Saving Time starts"
                         },
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
@@ -233,6 +245,10 @@
                         {
                             "date": "2021-05-13",
                             "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2021-05-14",
+                            "name": "Day after Ascension Day"
                         },
                         {
                             "date": "2021-05-23",
@@ -255,12 +271,20 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2021-10-31",
+                            "name": "Halloween"
+                        },
+                        {
                             "date": "2021-11-01",
                             "name": "All Saints' Day"
                         },
                         {
                             "date": "2021-11-11",
                             "name": "Armistice Day"
+                        },
+                        {
+                            "date": "2021-12-06",
+                            "name": "St. Nicholas Day"
                         },
                         {
                             "date": "2021-12-24",
@@ -271,36 +295,12 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2021-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2021-10-31",
-                            "name": "Halloween"
-                        },
-                        {
-                            "date": "2021-12-06",
-                            "name": "St. Nicholas Day"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Day after Ascension Day"
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

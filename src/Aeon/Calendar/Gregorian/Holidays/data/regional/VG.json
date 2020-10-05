@@ -65,16 +65,16 @@
                             "name": "Saint Ursula's Day"
                         },
                         {
+                            "date": "2019-12-11",
+                            "name": "Premier Ralph O\u2019Neal\u2019s Funeral"
+                        },
+                        {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-12-11",
-                            "name": "Premier Ralph O\u2019Neal\u2019s Funeral"
                         }
                     ]
                 },
@@ -84,6 +84,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-03-02",
+                            "name": "Lavity Stoutt's Birthday"
                         },
                         {
                             "date": "2020-03-09",
@@ -102,6 +106,14 @@
                             "name": "Whit Monday"
                         },
                         {
+                            "date": "2020-06-12",
+                            "name": "Sovereign's Birthday"
+                        },
+                        {
+                            "date": "2020-06-29",
+                            "name": "Territory Day"
+                        },
+                        {
                             "date": "2020-08-03",
                             "name": "Festival Monday"
                         },
@@ -118,28 +130,16 @@
                             "name": "Saint Ursula's Day"
                         },
                         {
+                            "date": "2020-10-23",
+                            "name": "Day off for Saint Ursula's Day"
+                        },
+                        {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
                         },
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-03-02",
-                            "name": "Lavity Stoutt's Birthday"
-                        },
-                        {
-                            "date": "2020-06-12",
-                            "name": "Sovereign's Birthday"
-                        },
-                        {
-                            "date": "2020-06-29",
-                            "name": "Territory Day"
-                        },
-                        {
-                            "date": "2020-10-23",
-                            "name": "Day off for Saint Ursula's Day"
                         },
                         {
                             "date": "2020-12-28",
@@ -215,12 +215,12 @@
                             "name": "Christmas Day observed"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "New Year's Day observed"
-                        },
-                        {
                             "date": "2021-12-28",
                             "name": "Day off for Boxing Day"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "New Year's Day observed"
                         }
                     ]
                 }

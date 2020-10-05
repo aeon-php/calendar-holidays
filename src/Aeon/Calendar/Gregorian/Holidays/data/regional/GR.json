@@ -29,6 +29,10 @@
                             "name": "The Three Holy Hierarchs"
                         },
                         {
+                            "date": "2019-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2019-03-11",
                             "name": "Clean Monday"
                         },
@@ -41,8 +45,28 @@
                             "name": "Annunciation of the Lord"
                         },
                         {
+                            "date": "2019-04-26",
+                            "name": "Orthodox Good Friday"
+                        },
+                        {
+                            "date": "2019-04-28",
+                            "name": "Orthodox Easter Sunday"
+                        },
+                        {
+                            "date": "2019-04-29",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2019-06-16",
+                            "name": "Orthodox Holy Spirit Sunday"
+                        },
+                        {
+                            "date": "2019-06-17",
+                            "name": "Orthodox Holy Spirit Monday"
                         },
                         {
                             "date": "2019-07-24",
@@ -71,30 +95,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Synaxis of the Mother of God"
-                        },
-                        {
-                            "date": "2019-04-26",
-                            "name": "Orthodox Good Friday"
-                        },
-                        {
-                            "date": "2019-04-28",
-                            "name": "Orthodox Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-29",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2019-06-17",
-                            "name": "Orthodox Holy Spirit Monday"
-                        },
-                        {
-                            "date": "2019-06-16",
-                            "name": "Orthodox Holy Spirit Sunday"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
                         }
                     ]
                 },
@@ -114,6 +114,10 @@
                             "name": "The Three Holy Hierarchs"
                         },
                         {
+                            "date": "2020-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2020-03-02",
                             "name": "Clean Monday"
                         },
@@ -126,8 +130,28 @@
                             "name": "Annunciation of the Lord"
                         },
                         {
+                            "date": "2020-04-17",
+                            "name": "Orthodox Good Friday"
+                        },
+                        {
+                            "date": "2020-04-19",
+                            "name": "Orthodox Easter Sunday"
+                        },
+                        {
+                            "date": "2020-04-20",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2020-06-07",
+                            "name": "Orthodox Holy Spirit Sunday"
+                        },
+                        {
+                            "date": "2020-06-08",
+                            "name": "Orthodox Holy Spirit Monday"
                         },
                         {
                             "date": "2020-07-24",
@@ -156,30 +180,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Synaxis of the Mother of God"
-                        },
-                        {
-                            "date": "2020-04-17",
-                            "name": "Orthodox Good Friday"
-                        },
-                        {
-                            "date": "2020-04-19",
-                            "name": "Orthodox Easter Sunday"
-                        },
-                        {
-                            "date": "2020-04-20",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2020-06-07",
-                            "name": "Orthodox Holy Spirit Sunday"
-                        },
-                        {
-                            "date": "2020-06-08",
-                            "name": "Orthodox Holy Spirit Monday"
-                        },
-                        {
-                            "date": "2020-02-14",
-                            "name": "Valentine's Day"
                         }
                     ]
                 },
@@ -199,6 +199,10 @@
                             "name": "The Three Holy Hierarchs"
                         },
                         {
+                            "date": "2021-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
                             "date": "2021-03-15",
                             "name": "Clean Monday"
                         },
@@ -211,8 +215,28 @@
                             "name": "Annunciation of the Lord"
                         },
                         {
+                            "date": "2021-04-30",
+                            "name": "Orthodox Good Friday"
+                        },
+                        {
                             "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2021-05-02",
+                            "name": "Orthodox Easter Sunday"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
+                            "date": "2021-06-20",
+                            "name": "Orthodox Holy Spirit Sunday"
+                        },
+                        {
+                            "date": "2021-06-21",
+                            "name": "Orthodox Holy Spirit Monday"
                         },
                         {
                             "date": "2021-07-24",
@@ -241,30 +265,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Synaxis of the Mother of God"
-                        },
-                        {
-                            "date": "2021-04-30",
-                            "name": "Orthodox Good Friday"
-                        },
-                        {
-                            "date": "2021-05-02",
-                            "name": "Orthodox Easter Sunday"
-                        },
-                        {
-                            "date": "2021-05-03",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2021-06-20",
-                            "name": "Orthodox Holy Spirit Sunday"
-                        },
-                        {
-                            "date": "2021-06-21",
-                            "name": "Orthodox Holy Spirit Monday"
-                        },
-                        {
-                            "date": "2021-02-14",
-                            "name": "Valentine's Day"
                         }
                     ]
                 }

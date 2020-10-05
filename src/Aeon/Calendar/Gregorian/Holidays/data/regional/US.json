@@ -53,8 +53,20 @@
                             "name": "Martin Luther King Jr. Day"
                         },
                         {
+                            "date": "2019-02-01",
+                            "name": "First Day of Black History Month"
+                        },
+                        {
                             "date": "2019-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2019-02-18",
+                            "name": "Presidents' Day (regional holiday)"
+                        },
+                        {
+                            "date": "2019-03-01",
+                            "name": "First Day of Women's History Month"
                         },
                         {
                             "date": "2019-03-10",
@@ -93,6 +105,10 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2019-06-19",
+                            "name": "Juneteenth"
+                        },
+                        {
                             "date": "2019-07-04",
                             "name": "Independence Day"
                         },
@@ -101,12 +117,20 @@
                             "name": "Labor Day"
                         },
                         {
+                            "date": "2019-10-14",
+                            "name": "Columbus Day"
+                        },
+                        {
                             "date": "2019-10-31",
                             "name": "Halloween"
                         },
                         {
                             "date": "2019-11-03",
                             "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2019-11-05",
+                            "name": "Election Day"
                         },
                         {
                             "date": "2019-11-11",
@@ -121,44 +145,20 @@
                             "name": "Black Friday"
                         },
                         {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-02-18",
-                            "name": "Presidents' Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-02-01",
-                            "name": "First Day of Black History Month"
-                        },
-                        {
-                            "date": "2019-03-01",
-                            "name": "First Day of Women's History Month"
-                        },
-                        {
-                            "date": "2019-11-05",
-                            "name": "Election Day"
-                        },
-                        {
-                            "date": "2019-06-19",
-                            "name": "Juneteenth"
-                        },
-                        {
-                            "date": "2019-10-14",
-                            "name": "Columbus Day"
-                        },
-                        {
                             "date": "2019-11-29",
                             "name": "Native American Heritage Day"
                         },
                         {
                             "date": "2019-12-24",
                             "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -174,8 +174,24 @@
                             "name": "Martin Luther King Jr. Day"
                         },
                         {
+                            "date": "2020-02-01",
+                            "name": "First Day of Black History Month"
+                        },
+                        {
                             "date": "2020-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2020-02-17",
+                            "name": "Presidents' Day (regional holiday)"
+                        },
+                        {
+                            "date": "2020-03-01",
+                            "name": "First Day of Women's History Month"
+                        },
+                        {
+                            "date": "2020-03-03",
+                            "name": "Super Tuesday (regional holiday)"
                         },
                         {
                             "date": "2020-03-08",
@@ -206,6 +222,10 @@
                             "name": "Memorial Day"
                         },
                         {
+                            "date": "2020-06-19",
+                            "name": "Juneteenth"
+                        },
+                        {
                             "date": "2020-06-21",
                             "name": "Father's Day"
                         },
@@ -218,8 +238,24 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-07-15",
+                            "name": "Tax Day"
+                        },
+                        {
                             "date": "2020-09-07",
                             "name": "Labor Day"
+                        },
+                        {
+                            "date": "2020-09-15",
+                            "name": "First Day of Hispanic Heritage Month"
+                        },
+                        {
+                            "date": "2020-10-12",
+                            "name": "Indigenous Peoples' Day"
+                        },
+                        {
+                            "date": "2020-10-12",
+                            "name": "Columbus Day"
                         },
                         {
                             "date": "2020-10-31",
@@ -228,6 +264,10 @@
                         {
                             "date": "2020-11-01",
                             "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2020-11-03",
+                            "name": "Election Day (General Election)"
                         },
                         {
                             "date": "2020-11-11",
@@ -242,6 +282,10 @@
                             "name": "Black Friday"
                         },
                         {
+                            "date": "2020-11-27",
+                            "name": "Native American Heritage Day"
+                        },
+                        {
                             "date": "2020-12-24",
                             "name": "Christmas Eve"
                         },
@@ -252,50 +296,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-02-17",
-                            "name": "Presidents' Day (regional holiday)"
-                        },
-                        {
-                            "date": "2020-03-03",
-                            "name": "Super Tuesday (regional holiday)"
-                        },
-                        {
-                            "date": "2020-02-01",
-                            "name": "First Day of Black History Month"
-                        },
-                        {
-                            "date": "2020-03-01",
-                            "name": "First Day of Women's History Month"
-                        },
-                        {
-                            "date": "2020-11-03",
-                            "name": "Election Day (General Election)"
-                        },
-                        {
-                            "date": "2020-07-15",
-                            "name": "Tax Day"
-                        },
-                        {
-                            "date": "2020-06-19",
-                            "name": "Juneteenth"
-                        },
-                        {
-                            "date": "2020-09-15",
-                            "name": "First Day of Hispanic Heritage Month"
-                        },
-                        {
-                            "date": "2020-10-12",
-                            "name": "Columbus Day"
-                        },
-                        {
-                            "date": "2020-10-12",
-                            "name": "Indigenous Peoples' Day"
-                        },
-                        {
-                            "date": "2020-11-27",
-                            "name": "Native American Heritage Day"
                         }
                     ]
                 },
@@ -311,8 +311,20 @@
                             "name": "Martin Luther King Jr. Day"
                         },
                         {
+                            "date": "2021-02-01",
+                            "name": "First Day of Black History Month"
+                        },
+                        {
                             "date": "2021-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "name": "Presidents' Day (regional holiday)"
+                        },
+                        {
+                            "date": "2021-03-01",
+                            "name": "First Day of Women's History Month"
                         },
                         {
                             "date": "2021-03-14",
@@ -347,6 +359,10 @@
                             "name": "Memorial Day"
                         },
                         {
+                            "date": "2021-06-19",
+                            "name": "Juneteenth"
+                        },
+                        {
                             "date": "2021-06-20",
                             "name": "Father's Day"
                         },
@@ -363,8 +379,16 @@
                             "name": "Labor Day"
                         },
                         {
+                            "date": "2021-10-11",
+                            "name": "Columbus Day"
+                        },
+                        {
                             "date": "2021-10-31",
                             "name": "Halloween"
+                        },
+                        {
+                            "date": "2021-11-02",
+                            "name": "Election Day"
                         },
                         {
                             "date": "2021-11-07",
@@ -383,12 +407,16 @@
                             "name": "Black Friday"
                         },
                         {
-                            "date": "2021-12-24",
-                            "name": "Christmas Day observed"
+                            "date": "2021-11-26",
+                            "name": "Native American Heritage Day"
                         },
                         {
                             "date": "2021-12-24",
                             "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2021-12-24",
+                            "name": "Christmas Day observed"
                         },
                         {
                             "date": "2021-12-25",
@@ -401,34 +429,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Presidents' Day (regional holiday)"
-                        },
-                        {
-                            "date": "2021-02-01",
-                            "name": "First Day of Black History Month"
-                        },
-                        {
-                            "date": "2021-03-01",
-                            "name": "First Day of Women's History Month"
-                        },
-                        {
-                            "date": "2021-11-02",
-                            "name": "Election Day"
-                        },
-                        {
-                            "date": "2021-06-19",
-                            "name": "Juneteenth"
-                        },
-                        {
-                            "date": "2021-10-11",
-                            "name": "Columbus Day"
-                        },
-                        {
-                            "date": "2021-11-26",
-                            "name": "Native American Heritage Day"
                         }
                     ]
                 }

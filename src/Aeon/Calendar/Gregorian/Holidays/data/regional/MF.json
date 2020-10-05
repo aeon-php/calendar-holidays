@@ -37,12 +37,28 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2019-05-28",
+                            "name": "Abolition Day"
+                        },
+                        {
                             "date": "2019-05-30",
                             "name": "Ascension Day"
                         },
                         {
                             "date": "2019-06-09",
                             "name": "Whit Sunday"
+                        },
+                        {
+                            "date": "2019-06-10",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2019-07-14",
+                            "name": "French National Day"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary"
                         },
                         {
                             "date": "2019-11-11",
@@ -55,22 +71,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-07-14",
-                            "name": "French National Day"
-                        },
-                        {
-                            "date": "2019-05-28",
-                            "name": "Abolition Day"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
                         },
                         {
                             "date": "2019-12-31",
@@ -106,20 +106,12 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2020-05-27",
+                            "name": "Abolition Day"
+                        },
+                        {
                             "date": "2020-05-31",
                             "name": "Whit Sunday"
-                        },
-                        {
-                            "date": "2020-11-11",
-                            "name": "Saint Martin's Day"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-12-26",
-                            "name": "Boxing Day"
                         },
                         {
                             "date": "2020-06-01",
@@ -134,12 +126,20 @@
                             "name": "Assumption of Mary"
                         },
                         {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
+                            "date": "2020-11-11",
+                            "name": "Saint Martin's Day"
                         },
                         {
-                            "date": "2020-05-27",
-                            "name": "Abolition Day"
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2020-12-26",
+                            "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -175,6 +175,22 @@
                             "name": "Whit Sunday"
                         },
                         {
+                            "date": "2021-05-24",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2021-05-27",
+                            "name": "Abolition Day"
+                        },
+                        {
+                            "date": "2021-07-14",
+                            "name": "French National Day"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
                             "date": "2021-11-11",
                             "name": "Saint Martin's Day"
                         },
@@ -187,24 +203,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-05-24",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2021-07-14",
-                            "name": "French National Day"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-05-27",
-                            "name": "Abolition Day"
                         }
                     ]
                 }

@@ -46,6 +46,10 @@
                         },
                         {
                             "date": "2019-05-01",
+                            "name": "Constituent Assembly Convocation Day"
+                        },
+                        {
+                            "date": "2019-05-01",
                             "name": "Labour Day\/May Day"
                         },
                         {
@@ -103,10 +107,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Constituent Assembly Convocation Day"
                         }
                     ]
                 },
@@ -146,6 +146,10 @@
                             "name": "Labour Day\/May Day"
                         },
                         {
+                            "date": "2020-05-01",
+                            "name": "Constituent Assembly Convocation Day"
+                        },
+                        {
                             "date": "2020-05-04",
                             "name": "Independence Restoration Day"
                         },
@@ -158,12 +162,28 @@
                             "name": "Whitsunday"
                         },
                         {
+                            "date": "2020-06-13",
+                            "name": "Special Working Day"
+                        },
+                        {
+                            "date": "2020-06-22",
+                            "name": "Midsummer Day Holiday"
+                        },
+                        {
                             "date": "2020-06-23",
                             "name": "Midsummer Eve"
                         },
                         {
                             "date": "2020-06-24",
                             "name": "Midsummer Day"
+                        },
+                        {
+                            "date": "2020-07-12",
+                            "name": "Youth Song and Dance Festival Holiday"
+                        },
+                        {
+                            "date": "2020-07-13",
+                            "name": "Youth Song and Dance Festival Holiday observed"
                         },
                         {
                             "date": "2020-09-13",
@@ -196,26 +216,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-07-12",
-                            "name": "Youth Song and Dance Festival Holiday"
-                        },
-                        {
-                            "date": "2020-07-13",
-                            "name": "Youth Song and Dance Festival Holiday observed"
-                        },
-                        {
-                            "date": "2020-05-01",
-                            "name": "Constituent Assembly Convocation Day"
-                        },
-                        {
-                            "date": "2020-06-13",
-                            "name": "Special Working Day"
-                        },
-                        {
-                            "date": "2020-06-22",
-                            "name": "Midsummer Day Holiday"
                         }
                     ]
                 },
@@ -252,11 +252,23 @@
                         },
                         {
                             "date": "2021-05-01",
+                            "name": "Constituent Assembly Convocation Day"
+                        },
+                        {
+                            "date": "2021-05-01",
                             "name": "Labour Day\/May Day"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Public Holiday"
                         },
                         {
                             "date": "2021-05-04",
                             "name": "Independence Restoration Day"
+                        },
+                        {
+                            "date": "2021-05-08",
+                            "name": "Working Day"
                         },
                         {
                             "date": "2021-05-09",
@@ -267,12 +279,20 @@
                             "name": "Whitsunday"
                         },
                         {
+                            "date": "2021-06-19",
+                            "name": "Working Day"
+                        },
+                        {
                             "date": "2021-06-23",
                             "name": "Midsummer Eve"
                         },
                         {
                             "date": "2021-06-24",
                             "name": "Midsummer Day"
+                        },
+                        {
+                            "date": "2021-06-25",
+                            "name": "Public Holiday"
                         },
                         {
                             "date": "2021-09-12",
@@ -287,8 +307,16 @@
                             "name": "Halloween"
                         },
                         {
+                            "date": "2021-11-13",
+                            "name": "Working Day"
+                        },
+                        {
                             "date": "2021-11-18",
                             "name": "Republic of Latvia Proclamation Day"
+                        },
+                        {
+                            "date": "2021-11-19",
+                            "name": "Public Holiday"
                         },
                         {
                             "date": "2021-12-24",
@@ -305,34 +333,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Constituent Assembly Convocation Day"
-                        },
-                        {
-                            "date": "2021-05-03",
-                            "name": "Public Holiday"
-                        },
-                        {
-                            "date": "2021-05-08",
-                            "name": "Working Day"
-                        },
-                        {
-                            "date": "2021-06-19",
-                            "name": "Working Day"
-                        },
-                        {
-                            "date": "2021-06-25",
-                            "name": "Public Holiday"
-                        },
-                        {
-                            "date": "2021-11-13",
-                            "name": "Working Day"
-                        },
-                        {
-                            "date": "2021-11-19",
-                            "name": "Public Holiday"
                         }
                     ]
                 }

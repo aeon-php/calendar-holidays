@@ -41,12 +41,28 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2019-06-16",
+                            "name": "Father's Day"
+                        },
+                        {
                             "date": "2019-07-25",
                             "name": "Annexation of Guanacaste"
                         },
                         {
                             "date": "2019-08-02",
                             "name": "Our Lady of Los \u00c1ngeles"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2019-08-24",
+                            "name": "National Parks Day"
+                        },
+                        {
+                            "date": "2019-09-09",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2019-09-15",
@@ -61,6 +77,10 @@
                             "name": "All Souls' Day"
                         },
                         {
+                            "date": "2019-11-22",
+                            "name": "Teacher's Day"
+                        },
+                        {
                             "date": "2019-12-08",
                             "name": "Feast of the Immaculate Conception"
                         },
@@ -69,28 +89,8 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2019-08-15",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-09-09",
-                            "name": "Children's Day"
-                        },
-                        {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-06-16",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-08-24",
-                            "name": "National Parks Day"
-                        },
-                        {
-                            "date": "2019-11-22",
-                            "name": "Teacher's Day"
                         }
                     ]
                 },
@@ -122,36 +122,8 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
-                            "date": "2020-11-02",
-                            "name": "All Souls' Day"
-                        },
-                        {
-                            "date": "2020-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-09-09",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2020-06-21",
                             "name": "Father's Day"
-                        },
-                        {
-                            "date": "2020-08-24",
-                            "name": "National Parks Day"
-                        },
-                        {
-                            "date": "2020-11-22",
-                            "name": "Teacher's Day"
                         },
                         {
                             "date": "2020-07-27",
@@ -166,12 +138,40 @@
                             "name": "Mother's Day"
                         },
                         {
+                            "date": "2020-08-24",
+                            "name": "National Parks Day"
+                        },
+                        {
+                            "date": "2020-09-09",
+                            "name": "Children's Day"
+                        },
+                        {
                             "date": "2020-09-14",
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
+                            "date": "2020-11-22",
+                            "name": "Teacher's Day"
+                        },
+                        {
                             "date": "2020-11-30",
                             "name": "Day of Abolition of the Army"
+                        },
+                        {
+                            "date": "2020-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -195,8 +195,36 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-12",
+                            "name": "Battle of Rivas"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2021-06-20",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2021-07-26",
+                            "name": "Annexation of Guanacaste"
+                        },
+                        {
                             "date": "2021-08-02",
                             "name": "Our Lady of Los \u00c1ngeles"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2021-08-24",
+                            "name": "National Parks Day"
+                        },
+                        {
+                            "date": "2021-09-09",
+                            "name": "Children's Day"
                         },
                         {
                             "date": "2021-09-15",
@@ -207,34 +235,6 @@
                             "name": "All Souls' Day"
                         },
                         {
-                            "date": "2021-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2021-09-09",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-06-20",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2021-08-24",
-                            "name": "National Parks Day"
-                        },
-                        {
                             "date": "2021-11-22",
                             "name": "Teacher's Day"
                         },
@@ -243,16 +243,16 @@
                             "name": "Day of Abolition of the Army"
                         },
                         {
-                            "date": "2021-04-12",
-                            "name": "Battle of Rivas"
+                            "date": "2021-12-08",
+                            "name": "Feast of the Immaculate Conception"
                         },
                         {
-                            "date": "2021-05-03",
-                            "name": "Labor Day \/ May Day"
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         },
                         {
-                            "date": "2021-07-26",
-                            "name": "Annexation of Guanacaste"
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

@@ -33,6 +33,10 @@
                             "name": "Commemoration of Atat\u00fcrk, Youth and Sports Day"
                         },
                         {
+                            "date": "2019-06-03",
+                            "name": "Ramadan Feast Eve"
+                        },
+                        {
                             "date": "2019-06-04",
                             "name": "Ramadan Feast"
                         },
@@ -43,6 +47,10 @@
                         {
                             "date": "2019-06-06",
                             "name": "Ramadan Feast Day 3"
+                        },
+                        {
+                            "date": "2019-06-07",
+                            "name": "Ramadan Feast Day 4"
                         },
                         {
                             "date": "2019-07-15",
@@ -87,14 +95,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-06-03",
-                            "name": "Ramadan Feast Eve"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Ramadan Feast Day 4"
                         }
                     ]
                 },

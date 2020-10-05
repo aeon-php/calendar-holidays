@@ -32,6 +32,14 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-03-04",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2019-03-05",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
                             "date": "2019-03-24",
                             "name": "Memorial Day"
                         },
@@ -45,11 +53,11 @@
                         },
                         {
                             "date": "2019-04-19",
-                            "name": "Good Friday"
+                            "name": "Passover Eve"
                         },
                         {
                             "date": "2019-04-19",
-                            "name": "Passover Eve"
+                            "name": "Good Friday"
                         },
                         {
                             "date": "2019-04-20",
@@ -58,6 +66,10 @@
                         {
                             "date": "2019-04-21",
                             "name": "Second Day of Passover"
+                        },
+                        {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-04-24",
@@ -84,6 +96,10 @@
                             "name": "National Day\/May 1810 Revolution"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "End of Ramadan"
+                        },
+                        {
                             "date": "2019-06-17",
                             "name": "Commemoration of General Don Mart\u00edn Miguel de G\u00fcemes"
                         },
@@ -100,12 +116,20 @@
                             "name": "Independence day"
                         },
                         {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2019-08-17",
                             "name": "San Mart\u00edn Day"
                         },
                         {
                             "date": "2019-08-19",
                             "name": "Bridge Public Holiday"
+                        },
+                        {
+                            "date": "2019-08-31",
+                            "name": "Muharram\/New Year"
                         },
                         {
                             "date": "2019-10-12",
@@ -130,30 +154,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "End of Ramadan"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-31",
-                            "name": "Muharram\/New Year"
                         }
                     ]
                 },
@@ -165,8 +165,32 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2020-02-24",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2020-02-25",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2020-03-23",
+                            "name": "Bridge Public Holiday"
+                        },
+                        {
                             "date": "2020-03-24",
                             "name": "Memorial Day"
+                        },
+                        {
+                            "date": "2020-03-30",
+                            "name": "Bridge Public Holiday"
+                        },
+                        {
+                            "date": "2020-03-31",
+                            "name": "Holiday for Day of the Veterans"
+                        },
+                        {
+                            "date": "2020-04-02",
+                            "name": "Day of the Veterans"
                         },
                         {
                             "date": "2020-04-08",
@@ -182,11 +206,15 @@
                         },
                         {
                             "date": "2020-04-10",
-                            "name": "Good Friday"
+                            "name": "Second Day of Passover"
                         },
                         {
                             "date": "2020-04-10",
-                            "name": "Second Day of Passover"
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-14",
@@ -209,8 +237,16 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2020-05-23",
+                            "name": "End of Ramadan"
+                        },
+                        {
                             "date": "2020-05-25",
                             "name": "National Day\/May 1810 Revolution"
+                        },
+                        {
+                            "date": "2020-06-15",
+                            "name": "Commemoration of General Don Mart\u00edn Miguel de G\u00fcemes"
                         },
                         {
                             "date": "2020-06-20",
@@ -221,8 +257,20 @@
                             "name": "Independence day"
                         },
                         {
+                            "date": "2020-07-10",
+                            "name": "Bridge Public Holiday"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2020-08-17",
                             "name": "San Mart\u00edn Day"
+                        },
+                        {
+                            "date": "2020-08-20",
+                            "name": "Muharram\/New Year"
                         },
                         {
                             "date": "2020-10-12",
@@ -231,6 +279,10 @@
                         {
                             "date": "2020-11-23",
                             "name": "National Sovereignty Day"
+                        },
+                        {
+                            "date": "2020-12-07",
+                            "name": "Bridge Public Holiday"
                         },
                         {
                             "date": "2020-12-08",
@@ -243,58 +295,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-02-24",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2020-02-25",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Bridge Public Holiday"
-                        },
-                        {
-                            "date": "2020-07-10",
-                            "name": "Bridge Public Holiday"
-                        },
-                        {
-                            "date": "2020-12-07",
-                            "name": "Bridge Public Holiday"
-                        },
-                        {
-                            "date": "2020-06-15",
-                            "name": "Commemoration of General Don Mart\u00edn Miguel de G\u00fcemes"
-                        },
-                        {
-                            "date": "2020-03-30",
-                            "name": "Bridge Public Holiday"
-                        },
-                        {
-                            "date": "2020-03-31",
-                            "name": "Holiday for Day of the Veterans"
-                        },
-                        {
-                            "date": "2020-04-02",
-                            "name": "Day of the Veterans"
-                        },
-                        {
-                            "date": "2020-05-23",
-                            "name": "End of Ramadan"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-08-20",
-                            "name": "Muharram\/New Year"
                         }
                     ]
                 },
@@ -304,6 +304,14 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2021-02-16",
+                            "name": "Carnival \/ Shrove Tuesday"
                         },
                         {
                             "date": "2021-03-24",
@@ -346,12 +354,20 @@
                             "name": "Last day of Passover"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2021-04-24",
                             "name": "Action Day for Tolerance and Respect between People"
                         },
                         {
                             "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2021-05-12",
+                            "name": "End of Ramadan"
                         },
                         {
                             "date": "2021-05-25",
@@ -368,6 +384,14 @@
                         {
                             "date": "2021-07-09",
                             "name": "Independence day"
+                        },
+                        {
+                            "date": "2021-07-20",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2021-08-10",
+                            "name": "Muharram\/New Year"
                         },
                         {
                             "date": "2021-08-16",
@@ -392,30 +416,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2021-02-16",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-05-12",
-                            "name": "End of Ramadan"
-                        },
-                        {
-                            "date": "2021-07-20",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2021-08-10",
-                            "name": "Muharram\/New Year"
                         }
                     ]
                 }

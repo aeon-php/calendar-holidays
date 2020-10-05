@@ -25,32 +25,16 @@
                             "name": "Papal Visit Day"
                         },
                         {
+                            "date": "2019-04-03",
+                            "name": "Leilat al-Meiraj (The Prophet's Ascension)"
+                        },
+                        {
                             "date": "2019-05-06",
                             "name": "Ramadan Start"
                         },
                         {
                             "date": "2019-06-03",
                             "name": "Eid al-Fitr Holiday 1"
-                        },
-                        {
-                            "date": "2019-08-03",
-                            "name": "Hajj season begins"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-12-03",
-                            "name": "National Day Holiday"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Leilat al-Meiraj (The Prophet's Ascension)"
                         },
                         {
                             "date": "2019-06-04",
@@ -65,12 +49,24 @@
                             "name": "Eid al-Fitr Holiday 3"
                         },
                         {
+                            "date": "2019-08-03",
+                            "name": "Hajj season begins"
+                        },
+                        {
                             "date": "2019-08-10",
                             "name": "Arafat (Hajj) Day"
                         },
                         {
                             "date": "2019-08-11",
                             "name": "Eid al-Adha (Feast of Sacrifice)"
+                        },
+                        {
+                            "date": "2019-08-12",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2019-08-13",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2019-08-31",
@@ -89,12 +85,16 @@
                             "name": "Day off for Commemoration Day"
                         },
                         {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha Holiday"
+                            "date": "2019-12-02",
+                            "name": "National Day"
                         },
                         {
-                            "date": "2019-08-13",
-                            "name": "Eid al-Adha Holiday"
+                            "date": "2019-12-03",
+                            "name": "National Day Holiday"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -106,12 +106,32 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2020-03-22",
+                            "name": "Leilat al-Meiraj (The Prophet's Ascension)"
+                        },
+                        {
                             "date": "2020-04-24",
                             "name": "Ramadan Start"
                         },
                         {
+                            "date": "2020-05-22",
+                            "name": "Eid al-Fitr Holiday 1"
+                        },
+                        {
+                            "date": "2020-05-23",
+                            "name": "Eid al-Fitr Holiday 2"
+                        },
+                        {
                             "date": "2020-05-24",
                             "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr Holiday 3"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid al-Fitr Holiday 4"
                         },
                         {
                             "date": "2020-07-22",
@@ -126,40 +146,12 @@
                             "name": "Eid al-Adha (Feast of Sacrifice)"
                         },
                         {
-                            "date": "2020-12-02",
-                            "name": "National Day"
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
-                            "date": "2020-12-03",
-                            "name": "National Day Holiday"
-                        },
-                        {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-03-22",
-                            "name": "Leilat al-Meiraj (The Prophet's Ascension)"
-                        },
-                        {
-                            "date": "2020-12-01",
-                            "name": "Commemoration Day"
-                        },
-                        {
-                            "date": "2020-05-22",
-                            "name": "Eid al-Fitr Holiday 1"
-                        },
-                        {
-                            "date": "2020-05-23",
-                            "name": "Eid al-Fitr Holiday 2"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr Holiday 3"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid al-Fitr Holiday 4"
+                            "date": "2020-08-02",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2020-08-23",
@@ -170,12 +162,20 @@
                             "name": "Mouloud"
                         },
                         {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha Holiday"
+                            "date": "2020-12-01",
+                            "name": "Commemoration Day"
                         },
                         {
-                            "date": "2020-08-02",
-                            "name": "Eid al-Adha Holiday"
+                            "date": "2020-12-02",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2020-12-03",
+                            "name": "National Day Holiday"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -227,6 +227,14 @@
                             "name": "Eid al-Adha (Feast of Sacrifice)"
                         },
                         {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2021-07-22",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
                             "date": "2021-08-10",
                             "name": "Al-Hijra (Islamic New Year)"
                         },
@@ -249,14 +257,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2021-07-22",
-                            "name": "Eid al-Adha Holiday"
                         }
                     ]
                 }

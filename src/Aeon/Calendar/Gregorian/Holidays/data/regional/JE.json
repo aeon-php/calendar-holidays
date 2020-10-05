@@ -33,6 +33,10 @@
                             "name": "Easter Monday"
                         },
                         {
+                            "date": "2019-05-06",
+                            "name": "Early May Bank Holiday"
+                        },
+                        {
                             "date": "2019-05-09",
                             "name": "Liberation Day"
                         },
@@ -55,10 +59,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Early May Bank Holiday"
                         }
                     ]
                 },
@@ -80,6 +80,14 @@
                         {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2020-05-04",
+                            "name": "Early May Bank Holiday"
+                        },
+                        {
+                            "date": "2020-05-08",
+                            "name": "75th Anniversary of VE Day"
                         },
                         {
                             "date": "2020-05-09",
@@ -104,14 +112,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-05-04",
-                            "name": "Early May Bank Holiday"
-                        },
-                        {
-                            "date": "2020-05-08",
-                            "name": "75th Anniversary of VE Day"
                         },
                         {
                             "date": "2020-12-28",
@@ -139,6 +139,10 @@
                             "name": "Easter Monday"
                         },
                         {
+                            "date": "2021-05-03",
+                            "name": "Early May Bank Holiday"
+                        },
+                        {
                             "date": "2021-05-09",
                             "name": "Liberation Day"
                         },
@@ -149,6 +153,10 @@
                         {
                             "date": "2021-08-30",
                             "name": "Summer Bank Holiday"
+                        },
+                        {
+                            "date": "2021-09-27",
+                            "name": "Corn Riots Anniversary Bank Holiday"
                         },
                         {
                             "date": "2021-10-31",
@@ -163,20 +171,12 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-05-03",
-                            "name": "Early May Bank Holiday"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Christmas Day"
                         },
                         {
                             "date": "2021-12-28",
                             "name": "Day off for Boxing Day"
-                        },
-                        {
-                            "date": "2021-09-27",
-                            "name": "Corn Riots Anniversary Bank Holiday"
                         }
                     ]
                 }

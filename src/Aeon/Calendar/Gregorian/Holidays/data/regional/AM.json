@@ -33,6 +33,18 @@
                             "name": "New Year's Day (Day 4)"
                         },
                         {
+                            "date": "2019-01-05",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2019-01-06",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2019-01-07",
+                            "name": "Christmas Remembrance Day"
+                        },
+                        {
                             "date": "2019-01-28",
                             "name": "Army Day"
                         },
@@ -69,8 +81,16 @@
                             "name": "Genocide Remembrance Day"
                         },
                         {
+                            "date": "2019-04-27",
+                            "name": "Citizens' Day"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labour Day\/May Day"
+                        },
+                        {
+                            "date": "2019-05-08",
+                            "name": "Yerkrapah Day"
                         },
                         {
                             "date": "2019-05-09",
@@ -89,6 +109,14 @@
                             "name": "Constitution Day"
                         },
                         {
+                            "date": "2019-07-05",
+                            "name": "Day of State Symbols"
+                        },
+                        {
+                            "date": "2019-07-28",
+                            "name": "Vardavar"
+                        },
+                        {
                             "date": "2019-09-01",
                             "name": "Knowledge and Literature Day"
                         },
@@ -97,44 +125,16 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2019-10-12",
+                            "name": "Translators' Day"
+                        },
+                        {
                             "date": "2019-12-07",
                             "name": "Spitak Remembrance Day"
                         },
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-07-28",
-                            "name": "Vardavar"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-04-27",
-                            "name": "Citizens' Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Translators' Day"
-                        },
-                        {
-                            "date": "2019-01-05",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-05-08",
-                            "name": "Yerkrapah Day"
-                        },
-                        {
-                            "date": "2019-01-07",
-                            "name": "Christmas Remembrance Day"
-                        },
-                        {
-                            "date": "2019-07-05",
-                            "name": "Day of State Symbols"
                         }
                     ]
                 },
@@ -156,6 +156,18 @@
                         {
                             "date": "2020-01-04",
                             "name": "New Year's Day (Day 4)"
+                        },
+                        {
+                            "date": "2020-01-05",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2020-01-06",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2020-01-07",
+                            "name": "Christmas Remembrance Day"
                         },
                         {
                             "date": "2020-01-28",
@@ -194,8 +206,16 @@
                             "name": "Genocide Remembrance Day"
                         },
                         {
+                            "date": "2020-04-25",
+                            "name": "Citizens' Day"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labour Day\/May Day"
+                        },
+                        {
+                            "date": "2020-05-08",
+                            "name": "Yerkrapah Day"
                         },
                         {
                             "date": "2020-05-09",
@@ -214,6 +234,14 @@
                             "name": "Constitution Day"
                         },
                         {
+                            "date": "2020-07-05",
+                            "name": "Day of State Symbols"
+                        },
+                        {
+                            "date": "2020-07-19",
+                            "name": "Vardavar"
+                        },
+                        {
                             "date": "2020-09-01",
                             "name": "Knowledge and Literature Day"
                         },
@@ -222,44 +250,16 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-10-10",
+                            "name": "Translators' Day"
+                        },
+                        {
                             "date": "2020-12-07",
                             "name": "Spitak Remembrance Day"
                         },
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-07-19",
-                            "name": "Vardavar"
-                        },
-                        {
-                            "date": "2020-01-05",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2020-04-25",
-                            "name": "Citizens' Day"
-                        },
-                        {
-                            "date": "2020-05-08",
-                            "name": "Yerkrapah Day"
-                        },
-                        {
-                            "date": "2020-10-10",
-                            "name": "Translators' Day"
-                        },
-                        {
-                            "date": "2020-01-06",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-07",
-                            "name": "Christmas Remembrance Day"
-                        },
-                        {
-                            "date": "2020-07-05",
-                            "name": "Day of State Symbols"
                         }
                     ]
                 },
@@ -281,6 +281,18 @@
                         {
                             "date": "2021-01-04",
                             "name": "New Year's Day (Day 4)"
+                        },
+                        {
+                            "date": "2021-01-05",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2021-01-06",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2021-01-07",
+                            "name": "Christmas Remembrance Day"
                         },
                         {
                             "date": "2021-01-28",
@@ -319,8 +331,16 @@
                             "name": "Genocide Remembrance Day"
                         },
                         {
+                            "date": "2021-04-24",
+                            "name": "Citizens' Day"
+                        },
+                        {
                             "date": "2021-05-01",
                             "name": "Labour Day\/May Day"
+                        },
+                        {
+                            "date": "2021-05-08",
+                            "name": "Yerkrapah Day"
                         },
                         {
                             "date": "2021-05-09",
@@ -339,6 +359,10 @@
                             "name": "Constitution Day"
                         },
                         {
+                            "date": "2021-07-05",
+                            "name": "Day of State Symbols"
+                        },
+                        {
                             "date": "2021-09-01",
                             "name": "Knowledge and Literature Day"
                         },
@@ -347,40 +371,16 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2021-10-09",
+                            "name": "Translators' Day"
+                        },
+                        {
                             "date": "2021-12-07",
                             "name": "Spitak Remembrance Day"
                         },
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-01-05",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2021-04-24",
-                            "name": "Citizens' Day"
-                        },
-                        {
-                            "date": "2021-10-09",
-                            "name": "Translators' Day"
-                        },
-                        {
-                            "date": "2021-01-06",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-05-08",
-                            "name": "Yerkrapah Day"
-                        },
-                        {
-                            "date": "2021-01-07",
-                            "name": "Christmas Remembrance Day"
-                        },
-                        {
-                            "date": "2021-07-05",
-                            "name": "Day of State Symbols"
                         }
                     ]
                 }

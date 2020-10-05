@@ -22,12 +22,28 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-01-06",
+                            "name": "Epiphany (regional holiday)"
+                        },
+                        {
                             "date": "2019-02-14",
                             "name": "Valentine's Day"
                         },
                         {
                             "date": "2019-03-04",
                             "name": "Shrove Monday"
+                        },
+                        {
+                            "date": "2019-03-05",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2019-03-06",
+                            "name": "Carnival \/ Ash Wednesday"
+                        },
+                        {
+                            "date": "2019-03-08",
+                            "name": "International Women's Day (regional holiday)"
                         },
                         {
                             "date": "2019-03-31",
@@ -46,12 +62,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday (regional holiday)"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
                         {
                             "date": "2019-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2019-05-08",
+                            "name": "Anniversary of the End of World War II"
                         },
                         {
                             "date": "2019-05-12",
@@ -66,8 +90,28 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2019-06-09",
+                            "name": "Whit Sunday (regional holiday)"
+                        },
+                        {
                             "date": "2019-06-10",
                             "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2019-06-20",
+                            "name": "Corpus Christi (regional holiday)"
+                        },
+                        {
+                            "date": "2019-08-08",
+                            "name": "Peace Festival in Augsburg (Bavaria)"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Assumption of Mary (regional holiday)"
+                        },
+                        {
+                            "date": "2019-09-20",
+                            "name": "German World Children's Day (Thuringia)"
                         },
                         {
                             "date": "2019-10-03",
@@ -82,12 +126,24 @@
                             "name": "Halloween"
                         },
                         {
+                            "date": "2019-10-31",
+                            "name": "Reformation Day (regional holiday)"
+                        },
+                        {
+                            "date": "2019-11-01",
+                            "name": "All Saints' Day (regional holiday)"
+                        },
+                        {
                             "date": "2019-11-11",
                             "name": "St. Martin's Day"
                         },
                         {
                             "date": "2019-11-17",
                             "name": "National Day of Mourning"
+                        },
+                        {
+                            "date": "2019-11-20",
+                            "name": "Repentance Day (Saxony)"
                         },
                         {
                             "date": "2019-11-24",
@@ -128,62 +184,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-03-06",
-                            "name": "Carnival \/ Ash Wednesday"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Epiphany (regional holiday)"
-                        },
-                        {
-                            "date": "2019-08-08",
-                            "name": "Peace Festival in Augsburg (Bavaria)"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Reformation Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-11-20",
-                            "name": "Repentance Day (Saxony)"
-                        },
-                        {
-                            "date": "2019-05-08",
-                            "name": "Anniversary of the End of World War II"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi (regional holiday)"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary (regional holiday)"
-                        },
-                        {
-                            "date": "2019-06-09",
-                            "name": "Whit Sunday (regional holiday)"
-                        },
-                        {
-                            "date": "2019-09-20",
-                            "name": "German World Children's Day (Thuringia)"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "International Women's Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday (regional holiday)"
                         }
                     ]
                 },
@@ -195,12 +195,28 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2020-01-06",
+                            "name": "Epiphany (regional holiday)"
+                        },
+                        {
                             "date": "2020-02-14",
                             "name": "Valentine's Day"
                         },
                         {
                             "date": "2020-02-24",
                             "name": "Shrove Monday"
+                        },
+                        {
+                            "date": "2020-02-25",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2020-02-26",
+                            "name": "Carnival \/ Ash Wednesday"
+                        },
+                        {
+                            "date": "2020-03-08",
+                            "name": "International Women's Day (regional holiday)"
                         },
                         {
                             "date": "2020-03-29",
@@ -219,12 +235,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday (regional holiday)"
+                        },
+                        {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
                         },
                         {
                             "date": "2020-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2020-05-08",
+                            "name": "Anniversary of the End of World War II (Berlin)"
                         },
                         {
                             "date": "2020-05-10",
@@ -239,8 +263,28 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2020-05-31",
+                            "name": "Whit Sunday (regional holiday)"
+                        },
+                        {
                             "date": "2020-06-01",
                             "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2020-06-11",
+                            "name": "Corpus Christi (regional holiday)"
+                        },
+                        {
+                            "date": "2020-08-08",
+                            "name": "Peace Festival in Augsburg (Bavaria)"
+                        },
+                        {
+                            "date": "2020-08-15",
+                            "name": "Assumption of Mary (regional holiday)"
+                        },
+                        {
+                            "date": "2020-09-20",
+                            "name": "German World Children's Day (Thuringia)"
                         },
                         {
                             "date": "2020-10-03",
@@ -255,12 +299,24 @@
                             "name": "Halloween"
                         },
                         {
+                            "date": "2020-10-31",
+                            "name": "Reformation Day (regional holiday)"
+                        },
+                        {
+                            "date": "2020-11-01",
+                            "name": "All Saints' Day (regional holiday)"
+                        },
+                        {
                             "date": "2020-11-11",
                             "name": "St. Martin's Day"
                         },
                         {
                             "date": "2020-11-15",
                             "name": "National Day of Mourning"
+                        },
+                        {
+                            "date": "2020-11-18",
+                            "name": "Repentance Day (Saxony)"
                         },
                         {
                             "date": "2020-11-22",
@@ -301,62 +357,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-02-25",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2020-02-26",
-                            "name": "Carnival \/ Ash Wednesday"
-                        },
-                        {
-                            "date": "2020-08-08",
-                            "name": "Peace Festival in Augsburg (Bavaria)"
-                        },
-                        {
-                            "date": "2020-10-31",
-                            "name": "Reformation Day (regional holiday)"
-                        },
-                        {
-                            "date": "2020-11-01",
-                            "name": "All Saints' Day (regional holiday)"
-                        },
-                        {
-                            "date": "2020-11-18",
-                            "name": "Repentance Day (Saxony)"
-                        },
-                        {
-                            "date": "2020-01-06",
-                            "name": "Epiphany (regional holiday)"
-                        },
-                        {
-                            "date": "2020-06-11",
-                            "name": "Corpus Christi (regional holiday)"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Assumption of Mary (regional holiday)"
-                        },
-                        {
-                            "date": "2020-05-08",
-                            "name": "Anniversary of the End of World War II (Berlin)"
-                        },
-                        {
-                            "date": "2020-05-31",
-                            "name": "Whit Sunday (regional holiday)"
-                        },
-                        {
-                            "date": "2020-09-20",
-                            "name": "German World Children's Day (Thuringia)"
-                        },
-                        {
-                            "date": "2020-03-08",
-                            "name": "International Women's Day (regional holiday)"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday (regional holiday)"
                         }
                     ]
                 },
@@ -368,12 +368,28 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2021-01-06",
+                            "name": "Epiphany (regional holiday)"
+                        },
+                        {
                             "date": "2021-02-14",
                             "name": "Valentine's Day"
                         },
                         {
                             "date": "2021-02-15",
                             "name": "Shrove Monday"
+                        },
+                        {
+                            "date": "2021-02-16",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2021-02-17",
+                            "name": "Carnival \/ Ash Wednesday"
+                        },
+                        {
+                            "date": "2021-03-08",
+                            "name": "International Women's Day (regional holiday)"
                         },
                         {
                             "date": "2021-03-28",
@@ -392,12 +408,20 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday (regional holiday)"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
                         },
                         {
                             "date": "2021-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2021-05-08",
+                            "name": "Anniversary of the End of World War II"
                         },
                         {
                             "date": "2021-05-09",
@@ -412,8 +436,28 @@
                             "name": "Father's Day"
                         },
                         {
+                            "date": "2021-05-23",
+                            "name": "Whit Sunday (regional holiday)"
+                        },
+                        {
                             "date": "2021-05-24",
                             "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2021-06-03",
+                            "name": "Corpus Christi (regional holiday)"
+                        },
+                        {
+                            "date": "2021-08-08",
+                            "name": "Peace Festival in Augsburg (Bavaria)"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary (regional holiday)"
+                        },
+                        {
+                            "date": "2021-09-20",
+                            "name": "German World Children's Day (Thuringia)"
                         },
                         {
                             "date": "2021-10-03",
@@ -428,12 +472,24 @@
                             "name": "Halloween"
                         },
                         {
+                            "date": "2021-10-31",
+                            "name": "Reformation Day (regional holiday)"
+                        },
+                        {
+                            "date": "2021-11-01",
+                            "name": "All Saints' Day (regional holiday)"
+                        },
+                        {
                             "date": "2021-11-11",
                             "name": "St. Martin's Day"
                         },
                         {
                             "date": "2021-11-14",
                             "name": "National Day of Mourning"
+                        },
+                        {
+                            "date": "2021-11-17",
+                            "name": "Repentance Day (Saxony)"
                         },
                         {
                             "date": "2021-11-21",
@@ -474,62 +530,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-02-16",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2021-02-17",
-                            "name": "Carnival \/ Ash Wednesday"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "All Saints' Day (regional holiday)"
-                        },
-                        {
-                            "date": "2021-01-06",
-                            "name": "Epiphany (regional holiday)"
-                        },
-                        {
-                            "date": "2021-08-08",
-                            "name": "Peace Festival in Augsburg (Bavaria)"
-                        },
-                        {
-                            "date": "2021-10-31",
-                            "name": "Reformation Day (regional holiday)"
-                        },
-                        {
-                            "date": "2021-11-17",
-                            "name": "Repentance Day (Saxony)"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday (regional holiday)"
-                        },
-                        {
-                            "date": "2021-05-08",
-                            "name": "Anniversary of the End of World War II"
-                        },
-                        {
-                            "date": "2021-03-08",
-                            "name": "International Women's Day (regional holiday)"
-                        },
-                        {
-                            "date": "2021-05-23",
-                            "name": "Whit Sunday (regional holiday)"
-                        },
-                        {
-                            "date": "2021-06-03",
-                            "name": "Corpus Christi (regional holiday)"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Assumption of Mary (regional holiday)"
-                        },
-                        {
-                            "date": "2021-09-20",
-                            "name": "German World Children's Day (Thuringia)"
                         }
                     ]
                 }

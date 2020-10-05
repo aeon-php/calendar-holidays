@@ -17,24 +17,16 @@
                     "year": 2019,
                     "holidays": [
                         {
+                            "date": "2019-04-03",
+                            "name": "Isra and Mi'raj"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "May Day"
                         },
                         {
                             "date": "2019-05-22",
                             "name": "Unity Day"
-                        },
-                        {
-                            "date": "2019-09-26",
-                            "name": "Revolution Day"
-                        },
-                        {
-                            "date": "2019-11-30",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-10-14",
-                            "name": "Liberation Day"
                         },
                         {
                             "date": "2019-06-03",
@@ -51,6 +43,10 @@
                         {
                             "date": "2019-06-06",
                             "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2019-07-07",
+                            "name": "July 7th Anniversary"
                         },
                         {
                             "date": "2019-08-10",
@@ -77,16 +73,20 @@
                             "name": "Muharram"
                         },
                         {
+                            "date": "2019-09-26",
+                            "name": "Revolution Day"
+                        },
+                        {
+                            "date": "2019-10-14",
+                            "name": "Liberation Day"
+                        },
+                        {
                             "date": "2019-11-09",
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2019-04-03",
-                            "name": "Isra and Mi'raj"
-                        },
-                        {
-                            "date": "2019-07-07",
-                            "name": "July 7th Anniversary"
+                            "date": "2019-11-30",
+                            "name": "Independence Day"
                         }
                     ]
                 },
@@ -94,44 +94,52 @@
                     "year": 2020,
                     "holidays": [
                         {
+                            "date": "2020-03-22",
+                            "name": "Isra and Mi'raj"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "May Day"
+                        },
+                        {
+                            "date": "2020-05-02",
+                            "name": "Day off for May Day"
+                        },
+                        {
+                            "date": "2020-05-22",
+                            "name": "Eid al-Fitr holiday"
                         },
                         {
                             "date": "2020-05-22",
                             "name": "Unity Day"
                         },
                         {
-                            "date": "2020-05-24",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-08-20",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2020-09-26",
-                            "name": "Revolution Day"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2020-11-30",
-                            "name": "Independence Day"
-                        },
-                        {
                             "date": "2020-05-23",
                             "name": "Eid al-Fitr Eve"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2020-05-24",
+                            "name": "Day off for Unity Day"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2020-07-07",
+                            "name": "July 7th Anniversary"
+                        },
+                        {
                             "date": "2020-07-30",
                             "name": "Eid al-Adha Eve"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2020-08-01",
@@ -146,34 +154,6 @@
                             "name": "Eid al-Adha holiday"
                         },
                         {
-                            "date": "2020-05-25",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2020-10-14",
-                            "name": "Liberation Day"
-                        },
-                        {
-                            "date": "2020-05-02",
-                            "name": "Day off for May Day"
-                        },
-                        {
-                            "date": "2020-05-22",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2020-03-22",
-                            "name": "Isra and Mi'raj"
-                        },
-                        {
-                            "date": "2020-07-07",
-                            "name": "July 7th Anniversary"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Day off for Unity Day"
-                        },
-                        {
                             "date": "2020-08-04",
                             "name": "Eid al-Adha holiday"
                         },
@@ -184,6 +164,26 @@
                         {
                             "date": "2020-08-06",
                             "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2020-08-20",
+                            "name": "Muharram"
+                        },
+                        {
+                            "date": "2020-09-26",
+                            "name": "Revolution Day"
+                        },
+                        {
+                            "date": "2020-10-14",
+                            "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-11-30",
+                            "name": "Independence Day"
                         }
                     ]
                 },
@@ -191,32 +191,44 @@
                     "year": 2021,
                     "holidays": [
                         {
+                            "date": "2021-03-11",
+                            "name": "Isra and Mi'raj"
+                        },
+                        {
                             "date": "2021-05-01",
                             "name": "May Day"
                         },
                         {
-                            "date": "2021-05-13",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2021-07-20",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2021-08-10",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2021-10-19",
-                            "name": "The Prophet's Birthday"
+                            "date": "2021-05-11",
+                            "name": "Eid al-Fitr holiday"
                         },
                         {
                             "date": "2021-05-12",
                             "name": "Eid al-Fitr Eve"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2021-05-14",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2021-05-22",
+                            "name": "Unity Day"
+                        },
+                        {
+                            "date": "2021-07-07",
+                            "name": "July 7th Anniversary"
+                        },
+                        {
                             "date": "2021-07-19",
                             "name": "Eid al-Adha Eve"
+                        },
+                        {
+                            "date": "2021-07-20",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2021-07-21",
@@ -231,24 +243,8 @@
                             "name": "Eid al-Adha holiday"
                         },
                         {
-                            "date": "2021-05-14",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2021-05-11",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2021-03-11",
-                            "name": "Isra and Mi'raj"
-                        },
-                        {
-                            "date": "2021-07-07",
-                            "name": "July 7th Anniversary"
-                        },
-                        {
-                            "date": "2021-05-22",
-                            "name": "Unity Day"
+                            "date": "2021-08-10",
+                            "name": "Muharram"
                         },
                         {
                             "date": "2021-09-26",
@@ -257,6 +253,10 @@
                         {
                             "date": "2021-10-14",
                             "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2021-10-19",
+                            "name": "The Prophet's Birthday"
                         },
                         {
                             "date": "2021-11-30",

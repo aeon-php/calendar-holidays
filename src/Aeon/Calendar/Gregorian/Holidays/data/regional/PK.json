@@ -29,12 +29,16 @@
                             "name": "Basant Panchami"
                         },
                         {
-                            "date": "2019-03-21",
-                            "name": "Holi"
+                            "date": "2019-03-04",
+                            "name": "Shivaratri"
                         },
                         {
                             "date": "2019-03-21",
                             "name": "Dulhandi"
+                        },
+                        {
+                            "date": "2019-03-21",
+                            "name": "Holi"
                         },
                         {
                             "date": "2019-03-23",
@@ -58,6 +62,10 @@
                         },
                         {
                             "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2019-04-21",
                             "name": "Ridv\u00e1n"
                         },
                         {
@@ -73,12 +81,40 @@
                             "name": "Buddha Purnima"
                         },
                         {
+                            "date": "2019-06-05",
+                            "name": "Eid-ul-Fitr"
+                        },
+                        {
+                            "date": "2019-06-06",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
+                            "date": "2019-06-07",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
                             "date": "2019-07-01",
                             "name": "July 1 Bank Holiday"
                         },
                         {
+                            "date": "2019-08-12",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-08-13",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2019-08-14",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
                             "date": "2019-08-14",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-08-15",
+                            "name": "Eid al-Adha Day 4"
                         },
                         {
                             "date": "2019-08-22",
@@ -91,6 +127,18 @@
                         {
                             "date": "2019-09-06",
                             "name": "Defence Day"
+                        },
+                        {
+                            "date": "2019-09-09",
+                            "name": "Ashura"
+                        },
+                        {
+                            "date": "2019-09-10",
+                            "name": "Ashura Holiday"
+                        },
+                        {
+                            "date": "2019-10-06",
+                            "name": "Durga Puja"
                         },
                         {
                             "date": "2019-10-08",
@@ -130,67 +178,19 @@
                         },
                         {
                             "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-25",
                             "name": "Quaid-e-Azam Day"
                         },
                         {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Eid al-Adha Day 4"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Shivaratri"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid-ul-Fitr"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Eid-ul-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Eid-ul-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-08-14",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Ashura Holiday"
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2019-12-26",
                             "name": "Day After Christmas (Christians only)"
                         },
                         {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2019-09-09",
-                            "name": "Ashura"
-                        },
-                        {
-                            "date": "2019-10-06",
-                            "name": "Durga Puja"
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -210,6 +210,10 @@
                             "name": "Kashmir Day"
                         },
                         {
+                            "date": "2020-02-21",
+                            "name": "Shivaratri"
+                        },
+                        {
                             "date": "2020-03-09",
                             "name": "Holi"
                         },
@@ -222,8 +226,20 @@
                             "name": "Pakistan Day"
                         },
                         {
+                            "date": "2020-03-23",
+                            "name": "Shab e-Meraj"
+                        },
+                        {
+                            "date": "2020-04-09",
+                            "name": "Shab e-Barat"
+                        },
+                        {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-13",
@@ -238,6 +254,10 @@
                             "name": "Ridv\u00e1n"
                         },
                         {
+                            "date": "2020-04-25",
+                            "name": "Ramazan Bank Holiday"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labour Day"
                         },
@@ -246,8 +266,48 @@
                             "name": "Buddha Purnima"
                         },
                         {
+                            "date": "2020-05-22",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-23",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-24",
+                            "name": "Eid-ul-Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-27",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
                             "date": "2020-07-01",
                             "name": "July 1 Bank Holiday"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-02",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-11",
+                            "name": "Janmashtami"
                         },
                         {
                             "date": "2020-08-14",
@@ -258,12 +318,32 @@
                             "name": "Birthday of Lord Zoroaster (Khordad Sal)"
                         },
                         {
+                            "date": "2020-08-29",
+                            "name": "Ashura"
+                        },
+                        {
+                            "date": "2020-08-30",
+                            "name": "Ashura Holiday"
+                        },
+                        {
                             "date": "2020-09-06",
                             "name": "Defence Day"
                         },
                         {
+                            "date": "2020-10-08",
+                            "name": "Chelum"
+                        },
+                        {
+                            "date": "2020-10-23",
+                            "name": "Durga Puja"
+                        },
+                        {
                             "date": "2020-10-25",
                             "name": "Dussehra"
+                        },
+                        {
+                            "date": "2020-10-30",
+                            "name": "Eid Milad un-Nabi"
                         },
                         {
                             "date": "2020-10-31",
@@ -276,6 +356,10 @@
                         {
                             "date": "2020-11-14",
                             "name": "Diwali\/Deepavali"
+                        },
+                        {
+                            "date": "2020-11-28",
+                            "name": "Giarhwin Sharief"
                         },
                         {
                             "date": "2020-11-30",
@@ -294,96 +378,12 @@
                             "name": "Quaid-e-Azam Day"
                         },
                         {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-02-21",
-                            "name": "Shivaratri"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Shab e-Meraj"
-                        },
-                        {
-                            "date": "2020-04-09",
-                            "name": "Shab e-Barat"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid-ul-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-05-27",
-                            "name": "Eid-ul-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-08-11",
-                            "name": "Janmashtami"
-                        },
-                        {
-                            "date": "2020-08-29",
-                            "name": "Ashura"
-                        },
-                        {
-                            "date": "2020-08-30",
-                            "name": "Ashura Holiday"
-                        },
-                        {
-                            "date": "2020-10-08",
-                            "name": "Chelum"
-                        },
-                        {
-                            "date": "2020-10-30",
-                            "name": "Eid Milad un-Nabi"
-                        },
-                        {
-                            "date": "2020-11-28",
-                            "name": "Giarhwin Sharief"
-                        },
-                        {
                             "date": "2020-12-26",
                             "name": "Day After Christmas (Christians only)"
                         },
                         {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-10-23",
-                            "name": "Durga Puja"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-08-02",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-04-25",
-                            "name": "Ramazan Bank Holiday"
-                        },
-                        {
-                            "date": "2020-05-22",
-                            "name": "Eid-ul-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-05-23",
-                            "name": "Eid-ul-Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eid-ul-Fitr"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid-ul-Fitr Holiday"
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -399,60 +399,12 @@
                             "name": "Kashmir Day"
                         },
                         {
-                            "date": "2021-03-11",
-                            "name": "Shab e-Meraj"
-                        },
-                        {
-                            "date": "2021-03-23",
-                            "name": "Pakistan Day"
-                        },
-                        {
-                            "date": "2021-04-02",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2021-04-05",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2021-07-01",
-                            "name": "July 1 Bank Holiday"
-                        },
-                        {
-                            "date": "2021-08-14",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2021-09-06",
-                            "name": "Defence Day"
-                        },
-                        {
-                            "date": "2021-11-09",
-                            "name": "Iqbal Day"
-                        },
-                        {
-                            "date": "2021-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Quaid-e-Azam Day"
-                        },
-                        {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2021-02-16",
                             "name": "Basant Panchami"
+                        },
+                        {
+                            "date": "2021-03-11",
+                            "name": "Shab e-Meraj"
                         },
                         {
                             "date": "2021-03-11",
@@ -463,6 +415,10 @@
                             "name": "Shab e-Barat"
                         },
                         {
+                            "date": "2021-03-23",
+                            "name": "Pakistan Day"
+                        },
+                        {
                             "date": "2021-03-28",
                             "name": "Holi"
                         },
@@ -471,8 +427,24 @@
                             "name": "Dulhandi"
                         },
                         {
+                            "date": "2021-04-02",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-05",
+                            "name": "Easter Monday"
+                        },
+                        {
                             "date": "2021-04-14",
                             "name": "Baisakhi"
+                        },
+                        {
+                            "date": "2021-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2021-05-13",
+                            "name": "Eid-ul-Fitr"
                         },
                         {
                             "date": "2021-05-14",
@@ -483,16 +455,48 @@
                             "name": "Eid-ul-Fitr Holiday"
                         },
                         {
+                            "date": "2021-05-16",
+                            "name": "Eid-ul-Fitr Holiday"
+                        },
+                        {
                             "date": "2021-05-26",
                             "name": "Buddha Purnima"
+                        },
+                        {
+                            "date": "2021-07-01",
+                            "name": "July 1 Bank Holiday"
                         },
                         {
                             "date": "2021-07-20",
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2021-07-22",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2021-08-14",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2021-08-18",
+                            "name": "Ashura"
+                        },
+                        {
+                            "date": "2021-08-19",
+                            "name": "Ashura Holiday"
+                        },
+                        {
                             "date": "2021-08-30",
                             "name": "Janmashtami"
+                        },
+                        {
+                            "date": "2021-09-06",
+                            "name": "Defence Day"
                         },
                         {
                             "date": "2021-09-28",
@@ -519,36 +523,32 @@
                             "name": "Diwali\/Deepavali"
                         },
                         {
+                            "date": "2021-11-09",
+                            "name": "Iqbal Day"
+                        },
+                        {
                             "date": "2021-11-16",
                             "name": "Giarhwin Sharief"
                         },
                         {
-                            "date": "2021-05-16",
-                            "name": "Eid-ul-Fitr Holiday"
+                            "date": "2021-12-24",
+                            "name": "Christmas Eve"
                         },
                         {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha Holiday"
+                            "date": "2021-12-25",
+                            "name": "Quaid-e-Azam Day"
                         },
                         {
-                            "date": "2021-08-18",
-                            "name": "Ashura"
-                        },
-                        {
-                            "date": "2021-08-19",
-                            "name": "Ashura Holiday"
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         },
                         {
                             "date": "2021-12-26",
                             "name": "Day After Christmas (Christians only)"
                         },
                         {
-                            "date": "2021-05-13",
-                            "name": "Eid-ul-Fitr"
-                        },
-                        {
-                            "date": "2021-07-22",
-                            "name": "Eid al-Adha Holiday"
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

@@ -41,12 +41,24 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-20",
+                            "name": "Black Saturday"
+                        },
+                        {
                             "date": "2019-04-21",
                             "name": "Easter Sunday"
                         },
                         {
                             "date": "2019-05-01",
                             "name": "Labor Day"
+                        },
+                        {
+                            "date": "2019-05-13",
+                            "name": "Special Non-Working Day"
+                        },
+                        {
+                            "date": "2019-06-05",
+                            "name": "Eidul-Fitar"
                         },
                         {
                             "date": "2019-06-12",
@@ -61,16 +73,20 @@
                             "name": "Ninoy Aquino Day"
                         },
                         {
+                            "date": "2019-08-26",
+                            "name": "National Heroes Day"
+                        },
+                        {
                             "date": "2019-11-01",
                             "name": "All Saints' Day"
                         },
                         {
                             "date": "2019-11-02",
-                            "name": "All Souls' Day"
+                            "name": "Additional Special Non-Working Day"
                         },
                         {
                             "date": "2019-11-02",
-                            "name": "Additional Special Non-Working Day"
+                            "name": "All Souls' Day"
                         },
                         {
                             "date": "2019-11-30",
@@ -99,22 +115,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Black Saturday"
-                        },
-                        {
-                            "date": "2019-08-26",
-                            "name": "National Heroes Day"
-                        },
-                        {
-                            "date": "2019-05-13",
-                            "name": "Special Non-Working Day"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eidul-Fitar"
                         }
                     ]
                 },
@@ -130,6 +130,10 @@
                             "name": "Chinese Lunar New Year's Day"
                         },
                         {
+                            "date": "2020-02-25",
+                            "name": "People Power Anniversary"
+                        },
+                        {
                             "date": "2020-04-09",
                             "name": "Maundy Thursday"
                         },
@@ -142,12 +146,24 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2020-04-11",
+                            "name": "Black Saturday"
+                        },
+                        {
                             "date": "2020-04-12",
                             "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-05-01",
                             "name": "Labor Day"
+                        },
+                        {
+                            "date": "2020-05-24",
+                            "name": "Eidul-Fitar"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eidul-Fitar Holiday"
                         },
                         {
                             "date": "2020-06-12",
@@ -162,6 +178,10 @@
                             "name": "Ninoy Aquino Day"
                         },
                         {
+                            "date": "2020-08-31",
+                            "name": "National Heroes Day"
+                        },
+                        {
                             "date": "2020-11-01",
                             "name": "All Saints' Day"
                         },
@@ -170,12 +190,24 @@
                             "name": "All Souls' Day"
                         },
                         {
+                            "date": "2020-11-02",
+                            "name": "Additional Special Non-Working Day"
+                        },
+                        {
                             "date": "2020-11-30",
                             "name": "Bonifacio Day"
                         },
                         {
+                            "date": "2020-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
                             "date": "2020-12-24",
                             "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2020-12-24",
+                            "name": "Additional Special Non-Working Day"
                         },
                         {
                             "date": "2020-12-25",
@@ -188,38 +220,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-11",
-                            "name": "Black Saturday"
-                        },
-                        {
-                            "date": "2020-08-31",
-                            "name": "National Heroes Day"
-                        },
-                        {
-                            "date": "2020-02-25",
-                            "name": "People Power Anniversary"
-                        },
-                        {
-                            "date": "2020-11-02",
-                            "name": "Additional Special Non-Working Day"
-                        },
-                        {
-                            "date": "2020-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2020-12-24",
-                            "name": "Additional Special Non-Working Day"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eidul-Fitar"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eidul-Fitar Holiday"
                         }
                     ]
                 },
@@ -233,6 +233,10 @@
                         {
                             "date": "2021-02-12",
                             "name": "Chinese Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2021-02-25",
+                            "name": "People Power Anniversary"
                         },
                         {
                             "date": "2021-04-01",
@@ -255,6 +259,10 @@
                             "name": "Labor Day"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Eidul-Fitar"
+                        },
+                        {
                             "date": "2021-06-12",
                             "name": "Independence Day"
                         },
@@ -267,6 +275,10 @@
                             "name": "Ninoy Aquino Day"
                         },
                         {
+                            "date": "2021-08-30",
+                            "name": "National Heroes Day"
+                        },
+                        {
                             "date": "2021-11-01",
                             "name": "All Saints' Day"
                         },
@@ -277,6 +289,10 @@
                         {
                             "date": "2021-11-30",
                             "name": "Bonifacio Day"
+                        },
+                        {
+                            "date": "2021-12-08",
+                            "name": "Feast of the Immaculate Conception"
                         },
                         {
                             "date": "2021-12-24",
@@ -293,22 +309,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-08-30",
-                            "name": "National Heroes Day"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Eidul-Fitar"
-                        },
-                        {
-                            "date": "2021-02-25",
-                            "name": "People Power Anniversary"
-                        },
-                        {
-                            "date": "2021-12-08",
-                            "name": "Feast of the Immaculate Conception"
                         }
                     ]
                 }

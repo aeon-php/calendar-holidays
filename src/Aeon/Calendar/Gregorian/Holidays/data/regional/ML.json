@@ -17,6 +17,14 @@
                     "year": 2019,
                     "holidays": [
                         {
+                            "date": "2019-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2019-01-20",
+                            "name": "Army Day"
+                        },
+                        {
                             "date": "2019-03-26",
                             "name": "Martyrs' Day"
                         },
@@ -33,6 +41,18 @@
                             "name": "Africa Day"
                         },
                         {
+                            "date": "2019-06-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2019-06-10",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2019-09-22",
                             "name": "Independence Day"
                         },
@@ -41,38 +61,26 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-01-20",
-                            "name": "Army Day"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-06-03",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
                             "date": "2019-11-16",
                             "name": "Baptism of the Prophet"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
                 {
                     "year": 2020,
                     "holidays": [
+                        {
+                            "date": "2020-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2020-01-20",
+                            "name": "Army Day"
+                        },
                         {
                             "date": "2020-03-26",
                             "name": "Martyrs' Day"
@@ -86,8 +94,16 @@
                             "name": "Workers' Day"
                         },
                         {
+                            "date": "2020-05-23",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2020-05-25",
                             "name": "Africa Day"
+                        },
+                        {
+                            "date": "2020-06-01",
+                            "name": "Whit Monday"
                         },
                         {
                             "date": "2020-07-31",
@@ -102,34 +118,26 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2020-01-20",
-                            "name": "Army Day"
-                        },
-                        {
                             "date": "2020-11-05",
                             "name": "Baptism of the Prophet"
                         },
                         {
-                            "date": "2020-06-01",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2020-05-23",
-                            "name": "Eid al-Fitr"
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
                 {
                     "year": 2021,
                     "holidays": [
+                        {
+                            "date": "2021-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2021-01-20",
+                            "name": "Army Day"
+                        },
                         {
                             "date": "2021-03-26",
                             "name": "Martyrs' Day"
@@ -145,6 +153,10 @@
                         {
                             "date": "2021-05-13",
                             "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2021-05-24",
+                            "name": "Whit Monday"
                         },
                         {
                             "date": "2021-05-25",
@@ -163,24 +175,12 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2021-01-20",
-                            "name": "Army Day"
-                        },
-                        {
-                            "date": "2021-05-24",
-                            "name": "Whit Monday"
-                        },
-                        {
                             "date": "2021-10-26",
                             "name": "Baptism of the Prophet"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

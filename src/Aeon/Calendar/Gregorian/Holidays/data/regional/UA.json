@@ -99,6 +99,10 @@
                             "name": "Kupala Night"
                         },
                         {
+                            "date": "2019-07-07",
+                            "name": "Navy Day"
+                        },
+                        {
                             "date": "2019-07-08",
                             "name": "Family Day"
                         },
@@ -127,6 +131,10 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2019-11-09",
+                            "name": "Cultural Workers and Folk Artists Day"
+                        },
+                        {
                             "date": "2019-11-21",
                             "name": "Dignity and Freedom Day"
                         },
@@ -141,14 +149,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Catholic Christmas Day"
-                        },
-                        {
-                            "date": "2019-07-07",
-                            "name": "Navy Day"
-                        },
-                        {
-                            "date": "2019-11-09",
-                            "name": "Cultural Workers and Folk Artists Day"
                         }
                     ]
                 },
@@ -244,6 +244,10 @@
                             "name": "Constitution Day observed"
                         },
                         {
+                            "date": "2020-07-05",
+                            "name": "Navy Day"
+                        },
+                        {
                             "date": "2020-07-07",
                             "name": "Kupala Night"
                         },
@@ -272,6 +276,10 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2020-11-09",
+                            "name": "Cultural Workers and Folk Artists Day"
+                        },
+                        {
                             "date": "2020-11-21",
                             "name": "Dignity and Freedom Day"
                         },
@@ -286,14 +294,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Catholic Christmas Day"
-                        },
-                        {
-                            "date": "2020-07-05",
-                            "name": "Navy Day"
-                        },
-                        {
-                            "date": "2020-11-09",
-                            "name": "Cultural Workers and Folk Artists Day"
                         }
                     ]
                 },
@@ -381,6 +381,10 @@
                             "name": "Constitution Day"
                         },
                         {
+                            "date": "2021-07-04",
+                            "name": "Navy Day"
+                        },
+                        {
                             "date": "2021-07-07",
                             "name": "Kupala Night"
                         },
@@ -409,6 +413,10 @@
                             "name": "Daylight Saving Time ends"
                         },
                         {
+                            "date": "2021-11-09",
+                            "name": "Cultural Workers and Folk Artists Day"
+                        },
+                        {
                             "date": "2021-11-21",
                             "name": "Dignity and Freedom Day"
                         },
@@ -423,14 +431,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Catholic Christmas Day"
-                        },
-                        {
-                            "date": "2021-07-04",
-                            "name": "Navy Day"
-                        },
-                        {
-                            "date": "2021-11-09",
-                            "name": "Cultural Workers and Folk Artists Day"
                         }
                     ]
                 }

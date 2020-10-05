@@ -29,6 +29,14 @@
                             "name": "Senior Citizens Day"
                         },
                         {
+                            "date": "2019-05-06",
+                            "name": "Day off for Senior Citizens Day"
+                        },
+                        {
+                            "date": "2019-05-31",
+                            "name": "Day off for President's Day"
+                        },
+                        {
                             "date": "2019-06-01",
                             "name": "President's Day"
                         },
@@ -45,28 +53,20 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2019-11-28",
-                            "name": "Thanksgiving"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Day off for Senior Citizens Day"
-                        },
-                        {
-                            "date": "2019-05-31",
-                            "name": "Day off for President's Day"
-                        },
-                        {
                             "date": "2019-10-24",
                             "name": "United Nations Day"
                         },
                         {
                             "date": "2019-11-22",
                             "name": "Family Day"
+                        },
+                        {
+                            "date": "2019-11-28",
+                            "name": "Thanksgiving"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -80,6 +80,10 @@
                         {
                             "date": "2020-03-15",
                             "name": "Youth Day"
+                        },
+                        {
+                            "date": "2020-03-16",
+                            "name": "Day off for Youth Day"
                         },
                         {
                             "date": "2020-05-05",
@@ -102,18 +106,6 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2020-11-26",
-                            "name": "Thanksgiving"
-                        },
-                        {
-                            "date": "2020-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-03-16",
-                            "name": "Day off for Youth Day"
-                        },
-                        {
                             "date": "2020-10-23",
                             "name": "Day off for United Nations Day"
                         },
@@ -122,8 +114,16 @@
                             "name": "United Nations Day"
                         },
                         {
+                            "date": "2020-11-26",
+                            "name": "Thanksgiving"
+                        },
+                        {
                             "date": "2020-11-27",
                             "name": "Family Day"
+                        },
+                        {
+                            "date": "2020-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -159,14 +159,6 @@
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2021-11-25",
-                            "name": "Thanksgiving"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
                             "date": "2021-10-24",
                             "name": "United Nations Day"
                         },
@@ -175,16 +167,24 @@
                             "name": "Day off for United Nations Day"
                         },
                         {
-                            "date": "2021-12-24",
-                            "name": "Day off for Christmas Day"
-                        },
-                        {
-                            "date": "2021-12-31",
-                            "name": "Day off for New Year's Day"
+                            "date": "2021-11-25",
+                            "name": "Thanksgiving"
                         },
                         {
                             "date": "2021-11-26",
                             "name": "Family Day"
+                        },
+                        {
+                            "date": "2021-12-24",
+                            "name": "Day off for Christmas Day"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "Day off for New Year's Day"
                         }
                     ]
                 }

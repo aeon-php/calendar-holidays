@@ -21,6 +21,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-03-11",
+                            "name": "National Heroes and Benefactors Day"
+                        },
+                        {
                             "date": "2019-04-19",
                             "name": "Good Friday"
                         },
@@ -57,6 +61,10 @@
                             "name": "Day off for Independence Day"
                         },
                         {
+                            "date": "2019-10-14",
+                            "name": "Pan American Day"
+                        },
+                        {
                             "date": "2019-11-19",
                             "name": "Garifuna Settlement Day"
                         },
@@ -67,14 +75,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-03-11",
-                            "name": "National Heroes and Benefactors Day"
-                        },
-                        {
-                            "date": "2019-10-14",
-                            "name": "Pan American Day"
                         }
                     ]
                 },
@@ -151,6 +151,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2021-03-08",
+                            "name": "National Heroes and Benefactors Day"
+                        },
+                        {
                             "date": "2021-04-02",
                             "name": "Good Friday"
                         },
@@ -167,12 +171,20 @@
                             "name": "Labor Day \/ May Day"
                         },
                         {
+                            "date": "2021-05-24",
+                            "name": "Commonwealth Day"
+                        },
+                        {
                             "date": "2021-09-10",
                             "name": "St. George's Caye Day"
                         },
                         {
                             "date": "2021-09-21",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2021-10-11",
+                            "name": "Pan American Day"
                         },
                         {
                             "date": "2021-11-19",
@@ -185,18 +197,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-05-24",
-                            "name": "Commonwealth Day"
-                        },
-                        {
-                            "date": "2021-03-08",
-                            "name": "National Heroes and Benefactors Day"
-                        },
-                        {
-                            "date": "2021-10-11",
-                            "name": "Pan American Day"
                         },
                         {
                             "date": "2021-12-28",

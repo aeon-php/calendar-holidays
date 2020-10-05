@@ -49,6 +49,10 @@
                             "name": "Emancipation Day"
                         },
                         {
+                            "date": "2019-09-19",
+                            "name": "Anniversary of Passing of Hurricane Maria"
+                        },
+                        {
                             "date": "2019-11-03",
                             "name": "Independence Day"
                         },
@@ -71,10 +75,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-09-19",
-                            "name": "Anniversary of Passing of Hurricane Maria"
                         }
                     ]
                 },

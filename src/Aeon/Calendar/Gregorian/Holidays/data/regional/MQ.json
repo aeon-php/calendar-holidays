@@ -21,6 +21,18 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2019-03-04",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2019-03-05",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2019-03-06",
+                            "name": "Carnival \/ Ash Wednesday"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -49,28 +61,16 @@
                             "name": "Assumption of Mary"
                         },
                         {
+                            "date": "2019-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2019-11-11",
                             "name": "Armistice Day"
                         },
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-03-06",
-                            "name": "Carnival \/ Ash Wednesday"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2019-12-31",
@@ -84,6 +84,18 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2020-02-24",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2020-02-25",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2020-02-26",
+                            "name": "Carnival \/ Ash Wednesday"
                         },
                         {
                             "date": "2020-04-13",
@@ -114,6 +126,10 @@
                             "name": "Assumption of Mary"
                         },
                         {
+                            "date": "2020-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2020-11-11",
                             "name": "Armistice Day"
                         },
@@ -122,24 +138,8 @@
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2020-02-24",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2020-02-25",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2020-02-26",
-                            "name": "Carnival \/ Ash Wednesday"
-                        },
-                        {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-11-01",
-                            "name": "All Saints' Day"
                         }
                     ]
                 },
@@ -149,6 +149,18 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2021-02-16",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2021-02-17",
+                            "name": "Carnival \/ Ash Wednesday"
                         },
                         {
                             "date": "2021-04-05",
@@ -179,28 +191,16 @@
                             "name": "Assumption of Mary"
                         },
                         {
+                            "date": "2021-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2021-11-11",
                             "name": "Armistice Day"
                         },
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2021-02-16",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2021-02-17",
-                            "name": "Carnival \/ Ash Wednesday"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "All Saints' Day"
                         },
                         {
                             "date": "2021-12-31",

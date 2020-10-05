@@ -30,8 +30,20 @@
                             "name": "International Women's Day"
                         },
                         {
+                            "date": "2019-03-21",
+                            "name": "Navruz"
+                        },
+                        {
                             "date": "2019-05-09",
                             "name": "Remembrance Day"
+                        },
+                        {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-09-01",
@@ -44,18 +56,6 @@
                         {
                             "date": "2019-12-08",
                             "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2019-03-21",
-                            "name": "Navruz"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
                         }
                     ]
                 },
@@ -73,6 +73,10 @@
                         {
                             "date": "2020-03-08",
                             "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2020-03-21",
+                            "name": "Navruz"
                         },
                         {
                             "date": "2020-05-09",
@@ -97,10 +101,6 @@
                         {
                             "date": "2020-12-08",
                             "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2020-03-21",
-                            "name": "Navruz"
                         }
                     ]
                 },
@@ -118,6 +118,10 @@
                         {
                             "date": "2021-03-08",
                             "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2021-03-21",
+                            "name": "Navruz"
                         },
                         {
                             "date": "2021-05-09",
@@ -142,10 +146,6 @@
                         {
                             "date": "2021-12-08",
                             "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2021-03-21",
-                            "name": "Navruz"
                         }
                     ]
                 }

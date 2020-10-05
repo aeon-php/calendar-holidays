@@ -25,20 +25,20 @@
                             "name": "May Day"
                         },
                         {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
                         },
                         {
                             "date": "2019-06-26",
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
                             "date": "2019-08-11",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-11-10",
+                            "name": "The Prophet's Birthday"
                         }
                     ]
                 },
@@ -54,20 +54,20 @@
                             "name": "May Day"
                         },
                         {
-                            "date": "2020-07-31",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "The Prophet's Birthday"
+                            "date": "2020-05-23",
+                            "name": "Eid al-Fitr"
                         },
                         {
                             "date": "2020-06-26",
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2020-05-23",
-                            "name": "Eid al-Fitr"
+                            "date": "2020-07-31",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "The Prophet's Birthday"
                         }
                     ]
                 },
@@ -87,16 +87,16 @@
                             "name": "Eid al-Fitr"
                         },
                         {
+                            "date": "2021-06-26",
+                            "name": "Independence Day"
+                        },
+                        {
                             "date": "2021-07-20",
                             "name": "Eid al-Adha"
                         },
                         {
                             "date": "2021-10-19",
                             "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2021-06-26",
-                            "name": "Independence Day"
                         }
                     ]
                 }

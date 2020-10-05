@@ -37,12 +37,20 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2019-06-10",
                             "name": "Whit Monday"
                         },
                         {
                             "date": "2019-06-30",
                             "name": "National Payer Day"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
                         },
                         {
                             "date": "2019-08-13",
@@ -63,14 +71,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
                         }
                     ]
                 },

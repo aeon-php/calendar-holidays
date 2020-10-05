@@ -36,6 +36,10 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2019-03-01",
+                            "name": "Carnival Friday"
+                        },
+                        {
                             "date": "2019-03-02",
                             "name": "Carnival Saturday"
                         },
@@ -92,6 +96,10 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2019-10-12",
+                            "name": "Our Lady of Aparecida \/ Children's Day"
+                        },
+                        {
                             "date": "2019-10-15",
                             "name": "Teacher's Day"
                         },
@@ -122,14 +130,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve (from 2pm)"
-                        },
-                        {
-                            "date": "2019-03-01",
-                            "name": "Carnival Friday"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Our Lady of Aparecida \/ Children's Day"
                         }
                     ]
                 },
@@ -139,6 +139,10 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-02-21",
+                            "name": "Carnival Friday"
                         },
                         {
                             "date": "2020-02-22",
@@ -197,6 +201,10 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2020-10-12",
+                            "name": "Our Lady of Aparecida \/ Children's Day"
+                        },
+                        {
                             "date": "2020-10-15",
                             "name": "Teacher's Day"
                         },
@@ -227,14 +235,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve (from 2pm)"
-                        },
-                        {
-                            "date": "2020-02-21",
-                            "name": "Carnival Friday"
-                        },
-                        {
-                            "date": "2020-10-12",
-                            "name": "Our Lady of Aparecida \/ Children's Day"
                         }
                     ]
                 },
@@ -244,6 +244,10 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-02-12",
+                            "name": "Carnival Friday"
                         },
                         {
                             "date": "2021-02-13",
@@ -302,6 +306,10 @@
                             "name": "Independence Day"
                         },
                         {
+                            "date": "2021-10-12",
+                            "name": "Our Lady of Aparecida \/ Children's Day"
+                        },
+                        {
                             "date": "2021-10-15",
                             "name": "Teacher's Day"
                         },
@@ -332,14 +340,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve (from 2pm)"
-                        },
-                        {
-                            "date": "2021-02-12",
-                            "name": "Carnival Friday"
-                        },
-                        {
-                            "date": "2021-10-12",
-                            "name": "Our Lady of Aparecida \/ Children's Day"
                         }
                     ]
                 }

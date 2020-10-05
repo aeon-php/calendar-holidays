@@ -81,6 +81,18 @@
                             "name": "Labor Day (Day 2)"
                         },
                         {
+                            "date": "2019-05-09",
+                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
+                        },
+                        {
+                            "date": "2019-06-04",
+                            "name": "End of Ramadan"
+                        },
+                        {
+                            "date": "2019-06-05",
+                            "name": "End of Ramadan Day 2"
+                        },
+                        {
                             "date": "2019-06-16",
                             "name": "Fathers' Day"
                         },
@@ -97,28 +109,16 @@
                             "name": "Halloween"
                         },
                         {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "End of Ramadan"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "End of Ramadan Day 2"
-                        },
-                        {
-                            "date": "2019-05-09",
-                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
-                        },
-                        {
                             "date": "2019-12-24",
                             "name": "Christmas Eve (regional holiday)"
                         },
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day (Republika Srpska)"
+                        },
+                        {
+                            "date": "2019-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -190,6 +190,10 @@
                             "name": "Labor Day (Day 2)"
                         },
                         {
+                            "date": "2020-05-09",
+                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
+                        },
+                        {
                             "date": "2020-05-24",
                             "name": "End of Ramadan"
                         },
@@ -206,20 +210,16 @@
                             "name": "Halloween"
                         },
                         {
-                            "date": "2020-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-05-09",
-                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
-                        },
-                        {
                             "date": "2020-12-24",
                             "name": "Christmas Eve (regional holiday)"
                         },
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day (Republika Srpska)"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 },
@@ -272,11 +272,11 @@
                         },
                         {
                             "date": "2021-05-01",
-                            "name": "Labor Day"
+                            "name": "Orthodox Holy Saturday"
                         },
                         {
                             "date": "2021-05-01",
-                            "name": "Orthodox Holy Saturday"
+                            "name": "Labor Day"
                         },
                         {
                             "date": "2021-05-02",
@@ -289,6 +289,10 @@
                         {
                             "date": "2021-05-03",
                             "name": "Orthodox Easter Monday"
+                        },
+                        {
+                            "date": "2021-05-09",
+                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
                         },
                         {
                             "date": "2021-05-13",
@@ -307,20 +311,16 @@
                             "name": "Halloween"
                         },
                         {
-                            "date": "2021-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
                             "date": "2021-12-24",
                             "name": "Christmas Eve (regional holiday)"
                         },
                         {
-                            "date": "2021-05-09",
-                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
-                        },
-                        {
                             "date": "2021-12-25",
                             "name": "Christmas Day (Republika Srpska)"
+                        },
+                        {
+                            "date": "2021-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

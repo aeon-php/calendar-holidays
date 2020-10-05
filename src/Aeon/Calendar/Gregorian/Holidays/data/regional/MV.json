@@ -25,44 +25,20 @@
                             "name": "Presidential Address Holiday"
                         },
                         {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Ramadan Start"
-                        },
-                        {
-                            "date": "2019-07-26",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-07-27",
-                            "name": "Independence Day Holiday"
-                        },
-                        {
-                            "date": "2019-10-29",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-11-03",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "Republic Day"
-                        },
-                        {
-                            "date": "2019-11-29",
-                            "name": "The Day Maldives Embraced Islam"
-                        },
-                        {
                             "date": "2019-04-07",
                             "name": "Election Day Holiday"
                         },
                         {
+                            "date": "2019-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
                             "date": "2019-05-05",
                             "name": "Ramadan Eve Public Holiday"
+                        },
+                        {
+                            "date": "2019-05-06",
+                            "name": "Ramadan Start"
                         },
                         {
                             "date": "2019-06-04",
@@ -75,6 +51,14 @@
                         {
                             "date": "2019-06-06",
                             "name": "Eid al Fitr Holiday"
+                        },
+                        {
+                            "date": "2019-07-26",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-07-27",
+                            "name": "Independence Day Holiday"
                         },
                         {
                             "date": "2019-08-10",
@@ -101,12 +85,28 @@
                             "name": "Muharram\/Islamic New Year"
                         },
                         {
+                            "date": "2019-10-29",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2019-11-03",
+                            "name": "Victory Day"
+                        },
+                        {
                             "date": "2019-11-09",
                             "name": "Milad un Nabi (Mawlid)"
                         },
                         {
                             "date": "2019-11-10",
                             "name": "Milad un Nabi (Mawlid) Holiday"
+                        },
+                        {
+                            "date": "2019-11-11",
+                            "name": "Republic Day"
+                        },
+                        {
+                            "date": "2019-11-29",
+                            "name": "The Day Maldives Embraced Islam"
                         }
                     ]
                 },
@@ -116,66 +116,6 @@
                         {
                             "date": "2020-01-01",
                             "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2020-04-24",
-                            "name": "Ramadan Start"
-                        },
-                        {
-                            "date": "2020-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eid ul Fitr"
-                        },
-                        {
-                            "date": "2020-07-26",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2020-07-27",
-                            "name": "Independence Day Holiday"
-                        },
-                        {
-                            "date": "2020-07-31",
-                            "name": "Eid ul Adha"
-                        },
-                        {
-                            "date": "2020-08-20",
-                            "name": "Muharram\/Islamic New Year"
-                        },
-                        {
-                            "date": "2020-10-18",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2020-10-29",
-                            "name": "Milad un Nabi (Mawlid)"
-                        },
-                        {
-                            "date": "2020-11-03",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2020-11-11",
-                            "name": "Republic Day"
-                        },
-                        {
-                            "date": "2020-11-17",
-                            "name": "The Day Maldives Embraced Islam"
-                        },
-                        {
-                            "date": "2020-07-30",
-                            "name": "Hajj Day"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid al Fitr Holiday"
-                        },
-                        {
-                            "date": "2020-05-26",
-                            "name": "Eid al Fitr Holiday"
                         },
                         {
                             "date": "2020-03-19",
@@ -210,12 +150,48 @@
                             "name": "Public Holiday"
                         },
                         {
+                            "date": "2020-04-24",
+                            "name": "Ramadan Start"
+                        },
+                        {
+                            "date": "2020-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2020-05-24",
+                            "name": "Eid ul Fitr"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid al Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-05-26",
+                            "name": "Eid al Fitr Holiday"
+                        },
+                        {
+                            "date": "2020-07-26",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2020-07-27",
+                            "name": "Independence Day Holiday"
+                        },
+                        {
                             "date": "2020-07-28",
                             "name": "Independence Day Holiday"
                         },
                         {
                             "date": "2020-07-29",
                             "name": "Independence Day Holiday"
+                        },
+                        {
+                            "date": "2020-07-30",
+                            "name": "Hajj Day"
+                        },
+                        {
+                            "date": "2020-07-31",
+                            "name": "Eid ul Adha"
                         },
                         {
                             "date": "2020-08-01",
@@ -228,6 +204,30 @@
                         {
                             "date": "2020-08-03",
                             "name": "Eid ul Adha Holiday"
+                        },
+                        {
+                            "date": "2020-08-20",
+                            "name": "Muharram\/Islamic New Year"
+                        },
+                        {
+                            "date": "2020-10-18",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "name": "Milad un Nabi (Mawlid)"
+                        },
+                        {
+                            "date": "2020-11-03",
+                            "name": "Victory Day"
+                        },
+                        {
+                            "date": "2020-11-11",
+                            "name": "Republic Day"
+                        },
+                        {
+                            "date": "2020-11-17",
+                            "name": "The Day Maldives Embraced Islam"
                         }
                     ]
                 },
@@ -249,6 +249,18 @@
                         {
                             "date": "2021-05-13",
                             "name": "Eid ul Fitr"
+                        },
+                        {
+                            "date": "2021-05-14",
+                            "name": "Eid al Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-05-15",
+                            "name": "Eid al Fitr Holiday"
+                        },
+                        {
+                            "date": "2021-07-19",
+                            "name": "Hajj Day"
                         },
                         {
                             "date": "2021-07-20",
@@ -277,18 +289,6 @@
                         {
                             "date": "2021-11-11",
                             "name": "Republic Day"
-                        },
-                        {
-                            "date": "2021-07-19",
-                            "name": "Hajj Day"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Eid al Fitr Holiday"
-                        },
-                        {
-                            "date": "2021-05-15",
-                            "name": "Eid al Fitr Holiday"
                         }
                     ]
                 }

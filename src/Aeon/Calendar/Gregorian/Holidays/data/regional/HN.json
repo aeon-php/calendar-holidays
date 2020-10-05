@@ -29,6 +29,10 @@
                             "name": "Our Lady of Suyapa"
                         },
                         {
+                            "date": "2019-03-19",
+                            "name": "Father's Day"
+                        },
+                        {
                             "date": "2019-04-14",
                             "name": "America Day"
                         },
@@ -45,6 +49,10 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -57,8 +65,20 @@
                             "name": "Corpus Christi"
                         },
                         {
+                            "date": "2019-09-10",
+                            "name": "Children's Day"
+                        },
+                        {
                             "date": "2019-09-15",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-09-17",
+                            "name": "Teacher's Day"
+                        },
+                        {
+                            "date": "2019-10-03",
+                            "name": "Morazan's Day"
                         },
                         {
                             "date": "2019-10-12",
@@ -75,26 +95,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-03-19",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-09-17",
-                            "name": "Teacher's Day"
-                        },
-                        {
-                            "date": "2019-10-03",
-                            "name": "Morazan's Day"
                         }
                     ]
                 },
@@ -114,6 +114,10 @@
                             "name": "Our Lady of Suyapa"
                         },
                         {
+                            "date": "2020-03-19",
+                            "name": "Father's Day"
+                        },
+                        {
                             "date": "2020-04-09",
                             "name": "Maundy Thursday"
                         },
@@ -124,6 +128,10 @@
                         {
                             "date": "2020-04-11",
                             "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-04-14",
@@ -142,8 +150,20 @@
                             "name": "Corpus Christi"
                         },
                         {
+                            "date": "2020-09-10",
+                            "name": "Children's Day"
+                        },
+                        {
                             "date": "2020-09-15",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2020-09-17",
+                            "name": "Teacher's Day"
+                        },
+                        {
+                            "date": "2020-10-03",
+                            "name": "Morazan's Day"
                         },
                         {
                             "date": "2020-10-12",
@@ -160,26 +180,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-03-19",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2020-09-10",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2020-09-17",
-                            "name": "Teacher's Day"
-                        },
-                        {
-                            "date": "2020-10-03",
-                            "name": "Morazan's Day"
                         }
                     ]
                 },
@@ -199,6 +199,10 @@
                             "name": "Our Lady of Suyapa"
                         },
                         {
+                            "date": "2021-03-19",
+                            "name": "Father's Day"
+                        },
+                        {
                             "date": "2021-04-01",
                             "name": "Maundy Thursday"
                         },
@@ -209,6 +213,10 @@
                         {
                             "date": "2021-04-03",
                             "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-14",
@@ -227,8 +235,20 @@
                             "name": "Corpus Christi"
                         },
                         {
+                            "date": "2021-09-10",
+                            "name": "Children's Day"
+                        },
+                        {
                             "date": "2021-09-15",
                             "name": "Independence Day"
+                        },
+                        {
+                            "date": "2021-09-17",
+                            "name": "Teacher's Day"
+                        },
+                        {
+                            "date": "2021-10-03",
+                            "name": "Morazan's Day"
                         },
                         {
                             "date": "2021-10-12",
@@ -245,26 +265,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-03-19",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2021-09-10",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2021-09-17",
-                            "name": "Teacher's Day"
-                        },
-                        {
-                            "date": "2021-10-03",
-                            "name": "Morazan's Day"
                         }
                     ]
                 }

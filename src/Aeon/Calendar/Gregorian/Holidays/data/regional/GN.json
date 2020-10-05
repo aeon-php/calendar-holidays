@@ -17,6 +17,14 @@
                     "year": 2019,
                     "holidays": [
                         {
+                            "date": "2019-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2019-04-03",
+                            "name": "Second Republic Day"
+                        },
+                        {
                             "date": "2019-04-22",
                             "name": "Easter Monday"
                         },
@@ -33,6 +41,14 @@
                             "name": "Lailat al-Qadr"
                         },
                         {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2019-08-11",
+                            "name": "Eid al-Adha"
+                        },
+                        {
                             "date": "2019-08-15",
                             "name": "Assumption of Mary"
                         },
@@ -47,28 +63,20 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Second Republic Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
                         }
                     ]
                 },
                 {
                     "year": 2020,
                     "holidays": [
+                        {
+                            "date": "2020-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2020-04-03",
+                            "name": "Second Republic Day"
+                        },
                         {
                             "date": "2020-04-13",
                             "name": "Easter Monday"
@@ -108,20 +116,20 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2020-04-03",
-                            "name": "Second Republic Day"
                         }
                     ]
                 },
                 {
                     "year": 2021,
                     "holidays": [
+                        {
+                            "date": "2021-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2021-04-03",
+                            "name": "Second Republic Day"
+                        },
                         {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
@@ -161,14 +169,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2021-04-03",
-                            "name": "Second Republic Day"
                         }
                     ]
                 }

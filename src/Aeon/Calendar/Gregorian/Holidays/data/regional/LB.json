@@ -21,8 +21,16 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2019-01-07",
+                            "name": "Orthodox Christmas"
+                        },
+                        {
                             "date": "2019-02-09",
                             "name": "St Maron's Day"
+                        },
+                        {
+                            "date": "2019-02-14",
+                            "name": "Commemoration of the Assasination of PM Rafic Hariri"
                         },
                         {
                             "date": "2019-03-09",
@@ -57,6 +65,10 @@
                             "name": "Orthodox Easter Day"
                         },
                         {
+                            "date": "2019-05-01",
+                            "name": "Labor Day"
+                        },
+                        {
                             "date": "2019-05-06",
                             "name": "Martyr's Day"
                         },
@@ -69,56 +81,20 @@
                             "name": "Ascension Day"
                         },
                         {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-09-08",
-                            "name": "Nativity of Mary"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Daylight Saving Time ends"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-11-22",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-07",
-                            "name": "Orthodox Christmas"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Commemoration of the Assasination of PM Rafic Hariri"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Ashoura"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day"
-                        },
-                        {
                             "date": "2019-06-04",
                             "name": "Eid al-Fitr"
                         },
                         {
                             "date": "2019-06-05",
                             "name": "Eid ul Fitr Day Two"
+                        },
+                        {
+                            "date": "2019-08-12",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2019-08-13",
+                            "name": "Eid al-Adha holiday"
                         },
                         {
                             "date": "2019-08-15",
@@ -133,12 +109,36 @@
                             "name": "Muharram Holiday"
                         },
                         {
+                            "date": "2019-09-08",
+                            "name": "Nativity of Mary"
+                        },
+                        {
+                            "date": "2019-09-10",
+                            "name": "Ashoura"
+                        },
+                        {
+                            "date": "2019-10-27",
+                            "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2019-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
                             "date": "2019-11-09",
                             "name": "The Prophet's Birthday"
                         },
                         {
                             "date": "2019-11-11",
                             "name": "The Prophet's Birthday Holiday"
+                        },
+                        {
+                            "date": "2019-11-22",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -150,8 +150,16 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2020-01-07",
+                            "name": "Orthodox Christmas"
+                        },
+                        {
                             "date": "2020-02-09",
                             "name": "St Maron's Day"
+                        },
+                        {
+                            "date": "2020-02-14",
+                            "name": "Commemoration of the Assasination of PM Rafic Hariri"
                         },
                         {
                             "date": "2020-03-09",
@@ -186,6 +194,10 @@
                             "name": "Orthodox Easter Day"
                         },
                         {
+                            "date": "2020-05-01",
+                            "name": "Labor Day"
+                        },
+                        {
                             "date": "2020-05-06",
                             "name": "Martyr's Day"
                         },
@@ -194,16 +206,36 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2020-05-24",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2020-05-25",
                             "name": "Liberation and Resistance Day"
+                        },
+                        {
+                            "date": "2020-05-25",
+                            "name": "Eid ul Fitr Day Two"
                         },
                         {
                             "date": "2020-07-31",
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2020-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
                             "date": "2020-08-20",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2020-08-30",
+                            "name": "Ashoura"
                         },
                         {
                             "date": "2020-09-08",
@@ -228,38 +260,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-05-24",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-05-25",
-                            "name": "Eid ul Fitr Day Two"
-                        },
-                        {
-                            "date": "2020-01-07",
-                            "name": "Orthodox Christmas"
-                        },
-                        {
-                            "date": "2020-02-14",
-                            "name": "Commemoration of the Assasination of PM Rafic Hariri"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2020-05-01",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2020-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2020-08-30",
-                            "name": "Ashoura"
                         }
                     ]
                 },
@@ -271,8 +271,16 @@
                             "name": "New Year"
                         },
                         {
+                            "date": "2021-01-07",
+                            "name": "Orthodox Christmas"
+                        },
+                        {
                             "date": "2021-02-09",
                             "name": "St Maron's Day"
+                        },
+                        {
+                            "date": "2021-02-14",
+                            "name": "Commemoration of the Assasination of PM Rafic Hariri"
                         },
                         {
                             "date": "2021-03-09",
@@ -303,6 +311,10 @@
                             "name": "Orthodox Good Friday"
                         },
                         {
+                            "date": "2021-05-01",
+                            "name": "Labor Day"
+                        },
+                        {
                             "date": "2021-05-02",
                             "name": "Orthodox Easter Day"
                         },
@@ -315,6 +327,14 @@
                             "name": "Ascension Day"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2021-05-14",
+                            "name": "Eid ul Fitr Day Two"
+                        },
+                        {
                             "date": "2021-05-25",
                             "name": "Liberation and Resistance Day"
                         },
@@ -323,8 +343,20 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
                             "date": "2021-08-10",
                             "name": "Muharram"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2021-08-19",
+                            "name": "Ashoura"
                         },
                         {
                             "date": "2021-09-08",
@@ -349,38 +381,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2021-05-14",
-                            "name": "Eid ul Fitr Day Two"
-                        },
-                        {
-                            "date": "2021-01-07",
-                            "name": "Orthodox Christmas"
-                        },
-                        {
-                            "date": "2021-02-14",
-                            "name": "Commemoration of the Assasination of PM Rafic Hariri"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2021-08-19",
-                            "name": "Ashoura"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Assumption of Mary"
                         }
                     ]
                 }

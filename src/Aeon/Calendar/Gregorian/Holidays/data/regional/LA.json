@@ -21,14 +21,6 @@
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "National Day"
-                        },
-                        {
                             "date": "2019-03-08",
                             "name": "International Women's Day (Women Only)"
                         },
@@ -47,6 +39,10 @@
                         {
                             "date": "2019-04-17",
                             "name": "Lao New Year Holiday"
+                        },
+                        {
+                            "date": "2019-05-01",
+                            "name": "Labor Day \/ May Day"
                         },
                         {
                             "date": "2019-05-18",
@@ -87,6 +83,10 @@
                         {
                             "date": "2019-11-11",
                             "name": "That Luang Festival"
+                        },
+                        {
+                            "date": "2019-12-02",
+                            "name": "National Day"
                         }
                     ]
                 },
@@ -98,12 +98,8 @@
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2020-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2020-12-02",
-                            "name": "National Day"
+                            "date": "2020-03-08",
+                            "name": "International Women's Day (Women Only)"
                         },
                         {
                             "date": "2020-04-14",
@@ -116,6 +112,10 @@
                         {
                             "date": "2020-04-16",
                             "name": "Lao New Year Holiday"
+                        },
+                        {
+                            "date": "2020-05-01",
+                            "name": "Labor Day \/ May Day"
                         },
                         {
                             "date": "2020-06-01",
@@ -142,8 +142,8 @@
                             "name": "That Luang Festival"
                         },
                         {
-                            "date": "2020-03-08",
-                            "name": "International Women's Day (Women Only)"
+                            "date": "2020-12-02",
+                            "name": "National Day"
                         }
                     ]
                 },
@@ -153,14 +153,6 @@
                         {
                             "date": "2021-01-01",
                             "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2021-12-02",
-                            "name": "National Day"
                         },
                         {
                             "date": "2021-03-08",
@@ -177,6 +169,10 @@
                         {
                             "date": "2021-04-16",
                             "name": "Lao New Year Holiday"
+                        },
+                        {
+                            "date": "2021-05-01",
+                            "name": "Labor Day \/ May Day"
                         },
                         {
                             "date": "2021-06-01",
@@ -201,6 +197,10 @@
                         {
                             "date": "2021-11-26",
                             "name": "That Luang Festival"
+                        },
+                        {
+                            "date": "2021-12-02",
+                            "name": "National Day"
                         }
                     ]
                 }

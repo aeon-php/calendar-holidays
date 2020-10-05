@@ -25,6 +25,10 @@
                             "name": "Betico Croes' Birthday"
                         },
                         {
+                            "date": "2019-03-04",
+                            "name": "Carnival Monday"
+                        },
+                        {
                             "date": "2019-03-18",
                             "name": "National Anthem and Flag Day"
                         },
@@ -55,10 +59,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Carnival Monday"
                         }
                     ]
                 },
@@ -72,6 +72,10 @@
                         {
                             "date": "2020-01-25",
                             "name": "Betico Croes' Birthday"
+                        },
+                        {
+                            "date": "2020-02-24",
+                            "name": "Carnival Monday"
                         },
                         {
                             "date": "2020-03-18",
@@ -104,10 +108,6 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2020-02-24",
-                            "name": "Carnival Monday"
                         }
                     ]
                 },
@@ -121,6 +121,10 @@
                         {
                             "date": "2021-01-25",
                             "name": "Betico Croes' Birthday"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "name": "Carnival Monday"
                         },
                         {
                             "date": "2021-03-18",
@@ -153,10 +157,6 @@
                         {
                             "date": "2021-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Carnival Monday"
                         }
                     ]
                 }

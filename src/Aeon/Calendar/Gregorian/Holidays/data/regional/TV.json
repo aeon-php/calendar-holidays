@@ -45,6 +45,14 @@
                             "name": "National Children's Day"
                         },
                         {
+                            "date": "2019-10-01",
+                            "name": "Tuvalu Day"
+                        },
+                        {
+                            "date": "2019-10-02",
+                            "name": "Tuvalu Day Holiday"
+                        },
+                        {
                             "date": "2019-11-11",
                             "name": "Heir to the Throne's Birthday"
                         },
@@ -55,14 +63,6 @@
                         {
                             "date": "2019-12-26",
                             "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-10-01",
-                            "name": "Tuvalu Day"
-                        },
-                        {
-                            "date": "2019-10-02",
-                            "name": "Tuvalu Day Holiday"
                         }
                     ]
                 },
@@ -98,6 +98,14 @@
                             "name": "National Children's Day"
                         },
                         {
+                            "date": "2020-10-01",
+                            "name": "Tuvalu Day"
+                        },
+                        {
+                            "date": "2020-10-02",
+                            "name": "Tuvalu Day Holiday"
+                        },
+                        {
                             "date": "2020-11-09",
                             "name": "Heir to the Throne's Birthday"
                         },
@@ -112,14 +120,6 @@
                         {
                             "date": "2020-12-28",
                             "name": "Day off for Boxing Day"
-                        },
-                        {
-                            "date": "2020-10-01",
-                            "name": "Tuvalu Day"
-                        },
-                        {
-                            "date": "2020-10-02",
-                            "name": "Tuvalu Day Holiday"
                         }
                     ]
                 },
@@ -155,6 +155,18 @@
                             "name": "National Children's Day"
                         },
                         {
+                            "date": "2021-10-01",
+                            "name": "Tuvalu Day"
+                        },
+                        {
+                            "date": "2021-10-02",
+                            "name": "Tuvalu Day Holiday"
+                        },
+                        {
+                            "date": "2021-10-04",
+                            "name": "Day off for Tuvalu Day Holiday"
+                        },
+                        {
                             "date": "2021-11-08",
                             "name": "Heir to the Throne's Birthday"
                         },
@@ -167,20 +179,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-10-01",
-                            "name": "Tuvalu Day"
-                        },
-                        {
-                            "date": "2021-10-02",
-                            "name": "Tuvalu Day Holiday"
-                        },
-                        {
                             "date": "2021-12-27",
                             "name": "Day off for Christmas Day"
-                        },
-                        {
-                            "date": "2021-10-04",
-                            "name": "Day off for Tuvalu Day Holiday"
                         },
                         {
                             "date": "2021-12-28",

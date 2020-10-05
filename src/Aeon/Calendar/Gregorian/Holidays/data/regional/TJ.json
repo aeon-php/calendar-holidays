@@ -25,26 +25,6 @@
                             "name": "International Women's Day"
                         },
                         {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-09",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2019-06-27",
-                            "name": "Day of National Unity"
-                        },
-                        {
-                            "date": "2019-09-09",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-11-06",
-                            "name": "Constitution Day"
-                        },
-                        {
                             "date": "2019-03-21",
                             "name": "Navruz Celebration"
                         },
@@ -61,12 +41,32 @@
                             "name": "Navruz Celebration"
                         },
                         {
+                            "date": "2019-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2019-05-09",
+                            "name": "Victory Day"
+                        },
+                        {
                             "date": "2019-06-04",
                             "name": "Eid ul Fitr"
                         },
                         {
+                            "date": "2019-06-27",
+                            "name": "Day of National Unity"
+                        },
+                        {
                             "date": "2019-08-11",
                             "name": "Eid ul Adha"
+                        },
+                        {
+                            "date": "2019-09-09",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2019-11-06",
+                            "name": "Constitution Day"
                         }
                     ]
                 },
@@ -80,6 +80,22 @@
                         {
                             "date": "2020-03-08",
                             "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2020-03-21",
+                            "name": "Navruz Celebration"
+                        },
+                        {
+                            "date": "2020-03-22",
+                            "name": "Navruz Celebration"
+                        },
+                        {
+                            "date": "2020-03-23",
+                            "name": "Navruz Celebration"
+                        },
+                        {
+                            "date": "2020-03-24",
+                            "name": "Navruz Celebration"
                         },
                         {
                             "date": "2020-05-01",
@@ -108,22 +124,6 @@
                         {
                             "date": "2020-11-06",
                             "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2020-03-21",
-                            "name": "Navruz Celebration"
-                        },
-                        {
-                            "date": "2020-03-22",
-                            "name": "Navruz Celebration"
-                        },
-                        {
-                            "date": "2020-03-23",
-                            "name": "Navruz Celebration"
-                        },
-                        {
-                            "date": "2020-03-24",
-                            "name": "Navruz Celebration"
                         }
                     ]
                 },
@@ -137,6 +137,22 @@
                         {
                             "date": "2021-03-08",
                             "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2021-03-21",
+                            "name": "Navruz Celebration"
+                        },
+                        {
+                            "date": "2021-03-22",
+                            "name": "Navruz Celebration"
+                        },
+                        {
+                            "date": "2021-03-23",
+                            "name": "Navruz Celebration"
+                        },
+                        {
+                            "date": "2021-03-24",
+                            "name": "Navruz Celebration"
                         },
                         {
                             "date": "2021-05-01",
@@ -169,22 +185,6 @@
                         {
                             "date": "2021-11-08",
                             "name": "Constitution Day observed"
-                        },
-                        {
-                            "date": "2021-03-21",
-                            "name": "Navruz Celebration"
-                        },
-                        {
-                            "date": "2021-03-22",
-                            "name": "Navruz Celebration"
-                        },
-                        {
-                            "date": "2021-03-23",
-                            "name": "Navruz Celebration"
-                        },
-                        {
-                            "date": "2021-03-24",
-                            "name": "Navruz Celebration"
                         }
                     ]
                 }

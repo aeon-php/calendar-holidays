@@ -33,6 +33,10 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -61,6 +65,10 @@
                             "name": "Indigenous Resistance Day"
                         },
                         {
+                            "date": "2019-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
                             "date": "2019-12-08",
                             "name": "Feast of the Immaculate Conception"
                         },
@@ -71,14 +79,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year\u00b4s Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls' Day"
                         }
                     ]
                 },
@@ -100,6 +100,10 @@
                         {
                             "date": "2020-04-11",
                             "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-05-01",
@@ -130,6 +134,10 @@
                             "name": "Indigenous Resistance Day"
                         },
                         {
+                            "date": "2020-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
                             "date": "2020-12-08",
                             "name": "Feast of the Immaculate Conception"
                         },
@@ -140,14 +148,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year\u00b4s Eve"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-11-02",
-                            "name": "All Souls' Day"
                         }
                     ]
                 },
@@ -169,6 +169,10 @@
                         {
                             "date": "2021-04-03",
                             "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-05-01",
@@ -199,6 +203,10 @@
                             "name": "Indigenous Resistance Day"
                         },
                         {
+                            "date": "2021-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
                             "date": "2021-12-08",
                             "name": "Feast of the Immaculate Conception"
                         },
@@ -209,14 +217,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year\u00b4s Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-11-02",
-                            "name": "All Souls' Day"
                         }
                     ]
                 }

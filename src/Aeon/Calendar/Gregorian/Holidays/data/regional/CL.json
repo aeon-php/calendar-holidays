@@ -34,12 +34,20 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
                         },
                         {
                             "date": "2019-05-21",
                             "name": "Navy Day"
+                        },
+                        {
+                            "date": "2019-06-20",
+                            "name": "Corpus Christi"
                         },
                         {
                             "date": "2019-06-29",
@@ -84,14 +92,6 @@
                         {
                             "date": "2019-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
                         }
                     ]
                 },
@@ -115,12 +115,20 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labor Day \/ May Day"
                         },
                         {
                             "date": "2020-05-21",
                             "name": "Navy Day"
+                        },
+                        {
+                            "date": "2020-06-11",
+                            "name": "Corpus Christi"
                         },
                         {
                             "date": "2020-06-29",
@@ -161,14 +169,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-06-11",
-                            "name": "Corpus Christi"
                         }
                     ]
                 },
@@ -192,6 +192,14 @@
                             "name": "Holy Saturday"
                         },
                         {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2021-04-11",
+                            "name": "Mayors and Regional Governors Elections"
+                        },
+                        {
                             "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -200,8 +208,16 @@
                             "name": "Navy Day"
                         },
                         {
+                            "date": "2021-06-03",
+                            "name": "Corpus Christi"
+                        },
+                        {
                             "date": "2021-06-28",
                             "name": "Saint Peter and Saint Paul"
+                        },
+                        {
+                            "date": "2021-07-04",
+                            "name": "Presidential Primary Elections"
                         },
                         {
                             "date": "2021-07-16",
@@ -232,36 +248,20 @@
                             "name": "All Saints' Day"
                         },
                         {
-                            "date": "2021-12-08",
-                            "name": "Inmaculate Conception Day"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-04-11",
-                            "name": "Mayors and Regional Governors Elections"
-                        },
-                        {
-                            "date": "2021-06-03",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2021-07-04",
-                            "name": "Presidential Primary Elections"
-                        },
-                        {
                             "date": "2021-11-21",
                             "name": "Presidential and Parliamentary Elections"
                         },
                         {
+                            "date": "2021-12-08",
+                            "name": "Inmaculate Conception Day"
+                        },
+                        {
                             "date": "2021-12-19",
                             "name": "Second Round Presidential Elections"
+                        },
+                        {
+                            "date": "2021-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 }

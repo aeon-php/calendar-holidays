@@ -81,6 +81,14 @@
                             "name": "Hong Kong Special Administrative Region Establishment Day"
                         },
                         {
+                            "date": "2019-08-15",
+                            "name": "Hungry Ghost Festival"
+                        },
+                        {
+                            "date": "2019-09-13",
+                            "name": "Mid-Autumn Festival"
+                        },
+                        {
                             "date": "2019-09-14",
                             "name": "Day after Mid-Autumn Festival"
                         },
@@ -101,14 +109,6 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2019-08-15",
-                            "name": "Hungry Ghost Festival"
-                        },
-                        {
-                            "date": "2019-09-13",
-                            "name": "Mid-Autumn Festival"
-                        },
-                        {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
                         }
@@ -124,6 +124,14 @@
                         {
                             "date": "2020-01-25",
                             "name": "Chinese Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2020-01-27",
+                            "name": "Third day of Chinese Lunar New Year"
+                        },
+                        {
+                            "date": "2020-01-28",
+                            "name": "Fourth day of Chinese Lunar New Year"
                         },
                         {
                             "date": "2020-02-14",
@@ -174,12 +182,28 @@
                             "name": "Hong Kong Special Administrative Region Establishment Day"
                         },
                         {
+                            "date": "2020-09-02",
+                            "name": "Hungry Ghost Festival"
+                        },
+                        {
+                            "date": "2020-10-01",
+                            "name": "Mid-Autumn Festival"
+                        },
+                        {
                             "date": "2020-10-01",
                             "name": "National Day of the People's Republic of China"
                         },
                         {
                             "date": "2020-10-02",
                             "name": "Day after Mid-Autumn Festival"
+                        },
+                        {
+                            "date": "2020-10-25",
+                            "name": "Chung Yeung Festival"
+                        },
+                        {
+                            "date": "2020-10-26",
+                            "name": "Day off for Chung Yeung Festival"
                         },
                         {
                             "date": "2020-12-25",
@@ -190,32 +214,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2020-09-02",
-                            "name": "Hungry Ghost Festival"
-                        },
-                        {
-                            "date": "2020-10-01",
-                            "name": "Mid-Autumn Festival"
-                        },
-                        {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-01-27",
-                            "name": "Third day of Chinese Lunar New Year"
-                        },
-                        {
-                            "date": "2020-01-28",
-                            "name": "Fourth day of Chinese Lunar New Year"
-                        },
-                        {
-                            "date": "2020-10-25",
-                            "name": "Chung Yeung Festival"
-                        },
-                        {
-                            "date": "2020-10-26",
-                            "name": "Day off for Chung Yeung Festival"
                         }
                     ]
                 },
@@ -237,6 +237,10 @@
                         {
                             "date": "2021-02-14",
                             "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "name": "Fourth day of Chinese Lunar New Year"
                         },
                         {
                             "date": "2021-04-02",
@@ -283,6 +287,14 @@
                             "name": "Hong Kong Special Administrative Region Establishment Day"
                         },
                         {
+                            "date": "2021-08-21",
+                            "name": "Hungry Ghost Festival"
+                        },
+                        {
+                            "date": "2021-09-21",
+                            "name": "Mid-Autumn Festival"
+                        },
+                        {
                             "date": "2021-09-22",
                             "name": "Day after Mid-Autumn Festival"
                         },
@@ -303,20 +315,8 @@
                             "name": "Boxing Day"
                         },
                         {
-                            "date": "2021-08-21",
-                            "name": "Hungry Ghost Festival"
-                        },
-                        {
-                            "date": "2021-09-21",
-                            "name": "Mid-Autumn Festival"
-                        },
-                        {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-02-15",
-                            "name": "Fourth day of Chinese Lunar New Year"
                         }
                     ]
                 }

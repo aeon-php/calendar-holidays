@@ -25,12 +25,24 @@
                             "name": "Epiphany"
                         },
                         {
+                            "date": "2019-01-07",
+                            "name": "Day off for Epiphany"
+                        },
+                        {
+                            "date": "2019-01-11",
+                            "name": "Birthday of Eugenio Mar\u00eda de Hostos"
+                        },
+                        {
                             "date": "2019-02-14",
                             "name": "Valentine's Day"
                         },
                         {
                             "date": "2019-03-05",
                             "name": "Carnival\/Shrove Tuesday"
+                        },
+                        {
+                            "date": "2019-04-16",
+                            "name": "Jos\u00e9 de Diego\u2019s Birthday"
                         },
                         {
                             "date": "2019-04-19",
@@ -49,6 +61,10 @@
                             "name": "Fathers' Day"
                         },
                         {
+                            "date": "2019-07-27",
+                            "name": "Jos\u00e9 Celso Barbosa\u2019s Birthday"
+                        },
+                        {
                             "date": "2019-11-28",
                             "name": "Thanksgiving Day"
                         },
@@ -63,22 +79,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-01-07",
-                            "name": "Day off for Epiphany"
-                        },
-                        {
-                            "date": "2019-01-11",
-                            "name": "Birthday of Eugenio Mar\u00eda de Hostos"
-                        },
-                        {
-                            "date": "2019-04-16",
-                            "name": "Jos\u00e9 de Diego\u2019s Birthday"
-                        },
-                        {
-                            "date": "2019-07-27",
-                            "name": "Jos\u00e9 Celso Barbosa\u2019s Birthday"
                         }
                     ]
                 },
@@ -92,6 +92,10 @@
                         {
                             "date": "2020-01-06",
                             "name": "Epiphany"
+                        },
+                        {
+                            "date": "2020-01-11",
+                            "name": "Birthday of Eugenio Mar\u00eda de Hostos"
                         },
                         {
                             "date": "2020-02-14",
@@ -110,12 +114,20 @@
                             "name": "Easter Sunday"
                         },
                         {
+                            "date": "2020-04-16",
+                            "name": "Jos\u00e9 de Diego\u2019s Birthday"
+                        },
+                        {
                             "date": "2020-05-10",
                             "name": "Mothers' Day"
                         },
                         {
                             "date": "2020-06-21",
                             "name": "Fathers' Day"
+                        },
+                        {
+                            "date": "2020-07-27",
+                            "name": "Jos\u00e9 Celso Barbosa\u2019s Birthday"
                         },
                         {
                             "date": "2020-11-26",
@@ -132,18 +144,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-01-11",
-                            "name": "Birthday of Eugenio Mar\u00eda de Hostos"
-                        },
-                        {
-                            "date": "2020-04-16",
-                            "name": "Jos\u00e9 de Diego\u2019s Birthday"
-                        },
-                        {
-                            "date": "2020-07-27",
-                            "name": "Jos\u00e9 Celso Barbosa\u2019s Birthday"
                         }
                     ]
                 },
@@ -157,6 +157,10 @@
                         {
                             "date": "2021-01-06",
                             "name": "Epiphany"
+                        },
+                        {
+                            "date": "2021-01-11",
+                            "name": "Birthday of Eugenio Mar\u00eda de Hostos"
                         },
                         {
                             "date": "2021-02-14",
@@ -175,12 +179,20 @@
                             "name": "Easter Sunday"
                         },
                         {
+                            "date": "2021-04-16",
+                            "name": "Jos\u00e9 de Diego\u2019s Birthday"
+                        },
+                        {
                             "date": "2021-05-09",
                             "name": "Mothers' Day"
                         },
                         {
                             "date": "2021-06-20",
                             "name": "Fathers' Day"
+                        },
+                        {
+                            "date": "2021-07-27",
+                            "name": "Jos\u00e9 Celso Barbosa\u2019s Birthday"
                         },
                         {
                             "date": "2021-11-25",
@@ -197,18 +209,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-01-11",
-                            "name": "Birthday of Eugenio Mar\u00eda de Hostos"
-                        },
-                        {
-                            "date": "2021-04-16",
-                            "name": "Jos\u00e9 de Diego\u2019s Birthday"
-                        },
-                        {
-                            "date": "2021-07-27",
-                            "name": "Jos\u00e9 Celso Barbosa\u2019s Birthday"
                         }
                     ]
                 }

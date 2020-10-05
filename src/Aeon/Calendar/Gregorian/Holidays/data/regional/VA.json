@@ -65,6 +65,14 @@
                             "name": "Feast of St Joseph the Worker"
                         },
                         {
+                            "date": "2019-05-30",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2019-06-20",
+                            "name": "Corpus Domini"
+                        },
+                        {
                             "date": "2019-06-29",
                             "name": "The Feasts of Saints Peter and Paul"
                         },
@@ -73,12 +81,20 @@
                             "name": "Day of the Assumption of Mary"
                         },
                         {
+                            "date": "2019-08-16",
+                            "name": "Assumption Day Holiday"
+                        },
+                        {
                             "date": "2019-10-27",
                             "name": "Daylight Saving Time ends"
                         },
                         {
                             "date": "2019-11-01",
                             "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2019-11-02",
+                            "name": "All Souls' Day"
                         },
                         {
                             "date": "2019-12-08",
@@ -99,22 +115,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Domini"
-                        },
-                        {
-                            "date": "2019-08-16",
-                            "name": "Assumption Day Holiday"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls' Day"
                         }
                     ]
                 },
@@ -170,6 +170,14 @@
                             "name": "Feast of St Joseph the Worker"
                         },
                         {
+                            "date": "2020-05-21",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2020-06-11",
+                            "name": "Corpus Domini"
+                        },
+                        {
                             "date": "2020-06-29",
                             "name": "The Feasts of Saints Peter and Paul"
                         },
@@ -178,12 +186,20 @@
                             "name": "Day of the Assumption of Mary"
                         },
                         {
+                            "date": "2020-08-16",
+                            "name": "Assumption Day Holiday"
+                        },
+                        {
                             "date": "2020-10-25",
                             "name": "Daylight Saving Time ends"
                         },
                         {
                             "date": "2020-11-01",
                             "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2020-11-02",
+                            "name": "All Souls' Day"
                         },
                         {
                             "date": "2020-12-08",
@@ -204,22 +220,6 @@
                         {
                             "date": "2020-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2020-05-21",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2020-06-11",
-                            "name": "Corpus Domini"
-                        },
-                        {
-                            "date": "2020-08-16",
-                            "name": "Assumption Day Holiday"
-                        },
-                        {
-                            "date": "2020-11-02",
-                            "name": "All Souls' Day"
                         }
                     ]
                 },
@@ -275,6 +275,14 @@
                             "name": "Feast of St Joseph the Worker"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2021-06-03",
+                            "name": "Corpus Domini"
+                        },
+                        {
                             "date": "2021-06-29",
                             "name": "The Feasts of Saints Peter and Paul"
                         },
@@ -283,12 +291,20 @@
                             "name": "Day of the Assumption of Mary"
                         },
                         {
+                            "date": "2021-08-16",
+                            "name": "Assumption Day Holiday"
+                        },
+                        {
                             "date": "2021-10-31",
                             "name": "Daylight Saving Time ends"
                         },
                         {
                             "date": "2021-11-01",
                             "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2021-11-02",
+                            "name": "All Souls' Day"
                         },
                         {
                             "date": "2021-12-08",
@@ -309,22 +325,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2021-06-03",
-                            "name": "Corpus Domini"
-                        },
-                        {
-                            "date": "2021-08-16",
-                            "name": "Assumption Day Holiday"
-                        },
-                        {
-                            "date": "2021-11-02",
-                            "name": "All Souls' Day"
                         }
                     ]
                 }

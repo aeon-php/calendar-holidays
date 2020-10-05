@@ -33,28 +33,20 @@
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2019-06-01",
+                            "name": "Lailat al-Qadr"
+                        },
+                        {
+                            "date": "2019-06-04",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2019-06-16",
                             "name": "Father's Day"
                         },
                         {
                             "date": "2019-08-03",
                             "name": "Nigerien Independence Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-18",
-                            "name": "Nigerien Republic Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
                         },
                         {
                             "date": "2019-08-11",
@@ -69,8 +61,16 @@
                             "name": "Muharram"
                         },
                         {
-                            "date": "2019-06-01",
-                            "name": "Lailat al-Qadr"
+                            "date": "2019-11-10",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2019-12-18",
+                            "name": "Nigerien Republic Day"
+                        },
+                        {
+                            "date": "2019-12-25",
+                            "name": "Christmas Day"
                         }
                     ]
                 },
@@ -94,6 +94,14 @@
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2020-05-20",
+                            "name": "Lailat al-Qadr"
+                        },
+                        {
+                            "date": "2020-05-23",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2020-06-21",
                             "name": "Father's Day"
                         },
@@ -102,8 +110,16 @@
                             "name": "Eid al-Adha"
                         },
                         {
+                            "date": "2020-08-01",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
                             "date": "2020-08-03",
                             "name": "Nigerien Independence Day"
+                        },
+                        {
+                            "date": "2020-08-21",
+                            "name": "Muharram"
                         },
                         {
                             "date": "2020-10-29",
@@ -116,22 +132,6 @@
                         {
                             "date": "2020-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2020-08-01",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2020-05-20",
-                            "name": "Lailat al-Qadr"
-                        },
-                        {
-                            "date": "2020-05-23",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2020-08-21",
-                            "name": "Muharram"
                         }
                     ]
                 },
@@ -155,6 +155,10 @@
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2021-05-09",
+                            "name": "Lailat al-Qadr"
+                        },
+                        {
                             "date": "2021-05-13",
                             "name": "Eid al-Fitr"
                         },
@@ -165,6 +169,10 @@
                         {
                             "date": "2021-07-20",
                             "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2021-07-21",
+                            "name": "Eid al-Adha Holiday"
                         },
                         {
                             "date": "2021-08-03",
@@ -185,14 +193,6 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-07-21",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2021-05-09",
-                            "name": "Lailat al-Qadr"
                         }
                     ]
                 }

@@ -33,6 +33,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2019-04-21",
+                            "name": "Easter Sunday"
+                        },
+                        {
                             "date": "2019-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -69,6 +73,14 @@
                             "name": "Independence Day (day 2)"
                         },
                         {
+                            "date": "2019-07-30",
+                            "name": "Public Sector Holiday"
+                        },
+                        {
+                            "date": "2019-08-29",
+                            "name": "Public Sector Holiday"
+                        },
+                        {
                             "date": "2019-08-30",
                             "name": "Santa Rosa De Lima"
                         },
@@ -79,6 +91,10 @@
                         {
                             "date": "2019-10-08",
                             "name": "Battle of Angamos"
+                        },
+                        {
+                            "date": "2019-10-31",
+                            "name": "Public Sector Holiday"
                         },
                         {
                             "date": "2019-11-01",
@@ -103,22 +119,6 @@
                         {
                             "date": "2019-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-07-30",
-                            "name": "Public Sector Holiday"
-                        },
-                        {
-                            "date": "2019-08-29",
-                            "name": "Public Sector Holiday"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Public Sector Holiday"
                         }
                     ]
                 },
@@ -140,6 +140,10 @@
                         {
                             "date": "2020-04-10",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2020-04-12",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2020-05-01",
@@ -170,6 +174,10 @@
                             "name": "St Peter and St Paul"
                         },
                         {
+                            "date": "2020-07-27",
+                            "name": "Public Sector Holiday"
+                        },
+                        {
                             "date": "2020-07-28",
                             "name": "Independence Day"
                         },
@@ -188,6 +196,10 @@
                         {
                             "date": "2020-10-08",
                             "name": "Battle of Angamos"
+                        },
+                        {
+                            "date": "2020-10-09",
+                            "name": "Public Sector Holiday"
                         },
                         {
                             "date": "2020-11-01",
@@ -214,18 +226,6 @@
                             "name": "New Year's Eve"
                         },
                         {
-                            "date": "2020-04-12",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2020-07-27",
-                            "name": "Public Sector Holiday"
-                        },
-                        {
-                            "date": "2020-10-09",
-                            "name": "Public Sector Holiday"
-                        },
-                        {
                             "date": "2020-12-31",
                             "name": "Public Sector Holiday"
                         }
@@ -249,6 +249,10 @@
                         {
                             "date": "2021-04-02",
                             "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-05-01",
@@ -321,10 +325,6 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
                         }
                     ]
                 }
