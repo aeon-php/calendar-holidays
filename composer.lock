@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aeon-php/calendar",
-            "version": "0.7.0",
+            "version": "0.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "8a2d26e06c0fd696922682d8f080abf16a5d383b"
+                "reference": "df694a58eea9532c3c4cd480dff5dd859ce876cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/8a2d26e06c0fd696922682d8f080abf16a5d383b",
-                "reference": "8a2d26e06c0fd696922682d8f080abf16a5d383b",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/df694a58eea9532c3c4cd480dff5dd859ce876cf",
+                "reference": "df694a58eea9532c3c4cd480dff5dd859ce876cf",
                 "shasum": ""
             },
             "require": {
@@ -56,7 +56,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-09-20T16:55:02+00:00"
+            "time": "2020-10-11T17:00:56+00:00"
         }
     ],
     "packages-dev": [
