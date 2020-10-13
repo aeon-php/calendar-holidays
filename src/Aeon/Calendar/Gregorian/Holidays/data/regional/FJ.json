@@ -102,16 +102,16 @@
                             "name": "The Prophet's Birthday"
                         },
                         {
-                            "date": "2020-11-08",
-                            "name": "Daylight Saving Time starts"
-                        },
-                        {
                             "date": "2020-11-14",
                             "name": "Diwali"
                         },
                         {
                             "date": "2020-11-16",
                             "name": "Day off for Diwali"
+                        },
+                        {
+                            "date": "2020-12-20",
+                            "name": "Daylight Saving Time starts"
                         },
                         {
                             "date": "2020-12-25",
