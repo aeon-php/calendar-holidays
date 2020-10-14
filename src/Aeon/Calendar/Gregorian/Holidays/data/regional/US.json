@@ -416,7 +416,7 @@
                         },
                         {
                             "date": "2021-12-24",
-                            "name": "Christmas Day observed"
+                            "name": "Day off for Christmas Day"
                         },
                         {
                             "date": "2021-12-25",
@@ -424,11 +424,11 @@
                         },
                         {
                             "date": "2021-12-31",
-                            "name": "New Year's Day observed"
+                            "name": "New Year's Eve"
                         },
                         {
                             "date": "2021-12-31",
-                            "name": "New Year's Eve"
+                            "name": "Day off for New Year's Day"
                         }
                     ]
                 }
