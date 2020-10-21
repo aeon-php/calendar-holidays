@@ -413,19 +413,19 @@
                         },
                         {
                             "date": "2020-04-23",
-                            "name": "Santa Faz (Alicante)"
-                        },
-                        {
-                            "date": "2020-04-23",
                             "name": "Castile and Le\u00f3n Day (Castile-Leon)"
                         },
                         {
                             "date": "2020-04-23",
-                            "name": "Day of Arag\u00f3n (Aragon)"
+                            "name": "Santa Faz (Alicante)"
                         },
                         {
                             "date": "2020-04-23",
                             "name": "St George's Day (C\u00e1ceres)"
+                        },
+                        {
+                            "date": "2020-04-23",
+                            "name": "Day of Arag\u00f3n (Aragon)"
                         },
                         {
                             "date": "2020-04-28",
@@ -437,11 +437,11 @@
                         },
                         {
                             "date": "2020-05-02",
-                            "name": "San Segundo (\u00c1vila)"
+                            "name": "Day of Madrid (Madrid)"
                         },
                         {
                             "date": "2020-05-02",
-                            "name": "Day of Madrid (Madrid)"
+                            "name": "San Segundo (\u00c1vila)"
                         },
                         {
                             "date": "2020-05-03",
@@ -485,11 +485,11 @@
                         },
                         {
                             "date": "2020-06-01",
-                            "name": "Whit Monday (regional holiday)"
+                            "name": "Virgin of Alarcos (Ciudad Real)"
                         },
                         {
                             "date": "2020-06-01",
-                            "name": "Virgin of Alarcos (Ciudad Real)"
+                            "name": "Whit Monday (regional holiday)"
                         },
                         {
                             "date": "2020-06-01",
@@ -497,11 +497,11 @@
                         },
                         {
                             "date": "2020-06-09",
-                            "name": "Day of Murcia (Murcia)"
+                            "name": "Day of La Rioja (La Rioja)"
                         },
                         {
                             "date": "2020-06-09",
-                            "name": "Day of La Rioja (La Rioja)"
+                            "name": "Day of Murcia (Murcia)"
                         },
                         {
                             "date": "2020-06-11",
@@ -540,16 +540,20 @@
                             "name": "Festival of the Vaquillas (Teruel)"
                         },
                         {
+                            "date": "2020-07-25",
+                            "name": "Feast of Saint James the Apostle (regional holiday)"
+                        },
+                        {
                             "date": "2020-07-28",
                             "name": "Day of the Institutions (Cantabria)"
                         },
                         {
                             "date": "2020-07-31",
-                            "name": "Eid al-Adha (regional holiday)"
+                            "name": "San Ignacio de Loyola (regional holiday)"
                         },
                         {
                             "date": "2020-07-31",
-                            "name": "San Ignacio de Loyola (regional holiday)"
+                            "name": "Eid al-Adha (regional holiday)"
                         },
                         {
                             "date": "2020-08-03",
@@ -557,11 +561,11 @@
                         },
                         {
                             "date": "2020-08-05",
-                            "name": "The Day of Our Lady of Africa (Ceuta)"
+                            "name": "Feast of the White Virgin (\u00c1lava)"
                         },
                         {
                             "date": "2020-08-05",
-                            "name": "Feast of the White Virgin (\u00c1lava)"
+                            "name": "The Day of Our Lady of Africa (Ceuta)"
                         },
                         {
                             "date": "2020-08-10",
@@ -573,11 +577,11 @@
                         },
                         {
                             "date": "2020-08-19",
-                            "name": "Feast of Saint Maginus (Tarragona)"
+                            "name": "Reconquest Day (M\u00e1laga)"
                         },
                         {
                             "date": "2020-08-19",
-                            "name": "Reconquest Day (M\u00e1laga)"
+                            "name": "Feast of Saint Maginus (Tarragona)"
                         },
                         {
                             "date": "2020-08-22",
@@ -601,11 +605,7 @@
                         },
                         {
                             "date": "2020-09-08",
-                            "name": "Day of Asturias (Asturias)"
-                        },
-                        {
-                            "date": "2020-09-08",
-                            "name": "Day of Our Lady of San Lorenzo (Valladolid)"
+                            "name": "Day of Extremadura (Extremadura)"
                         },
                         {
                             "date": "2020-09-08",
@@ -613,11 +613,7 @@
                         },
                         {
                             "date": "2020-09-08",
-                            "name": "Day of Extremadura (Extremadura)"
-                        },
-                        {
-                            "date": "2020-09-08",
-                            "name": "Virgin of the Victory (Melilla)"
+                            "name": "Day of Asturias (Asturias)"
                         },
                         {
                             "date": "2020-09-08",
@@ -634,6 +630,14 @@
                         {
                             "date": "2020-09-08",
                             "name": "Day of the Virgin of the Vega (Salamanca)"
+                        },
+                        {
+                            "date": "2020-09-08",
+                            "name": "Day of Our Lady of San Lorenzo (Valladolid)"
+                        },
+                        {
+                            "date": "2020-09-08",
+                            "name": "Virgin of the Victory (Melilla)"
                         },
                         {
                             "date": "2020-09-08",
@@ -701,11 +705,11 @@
                         },
                         {
                             "date": "2020-10-25",
-                            "name": "Daylight Saving Time ends"
+                            "name": "Feast of Saint Frutos (Segovia)"
                         },
                         {
                             "date": "2020-10-25",
-                            "name": "Feast of Saint Frutos (Segovia)"
+                            "name": "Daylight Saving Time ends"
                         },
                         {
                             "date": "2020-10-26",
