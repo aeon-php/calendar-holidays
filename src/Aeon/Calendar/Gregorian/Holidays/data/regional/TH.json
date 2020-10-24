@@ -270,12 +270,16 @@
                             "name": "Special public holiday"
                         },
                         {
+                            "date": "2020-12-05",
+                            "name": "King Bhumibol's Birthday\/Father's Day"
+                        },
+                        {
                             "date": "2020-12-10",
                             "name": "Constitution Day"
                         },
                         {
                             "date": "2020-12-11",
-                            "name": "King Bhumibol's Birthday"
+                            "name": "Holiday for King Bhumibol's Birthday\/Father's Day"
                         },
                         {
                             "date": "2020-12-24",
@@ -396,11 +400,11 @@
                         },
                         {
                             "date": "2021-12-05",
-                            "name": "King Bhumibol's Birthday"
+                            "name": "King Bhumibol's Birthday\/Father's Day"
                         },
                         {
                             "date": "2021-12-06",
-                            "name": "King Bhumibol's Birthday observed"
+                            "name": "King Bhumibol's Birthday\/Father's Day observed"
                         },
                         {
                             "date": "2021-12-10",
