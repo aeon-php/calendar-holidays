@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## [0.3.0] - 2020-10-25
+### Changed 
+- updated aeon-php/calendar dependency to >=0.11.0
+
 ## [0.2.0] - 2020-08-18
 ### Changed 
 - updated aeon-php/calendar dependency to >=0.4.0
