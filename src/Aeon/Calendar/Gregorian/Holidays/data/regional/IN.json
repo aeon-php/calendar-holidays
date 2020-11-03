@@ -319,11 +319,11 @@
                         },
                         {
                             "date": "2020-04-14",
-                            "name": "Ambedkar Jayanti"
+                            "name": "Mesadi\/Vaisakhadi"
                         },
                         {
                             "date": "2020-04-14",
-                            "name": "Mesadi\/Vaisakhadi"
+                            "name": "Ambedkar Jayanti"
                         },
                         {
                             "date": "2020-05-07",
@@ -402,7 +402,7 @@
                             "name": "Dussehra"
                         },
                         {
-                            "date": "2020-10-29",
+                            "date": "2020-10-30",
                             "name": "Milad un-Nabi\/Id-e-Milad"
                         },
                         {
@@ -415,11 +415,11 @@
                         },
                         {
                             "date": "2020-11-14",
-                            "name": "Naraka Chaturdasi"
+                            "name": "Diwali\/Deepavali"
                         },
                         {
                             "date": "2020-11-14",
-                            "name": "Diwali\/Deepavali"
+                            "name": "Naraka Chaturdasi"
                         },
                         {
                             "date": "2020-11-15",
@@ -464,11 +464,11 @@
                         },
                         {
                             "date": "2021-01-14",
-                            "name": "Makar Sankranti"
+                            "name": "Pongal"
                         },
                         {
                             "date": "2021-01-14",
-                            "name": "Pongal"
+                            "name": "Makar Sankranti"
                         },
                         {
                             "date": "2021-01-20",
@@ -524,11 +524,11 @@
                         },
                         {
                             "date": "2021-04-14",
-                            "name": "Ambedkar Jayanti"
+                            "name": "Mesadi\/Vaisakhadi"
                         },
                         {
                             "date": "2021-04-14",
-                            "name": "Mesadi\/Vaisakhadi"
+                            "name": "Ambedkar Jayanti"
                         },
                         {
                             "date": "2021-04-14",
@@ -544,11 +544,11 @@
                         },
                         {
                             "date": "2021-05-07",
-                            "name": "Birthday of Ravindranath"
+                            "name": "Jamat Ul-Vida"
                         },
                         {
                             "date": "2021-05-07",
-                            "name": "Jamat Ul-Vida"
+                            "name": "Birthday of Ravindranath"
                         },
                         {
                             "date": "2021-05-13",
@@ -617,6 +617,10 @@
                         {
                             "date": "2021-10-15",
                             "name": "Dussehra"
+                        },
+                        {
+                            "date": "2021-10-19",
+                            "name": "Milad un-Nabi\/Id-e-Milad"
                         },
                         {
                             "date": "2021-10-20",
