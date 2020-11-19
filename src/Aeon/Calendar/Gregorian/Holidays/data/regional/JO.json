@@ -227,11 +227,11 @@
                         },
                         {
                             "date": "2020-04-20",
-                            "name": "Orthodox Easter Monday"
+                            "name": "Public Holiday"
                         },
                         {
                             "date": "2020-04-20",
-                            "name": "Public Holiday"
+                            "name": "Orthodox Easter Monday"
                         },
                         {
                             "date": "2020-04-21",
@@ -424,6 +424,10 @@
                         {
                             "date": "2020-10-29",
                             "name": "Prophet's Birthday"
+                        },
+                        {
+                            "date": "2020-11-10",
+                            "name": "Election Day Holiday"
                         },
                         {
                             "date": "2020-12-25",
