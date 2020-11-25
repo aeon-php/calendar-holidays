@@ -219,12 +219,16 @@
                             "name": "Discovery Day"
                         },
                         {
-                            "date": "2021-06-20",
-                            "name": "Fathers' Day"
+                            "date": "2021-05-26",
+                            "name": "General Election Day"
                         },
                         {
-                            "date": "2021-06-21",
+                            "date": "2021-06-14",
                             "name": "Queen's Birthday"
+                        },
+                        {
+                            "date": "2021-06-20",
+                            "name": "Fathers' Day"
                         },
                         {
                             "date": "2021-07-05",
@@ -235,7 +239,7 @@
                             "name": "Halloween"
                         },
                         {
-                            "date": "2021-11-08",
+                            "date": "2021-11-15",
                             "name": "Remembrance Day"
                         },
                         {
@@ -252,6 +256,10 @@
                         },
                         {
                             "date": "2021-12-27",
+                            "name": "Day off for Christmas Day"
+                        },
+                        {
+                            "date": "2021-12-28",
                             "name": "Day off for Boxing Day"
                         },
                         {
