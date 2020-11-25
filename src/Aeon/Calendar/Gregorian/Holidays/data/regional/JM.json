@@ -227,6 +227,10 @@
                             "name": "Boxing Day"
                         },
                         {
+                            "date": "2021-12-27",
+                            "name": "Day off for Boxing Day"
+                        },
+                        {
                             "date": "2021-12-31",
                             "name": "New Year's Eve"
                         }

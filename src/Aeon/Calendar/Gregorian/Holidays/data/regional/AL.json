@@ -230,6 +230,10 @@
                             "name": "Mother Teresa Beatification Day"
                         },
                         {
+                            "date": "2020-09-07",
+                            "name": "Day off for Mother Teresa Beatification Day"
+                        },
+                        {
                             "date": "2020-10-25",
                             "name": "Daylight Saving Time ends"
                         },
@@ -244,6 +248,14 @@
                         {
                             "date": "2020-11-29",
                             "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2020-11-30",
+                            "name": "Day off for Flag and Independence Day"
+                        },
+                        {
+                            "date": "2020-11-30",
+                            "name": "Day off for Liberation Day"
                         },
                         {
                             "date": "2020-12-08",
@@ -339,6 +351,10 @@
                             "name": "Easter Monday (Orthodox)"
                         },
                         {
+                            "date": "2021-05-03",
+                            "name": "Day off for International Worker\u2019s Day"
+                        },
+                        {
                             "date": "2021-05-13",
                             "name": "Eid al-Fitr"
                         },
@@ -355,6 +371,10 @@
                             "name": "Mother Teresa Beatification Day"
                         },
                         {
+                            "date": "2021-09-06",
+                            "name": "Day off for Mother Teresa Beatification Day"
+                        },
+                        {
                             "date": "2021-10-31",
                             "name": "Daylight Saving Time ends"
                         },
@@ -369,6 +389,10 @@
                         {
                             "date": "2021-11-29",
                             "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2021-11-29",
+                            "name": "Day off for Flag and Independence Day"
                         },
                         {
                             "date": "2021-12-08",

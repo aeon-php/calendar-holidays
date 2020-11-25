@@ -94,6 +94,10 @@
                             "name": "Easter Monday"
                         },
                         {
+                            "date": "2020-04-27",
+                            "name": "Abolition Day"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labour Day"
                         },
@@ -157,6 +161,10 @@
                         {
                             "date": "2021-04-05",
                             "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2021-04-27",
+                            "name": "Abolition Day"
                         },
                         {
                             "date": "2021-05-01",
