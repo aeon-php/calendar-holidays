@@ -247,6 +247,10 @@
                             "name": "Good Friday"
                         },
                         {
+                            "date": "2021-04-03",
+                            "name": "Black Saturday"
+                        },
+                        {
                             "date": "2021-04-04",
                             "name": "Easter Sunday"
                         },
