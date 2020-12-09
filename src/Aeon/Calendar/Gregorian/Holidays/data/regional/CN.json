@@ -344,6 +344,14 @@
                             "name": "New Year's Day"
                         },
                         {
+                            "date": "2021-01-02",
+                            "name": "New Year's Holiday"
+                        },
+                        {
+                            "date": "2021-01-03",
+                            "name": "New Year's Holiday"
+                        },
+                        {
                             "date": "2021-02-11",
                             "name": "Spring Festival Eve"
                         },
@@ -388,6 +396,14 @@
                             "name": "Zhonghe Festival"
                         },
                         {
+                            "date": "2021-04-03",
+                            "name": "Qing Ming Jie holiday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Qing Ming Jie holiday"
+                        },
+                        {
                             "date": "2021-04-05",
                             "name": "Qing Ming Jie"
                         },
@@ -396,8 +412,24 @@
                             "name": "Labour Day"
                         },
                         {
+                            "date": "2021-05-02",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
                             "date": "2021-05-04",
                             "name": "Youth Day"
+                        },
+                        {
+                            "date": "2021-05-04",
+                            "name": "Labour Day Holiday"
+                        },
+                        {
+                            "date": "2021-05-05",
+                            "name": "Labour Day Holiday"
                         },
                         {
                             "date": "2021-06-01",
