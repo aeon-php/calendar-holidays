@@ -152,6 +152,10 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2020-12-28",
+                            "name": "Day off for Boxing Day"
                         }
                     ]
                 },

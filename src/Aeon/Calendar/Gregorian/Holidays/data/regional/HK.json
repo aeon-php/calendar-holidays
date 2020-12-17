@@ -211,7 +211,7 @@
                         },
                         {
                             "date": "2020-12-26",
-                            "name": "Boxing Day"
+                            "name": "First Weekday After Christmas Day"
                         },
                         {
                             "date": "2020-12-31",
@@ -252,15 +252,23 @@
                         },
                         {
                             "date": "2021-04-04",
+                            "name": "Tomb Sweeping Day"
+                        },
+                        {
+                            "date": "2021-04-04",
                             "name": "Easter Sunday"
                         },
                         {
                             "date": "2021-04-05",
-                            "name": "Tomb Sweeping Day"
+                            "name": "Easter Monday"
                         },
                         {
                             "date": "2021-04-05",
-                            "name": "Easter Monday"
+                            "name": "The Day Following Tomb Sweeping Day"
+                        },
+                        {
+                            "date": "2021-04-06",
+                            "name": "The Day Following Easter Monday"
                         },
                         {
                             "date": "2021-05-01",
@@ -312,7 +320,7 @@
                         },
                         {
                             "date": "2021-12-27",
-                            "name": "Boxing Day"
+                            "name": "First Weekday After Christmas Day"
                         },
                         {
                             "date": "2021-12-31",
