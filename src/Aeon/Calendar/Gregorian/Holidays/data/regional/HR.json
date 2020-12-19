@@ -118,6 +118,10 @@
                             "name": "Easter Monday"
                         },
                         {
+                            "date": "2020-04-20",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
                             "date": "2020-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -205,6 +209,10 @@
                         {
                             "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Orthodox Easter Monday"
                         },
                         {
                             "date": "2021-05-13",
