@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Tests\Unit\Holidays;
 
 use Aeon\Calendar\Exception\InvalidArgumentException;
-use Aeon\Calendar\Gregorian\Holidays\HolidayLocaleName;
-use Aeon\Calendar\Gregorian\Holidays\HolidayName;
+use Aeon\Calendar\Holidays\HolidayLocaleName;
+use Aeon\Calendar\Holidays\HolidayName;
 use PHPUnit\Framework\TestCase;
 
 final class HolidayNameTest extends TestCase

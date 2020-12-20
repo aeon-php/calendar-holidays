@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Aeon\Calendar\Tests\Unit\Holidays;
 
-use Aeon\Calendar\Gregorian\Holidays\HolidayLocaleName;
+use Aeon\Calendar\Holidays\HolidayLocaleName;
 use PHPUnit\Framework\TestCase;
 
 final class HolidayLocaleNameTest extends TestCase

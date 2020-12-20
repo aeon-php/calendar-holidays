@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Aeon\Calendar\Gregorian\Holidays;
+namespace Aeon\Calendar\Holidays;
 
 use Aeon\Calendar\Exception\HolidayYearException;
 use Aeon\Calendar\Exception\InvalidArgumentException;
 use Aeon\Calendar\Gregorian\Day;
-use Aeon\Calendar\Gregorian\Holidays;
+use Aeon\Calendar\Holidays;
 
 /**
  * @psalm-immutable
@@ -30,6 +30,9 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             throw new InvalidArgumentException('List of country codes must not be empty');
         }
 
+        /**
+         * @psalm-suppress ImpureFunctionCall
+         */
         \array_map(
             function (string $countryCode) : void {
                 if (!\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all(), true)) {
@@ -120,7 +123,10 @@ final class GoogleCalendarRegionalHolidays implements Holidays
         }
     }
 
-    /** @psalm-suppress InaccessibleProperty */
+    /**
+     * @psalm-suppress InaccessibleProperty
+     * @psalm-suppress ImpureFunctionCall
+     */
     private function loadCalendar(string $countryCode) : void
     {
         /**

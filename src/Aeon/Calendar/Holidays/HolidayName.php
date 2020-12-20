@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Aeon\Calendar\Gregorian\Holidays;
+namespace Aeon\Calendar\Holidays;
 
 use Aeon\Calendar\Exception\HolidayException;
 use Aeon\Calendar\Exception\InvalidArgumentException;
@@ -29,6 +29,7 @@ final class HolidayName
     public function name(?string $locale = null) : string
     {
         if ($locale === null) {
+            /** @phpstan-ignore-next-line */
             return \current($this->localeHolidayNames)->name();
         }
 

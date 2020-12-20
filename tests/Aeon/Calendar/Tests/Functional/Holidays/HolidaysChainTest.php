@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Tests\Functional\Holidays;
 
 use Aeon\Calendar\Gregorian\Day;
-use Aeon\Calendar\Gregorian\Holidays;
-use Aeon\Calendar\Gregorian\Holidays\HolidaysChain;
+use Aeon\Calendar\Holidays;
+use Aeon\Calendar\Holidays\HolidaysChain;
 use PHPUnit\Framework\TestCase;
 
 final class HolidaysChainTest extends TestCase

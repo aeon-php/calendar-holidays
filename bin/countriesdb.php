@@ -66,7 +66,7 @@ foreach ($countries['countries'] as $countryCode => $countryData) {
         // This way API is used only to update upcoming/current year without removing historical holidays.
         $holidays = takeOldHolidaysFromExistingFile($countryCode, $holidays, $calendar);
 
-        \file_put_contents(__DIR__ . '/../src/Aeon/Calendar/Gregorian/Holidays/data/regional/' . $countryCode . '.json', \json_encode([
+        \file_put_contents(__DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/' . $countryCode . '.json', \json_encode([
             'country_code' => $countryCode,
             'name' => $countryData['name'],
             'timezones' => $tz['timezones'],
@@ -149,9 +149,9 @@ function sortHolidaysByDate(array $holidaysFromAPI) : array
  */
 function takeOldHolidaysFromExistingFile(string $countryCode, array $holidaysFromAPI, GregorianCalendar $calendar): array
 {
-    if (\file_exists(__DIR__ . '/../src/Aeon/Calendar/Gregorian/Holidays/data/regional/' . $countryCode . '.json')) {
+    if (\file_exists(__DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/' . $countryCode . '.json')) {
         $holidaysFromFile = \json_decode(
-            \file_get_contents(__DIR__ . '/../src/Aeon/Calendar/Gregorian/Holidays/data/regional/' . $countryCode . '.json'),
+            \file_get_contents(__DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/' . $countryCode . '.json'),
             true
         );
 

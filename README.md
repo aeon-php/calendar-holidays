@@ -15,6 +15,6 @@ Time Management Framework for PHP
 
 Aeon is a set of libraries that makes easier to work with PHP Date & Time in elegant Object Oriented way.
 
-Please read [Official Documentation](https://aeon-php.org/docs/calendar-holidays).
-
-Looking for help? Visit our official [forum](https://forum.aeon-php.org)
+* [Documentation & Examples](https://aeon-php.org/docs/calendar-holidays/)
+* [Contributing & Development](https://github.com/aeon-php/.github/blob/master/CONTRIBUTING.md)
+* [Forum](https://forum.aeon-php.org)
