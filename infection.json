@@ -30,5 +30,5 @@
   },
   "bootstrap": "./vendor/autoload.php",
   "minMsi": 50,
-  "minCoveredMsi": 90
+  "minCoveredMsi": 80
 }
