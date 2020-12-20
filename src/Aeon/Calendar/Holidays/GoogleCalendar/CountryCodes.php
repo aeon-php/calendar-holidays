@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Aeon\Calendar\Gregorian\Holidays\GoogleCalendar;
+namespace Aeon\Calendar\Holidays\GoogleCalendar;
 
 /**
  * @psalm-immutable

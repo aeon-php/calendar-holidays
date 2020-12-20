@@ -2,17 +2,21 @@
     "name": "aeon-php/calendar-holidays",
     "type": "library",
     "description": "Holidays calendar abstraction layer for Aeon Time management framework",
-    "keywords": ["calendar", "immutable", "holidays", "sleep"],
+    "keywords": [
+        "calendar",
+        "immutable",
+        "holidays",
+        "sleep"
+    ],
     "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.4.2",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "aeon-php/calendar": ">=0.11.0"
+        "aeon-php/calendar": ">=0.13.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.3",
         "google/apiclient": "^2.0"
     },
     "license": "MIT",
@@ -39,7 +43,7 @@
             "@test:mutation"
         ],
         "test": [
-            "phpunit"
+            "tools/phpunit.phar"
         ],
         "test:mutation": [
             "tools/infection --threads=2"

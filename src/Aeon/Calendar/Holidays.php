@@ -2,9 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Aeon\Calendar\Gregorian;
+namespace Aeon\Calendar;
 
-use Aeon\Calendar\Gregorian\Holidays\Holiday;
+use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Holidays\Holiday;
 
 /**
  * @psalm-immutable

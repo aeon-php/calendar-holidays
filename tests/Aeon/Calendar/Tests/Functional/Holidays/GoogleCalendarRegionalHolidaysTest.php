@@ -6,9 +6,9 @@ namespace Aeon\Calendar\Tests\Functional\Holidays;
 
 use Aeon\Calendar\Exception\InvalidArgumentException;
 use Aeon\Calendar\Gregorian\Day;
-use Aeon\Calendar\Gregorian\Holidays\GoogleCalendar\CountryCodes;
-use Aeon\Calendar\Gregorian\Holidays\GoogleCalendarRegionalHolidays;
-use Aeon\Calendar\Gregorian\Holidays\Holiday;
+use Aeon\Calendar\Holidays\GoogleCalendar\CountryCodes;
+use Aeon\Calendar\Holidays\GoogleCalendarRegionalHolidays;
+use Aeon\Calendar\Holidays\Holiday;
 use PHPUnit\Framework\TestCase;
 
 final class GoogleCalendarRegionalHolidaysTest extends TestCase
