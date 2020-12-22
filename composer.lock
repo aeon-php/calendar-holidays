@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aeon-php/calendar",
-            "version": "0.13.0",
+            "version": "0.13.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "bb6bc9eb8dbcdf8ba99c66ee1f56408806c61464"
+                "reference": "3f9aac30e5bdcfb7817e9c40f4e789f291f33335"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/bb6bc9eb8dbcdf8ba99c66ee1f56408806c61464",
-                "reference": "bb6bc9eb8dbcdf8ba99c66ee1f56408806c61464",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/3f9aac30e5bdcfb7817e9c40f4e789f291f33335",
+                "reference": "3f9aac30e5bdcfb7817e9c40f4e789f291f33335",
                 "shasum": ""
             },
             "require": {
@@ -51,7 +51,7 @@
             ],
             "support": {
                 "issues": "https://github.com/aeon-php/calendar/issues",
-                "source": "https://github.com/aeon-php/calendar/tree/0.13.0"
+                "source": "https://github.com/aeon-php/calendar/tree/0.13.2"
             },
             "funding": [
                 {
@@ -59,7 +59,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-12-20T11:26:36+00:00"
+            "time": "2020-12-21T23:15:02+00:00"
         }
     ],
     "packages-dev": [
