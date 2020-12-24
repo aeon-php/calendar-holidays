@@ -98,10 +98,6 @@
                             "name": "King's Day"
                         },
                         {
-                            "date": "2020-04-30",
-                            "name": "Carnival Day"
-                        },
-                        {
                             "date": "2020-05-01",
                             "name": "Labor Day \/ May Day"
                         },
@@ -132,6 +128,10 @@
                         {
                             "date": "2020-12-26",
                             "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2020-12-28",
+                            "name": "Carnival Day"
                         }
                     ]
                 },
