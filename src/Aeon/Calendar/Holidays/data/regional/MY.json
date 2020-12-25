@@ -260,11 +260,11 @@
                         },
                         {
                             "date": "2020-01-27",
-                            "name": "Day off for Chinese Lunar New Year Holiday (regional holiday)"
+                            "name": "Chinese Lunar New Year Holiday (regional holiday)"
                         },
                         {
                             "date": "2020-01-27",
-                            "name": "Chinese Lunar New Year Holiday (regional holiday)"
+                            "name": "Day off for Chinese Lunar New Year Holiday (regional holiday)"
                         },
                         {
                             "date": "2020-02-01",
@@ -319,12 +319,12 @@
                             "name": "Wesak Day"
                         },
                         {
-                            "date": "2020-05-07",
-                            "name": "Pahang State Holiday (Pahang)"
-                        },
-                        {
                             "date": "2020-05-10",
                             "name": "Nuzul Al-Quran (regional holiday)"
+                        },
+                        {
+                            "date": "2020-05-22",
+                            "name": "Pahang State Holiday (Pahang)"
                         },
                         {
                             "date": "2020-05-24",
@@ -348,11 +348,11 @@
                         },
                         {
                             "date": "2020-06-01",
-                            "name": "Gawai Dayak (Sarawak)"
+                            "name": "Second Day of Harvest Festival observed (regional holiday)"
                         },
                         {
                             "date": "2020-06-01",
-                            "name": "Second Day of Harvest Festival observed (regional holiday)"
+                            "name": "Gawai Dayak (Sarawak)"
                         },
                         {
                             "date": "2020-06-02",
@@ -377,6 +377,10 @@
                         {
                             "date": "2020-07-22",
                             "name": "Sarawak Independence Day (Sarawak)"
+                        },
+                        {
+                            "date": "2020-07-30",
+                            "name": "Birthday of the Sultan of Pahang (Pahang)"
                         },
                         {
                             "date": "2020-07-30",
@@ -423,10 +427,6 @@
                             "name": "Birthday of the Governor of Sarawak (Sarawak)"
                         },
                         {
-                            "date": "2020-10-24",
-                            "name": "Birthday of the Sultan of Pahang (Pahang)"
-                        },
-                        {
                             "date": "2020-10-29",
                             "name": "The Prophet Muhammad's Birthday"
                         },
@@ -452,7 +452,7 @@
                         },
                         {
                             "date": "2020-12-24",
-                            "name": "Christmas Eve"
+                            "name": "Christmas Eve (Sabah)"
                         },
                         {
                             "date": "2020-12-25",
@@ -489,11 +489,11 @@
                         },
                         {
                             "date": "2021-02-13",
-                            "name": "Second day of Chinese Lunar New Year (regional holiday)"
+                            "name": "Chinese Lunar New Year Holiday (regional holiday)"
                         },
                         {
                             "date": "2021-02-13",
-                            "name": "Chinese Lunar New Year Holiday (regional holiday)"
+                            "name": "Second day of Chinese Lunar New Year (regional holiday)"
                         },
                         {
                             "date": "2021-02-14",
@@ -540,16 +540,20 @@
                             "name": "Labour Day"
                         },
                         {
-                            "date": "2021-05-07",
-                            "name": "Pahang State Holiday (Pahang)"
-                        },
-                        {
                             "date": "2021-05-13",
                             "name": "Hari Raya Puasa"
                         },
                         {
                             "date": "2021-05-14",
                             "name": "Hari Raya Puasa Day 2"
+                        },
+                        {
+                            "date": "2021-05-22",
+                            "name": "Pahang State Holiday (Pahang)"
+                        },
+                        {
+                            "date": "2021-05-26",
+                            "name": "Wesak Day"
                         },
                         {
                             "date": "2021-05-30",
@@ -600,6 +604,10 @@
                             "name": "Sarawak Independence Day (Sarawak)"
                         },
                         {
+                            "date": "2021-07-30",
+                            "name": "Birthday of the Sultan of Pahang (Pahang)"
+                        },
+                        {
                             "date": "2021-08-10",
                             "name": "Muharram\/New Year"
                         },
@@ -608,7 +616,7 @@
                             "name": "Malaysia's National Day"
                         },
                         {
-                            "date": "2021-09-14",
+                            "date": "2021-09-13",
                             "name": "Almarhum Sultan Iskandar Hol Day (Johor)"
                         },
                         {
@@ -632,14 +640,6 @@
                             "name": "The Prophet Muhammad's Birthday"
                         },
                         {
-                            "date": "2021-10-24",
-                            "name": "Birthday of the Sultan of Pahang (Pahang)"
-                        },
-                        {
-                            "date": "2021-10-25",
-                            "name": "Birthday of the Sultan of Pahang observed (Pahang)"
-                        },
-                        {
                             "date": "2021-11-04",
                             "name": "Diwali\/Deepavali (regional holiday)"
                         },
@@ -661,7 +661,7 @@
                         },
                         {
                             "date": "2021-12-24",
-                            "name": "Christmas Eve"
+                            "name": "Christmas Eve (Sabah)"
                         },
                         {
                             "date": "2021-12-25",
