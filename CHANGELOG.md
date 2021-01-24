@@ -1,30 +1,14 @@
-## [Unreleased] - 2021-01-21
+## [Unreleased] - 2021-01-24
 
 ### Changed
-- [#112](https://github.com/aeon-php/calendar-holidays/pull/112) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#111](https://github.com/aeon-php/calendar-holidays/pull/111) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
+- [fddc36](https://github.com/aeon-php/calendar-holidays/commit/fddc36a558a736deb0210037c21fd97d5e19c9b0) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
 
 ## [0.6.0] - 2020-12-20
 
 ### Changed
 - [5294cb](https://github.com/aeon-php/calendar-holidays/commit/5294cbabedc8e7f6919682f0191ea6fc8dc21734) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
-- [#108](https://github.com/aeon-php/calendar-holidays/pull/108) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#107](https://github.com/aeon-php/calendar-holidays/pull/107) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#106](https://github.com/aeon-php/calendar-holidays/pull/106) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#105](https://github.com/aeon-php/calendar-holidays/pull/105) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#104](https://github.com/aeon-php/calendar-holidays/pull/104) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#101](https://github.com/aeon-php/calendar-holidays/pull/101) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#100](https://github.com/aeon-php/calendar-holidays/pull/100) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#98](https://github.com/aeon-php/calendar-holidays/pull/98) - **Run tests against php8** - [@norberttech](https://github.com/norberttech)
-- [#96](https://github.com/aeon-php/calendar-holidays/pull/96) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#95](https://github.com/aeon-php/calendar-holidays/pull/95) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [86a08b](https://github.com/aeon-php/calendar-holidays/commit/86a08b52e98e20335ed21b4ff785afb1c0eb0526) - **Update README.md** - [@norberttech](https://github.com/norberttech)
-- [#93](https://github.com/aeon-php/calendar-holidays/pull/93) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#91](https://github.com/aeon-php/calendar-holidays/pull/91) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#89](https://github.com/aeon-php/calendar-holidays/pull/89) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#88](https://github.com/aeon-php/calendar-holidays/pull/88) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#85](https://github.com/aeon-php/calendar-holidays/pull/85) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#84](https://github.com/aeon-php/calendar-holidays/pull/84) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 
 ### Fixed
 - [#109](https://github.com/aeon-php/calendar-holidays/pull/109) - **holidays namespace, moved phpunit to tools, updated tools** - [@norberttech](https://github.com/norberttech)
@@ -36,8 +20,6 @@
 
 ### Changed
 - [fe57a0](https://github.com/aeon-php/calendar-holidays/commit/fe57a0be9b517b1539d329e6a89cb303526f93fd) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
-- [#82](https://github.com/aeon-php/calendar-holidays/pull/82) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#81](https://github.com/aeon-php/calendar-holidays/pull/81) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 
 ## [0.4.0] - 2020-10-25
 
@@ -53,44 +35,9 @@
 ### Changed
 - [9c7fa2](https://github.com/aeon-php/calendar-holidays/commit/9c7fa21be9ea58fe05f4010ed155869300753a7b) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
 - [1b9473](https://github.com/aeon-php/calendar-holidays/commit/1b9473ffbb68689c0ee9a829c01fa2f6f9bf9d23) - **dependencies** - [@norberttech](https://github.com/norberttech)
-- [#79](https://github.com/aeon-php/calendar-holidays/pull/79) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#78](https://github.com/aeon-php/calendar-holidays/pull/78) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#77](https://github.com/aeon-php/calendar-holidays/pull/77) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#76](https://github.com/aeon-php/calendar-holidays/pull/76) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#75](https://github.com/aeon-php/calendar-holidays/pull/75) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#72](https://github.com/aeon-php/calendar-holidays/pull/72) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#71](https://github.com/aeon-php/calendar-holidays/pull/71) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#69](https://github.com/aeon-php/calendar-holidays/pull/69) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#67](https://github.com/aeon-php/calendar-holidays/pull/67) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#64](https://github.com/aeon-php/calendar-holidays/pull/64) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#60](https://github.com/aeon-php/calendar-holidays/pull/60) - **countriesdb script to not remove old holidys and sort holidays by dates** - [@norberttech](https://github.com/norberttech)
-- [#57](https://github.com/aeon-php/calendar-holidays/pull/57) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#56](https://github.com/aeon-php/calendar-holidays/pull/56) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#55](https://github.com/aeon-php/calendar-holidays/pull/55) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#54](https://github.com/aeon-php/calendar-holidays/pull/54) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#52](https://github.com/aeon-php/calendar-holidays/pull/52) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#51](https://github.com/aeon-php/calendar-holidays/pull/51) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#48](https://github.com/aeon-php/calendar-holidays/pull/48) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#47](https://github.com/aeon-php/calendar-holidays/pull/47) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#46](https://github.com/aeon-php/calendar-holidays/pull/46) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#41](https://github.com/aeon-php/calendar-holidays/pull/41) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#40](https://github.com/aeon-php/calendar-holidays/pull/40) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#39](https://github.com/aeon-php/calendar-holidays/pull/39) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#37](https://github.com/aeon-php/calendar-holidays/pull/37) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#36](https://github.com/aeon-php/calendar-holidays/pull/36) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [3c6291](https://github.com/aeon-php/calendar-holidays/commit/3c6291561e2490b9bee44c21b2cf83f96550c78b) - **dependencies** - [@norberttech](https://github.com/norberttech)
-- [#35](https://github.com/aeon-php/calendar-holidays/pull/35) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#34](https://github.com/aeon-php/calendar-holidays/pull/34) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#32](https://github.com/aeon-php/calendar-holidays/pull/32) - **Use pretty print for json dumped holiday data** - [@norberttech](https://github.com/norberttech)
-- [#31](https://github.com/aeon-php/calendar-holidays/pull/31) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#30](https://github.com/aeon-php/calendar-holidays/pull/30) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#27](https://github.com/aeon-php/calendar-holidays/pull/27) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#26](https://github.com/aeon-php/calendar-holidays/pull/26) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#24](https://github.com/aeon-php/calendar-holidays/pull/24) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#23](https://github.com/aeon-php/calendar-holidays/pull/23) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#21](https://github.com/aeon-php/calendar-holidays/pull/21) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#17](https://github.com/aeon-php/calendar-holidays/pull/17) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [#16](https://github.com/aeon-php/calendar-holidays/pull/16) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 
 ## [0.2.0] - 2020-08-18
 
@@ -103,8 +50,6 @@
 - [bfe0da](https://github.com/aeon-php/calendar-holidays/commit/bfe0da01d944e9aa608679d229b5e9685b8c28fa) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
 - [4e16c5](https://github.com/aeon-php/calendar-holidays/commit/4e16c5ef0971a4fc913f55344540bca9425a0463) - **aeon-php dependency constraint from ^ into >=** - [@norberttech](https://github.com/norberttech)
 - [e481b6](https://github.com/aeon-php/calendar-holidays/commit/e481b6b19935c12f77135811c771957db836521b) - **calendar dependency** - [@norberttech](https://github.com/norberttech)
-- [#13](https://github.com/aeon-php/calendar-holidays/pull/13) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
-- [9a4bce](https://github.com/aeon-php/calendar-holidays/commit/9a4bce75137c9f6b289839d0cb1e124ccc8dc6a0) - **Google Calendar regional holidays (#9)** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [923cbe](https://github.com/aeon-php/calendar-holidays/commit/923cbe254a949ea69dd697cc23ed3e65a432c530) - **Create pull request when new holidays are fetched** - [@norberttech](https://github.com/norberttech)
 - [8adc39](https://github.com/aeon-php/calendar-holidays/commit/8adc39325253583378ecadf6fc001372ccf66929) - **Improved infection MSI score (#8)** - [@norberttech](https://github.com/norberttech)
 - [af5f7a](https://github.com/aeon-php/calendar-holidays/commit/af5f7aa83da3754283c0aeb1b04f2c8ae5c37f58) - **google calendar source holidays** - [@norberttech](https://github.com/norberttech)
@@ -132,7 +77,6 @@
 - [39a6fc](https://github.com/aeon-php/calendar-holidays/commit/39a6fc77f3a134e03b4fee6b7e89d40d5c0c9bb0) - **script to generate regional holidays data** - [@norberttech](https://github.com/norberttech)
 
 ### Changed
-- [#9](https://github.com/aeon-php/calendar-holidays/pull/9) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [cd544e](https://github.com/aeon-php/calendar-holidays/commit/cd544ece0f5622ecbdcd4cdc0d923576a5f99407) - **Create pull request when new holidays are fetched** - [@norberttech](https://github.com/norberttech)
 - [#8](https://github.com/aeon-php/calendar-holidays/pull/8) - **Improved infection MSI score** - [@norberttech](https://github.com/norberttech)
 - [8fae2b](https://github.com/aeon-php/calendar-holidays/commit/8fae2b13766c09a1bf7ef8ed0f91492723bba4a5) - **google calendar source holidays** - [@norberttech](https://github.com/norberttech)
