@@ -1,7 +1,14 @@
-## [Unreleased] - 2021-01-24
+## [Unreleased] - 2021-01-25
+
+### Added
+- [#117](https://github.com/aeon-php/calendar-holidays/pull/117) - **aeon-php/automation integration** - [@norberttech](https://github.com/norberttech)
 
 ### Changed
+- [#117](https://github.com/aeon-php/calendar-holidays/pull/117) - **updated phive dependencies** - [@norberttech](https://github.com/norberttech)
+- [d3b9ad](https://github.com/aeon-php/calendar-holidays/commit/d3b9adf3b8b4c14ce6dab2ab6a667b6538b24470) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
 - [fddc36](https://github.com/aeon-php/calendar-holidays/commit/fddc36a558a736deb0210037c21fd97d5e19c9b0) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
+- [#112](https://github.com/aeon-php/calendar-holidays/pull/112) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
+- [#111](https://github.com/aeon-php/calendar-holidays/pull/111) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 
 ## [0.6.0] - 2020-12-20
 
