@@ -5,8 +5,7 @@
     "keywords": [
         "calendar",
         "immutable",
-        "holidays",
-        "sleep"
+        "holidays"
     ],
     "prefer-stable": true,
     "minimum-stability": "dev",
@@ -14,7 +13,7 @@
         "php": ">=7.4.2",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "aeon-php/calendar": ">=0.13.0"
+        "aeon-php/calendar": ">=0.14.0"
     },
     "require-dev": {
         "google/apiclient": "^2.0"
