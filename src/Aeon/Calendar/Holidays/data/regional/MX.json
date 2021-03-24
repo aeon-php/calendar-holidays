@@ -24,79 +24,6 @@
             "calendar": "en.mexican#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-04",
-                            "name": "Day off for Constitution Day"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2019-03-06",
-                            "name": "Ash Wednesday"
-                        },
-                        {
-                            "date": "2019-03-18",
-                            "name": "Day off for Benito Ju\u00e1rez's Birthday Memorial"
-                        },
-                        {
-                            "date": "2019-03-21",
-                            "name": "Benito Ju\u00e1rez's Birthday Memorial"
-                        },
-                        {
-                            "date": "2019-04-14",
-                            "name": "Palm Sunday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-09-16",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Columbus Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls' Day"
-                        },
-                        {
-                            "date": "2019-11-18",
-                            "name": "Day off for Revolution Day Memorial"
-                        },
-                        {
-                            "date": "2019-11-20",
-                            "name": "Revolution Day Memorial"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -238,6 +165,75 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-05",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2022-02-07",
+                            "name": "Day off for Constitution Day"
+                        },
+                        {
+                            "date": "2022-03-02",
+                            "name": "Ash Wednesday"
+                        },
+                        {
+                            "date": "2022-03-21",
+                            "name": "Benito Ju\u00e1rez's Birthday Memorial"
+                        },
+                        {
+                            "date": "2022-04-10",
+                            "name": "Palm Sunday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-09-16",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-10-12",
+                            "name": "Columbus Day"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
+                            "date": "2022-11-20",
+                            "name": "Revolution Day Memorial"
+                        },
+                        {
+                            "date": "2022-11-21",
+                            "name": "Day off for Revolution Day Memorial"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

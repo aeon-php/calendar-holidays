@@ -14,115 +14,6 @@
             "calendar": "en.mm#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year Holiday"
-                        },
-                        {
-                            "date": "2019-01-04",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Kayin New Year Day"
-                        },
-                        {
-                            "date": "2019-02-12",
-                            "name": "Union Day"
-                        },
-                        {
-                            "date": "2019-03-02",
-                            "name": "Peasants' Day"
-                        },
-                        {
-                            "date": "2019-03-20",
-                            "name": "Full Moon Day of Tabaung"
-                        },
-                        {
-                            "date": "2019-03-27",
-                            "name": "Armed Forces' Day"
-                        },
-                        {
-                            "date": "2019-04-13",
-                            "name": "Maha Thingyan (Water Festival)"
-                        },
-                        {
-                            "date": "2019-04-14",
-                            "name": "Maha Thingyan (Water Festival)"
-                        },
-                        {
-                            "date": "2019-04-15",
-                            "name": "Maha Thingyan (Water Festival)"
-                        },
-                        {
-                            "date": "2019-04-16",
-                            "name": "Maha Thingyan (Water Festival)"
-                        },
-                        {
-                            "date": "2019-04-17",
-                            "name": "Maha Thingyan (Water Festival)"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-18",
-                            "name": "Full Moon Day of Kasong"
-                        },
-                        {
-                            "date": "2019-07-16",
-                            "name": "Full Moon Day of Waso (Beginning of Buddhist Lent)"
-                        },
-                        {
-                            "date": "2019-07-19",
-                            "name": "Martyrs' Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Full Moon Day of Thadingyut (End of Buddhist Lent)"
-                        },
-                        {
-                            "date": "2019-10-13",
-                            "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
-                        },
-                        {
-                            "date": "2019-10-14",
-                            "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Diwali\/Deepavali"
-                        },
-                        {
-                            "date": "2019-10-28",
-                            "name": "Day off for Diwali\/Deepavali"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "Full Moon Day of Tazaungmone"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "Full Moon Day of Tazaungmone Holiday"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Kayin New Year Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year Holiday"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -264,6 +155,55 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year Holiday"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year Holiday"
+                        },
+                        {
+                            "date": "2022-01-04",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-02-12",
+                            "name": "Union Day"
+                        },
+                        {
+                            "date": "2022-03-02",
+                            "name": "Peasants' Day"
+                        },
+                        {
+                            "date": "2022-03-27",
+                            "name": "Armed Forces' Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-07-19",
+                            "name": "Martyrs' Day"
+                        },
+                        {
+                            "date": "2022-10-24",
+                            "name": "Diwali\/Deepavali"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year Holiday"
                         }
                     ]

@@ -16,163 +16,6 @@
             "calendar": "en.portuguese#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-03-19",
-                            "name": "St. Joseph's Day (Santar\u00e9m)"
-                        },
-                        {
-                            "date": "2019-03-19",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-03-31",
-                            "name": "Daylight Saving Time starts"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-25",
-                            "name": "Liberty Day"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-05",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-05-07",
-                            "name": "Our Lady of M\u00e9rcoles (Castelo Branco)"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "St. Joana's Day (Aveiro)"
-                        },
-                        {
-                            "date": "2019-05-22",
-                            "name": "Leiria Day (Leiria)"
-                        },
-                        {
-                            "date": "2019-05-23",
-                            "name": "Portalegre Day (Portalegre)"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day (Beja)"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Portugal Day"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Azores Day (Azores)"
-                        },
-                        {
-                            "date": "2019-06-13",
-                            "name": "St. Anthony's Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-06-24",
-                            "name": "St. John's Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-06-29",
-                            "name": "St. Peter's Day (\u00c9vora)"
-                        },
-                        {
-                            "date": "2019-07-04",
-                            "name": "St. Elizabeth's Day (Coimbra)"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-08-20",
-                            "name": "Our Lady of Sorrows (Viana do Castelo)"
-                        },
-                        {
-                            "date": "2019-08-22",
-                            "name": "Our Lady of Graces (Bragan\u00e7a)"
-                        },
-                        {
-                            "date": "2019-09-07",
-                            "name": "Faro Day (Faro)"
-                        },
-                        {
-                            "date": "2019-09-15",
-                            "name": "Birth of Bocage (Set\u00fabal)"
-                        },
-                        {
-                            "date": "2019-09-21",
-                            "name": "St. Matthew's Day (Viseu)"
-                        },
-                        {
-                            "date": "2019-10-05",
-                            "name": "Republic Implantation"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Daylight Saving Time ends"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-11-27",
-                            "name": "Foral of Sancho I (Guarda)"
-                        },
-                        {
-                            "date": "2019-12-01",
-                            "name": "Restoration of Independence"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -346,11 +189,11 @@
                         },
                         {
                             "date": "2021-03-19",
-                            "name": "St. Joseph's Day (Santar\u00e9m)"
+                            "name": "Father's Day"
                         },
                         {
                             "date": "2021-03-19",
-                            "name": "Father's Day"
+                            "name": "St. Joseph's Day (Santar\u00e9m)"
                         },
                         {
                             "date": "2021-03-28",
@@ -482,6 +325,163 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2022-03-19",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2022-03-19",
+                            "name": "St. Joseph's Day (Santar\u00e9m)"
+                        },
+                        {
+                            "date": "2022-03-27",
+                            "name": "Daylight Saving Time starts"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-25",
+                            "name": "Liberty Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Our Lady of M\u00e9rcoles (Castelo Branco)"
+                        },
+                        {
+                            "date": "2022-05-12",
+                            "name": "St. Joana's Day (Aveiro)"
+                        },
+                        {
+                            "date": "2022-05-22",
+                            "name": "Leiria Day (Leiria)"
+                        },
+                        {
+                            "date": "2022-05-23",
+                            "name": "Portalegre Day (Portalegre)"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day (Beja)"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Azores Day (Azores)"
+                        },
+                        {
+                            "date": "2022-06-10",
+                            "name": "Portugal Day"
+                        },
+                        {
+                            "date": "2022-06-13",
+                            "name": "St. Anthony's Day (regional holiday)"
+                        },
+                        {
+                            "date": "2022-06-16",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2022-06-24",
+                            "name": "St. John's Day (regional holiday)"
+                        },
+                        {
+                            "date": "2022-06-29",
+                            "name": "St. Peter's Day (\u00c9vora)"
+                        },
+                        {
+                            "date": "2022-07-04",
+                            "name": "St. Elizabeth's Day (Coimbra)"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-08-20",
+                            "name": "Our Lady of Sorrows (Viana do Castelo)"
+                        },
+                        {
+                            "date": "2022-08-22",
+                            "name": "Our Lady of Graces (Bragan\u00e7a)"
+                        },
+                        {
+                            "date": "2022-09-07",
+                            "name": "Faro Day (Faro)"
+                        },
+                        {
+                            "date": "2022-09-15",
+                            "name": "Birth of Bocage (Set\u00fabal)"
+                        },
+                        {
+                            "date": "2022-09-21",
+                            "name": "St. Matthew's Day (Viseu)"
+                        },
+                        {
+                            "date": "2022-10-05",
+                            "name": "Republic Implantation"
+                        },
+                        {
+                            "date": "2022-10-30",
+                            "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-11-27",
+                            "name": "Foral of Sancho I (Guarda)"
+                        },
+                        {
+                            "date": "2022-12-01",
+                            "name": "Restoration of Independence"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

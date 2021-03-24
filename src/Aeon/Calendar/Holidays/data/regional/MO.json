@@ -14,127 +14,6 @@
             "calendar": "en.mo#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-04",
-                            "name": "Lunar New Year Eve"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Lunar New Year (First Day)"
-                        },
-                        {
-                            "date": "2019-02-06",
-                            "name": "Lunar New Year (Second Day)"
-                        },
-                        {
-                            "date": "2019-02-07",
-                            "name": "Lunar New Year (Third Day)"
-                        },
-                        {
-                            "date": "2019-04-05",
-                            "name": "Cheng Ming Festival"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Holy Saturday Holiday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "Buddha's Birthday"
-                        },
-                        {
-                            "date": "2019-05-13",
-                            "name": "Buddha's Birthday Holiday"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Dragon Boat Festival"
-                        },
-                        {
-                            "date": "2019-09-14",
-                            "name": "Day after the Mid-Autumn-Festival"
-                        },
-                        {
-                            "date": "2019-09-16",
-                            "name": "Mid-Autumn Festival Holiday"
-                        },
-                        {
-                            "date": "2019-10-01",
-                            "name": "National Day of the People's Republic of China"
-                        },
-                        {
-                            "date": "2019-10-02",
-                            "name": "Day after PRC National Day"
-                        },
-                        {
-                            "date": "2019-10-07",
-                            "name": "Chong Yeung Festival (Festival of Ancestors)"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Soul's Day"
-                        },
-                        {
-                            "date": "2019-11-04",
-                            "name": "All Soul's Day Holiday"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-09",
-                            "name": "Feast of the Immaculate Conception Holiday"
-                        },
-                        {
-                            "date": "2019-12-20",
-                            "name": "Macau S.A.R. Establishment Day"
-                        },
-                        {
-                            "date": "2019-12-22",
-                            "name": "Winter Solstice"
-                        },
-                        {
-                            "date": "2019-12-23",
-                            "name": "Winter Solstice Holiday"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve Afternoon"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -356,6 +235,107 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve Afternoon"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-31",
+                            "name": "Lunar New Year Eve"
+                        },
+                        {
+                            "date": "2022-02-01",
+                            "name": "Lunar New Year (First Day)"
+                        },
+                        {
+                            "date": "2022-02-02",
+                            "name": "Lunar New Year (Second Day)"
+                        },
+                        {
+                            "date": "2022-02-03",
+                            "name": "Lunar New Year (Third Day)"
+                        },
+                        {
+                            "date": "2022-04-05",
+                            "name": "Cheng Ming Festival"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Holy Saturday Holiday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Buddha's Birthday"
+                        },
+                        {
+                            "date": "2022-06-03",
+                            "name": "Dragon Boat Festival"
+                        },
+                        {
+                            "date": "2022-09-11",
+                            "name": "Day after the Mid-Autumn-Festival"
+                        },
+                        {
+                            "date": "2022-10-01",
+                            "name": "National Day of the People's Republic of China"
+                        },
+                        {
+                            "date": "2022-10-02",
+                            "name": "Day after PRC National Day"
+                        },
+                        {
+                            "date": "2022-10-04",
+                            "name": "Chong Yeung Festival (Festival of Ancestors)"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Soul's Day"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
+                            "date": "2022-12-20",
+                            "name": "Macau S.A.R. Establishment Day"
+                        },
+                        {
+                            "date": "2022-12-21",
+                            "name": "Winter Solstice"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
+                            "name": "New Year's Eve"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve Afternoon"
                         }
                     ]

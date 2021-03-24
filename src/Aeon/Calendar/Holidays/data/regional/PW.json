@@ -14,63 +14,6 @@
             "calendar": "en.pw#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-03-15",
-                            "name": "Youth Day"
-                        },
-                        {
-                            "date": "2019-05-05",
-                            "name": "Senior Citizens Day"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Day off for Senior Citizens Day"
-                        },
-                        {
-                            "date": "2019-05-31",
-                            "name": "Day off for President's Day"
-                        },
-                        {
-                            "date": "2019-06-01",
-                            "name": "President's Day"
-                        },
-                        {
-                            "date": "2019-07-09",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2019-09-02",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2019-10-01",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-10-24",
-                            "name": "United Nations Day"
-                        },
-                        {
-                            "date": "2019-11-22",
-                            "name": "Family Day"
-                        },
-                        {
-                            "date": "2019-11-28",
-                            "name": "Thanksgiving"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -185,6 +128,67 @@
                         {
                             "date": "2021-12-31",
                             "name": "Day off for New Year's Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-03-15",
+                            "name": "Youth Day"
+                        },
+                        {
+                            "date": "2022-05-05",
+                            "name": "Senior Citizens Day"
+                        },
+                        {
+                            "date": "2022-06-01",
+                            "name": "President's Day"
+                        },
+                        {
+                            "date": "2022-07-08",
+                            "name": "Day off for Constitution Day"
+                        },
+                        {
+                            "date": "2022-07-09",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2022-09-05",
+                            "name": "Labor Day"
+                        },
+                        {
+                            "date": "2022-09-30",
+                            "name": "Day off for Independence Day"
+                        },
+                        {
+                            "date": "2022-10-01",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-10-24",
+                            "name": "United Nations Day"
+                        },
+                        {
+                            "date": "2022-11-24",
+                            "name": "Thanksgiving"
+                        },
+                        {
+                            "date": "2022-11-25",
+                            "name": "Family Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Day off for Christmas Day"
                         }
                     ]
                 }

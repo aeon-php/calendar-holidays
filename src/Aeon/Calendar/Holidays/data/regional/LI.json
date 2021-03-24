@@ -14,87 +14,6 @@
             "calendar": "en.li#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2019-02-02",
-                            "name": "Candlemas"
-                        },
-                        {
-                            "date": "2019-03-19",
-                            "name": "St Joseph's Day"
-                        },
-                        {
-                            "date": "2019-03-31",
-                            "name": "Daylight Saving Time starts"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day\/May Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-09",
-                            "name": "Whit Sunday"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Liechtenstein National Day"
-                        },
-                        {
-                            "date": "2019-09-08",
-                            "name": "Nativity of Our Lady"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Daylight Saving Time ends"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "St Stephen's Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -252,6 +171,87 @@
                         },
                         {
                             "date": "2021-12-26",
+                            "name": "St Stephen's Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2022-02-02",
+                            "name": "Candlemas"
+                        },
+                        {
+                            "date": "2022-03-19",
+                            "name": "St Joseph's Day"
+                        },
+                        {
+                            "date": "2022-03-27",
+                            "name": "Daylight Saving Time starts"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day\/May Day"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2022-06-05",
+                            "name": "Whit Sunday"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2022-06-16",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Liechtenstein National Day"
+                        },
+                        {
+                            "date": "2022-09-08",
+                            "name": "Nativity of Our Lady"
+                        },
+                        {
+                            "date": "2022-10-30",
+                            "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
                             "name": "St Stephen's Day"
                         }
                     ]

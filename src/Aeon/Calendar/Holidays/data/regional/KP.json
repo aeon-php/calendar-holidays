@@ -14,79 +14,6 @@
             "calendar": "en.kp#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Lunar New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-16",
-                            "name": "Birth date of Kim Jong Il"
-                        },
-                        {
-                            "date": "2019-02-19",
-                            "name": "Cheongwoldaeboreum"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2019-04-15",
-                            "name": "Birth Date of Kim Il Sung"
-                        },
-                        {
-                            "date": "2019-04-25",
-                            "name": "Chosun People's Army Foundation Day"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "May Day"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Chosun Children's Union Foundation Day"
-                        },
-                        {
-                            "date": "2019-07-27",
-                            "name": "Day of Victory in the Fatherland Liberation War"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Liberation Day"
-                        },
-                        {
-                            "date": "2019-08-25",
-                            "name": "Day of Songun"
-                        },
-                        {
-                            "date": "2019-09-09",
-                            "name": "Chuseok Harvest Festival"
-                        },
-                        {
-                            "date": "2019-09-09",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-10-10",
-                            "name": "Party Foundation Day"
-                        },
-                        {
-                            "date": "2019-11-16",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-12-27",
-                            "name": "Constitution Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -216,6 +143,67 @@
                         },
                         {
                             "date": "2021-12-27",
+                            "name": "Constitution Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-02-16",
+                            "name": "Birth date of Kim Jong Il"
+                        },
+                        {
+                            "date": "2022-03-08",
+                            "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Birth Date of Kim Il Sung"
+                        },
+                        {
+                            "date": "2022-04-25",
+                            "name": "Chosun People's Army Foundation Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "May Day"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Chosun Children's Union Foundation Day"
+                        },
+                        {
+                            "date": "2022-07-27",
+                            "name": "Day of Victory in the Fatherland Liberation War"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2022-08-25",
+                            "name": "Day of Songun"
+                        },
+                        {
+                            "date": "2022-09-09",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2022-10-10",
+                            "name": "Party Foundation Day"
+                        },
+                        {
+                            "date": "2022-11-16",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-12-27",
                             "name": "Constitution Day"
                         }
                     ]

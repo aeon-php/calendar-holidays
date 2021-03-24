@@ -14,47 +14,6 @@
             "calendar": "en.gg#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-03-31",
-                            "name": "Daylight Saving Time starts"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "May Day"
-                        },
-                        {
-                            "date": "2019-05-27",
-                            "name": "Spring Bank Holiday"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Daylight Saving Time ends"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -136,6 +95,55 @@
                         },
                         {
                             "date": "2021-12-27",
+                            "name": "Bank Holiday"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-03",
+                            "name": "Day off for New Year's Day"
+                        },
+                        {
+                            "date": "2022-03-27",
+                            "name": "Daylight Saving Time starts"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "May Day"
+                        },
+                        {
+                            "date": "2022-05-30",
+                            "name": "Spring Bank Holiday"
+                        },
+                        {
+                            "date": "2022-10-30",
+                            "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2022-12-27",
                             "name": "Bank Holiday"
                         }
                     ]

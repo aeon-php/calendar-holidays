@@ -14,71 +14,6 @@
             "calendar": "en.ht#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day\/Independence Day"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "Heroes\u2019 Day\/Ancestors\u2019 Day"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival\/Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Agriculture and Labor Day"
-                        },
-                        {
-                            "date": "2019-05-18",
-                            "name": "Flag Day\/University Day"
-                        },
-                        {
-                            "date": "2019-05-26",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-06-30",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-10-17",
-                            "name": "Dessalines Day"
-                        },
-                        {
-                            "date": "2019-11-18",
-                            "name": "Verti\u00e8res Day"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -204,6 +139,71 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day\/Independence Day"
+                        },
+                        {
+                            "date": "2022-01-02",
+                            "name": "Heroes\u2019 Day\/Ancestors\u2019 Day"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Carnival\/Shrove Tuesday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Agriculture and Labor Day"
+                        },
+                        {
+                            "date": "2022-05-18",
+                            "name": "Flag Day\/University Day"
+                        },
+                        {
+                            "date": "2022-05-29",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-06-26",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2022-10-17",
+                            "name": "Dessalines Day"
+                        },
+                        {
+                            "date": "2022-11-18",
+                            "name": "Verti\u00e8res Day"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

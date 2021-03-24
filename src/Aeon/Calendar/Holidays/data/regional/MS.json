@@ -14,59 +14,6 @@
             "calendar": "en.ms#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-03-17",
-                            "name": "St. Patrick's Day"
-                        },
-                        {
-                            "date": "2019-03-18",
-                            "name": "St. Patrick's Day observed"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Queen's Birthday Celebration"
-                        },
-                        {
-                            "date": "2019-08-05",
-                            "name": "Emancipation Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "Festival Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -172,6 +119,63 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "Festival Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-03",
+                            "name": "New Year's Day observed"
+                        },
+                        {
+                            "date": "2022-03-17",
+                            "name": "St. Patrick's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2022-06-13",
+                            "name": "Queen's Birthday Celebration"
+                        },
+                        {
+                            "date": "2022-08-01",
+                            "name": "Emancipation Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2022-12-27",
+                            "name": "Christmas Day observed"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "Festival Day"
                         }
                     ]

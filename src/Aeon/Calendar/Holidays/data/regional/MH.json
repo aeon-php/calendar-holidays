@@ -15,63 +15,6 @@
             "calendar": "en.mh#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-03-01",
-                            "name": "Remembrance Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Youth Day"
-                        },
-                        {
-                            "date": "2019-07-05",
-                            "name": "Fishermen's Day"
-                        },
-                        {
-                            "date": "2019-09-06",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2019-09-27",
-                            "name": "Manit Day"
-                        },
-                        {
-                            "date": "2019-11-17",
-                            "name": "President's Day"
-                        },
-                        {
-                            "date": "2019-11-18",
-                            "name": "President's Day observed"
-                        },
-                        {
-                            "date": "2019-12-06",
-                            "name": "Gospel Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -185,11 +128,72 @@
                         },
                         {
                             "date": "2021-12-31",
-                            "name": "New Year's Eve"
+                            "name": "Day off for New Year's Day"
                         },
                         {
                             "date": "2021-12-31",
-                            "name": "Day off for New Year's Day"
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Remembrance Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Day off for Constitution Day"
+                        },
+                        {
+                            "date": "2022-06-03",
+                            "name": "Youth Day"
+                        },
+                        {
+                            "date": "2022-07-01",
+                            "name": "Fishermen's Day"
+                        },
+                        {
+                            "date": "2022-09-02",
+                            "name": "Labor Day"
+                        },
+                        {
+                            "date": "2022-09-23",
+                            "name": "Manit Day"
+                        },
+                        {
+                            "date": "2022-11-17",
+                            "name": "President's Day"
+                        },
+                        {
+                            "date": "2022-12-02",
+                            "name": "Gospel Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Day off for Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
+                            "name": "New Year's Eve"
                         }
                     ]
                 }

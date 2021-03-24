@@ -14,67 +14,6 @@
             "calendar": "en.na#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-03-21",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Workers' Day"
-                        },
-                        {
-                            "date": "2019-05-04",
-                            "name": "Cassinga Day"
-                        },
-                        {
-                            "date": "2019-05-25",
-                            "name": "Africa Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-08-26",
-                            "name": "Heroes' Day"
-                        },
-                        {
-                            "date": "2019-11-27",
-                            "name": "Election Day"
-                        },
-                        {
-                            "date": "2019-12-10",
-                            "name": "Day of the Namibian Women and International Human Rights Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Family Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -197,6 +136,71 @@
                         {
                             "date": "2021-12-27",
                             "name": "Family Day observed"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-03-21",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Workers' Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Workers' Day observed"
+                        },
+                        {
+                            "date": "2022-05-04",
+                            "name": "Cassinga Day"
+                        },
+                        {
+                            "date": "2022-05-25",
+                            "name": "Africa Day"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2022-08-26",
+                            "name": "Heroes' Day"
+                        },
+                        {
+                            "date": "2022-12-10",
+                            "name": "Day of the Namibian Women and International Human Rights Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Christmas Day observed"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Family Day"
                         }
                     ]
                 }

@@ -14,115 +14,6 @@
             "calendar": "en.ba#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "New Year's (Day 2)"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Orthodox Christmas Eve"
-                        },
-                        {
-                            "date": "2019-01-07",
-                            "name": "Orthodox Christmas Day"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "Mothers' Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-04-26",
-                            "name": "Orthodox Good Friday"
-                        },
-                        {
-                            "date": "2019-04-27",
-                            "name": "Orthodox Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-28",
-                            "name": "Orthodox Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-29",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2019-05-02",
-                            "name": "Labor Day (Day 2)"
-                        },
-                        {
-                            "date": "2019-05-09",
-                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "End of Ramadan"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "End of Ramadan Day 2"
-                        },
-                        {
-                            "date": "2019-06-16",
-                            "name": "Fathers' Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Feast of the Sacrifice"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Feast of the Sacrifice Day 2"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Halloween"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve (regional holiday)"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day (Republika Srpska)"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -320,6 +211,115 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-02",
+                            "name": "New Year's (Day 2)"
+                        },
+                        {
+                            "date": "2022-01-03",
+                            "name": "New Year Holiday"
+                        },
+                        {
+                            "date": "2022-01-06",
+                            "name": "Orthodox Christmas Eve"
+                        },
+                        {
+                            "date": "2022-01-07",
+                            "name": "Orthodox Christmas Day"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2022-03-08",
+                            "name": "Mothers' Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-22",
+                            "name": "Orthodox Good Friday"
+                        },
+                        {
+                            "date": "2022-04-23",
+                            "name": "Orthodox Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-24",
+                            "name": "Orthodox Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-25",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labor Day observed"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Labor Day (Day 2)"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "End of Ramadan"
+                        },
+                        {
+                            "date": "2022-05-09",
+                            "name": "Victory Day (Federation of Bosnia and Herzegovina)"
+                        },
+                        {
+                            "date": "2022-06-19",
+                            "name": "Fathers' Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Feast of the Sacrifice"
+                        },
+                        {
+                            "date": "2022-10-31",
+                            "name": "Halloween"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve (regional holiday)"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

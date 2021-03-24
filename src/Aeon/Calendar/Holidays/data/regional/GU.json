@@ -14,71 +14,6 @@
             "calendar": "en.gu#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-01-21",
-                            "name": "Martin Luther King Jr. Day"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Guam History and Chamorro Heritage Day"
-                        },
-                        {
-                            "date": "2019-05-27",
-                            "name": "Memorial Day"
-                        },
-                        {
-                            "date": "2019-07-04",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-07-21",
-                            "name": "Liberation Day"
-                        },
-                        {
-                            "date": "2019-07-22",
-                            "name": "Liberation Day observed"
-                        },
-                        {
-                            "date": "2019-09-02",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Souls' Day observed"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls' Day"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "Veterans Day"
-                        },
-                        {
-                            "date": "2019-11-28",
-                            "name": "Thanksgiving"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Santa Marian Kamalen Day"
-                        },
-                        {
-                            "date": "2019-12-09",
-                            "name": "Santa Marian Kamalen Day observed"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -151,7 +86,7 @@
                             "name": "Guam History and Chamorro Heritage Day"
                         },
                         {
-                            "date": "2021-05-24",
+                            "date": "2021-05-31",
                             "name": "Memorial Day"
                         },
                         {
@@ -197,6 +132,63 @@
                         {
                             "date": "2021-12-31",
                             "name": "New Year observed"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-01-17",
+                            "name": "Martin Luther King Jr. Day"
+                        },
+                        {
+                            "date": "2022-03-07",
+                            "name": "Guam History and Chamorro Heritage Day"
+                        },
+                        {
+                            "date": "2022-05-30",
+                            "name": "Memorial Day"
+                        },
+                        {
+                            "date": "2022-07-04",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-07-21",
+                            "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2022-09-05",
+                            "name": "Labor Day"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
+                            "date": "2022-11-11",
+                            "name": "Veterans Day"
+                        },
+                        {
+                            "date": "2022-11-24",
+                            "name": "Thanksgiving"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Santa Marian Kamalen Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Christmas Day observed"
                         }
                     ]
                 }

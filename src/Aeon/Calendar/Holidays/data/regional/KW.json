@@ -14,71 +14,6 @@
             "calendar": "en.kw#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-24",
-                            "name": "National and Liberation Day Holiday"
-                        },
-                        {
-                            "date": "2019-02-25",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-02-26",
-                            "name": "Liberation Day"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Isra and Miraj"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2019-08-10",
-                            "name": "Waqfat Arafat Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2019-08-31",
-                            "name": "Islamic New Year"
-                        },
-                        {
-                            "date": "2019-11-09",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -532,6 +467,67 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-25",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2022-02-26",
+                            "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Isra and Miraj"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-04",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2022-05-05",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2022-07-09",
+                            "name": "Waqfat Arafat Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-07-11",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2022-07-12",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2022-07-30",
+                            "name": "Islamic New Year"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

@@ -14,103 +14,6 @@
             "calendar": "en.sv#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-16",
-                            "name": "Signing of the Peace Accords"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "Women's Day"
-                        },
-                        {
-                            "date": "2019-03-26",
-                            "name": "National Day of Life, Peace and Justice"
-                        },
-                        {
-                            "date": "2019-04-14",
-                            "name": "Palm Sunday"
-                        },
-                        {
-                            "date": "2019-04-18",
-                            "name": "Maundy Thursday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-03",
-                            "name": "Cross Day"
-                        },
-                        {
-                            "date": "2019-05-07",
-                            "name": "Soldiers' Day"
-                        },
-                        {
-                            "date": "2019-05-10",
-                            "name": "Mothers' Day"
-                        },
-                        {
-                            "date": "2019-06-17",
-                            "name": "Fathers' Day"
-                        },
-                        {
-                            "date": "2019-06-22",
-                            "name": "Teachers' Day"
-                        },
-                        {
-                            "date": "2019-08-06",
-                            "name": "Celebrations of San Salvador"
-                        },
-                        {
-                            "date": "2019-09-15",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-10-01",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Columbus Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Saints Day"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -300,6 +203,107 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-16",
+                            "name": "Signing of the Peace Accords"
+                        },
+                        {
+                            "date": "2022-03-08",
+                            "name": "Women's Day"
+                        },
+                        {
+                            "date": "2022-03-26",
+                            "name": "National Day of Life, Peace and Justice"
+                        },
+                        {
+                            "date": "2022-04-10",
+                            "name": "Palm Sunday"
+                        },
+                        {
+                            "date": "2022-04-14",
+                            "name": "Maundy Thursday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Cross Day"
+                        },
+                        {
+                            "date": "2022-05-07",
+                            "name": "Soldiers' Day"
+                        },
+                        {
+                            "date": "2022-05-10",
+                            "name": "Mothers' Day"
+                        },
+                        {
+                            "date": "2022-06-17",
+                            "name": "Fathers' Day"
+                        },
+                        {
+                            "date": "2022-06-22",
+                            "name": "Teachers' Day"
+                        },
+                        {
+                            "date": "2022-08-06",
+                            "name": "Celebrations of San Salvador"
+                        },
+                        {
+                            "date": "2022-09-15",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-10-01",
+                            "name": "Children's Day"
+                        },
+                        {
+                            "date": "2022-10-12",
+                            "name": "Columbus Day"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Saints Day"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Christmas Day observed"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

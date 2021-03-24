@@ -14,71 +14,6 @@
             "calendar": "en.sc#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "New Year holiday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-06-18",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-06-29",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-09",
-                            "name": "Day off for Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -213,6 +148,79 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-01-02",
+                            "name": "New Year holiday"
+                        },
+                        {
+                            "date": "2022-01-03",
+                            "name": "Day off for New Year holiday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Day off for Labour Day"
+                        },
+                        {
+                            "date": "2022-06-16",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2022-06-18",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2022-06-29",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Immaculate Conception"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Day off for Christmas Day"
                         }
                     ]
                 }

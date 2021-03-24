@@ -14,63 +14,6 @@
             "calendar": "en.sb#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Day off for Queen's Official Birthday"
-                        },
-                        {
-                            "date": "2019-06-08",
-                            "name": "Queen's Official Birthday"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-07-07",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-07-08",
-                            "name": "Day off for Independence Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "National Day of Thanksgiving"
-                        },
-                        {
-                            "date": "2019-12-27",
-                            "name": "Special Public Holiday"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -165,6 +108,59 @@
                         {
                             "date": "2021-12-26",
                             "name": "National Day of Thanksgiving"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2022-06-10",
+                            "name": "Day off for Queen's Official Birthday"
+                        },
+                        {
+                            "date": "2022-06-11",
+                            "name": "Queen's Official Birthday"
+                        },
+                        {
+                            "date": "2022-07-07",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "National Day of Thanksgiving"
+                        },
+                        {
+                            "date": "2022-12-27",
+                            "name": "Day off for National Day of Thanksgiving"
                         }
                     ]
                 }

@@ -14,67 +14,6 @@
             "calendar": "en.ci#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-01",
-                            "name": "Day After Laila tou-Kadr"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Aid el-Fitr"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-08-07",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Aid el-Kebir"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints Day"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "The Day After Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-11-15",
-                            "name": "National Peace Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -196,6 +135,75 @@
                         },
                         {
                             "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-29",
+                            "name": "Day After Laila tou-Kadr"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labor Day observed"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Aid el-Fitr"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Aid el-Kebir"
+                        },
+                        {
+                            "date": "2022-08-07",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-08-08",
+                            "name": "Independence Day observed"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-10-09",
+                            "name": "The Day After Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints Day"
+                        },
+                        {
+                            "date": "2022-11-15",
+                            "name": "National Peace Day"
+                        },
+                        {
+                            "date": "2022-12-25",
                             "name": "Christmas Day"
                         }
                     ]

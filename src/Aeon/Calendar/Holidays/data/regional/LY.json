@@ -14,39 +14,6 @@
             "calendar": "en.ly#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-02-17",
-                            "name": "Libyan Revolution Day"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "May Day"
-                        },
-                        {
-                            "date": "2019-08-10",
-                            "name": "Day of Arafah"
-                        },
-                        {
-                            "date": "2019-09-16",
-                            "name": "Martyrs' Day"
-                        },
-                        {
-                            "date": "2019-10-23",
-                            "name": "Liberation Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Independence Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -108,6 +75,39 @@
                         },
                         {
                             "date": "2021-12-24",
+                            "name": "Independence Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-02-17",
+                            "name": "Libyan Revolution Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "May Day"
+                        },
+                        {
+                            "date": "2022-07-09",
+                            "name": "Day of Arafah"
+                        },
+                        {
+                            "date": "2022-09-16",
+                            "name": "Martyrs' Day"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-10-23",
+                            "name": "Liberation Day"
+                        },
+                        {
+                            "date": "2022-12-24",
                             "name": "Independence Day"
                         }
                     ]

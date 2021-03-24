@@ -14,75 +14,6 @@
             "calendar": "en.jm#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-03-06",
-                            "name": "Ash Wednesday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-05-23",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-06-16",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-08-01",
-                            "name": "Emancipation Day"
-                        },
-                        {
-                            "date": "2019-08-06",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-10-21",
-                            "name": "National Heroes' Day"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -232,6 +163,79 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2022-03-02",
+                            "name": "Ash Wednesday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-05-23",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-06-19",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2022-08-01",
+                            "name": "Emancipation Day"
+                        },
+                        {
+                            "date": "2022-08-08",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-10-17",
+                            "name": "National Heroes' Day"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2022-12-27",
+                            "name": "Christmas\/Boxing Day Holiday"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

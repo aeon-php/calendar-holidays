@@ -14,91 +14,6 @@
             "calendar": "en.ae#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Papal Visit Day"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Leilat al-Meiraj (The Prophet's Ascension)"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Ramadan Start"
-                        },
-                        {
-                            "date": "2019-06-03",
-                            "name": "Eid al-Fitr Holiday 1"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr Holiday 2"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Eid al-Fitr Holiday 3"
-                        },
-                        {
-                            "date": "2019-08-03",
-                            "name": "Hajj season begins"
-                        },
-                        {
-                            "date": "2019-08-10",
-                            "name": "Arafat (Hajj) Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha (Feast of Sacrifice)"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2019-08-31",
-                            "name": "Al-Hijra (Islamic New Year)"
-                        },
-                        {
-                            "date": "2019-11-09",
-                            "name": "Mouloud"
-                        },
-                        {
-                            "date": "2019-11-30",
-                            "name": "Commemoration Day"
-                        },
-                        {
-                            "date": "2019-12-01",
-                            "name": "Day off for Commemoration Day"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-12-03",
-                            "name": "National Day Holiday"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -239,11 +154,11 @@
                             "name": "Al-Hijra (Islamic New Year)"
                         },
                         {
-                            "date": "2021-10-19",
+                            "date": "2021-10-21",
                             "name": "Mouloud"
                         },
                         {
-                            "date": "2021-11-30",
+                            "date": "2021-12-01",
                             "name": "Commemoration Day"
                         },
                         {

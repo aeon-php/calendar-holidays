@@ -14,71 +14,6 @@
             "calendar": "en.lu#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-09",
-                            "name": "Europe Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-09",
-                            "name": "Whit Sunday"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-06-23",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "St Stephen's Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -204,6 +139,71 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-09",
+                            "name": "Europe Day"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2022-06-05",
+                            "name": "Whit Sunday"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2022-06-23",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "St Stephen's Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

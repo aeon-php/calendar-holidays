@@ -14,111 +14,6 @@
             "calendar": "en.jo#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-02",
-                            "name": "Al Isra' wal Miraj"
-                        },
-                        {
-                            "date": "2019-04-14",
-                            "name": "Palm Sunday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-04-28",
-                            "name": "Orthodox Easter Day"
-                        },
-                        {
-                            "date": "2019-04-29",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Ramadan begins"
-                        },
-                        {
-                            "date": "2019-05-25",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Eid al-Fitr holiday"
-                        },
-                        {
-                            "date": "2019-06-09",
-                            "name": "20th Anniversary of King Abdullah\u2019s Coronation"
-                        },
-                        {
-                            "date": "2019-08-10",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2019-08-14",
-                            "name": "Eid al-Adha holiday"
-                        },
-                        {
-                            "date": "2019-08-31",
-                            "name": "Muharram\/New Year"
-                        },
-                        {
-                            "date": "2019-11-09",
-                            "name": "Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -536,6 +431,107 @@
                         },
                         {
                             "date": "2021-12-26",
+                            "name": "Boxing Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-28",
+                            "name": "Al Isra' wal Miraj"
+                        },
+                        {
+                            "date": "2022-04-03",
+                            "name": "Ramadan begins"
+                        },
+                        {
+                            "date": "2022-04-10",
+                            "name": "Palm Sunday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-24",
+                            "name": "Orthodox Easter Day"
+                        },
+                        {
+                            "date": "2022-04-25",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-04",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2022-05-05",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2022-05-06",
+                            "name": "Eid al-Fitr holiday"
+                        },
+                        {
+                            "date": "2022-05-25",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-07-11",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2022-07-12",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2022-07-13",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2022-07-14",
+                            "name": "Eid al-Adha holiday"
+                        },
+                        {
+                            "date": "2022-07-30",
+                            "name": "Muharram\/New Year"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
                             "name": "Boxing Day"
                         }
                     ]

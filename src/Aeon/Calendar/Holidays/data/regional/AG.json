@@ -14,55 +14,6 @@
             "calendar": "en.ag#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-08-05",
-                            "name": "Carnival Holiday"
-                        },
-                        {
-                            "date": "2019-08-06",
-                            "name": "Carnival Holiday"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-12-09",
-                            "name": "National Heroes Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -164,6 +115,59 @@
                         },
                         {
                             "date": "2021-12-27",
+                            "name": "Christmas Day observed"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2022-08-01",
+                            "name": "Carnival Holiday"
+                        },
+                        {
+                            "date": "2022-08-02",
+                            "name": "Carnival Holiday"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-12-09",
+                            "name": "National Heroes Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2022-12-27",
                             "name": "Christmas Day observed"
                         }
                     ]

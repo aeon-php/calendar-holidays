@@ -14,87 +14,6 @@
             "calendar": "en.czech#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "Restoration of the Czech Independence Day"
-                        },
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "St. Valentine's Day"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-08",
-                            "name": "Victory in Europe Day"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-06-01",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-06-16",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-07-05",
-                            "name": "Saints Cyril and Methodius"
-                        },
-                        {
-                            "date": "2019-07-06",
-                            "name": "Jan Hus Day"
-                        },
-                        {
-                            "date": "2019-09-28",
-                            "name": "St. Wenceslas Day"
-                        },
-                        {
-                            "date": "2019-10-28",
-                            "name": "Independent Czechoslovak State Day"
-                        },
-                        {
-                            "date": "2019-11-17",
-                            "name": "Struggle for Freedom and Democracy Day"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "St. Stephen's Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -252,6 +171,87 @@
                         },
                         {
                             "date": "2021-12-26",
+                            "name": "St. Stephen's Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "Restoration of the Czech Independence Day"
+                        },
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "St. Valentine's Day"
+                        },
+                        {
+                            "date": "2022-03-08",
+                            "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Victory in Europe Day"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-06-01",
+                            "name": "Children's Day"
+                        },
+                        {
+                            "date": "2022-06-19",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2022-07-05",
+                            "name": "Day of Saints Cyril and Methodius"
+                        },
+                        {
+                            "date": "2022-07-06",
+                            "name": "Jan Hus Day"
+                        },
+                        {
+                            "date": "2022-09-28",
+                            "name": "St. Wenceslas Day"
+                        },
+                        {
+                            "date": "2022-10-28",
+                            "name": "Independent Czechoslovak State Day"
+                        },
+                        {
+                            "date": "2022-11-17",
+                            "name": "Struggle for Freedom and Democracy Day"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
                             "name": "St. Stephen's Day"
                         }
                     ]

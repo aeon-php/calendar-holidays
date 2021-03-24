@@ -14,107 +14,6 @@
             "calendar": "en.lithuanian#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-02-16",
-                            "name": "Independence Restoration Day"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival"
-                        },
-                        {
-                            "date": "2019-03-11",
-                            "name": "Independence Day\/National Day"
-                        },
-                        {
-                            "date": "2019-03-31",
-                            "name": "Daylight Saving Time starts"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-05-05",
-                            "name": "Mothers' Day"
-                        },
-                        {
-                            "date": "2019-06-02",
-                            "name": "Fathers' Day"
-                        },
-                        {
-                            "date": "2019-06-24",
-                            "name": "St John's Day\/Day of Dew"
-                        },
-                        {
-                            "date": "2019-07-06",
-                            "name": "King Mindaugas\u2019 Coronation Day"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Feast of the Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Daylight Saving Time ends"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Halloween"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls'Day"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Second Day of Christmas"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -296,7 +195,7 @@
                         },
                         {
                             "date": "2021-11-02",
-                            "name": "All Souls'Day"
+                            "name": "All Souls' Day"
                         },
                         {
                             "date": "2021-12-24",
@@ -312,6 +211,107 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2022-02-16",
+                            "name": "Independence Restoration Day"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Carnival"
+                        },
+                        {
+                            "date": "2022-03-11",
+                            "name": "Independence Day\/National Day"
+                        },
+                        {
+                            "date": "2022-03-27",
+                            "name": "Daylight Saving Time starts"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Mothers' Day"
+                        },
+                        {
+                            "date": "2022-06-05",
+                            "name": "Fathers' Day"
+                        },
+                        {
+                            "date": "2022-06-24",
+                            "name": "St John's Day\/Day of Dew"
+                        },
+                        {
+                            "date": "2022-07-06",
+                            "name": "King Mindaugas\u2019 Coronation Day"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Feast of the Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-10-30",
+                            "name": "Daylight Saving Time ends"
+                        },
+                        {
+                            "date": "2022-10-31",
+                            "name": "Halloween"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Second Day of Christmas"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

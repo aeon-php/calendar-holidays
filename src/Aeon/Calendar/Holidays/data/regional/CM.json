@@ -14,63 +14,6 @@
             "calendar": "en.cm#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-11",
-                            "name": "Youth Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-05-20",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-10-01",
-                            "name": "Independence of Southern British Cameroons from UK"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "The Prophet's Birthday observed"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -181,6 +124,71 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-11",
+                            "name": "Youth Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labour Day observed"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-20",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-07-11",
+                            "name": "Eid al-Adha observed"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-10-01",
+                            "name": "Independence of Southern British Cameroons from UK"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Christmas Day observed"
                         }
                     ]
                 }

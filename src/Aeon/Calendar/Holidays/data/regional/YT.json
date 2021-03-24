@@ -14,71 +14,6 @@
             "calendar": "en.yt#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Mi'raj"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-05-08",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-10",
-                            "name": "Whit Monday"
-                        },
-                        {
-                            "date": "2019-07-14",
-                            "name": "French National Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "Armistice Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -212,6 +147,75 @@
                         },
                         {
                             "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Mi'raj"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-27",
+                            "name": "Abolition Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Victory Day"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Whit Monday"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-07-14",
+                            "name": "French National Day"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-11-11",
+                            "name": "Armistice Day"
+                        },
+                        {
+                            "date": "2022-12-25",
                             "name": "Christmas Day"
                         }
                     ]

@@ -14,59 +14,6 @@
             "calendar": "en.gn#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Second Republic Day"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-05-25",
-                            "name": "Africa Day"
-                        },
-                        {
-                            "date": "2019-05-31",
-                            "name": "Lailat al-Qadr"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-10-02",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -168,6 +115,59 @@
                         },
                         {
                             "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-04-03",
+                            "name": "Second Republic Day"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-28",
+                            "name": "Lailat al-Qadr"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-25",
+                            "name": "Africa Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-10-02",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-12-25",
                             "name": "Christmas Day"
                         }
                     ]

@@ -14,107 +14,6 @@
             "calendar": "en.hong_kong#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Chinese Lunar New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-06",
-                            "name": "Second day of Chinese Lunar New Year"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-04-05",
-                            "name": "Tomb Sweeping Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "Buddha's Birthday"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-05-13",
-                            "name": "Day following Buddha's Birthday"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Dragon Boat Festival"
-                        },
-                        {
-                            "date": "2019-06-16",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-07-01",
-                            "name": "Hong Kong Special Administrative Region Establishment Day"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Hungry Ghost Festival"
-                        },
-                        {
-                            "date": "2019-09-13",
-                            "name": "Mid-Autumn Festival"
-                        },
-                        {
-                            "date": "2019-09-14",
-                            "name": "Day after Mid-Autumn Festival"
-                        },
-                        {
-                            "date": "2019-10-01",
-                            "name": "National Day of the People's Republic of China"
-                        },
-                        {
-                            "date": "2019-10-07",
-                            "name": "Chung Yeung Festival"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -260,11 +159,11 @@
                         },
                         {
                             "date": "2021-04-05",
-                            "name": "Easter Monday"
+                            "name": "The Day Following Tomb Sweeping Day"
                         },
                         {
                             "date": "2021-04-05",
-                            "name": "The Day Following Tomb Sweeping Day"
+                            "name": "Easter Monday"
                         },
                         {
                             "date": "2021-04-06",
@@ -324,6 +223,119 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-01",
+                            "name": "Chinese Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-02",
+                            "name": "Second day of Chinese Lunar New Year"
+                        },
+                        {
+                            "date": "2022-02-03",
+                            "name": "Third day of Chinese Lunar New Year"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2022-04-05",
+                            "name": "Tomb Sweeping Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labour Day observed"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Buddha's Birthday"
+                        },
+                        {
+                            "date": "2022-05-09",
+                            "name": "Day following Buddha's Birthday"
+                        },
+                        {
+                            "date": "2022-06-03",
+                            "name": "Dragon Boat Festival"
+                        },
+                        {
+                            "date": "2022-06-19",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2022-07-01",
+                            "name": "Hong Kong Special Administrative Region Establishment Day"
+                        },
+                        {
+                            "date": "2022-08-12",
+                            "name": "Hungry Ghost Festival"
+                        },
+                        {
+                            "date": "2022-09-10",
+                            "name": "Day after Mid-Autumn Festival"
+                        },
+                        {
+                            "date": "2022-09-10",
+                            "name": "Mid-Autumn Festival"
+                        },
+                        {
+                            "date": "2022-10-01",
+                            "name": "National Day of the People's Republic of China"
+                        },
+                        {
+                            "date": "2022-10-04",
+                            "name": "Chung Yeung Festival"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "First Weekday After Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-27",
+                            "name": "Second Weekday After Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

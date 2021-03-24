@@ -14,87 +14,6 @@
             "calendar": "en.singapore#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Chinese Lunar New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-06",
-                            "name": "Second day of Chinese Lunar New Year"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Easter Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-05-19",
-                            "name": "Vesak Day"
-                        },
-                        {
-                            "date": "2019-05-20",
-                            "name": "Vesak Day observed"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Hari Raya Puasa"
-                        },
-                        {
-                            "date": "2019-08-09",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Hari Raya Haji"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Hari Raya Haji observed"
-                        },
-                        {
-                            "date": "2019-10-04",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Diwali\/Deepavali"
-                        },
-                        {
-                            "date": "2019-10-28",
-                            "name": "Diwali\/Deepavali observed"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -227,7 +146,7 @@
                             "name": "National Day"
                         },
                         {
-                            "date": "2021-10-01",
+                            "date": "2021-10-08",
                             "name": "Children's Day"
                         },
                         {
@@ -244,6 +163,63 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-01",
+                            "name": "Chinese Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Easter Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labour Day observed"
+                        },
+                        {
+                            "date": "2022-08-09",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2022-10-14",
+                            "name": "Children's Day"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Christmas Day observed"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

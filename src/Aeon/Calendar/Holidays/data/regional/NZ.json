@@ -15,139 +15,6 @@
             "calendar": "en.new_zealand#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "Day after New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-21",
-                            "name": "Wellington Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-01-28",
-                            "name": "Northland Anniversary Day (Northland)"
-                        },
-                        {
-                            "date": "2019-01-28",
-                            "name": "Auckland Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-02-04",
-                            "name": "Nelson Anniversary Day (regional holiday)"
-                        },
-                        {
-                            "date": "2019-02-06",
-                            "name": "Waitangi Day"
-                        },
-                        {
-                            "date": "2019-02-14",
-                            "name": "Valentine's Day"
-                        },
-                        {
-                            "date": "2019-03-11",
-                            "name": "Taranaki Anniversary Day (Taranaki)"
-                        },
-                        {
-                            "date": "2019-03-25",
-                            "name": "Otago Anniversary Day (Otago)"
-                        },
-                        {
-                            "date": "2019-04-01",
-                            "name": "April Fools"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-04-23",
-                            "name": "Southland Anniversary Day (Southland)"
-                        },
-                        {
-                            "date": "2019-04-25",
-                            "name": "ANZAC Day"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-06-03",
-                            "name": "Queen's Birthday"
-                        },
-                        {
-                            "date": "2019-09-01",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-09-23",
-                            "name": "South Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2019-10-25",
-                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
-                        },
-                        {
-                            "date": "2019-10-28",
-                            "name": "Labour Day"
-                        },
-                        {
-                            "date": "2019-11-04",
-                            "name": "Marlborough Anniversary Day (Marlborough)"
-                        },
-                        {
-                            "date": "2019-11-05",
-                            "name": "Guy Fawkes Night"
-                        },
-                        {
-                            "date": "2019-11-15",
-                            "name": "Canterbury Anniversary Day (Canterbury)"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "Westland Anniversary Day (West Coast)"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -309,11 +176,11 @@
                         },
                         {
                             "date": "2021-02-01",
-                            "name": "Nelson Anniversary Day (regional holiday)"
+                            "name": "Auckland Anniversary Day (regional holiday)"
                         },
                         {
                             "date": "2021-02-01",
-                            "name": "Auckland Anniversary Day (regional holiday)"
+                            "name": "Nelson Anniversary Day (regional holiday)"
                         },
                         {
                             "date": "2021-02-06",
@@ -321,7 +188,7 @@
                         },
                         {
                             "date": "2021-02-08",
-                            "name": "Waitangi Day observed"
+                            "name": "Day off for Waitangi Day"
                         },
                         {
                             "date": "2021-02-14",
@@ -365,7 +232,7 @@
                         },
                         {
                             "date": "2021-04-26",
-                            "name": "ANZAC Day observed"
+                            "name": "Day off for ANZAC Day"
                         },
                         {
                             "date": "2021-05-09",
@@ -405,11 +272,11 @@
                         },
                         {
                             "date": "2021-11-29",
-                            "name": "Westland Anniversary Day (West Coast)"
+                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
                         },
                         {
                             "date": "2021-11-29",
-                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
+                            "name": "Westland Anniversary Day (West Coast)"
                         },
                         {
                             "date": "2021-12-24",
@@ -425,14 +292,163 @@
                         },
                         {
                             "date": "2021-12-27",
-                            "name": "Christmas Day Observed"
+                            "name": "Day off for Christmas Day"
                         },
                         {
                             "date": "2021-12-28",
-                            "name": "Boxing Day Observed"
+                            "name": "Day off for Boxing Day"
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-03",
+                            "name": "New Year's Day Observed"
+                        },
+                        {
+                            "date": "2022-01-04",
+                            "name": "Day after New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-24",
+                            "name": "Wellington Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2022-01-31",
+                            "name": "Northland Anniversary Day (Northland)"
+                        },
+                        {
+                            "date": "2022-01-31",
+                            "name": "Auckland Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2022-01-31",
+                            "name": "Nelson Anniversary Day (regional holiday)"
+                        },
+                        {
+                            "date": "2022-02-06",
+                            "name": "Waitangi Day"
+                        },
+                        {
+                            "date": "2022-02-07",
+                            "name": "Day off for Waitangi Day"
+                        },
+                        {
+                            "date": "2022-02-14",
+                            "name": "Valentine's Day"
+                        },
+                        {
+                            "date": "2022-03-14",
+                            "name": "Taranaki Anniversary Day (Taranaki)"
+                        },
+                        {
+                            "date": "2022-03-21",
+                            "name": "Otago Anniversary Day (Otago)"
+                        },
+                        {
+                            "date": "2022-04-01",
+                            "name": "April Fools"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-19",
+                            "name": "Southland Anniversary Day (Southland)"
+                        },
+                        {
+                            "date": "2022-04-25",
+                            "name": "ANZAC Day"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-06-06",
+                            "name": "Queen's Birthday"
+                        },
+                        {
+                            "date": "2022-06-24",
+                            "name": "Matariki"
+                        },
+                        {
+                            "date": "2022-09-04",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2022-09-26",
+                            "name": "South Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2022-10-21",
+                            "name": "Hawke's Bay Anniversary Day (Hawke's Bay)"
+                        },
+                        {
+                            "date": "2022-10-24",
+                            "name": "Labour Day"
+                        },
+                        {
+                            "date": "2022-10-31",
+                            "name": "Marlborough Anniversary Day (Marlborough)"
+                        },
+                        {
+                            "date": "2022-11-05",
+                            "name": "Guy Fawkes Night"
+                        },
+                        {
+                            "date": "2022-11-11",
+                            "name": "Canterbury Anniversary Day (Canterbury)"
+                        },
+                        {
+                            "date": "2022-11-28",
+                            "name": "Chatham Islands Anniversary Day (Chatham Islands)"
+                        },
+                        {
+                            "date": "2022-11-28",
+                            "name": "Westland Anniversary Day (West Coast)"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Boxing Day"
+                        },
+                        {
+                            "date": "2022-12-27",
+                            "name": "Day off for Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

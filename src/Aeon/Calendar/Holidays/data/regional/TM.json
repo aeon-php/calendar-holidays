@@ -14,87 +14,6 @@
             "calendar": "en.tm#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "International Women's Day"
-                        },
-                        {
-                            "date": "2019-03-21",
-                            "name": "Nowruz Bayram (Spring Festival)"
-                        },
-                        {
-                            "date": "2019-03-22",
-                            "name": "Nowruz Bayram (Spring Festival)"
-                        },
-                        {
-                            "date": "2019-04-07",
-                            "name": "World Health Day"
-                        },
-                        {
-                            "date": "2019-04-28",
-                            "name": "Turkmen Racing Horse Festival"
-                        },
-                        {
-                            "date": "2019-05-09",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2019-05-18",
-                            "name": "Constitution Day"
-                        },
-                        {
-                            "date": "2019-05-26",
-                            "name": "Carpet Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Oraza Bayram"
-                        },
-                        {
-                            "date": "2019-06-27",
-                            "name": "Day of Turkmen Workers of Culture and Art"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Kurban Bayramy"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Kurban Bayramy Holiday"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Kurban Bayramy Holiday"
-                        },
-                        {
-                            "date": "2019-09-14",
-                            "name": "Day of the Workers in the Energy Sector"
-                        },
-                        {
-                            "date": "2019-09-27",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-10-06",
-                            "name": "Day of Commemoration and National Mourning"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "Harvest Festival"
-                        },
-                        {
-                            "date": "2019-12-12",
-                            "name": "Day of Neutrality"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -248,6 +167,79 @@
                         },
                         {
                             "date": "2021-12-12",
+                            "name": "Day of Neutrality"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-03-08",
+                            "name": "International Women's Day"
+                        },
+                        {
+                            "date": "2022-03-21",
+                            "name": "Nowruz Bayram (Spring Festival)"
+                        },
+                        {
+                            "date": "2022-03-22",
+                            "name": "Nowruz Bayram (Spring Festival)"
+                        },
+                        {
+                            "date": "2022-04-07",
+                            "name": "World Health Day"
+                        },
+                        {
+                            "date": "2022-04-24",
+                            "name": "Turkmen Racing Horse Festival"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Oraza Bayram"
+                        },
+                        {
+                            "date": "2022-05-09",
+                            "name": "Victory Day"
+                        },
+                        {
+                            "date": "2022-05-18",
+                            "name": "Constitution Day"
+                        },
+                        {
+                            "date": "2022-05-22",
+                            "name": "Carpet Day"
+                        },
+                        {
+                            "date": "2022-06-27",
+                            "name": "Day of Turkmen Workers of Culture and Art"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Kurban Bayramy"
+                        },
+                        {
+                            "date": "2022-09-10",
+                            "name": "Day of the Workers in the Energy Sector"
+                        },
+                        {
+                            "date": "2022-09-27",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-10-06",
+                            "name": "Day of Commemoration and National Mourning"
+                        },
+                        {
+                            "date": "2022-11-13",
+                            "name": "Harvest Festival"
+                        },
+                        {
+                            "date": "2022-12-12",
                             "name": "Day of Neutrality"
                         }
                     ]

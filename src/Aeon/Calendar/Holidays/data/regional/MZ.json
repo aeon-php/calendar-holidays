@@ -14,59 +14,6 @@
             "calendar": "en.mz#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-02-03",
-                            "name": "Mozambican Heroes Day"
-                        },
-                        {
-                            "date": "2019-02-04",
-                            "name": "Mozambican Heroes Day observed"
-                        },
-                        {
-                            "date": "2019-04-07",
-                            "name": "Mozambican Woman's Day"
-                        },
-                        {
-                            "date": "2019-04-08",
-                            "name": "Mozambican Woman's Day observed"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "May Day"
-                        },
-                        {
-                            "date": "2019-06-25",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-09-07",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2019-09-25",
-                            "name": "Armed Forces Day"
-                        },
-                        {
-                            "date": "2019-10-04",
-                            "name": "Peace and Reconciliation Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Family Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -157,6 +104,63 @@
                         {
                             "date": "2021-12-25",
                             "name": "Family Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-02-03",
+                            "name": "Mozambican Heroes Day"
+                        },
+                        {
+                            "date": "2022-04-07",
+                            "name": "Mozambican Woman's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "May Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "May Day observed"
+                        },
+                        {
+                            "date": "2022-06-25",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-09-07",
+                            "name": "Victory Day"
+                        },
+                        {
+                            "date": "2022-09-25",
+                            "name": "Armed Forces Day"
+                        },
+                        {
+                            "date": "2022-09-26",
+                            "name": "Armed Forces Day observed"
+                        },
+                        {
+                            "date": "2022-10-04",
+                            "name": "Peace and Reconciliation Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Family Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Family Day observed"
                         }
                     ]
                 }

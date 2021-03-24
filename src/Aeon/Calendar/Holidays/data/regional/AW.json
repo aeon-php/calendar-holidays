@@ -14,55 +14,6 @@
             "calendar": "en.aw#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-25",
-                            "name": "Betico Croes' Birthday"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Carnival Monday"
-                        },
-                        {
-                            "date": "2019-03-18",
-                            "name": "National Anthem and Flag Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2019-04-27",
-                            "name": "King's Day"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-26",
-                            "name": "Boxing Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -156,6 +107,59 @@
                         },
                         {
                             "date": "2021-12-26",
+                            "name": "Boxing Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-25",
+                            "name": "Betico Croes' Birthday"
+                        },
+                        {
+                            "date": "2022-02-28",
+                            "name": "Carnival Monday"
+                        },
+                        {
+                            "date": "2022-03-18",
+                            "name": "National Anthem and Flag Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-27",
+                            "name": "King's Day"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Day off for Labor Day"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
                             "name": "Boxing Day"
                         }
                     ]

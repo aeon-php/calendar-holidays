@@ -14,91 +14,6 @@
             "calendar": "en.af#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-03-21",
-                            "name": "Naw Roz"
-                        },
-                        {
-                            "date": "2019-04-28",
-                            "name": "Afghan Victory Day"
-                        },
-                        {
-                            "date": "2019-04-29",
-                            "name": "Loya Jirga Gathering Holiday (Kabul Only)"
-                        },
-                        {
-                            "date": "2019-04-30",
-                            "name": "Loya Jirga Gathering Holiday (Kabul Only)"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Loya Jirga Gathering Holiday (Kabul Only)"
-                        },
-                        {
-                            "date": "2019-05-02",
-                            "name": "Loya Jirga Gathering Holiday (Kabul Only)"
-                        },
-                        {
-                            "date": "2019-05-03",
-                            "name": "Loya Jirga Gathering Holiday (Kabul Only)"
-                        },
-                        {
-                            "date": "2019-05-06",
-                            "name": "Ramadan starts"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-08-10",
-                            "name": "Day of Arafat"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Qurban"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Qurban Holiday"
-                        },
-                        {
-                            "date": "2019-08-13",
-                            "name": "Eid al-Qurban Holiday"
-                        },
-                        {
-                            "date": "2019-08-19",
-                            "name": "Independence Day (National Day)"
-                        },
-                        {
-                            "date": "2019-09-09",
-                            "name": "Martyrs and Ahmad Shah Masoud Day"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Ashura"
-                        },
-                        {
-                            "date": "2019-09-28",
-                            "name": "Presidential Elections"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -212,6 +127,63 @@
                         },
                         {
                             "date": "2021-10-19",
+                            "name": "The Prophet's Birthday"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-04-03",
+                            "name": "Ramadan starts"
+                        },
+                        {
+                            "date": "2022-04-28",
+                            "name": "Afghan Victory Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-04",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2022-05-05",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2022-07-09",
+                            "name": "Day of Arafat"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Qurban"
+                        },
+                        {
+                            "date": "2022-07-11",
+                            "name": "Eid al-Qurban Holiday"
+                        },
+                        {
+                            "date": "2022-07-12",
+                            "name": "Eid al-Qurban Holiday"
+                        },
+                        {
+                            "date": "2022-08-08",
+                            "name": "Ashura"
+                        },
+                        {
+                            "date": "2022-08-19",
+                            "name": "Independence Day (National Day)"
+                        },
+                        {
+                            "date": "2022-09-09",
+                            "name": "Martyrs and Ahmad Shah Masoud Day"
+                        },
+                        {
+                            "date": "2022-10-08",
                             "name": "The Prophet's Birthday"
                         }
                     ]

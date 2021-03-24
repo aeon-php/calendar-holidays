@@ -14,115 +14,6 @@
             "calendar": "en.pe#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "The Three Wise Men Day"
-                        },
-                        {
-                            "date": "2019-04-18",
-                            "name": "Maundy Thursday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-12",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Flag Day"
-                        },
-                        {
-                            "date": "2019-06-16",
-                            "name": "Father's Day"
-                        },
-                        {
-                            "date": "2019-06-24",
-                            "name": "Farmer Day"
-                        },
-                        {
-                            "date": "2019-06-24",
-                            "name": "Inti Raymi Day"
-                        },
-                        {
-                            "date": "2019-06-29",
-                            "name": "St Peter and St Paul"
-                        },
-                        {
-                            "date": "2019-07-28",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-07-29",
-                            "name": "Independence Day (day 2)"
-                        },
-                        {
-                            "date": "2019-07-30",
-                            "name": "Public Sector Holiday"
-                        },
-                        {
-                            "date": "2019-08-29",
-                            "name": "Public Sector Holiday"
-                        },
-                        {
-                            "date": "2019-08-30",
-                            "name": "Santa Rosa De Lima"
-                        },
-                        {
-                            "date": "2019-09-24",
-                            "name": "Armed Forces Day"
-                        },
-                        {
-                            "date": "2019-10-08",
-                            "name": "Battle of Angamos"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Public Sector Holiday"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls' Day"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Christmas Eve"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -316,6 +207,103 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-06",
+                            "name": "The Three Wise Men Day"
+                        },
+                        {
+                            "date": "2022-04-14",
+                            "name": "Maundy Thursday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-08",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-06-07",
+                            "name": "Flag Day"
+                        },
+                        {
+                            "date": "2022-06-19",
+                            "name": "Father's Day"
+                        },
+                        {
+                            "date": "2022-06-24",
+                            "name": "Farmer Day"
+                        },
+                        {
+                            "date": "2022-06-24",
+                            "name": "Inti Raymi Day"
+                        },
+                        {
+                            "date": "2022-06-29",
+                            "name": "St Peter and St Paul"
+                        },
+                        {
+                            "date": "2022-07-28",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-07-29",
+                            "name": "Independence Day (day 2)"
+                        },
+                        {
+                            "date": "2022-08-30",
+                            "name": "Santa Rosa De Lima"
+                        },
+                        {
+                            "date": "2022-09-24",
+                            "name": "Armed Forces Day"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "Battle of Angamos"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

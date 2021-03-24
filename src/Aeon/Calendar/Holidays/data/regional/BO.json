@@ -14,91 +14,6 @@
             "calendar": "en.bo#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2019-01-22",
-                            "name": "Plurinational State Foundation Day"
-                        },
-                        {
-                            "date": "2019-02-02",
-                            "name": "Feast of Candelaria"
-                        },
-                        {
-                            "date": "2019-03-04",
-                            "name": "Carnival \/ Shrove Monday"
-                        },
-                        {
-                            "date": "2019-03-05",
-                            "name": "Carnival \/ Shrove Tuesday"
-                        },
-                        {
-                            "date": "2019-03-19",
-                            "name": "Father Day"
-                        },
-                        {
-                            "date": "2019-03-23",
-                            "name": "Day of the Sea"
-                        },
-                        {
-                            "date": "2019-04-12",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-04-18",
-                            "name": "Maundy Thursday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-27",
-                            "name": "Mother's Day"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-06-21",
-                            "name": "Aymara New Year Day"
-                        },
-                        {
-                            "date": "2019-08-06",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-08-17",
-                            "name": "Flag Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Indigenous Resistance's Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Saints Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -277,6 +192,103 @@
                         {
                             "date": "2021-12-25",
                             "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2022-01-22",
+                            "name": "Plurinational State Foundation Day"
+                        },
+                        {
+                            "date": "2022-02-02",
+                            "name": "Feast of Candelaria"
+                        },
+                        {
+                            "date": "2022-02-28",
+                            "name": "Carnival \/ Shrove Monday"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Carnival \/ Shrove Tuesday"
+                        },
+                        {
+                            "date": "2022-03-19",
+                            "name": "Father Day"
+                        },
+                        {
+                            "date": "2022-03-23",
+                            "name": "Day of the Sea"
+                        },
+                        {
+                            "date": "2022-04-12",
+                            "name": "Children's Day"
+                        },
+                        {
+                            "date": "2022-04-14",
+                            "name": "Maundy Thursday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Day off for Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-27",
+                            "name": "Mother's Day"
+                        },
+                        {
+                            "date": "2022-06-16",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2022-06-21",
+                            "name": "Aymara New Year Day"
+                        },
+                        {
+                            "date": "2022-08-06",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-08-17",
+                            "name": "Flag Day"
+                        },
+                        {
+                            "date": "2022-10-12",
+                            "name": "Indigenous Resistance's Day"
+                        },
+                        {
+                            "date": "2022-10-17",
+                            "name": "Day of Dignity"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Saints Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
+                            "name": "Day off for Christmas Day"
                         }
                     ]
                 }

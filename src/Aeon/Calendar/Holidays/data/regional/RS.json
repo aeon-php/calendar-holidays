@@ -14,87 +14,6 @@
             "calendar": "en.rs#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-02",
-                            "name": "Second Day of New Year's Day"
-                        },
-                        {
-                            "date": "2019-01-07",
-                            "name": "Orthodox Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-14",
-                            "name": "Orthodox New Year"
-                        },
-                        {
-                            "date": "2019-01-27",
-                            "name": "Spirituality Day\/St Sava's Day"
-                        },
-                        {
-                            "date": "2019-02-15",
-                            "name": "Statehood Day of the Republic of Serbia"
-                        },
-                        {
-                            "date": "2019-02-16",
-                            "name": "Statehood Day of the Republic of Serbia (Day 2)"
-                        },
-                        {
-                            "date": "2019-04-22",
-                            "name": "Holocaust Remembrance Day"
-                        },
-                        {
-                            "date": "2019-04-26",
-                            "name": "Orthodox Good Friday"
-                        },
-                        {
-                            "date": "2019-04-27",
-                            "name": "Orthodox Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-28",
-                            "name": "Orthodox Easter Day"
-                        },
-                        {
-                            "date": "2019-04-29",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor holiday"
-                        },
-                        {
-                            "date": "2019-05-02",
-                            "name": "Labor holiday second day"
-                        },
-                        {
-                            "date": "2019-05-09",
-                            "name": "Victory Day"
-                        },
-                        {
-                            "date": "2019-06-28",
-                            "name": "St Vitus Day"
-                        },
-                        {
-                            "date": "2019-10-21",
-                            "name": "World War II Victims Remembrance Day"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "Armistice Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -187,6 +106,10 @@
                             "name": "Second Day of New Year's Day"
                         },
                         {
+                            "date": "2021-01-06",
+                            "name": "First Day of Baptism"
+                        },
+                        {
                             "date": "2021-01-07",
                             "name": "Orthodox Christmas Day"
                         },
@@ -205,6 +128,22 @@
                         {
                             "date": "2021-02-16",
                             "name": "Statehood Day of the Republic of Serbia (Day 2)"
+                        },
+                        {
+                            "date": "2021-04-02",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2021-04-03",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2021-04-05",
+                            "name": "Easter Monday"
                         },
                         {
                             "date": "2021-04-22",
@@ -235,12 +174,28 @@
                             "name": "Orthodox Easter Monday"
                         },
                         {
+                            "date": "2021-05-04",
+                            "name": "Day off for Labor holiday"
+                        },
+                        {
                             "date": "2021-05-09",
                             "name": "Victory Day"
                         },
                         {
+                            "date": "2021-05-13",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
                             "date": "2021-06-28",
                             "name": "St Vitus Day"
+                        },
+                        {
+                            "date": "2021-07-20",
+                            "name": "First Day of Eid al-Adha"
+                        },
+                        {
+                            "date": "2021-09-16",
+                            "name": "Yom Kippur"
                         },
                         {
                             "date": "2021-10-21",
@@ -251,7 +206,132 @@
                             "name": "Armistice Day"
                         },
                         {
+                            "date": "2021-12-25",
+                            "name": "First Day of Christmas"
+                        },
+                        {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-03",
+                            "name": "Second Day of New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-06",
+                            "name": "First Day of Baptism"
+                        },
+                        {
+                            "date": "2022-01-07",
+                            "name": "Orthodox Christmas Day"
+                        },
+                        {
+                            "date": "2022-01-14",
+                            "name": "Orthodox New Year"
+                        },
+                        {
+                            "date": "2022-01-27",
+                            "name": "Spirituality Day\/St Sava's Day"
+                        },
+                        {
+                            "date": "2022-02-15",
+                            "name": "Statehood Day of the Republic of Serbia"
+                        },
+                        {
+                            "date": "2022-02-16",
+                            "name": "Statehood Day of the Republic of Serbia (Day 2)"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-22",
+                            "name": "Orthodox Good Friday"
+                        },
+                        {
+                            "date": "2022-04-22",
+                            "name": "Holocaust Remembrance Day"
+                        },
+                        {
+                            "date": "2022-04-23",
+                            "name": "Orthodox Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-24",
+                            "name": "Orthodox Easter Day"
+                        },
+                        {
+                            "date": "2022-04-25",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor holiday"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Day off for Labor holiday"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Labor holiday second day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-09",
+                            "name": "Victory Day"
+                        },
+                        {
+                            "date": "2022-06-28",
+                            "name": "St Vitus Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "First Day of Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-10-05",
+                            "name": "Yom Kippur"
+                        },
+                        {
+                            "date": "2022-10-21",
+                            "name": "World War II Victims Remembrance Day"
+                        },
+                        {
+                            "date": "2022-11-11",
+                            "name": "Armistice Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "First Day of Christmas"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

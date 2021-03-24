@@ -15,87 +15,6 @@
             "calendar": "en.cl#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-18",
-                            "name": "Maundy Thursday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-21",
-                            "name": "Navy Day"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-06-29",
-                            "name": "Saint Peter and Saint Paul"
-                        },
-                        {
-                            "date": "2019-07-16",
-                            "name": "Our Lady of Mount Carmel"
-                        },
-                        {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-09-18",
-                            "name": "National Day"
-                        },
-                        {
-                            "date": "2019-09-19",
-                            "name": "Army Day"
-                        },
-                        {
-                            "date": "2019-09-20",
-                            "name": "Extended National Holiday"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Columbus Day"
-                        },
-                        {
-                            "date": "2019-10-31",
-                            "name": "Reformation Day"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Inmaculate Conception Day"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -261,6 +180,83 @@
                         },
                         {
                             "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-04-14",
+                            "name": "Maundy Thursday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-21",
+                            "name": "Navy Day"
+                        },
+                        {
+                            "date": "2022-06-16",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2022-06-27",
+                            "name": "Saint Peter and Saint Paul"
+                        },
+                        {
+                            "date": "2022-07-16",
+                            "name": "Our Lady of Mount Carmel"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-09-18",
+                            "name": "National Day"
+                        },
+                        {
+                            "date": "2022-09-19",
+                            "name": "Army Day"
+                        },
+                        {
+                            "date": "2022-10-10",
+                            "name": "Columbus Day"
+                        },
+                        {
+                            "date": "2022-10-31",
+                            "name": "Reformation Day"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Inmaculate Conception Day"
+                        },
+                        {
+                            "date": "2022-12-25",
                             "name": "Christmas Day"
                         }
                     ]

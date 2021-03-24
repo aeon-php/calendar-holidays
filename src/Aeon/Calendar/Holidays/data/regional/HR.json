@@ -14,82 +14,187 @@
             "calendar": "en.croatian#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
+                    "year": 2021,
                     "holidays": [
                         {
-                            "date": "2019-01-01",
+                            "date": "2021-01-01",
                             "name": "New Year's Day"
                         },
                         {
-                            "date": "2019-01-06",
+                            "date": "2021-01-06",
                             "name": "Epiphany"
                         },
                         {
-                            "date": "2019-01-07",
+                            "date": "2021-01-07",
                             "name": "Orthodox Christmas Day"
                         },
                         {
-                            "date": "2019-04-21",
+                            "date": "2021-04-04",
                             "name": "Easter Sunday"
                         },
                         {
-                            "date": "2019-04-22",
+                            "date": "2021-04-05",
                             "name": "Easter Monday"
                         },
                         {
-                            "date": "2019-05-01",
+                            "date": "2021-05-01",
                             "name": "Labor Day \/ May Day"
                         },
                         {
-                            "date": "2019-06-05",
+                            "date": "2021-05-02",
+                            "name": "Orthodox Easter Day"
+                        },
+                        {
+                            "date": "2021-05-03",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
+                            "date": "2021-05-13",
                             "name": "Ramadan Bayram"
                         },
                         {
-                            "date": "2019-06-20",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2019-06-22",
-                            "name": "Day of Antifascist Struggle"
-                        },
-                        {
-                            "date": "2019-06-25",
+                            "date": "2021-05-30",
                             "name": "Statehood Day"
                         },
                         {
-                            "date": "2019-08-05",
-                            "name": "Homeland Thanksgiving Day"
+                            "date": "2021-06-03",
+                            "name": "Corpus Christi"
                         },
                         {
-                            "date": "2019-08-11",
-                            "name": "Kurban Bayram"
+                            "date": "2021-06-22",
+                            "name": "Day of Antifascist Struggle"
                         },
                         {
-                            "date": "2019-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2019-09-30",
-                            "name": "Rosh Hashana"
-                        },
-                        {
-                            "date": "2019-10-08",
+                            "date": "2021-06-25",
                             "name": "Independence Day"
                         },
                         {
-                            "date": "2019-10-09",
+                            "date": "2021-07-20",
+                            "name": "Kurban Bayram"
+                        },
+                        {
+                            "date": "2021-08-05",
+                            "name": "Homeland Thanksgiving Day"
+                        },
+                        {
+                            "date": "2021-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2021-09-07",
+                            "name": "Rosh Hashana"
+                        },
+                        {
+                            "date": "2021-09-16",
                             "name": "Yom Kippur"
                         },
                         {
-                            "date": "2019-11-01",
+                            "date": "2021-11-01",
                             "name": "All Saints' Day"
                         },
                         {
-                            "date": "2019-12-25",
+                            "date": "2021-11-18",
+                            "name": "Remembrance Day"
+                        },
+                        {
+                            "date": "2021-12-25",
                             "name": "Christmas Day"
                         },
                         {
-                            "date": "2019-12-26",
+                            "date": "2021-12-26",
+                            "name": "St Stephen's Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-01-06",
+                            "name": "Epiphany"
+                        },
+                        {
+                            "date": "2022-01-07",
+                            "name": "Orthodox Christmas Day"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-04-18",
+                            "name": "Easter Monday"
+                        },
+                        {
+                            "date": "2022-04-24",
+                            "name": "Orthodox Easter Day"
+                        },
+                        {
+                            "date": "2022-04-25",
+                            "name": "Orthodox Easter Monday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Ramadan Bayram"
+                        },
+                        {
+                            "date": "2022-05-30",
+                            "name": "Statehood Day"
+                        },
+                        {
+                            "date": "2022-06-16",
+                            "name": "Corpus Christi"
+                        },
+                        {
+                            "date": "2022-06-22",
+                            "name": "Day of Antifascist Struggle"
+                        },
+                        {
+                            "date": "2022-06-25",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Kurban Bayram"
+                        },
+                        {
+                            "date": "2022-08-05",
+                            "name": "Homeland Thanksgiving Day"
+                        },
+                        {
+                            "date": "2022-08-15",
+                            "name": "Assumption of Mary"
+                        },
+                        {
+                            "date": "2022-09-26",
+                            "name": "Rosh Hashana"
+                        },
+                        {
+                            "date": "2022-10-05",
+                            "name": "Yom Kippur"
+                        },
+                        {
+                            "date": "2022-11-01",
+                            "name": "All Saints' Day"
+                        },
+                        {
+                            "date": "2022-11-18",
+                            "name": "Remembrance Day"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-26",
                             "name": "St Stephen's Day"
                         }
                     ]
@@ -179,95 +284,6 @@
                         },
                         {
                             "date": "2020-12-26",
-                            "name": "St Stephen's Day"
-                        }
-                    ]
-                },
-                {
-                    "year": 2021,
-                    "holidays": [
-                        {
-                            "date": "2021-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2021-01-06",
-                            "name": "Epiphany"
-                        },
-                        {
-                            "date": "2021-01-07",
-                            "name": "Orthodox Christmas Day"
-                        },
-                        {
-                            "date": "2021-04-04",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2021-04-05",
-                            "name": "Easter Monday"
-                        },
-                        {
-                            "date": "2021-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2021-05-03",
-                            "name": "Orthodox Easter Monday"
-                        },
-                        {
-                            "date": "2021-05-13",
-                            "name": "Ramadan Bayram"
-                        },
-                        {
-                            "date": "2021-05-30",
-                            "name": "Statehood Day"
-                        },
-                        {
-                            "date": "2021-06-03",
-                            "name": "Corpus Christi"
-                        },
-                        {
-                            "date": "2021-06-22",
-                            "name": "Day of Antifascist Struggle"
-                        },
-                        {
-                            "date": "2021-06-25",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2021-07-20",
-                            "name": "Kurban Bayram"
-                        },
-                        {
-                            "date": "2021-08-05",
-                            "name": "Homeland Thanksgiving Day"
-                        },
-                        {
-                            "date": "2021-08-15",
-                            "name": "Assumption of Mary"
-                        },
-                        {
-                            "date": "2021-09-07",
-                            "name": "Rosh Hashana"
-                        },
-                        {
-                            "date": "2021-09-16",
-                            "name": "Yom Kippur"
-                        },
-                        {
-                            "date": "2021-11-01",
-                            "name": "All Saints' Day"
-                        },
-                        {
-                            "date": "2021-11-18",
-                            "name": "Remembrance Day"
-                        },
-                        {
-                            "date": "2021-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2021-12-26",
                             "name": "St Stephen's Day"
                         }
                     ]

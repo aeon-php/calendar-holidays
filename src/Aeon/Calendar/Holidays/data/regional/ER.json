@@ -14,75 +14,6 @@
             "calendar": "en.er#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-01-07",
-                            "name": "Orthodox Christmas Day"
-                        },
-                        {
-                            "date": "2019-01-19",
-                            "name": "Timket"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "Women's Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "International Workers' Day"
-                        },
-                        {
-                            "date": "2019-05-24",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-20",
-                            "name": "Martyrs' Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-09-01",
-                            "name": "Commencement Day of Eritrean Armed Struggle"
-                        },
-                        {
-                            "date": "2019-09-12",
-                            "name": "Geez New Year"
-                        },
-                        {
-                            "date": "2019-09-27",
-                            "name": "Meskel"
-                        },
-                        {
-                            "date": "2019-11-10",
-                            "name": "The Prophet's Birthday"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -212,6 +143,71 @@
                         },
                         {
                             "date": "2021-12-25",
+                            "name": "Christmas Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-01-07",
+                            "name": "Orthodox Christmas Day"
+                        },
+                        {
+                            "date": "2022-01-19",
+                            "name": "Timket"
+                        },
+                        {
+                            "date": "2022-03-08",
+                            "name": "Women's Day"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "International Workers' Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-24",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-06-20",
+                            "name": "Martyrs' Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-09-01",
+                            "name": "Commencement Day of Eritrean Armed Struggle"
+                        },
+                        {
+                            "date": "2022-09-27",
+                            "name": "Meskel"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-12-25",
                             "name": "Christmas Day"
                         }
                     ]

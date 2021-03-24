@@ -14,75 +14,6 @@
             "calendar": "en.ni#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-04-18",
-                            "name": "Maundy Thursday"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-20",
-                            "name": "Holy Saturday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Mothers' Day"
-                        },
-                        {
-                            "date": "2019-07-19",
-                            "name": "The Sandinista Revolution Day"
-                        },
-                        {
-                            "date": "2019-09-02",
-                            "name": "Army Day"
-                        },
-                        {
-                            "date": "2019-09-14",
-                            "name": "Battle of San Jacinto"
-                        },
-                        {
-                            "date": "2019-09-15",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-10-12",
-                            "name": "Indigenous Resistance Day"
-                        },
-                        {
-                            "date": "2019-11-02",
-                            "name": "All Souls' Day"
-                        },
-                        {
-                            "date": "2019-12-08",
-                            "name": "Feast of the Immaculate Conception"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year\u00b4s Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -216,6 +147,79 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year\u00b4s Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-04-14",
+                            "name": "Maundy Thursday"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-16",
+                            "name": "Holy Saturday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-05-02",
+                            "name": "Labor Day \/ May Day observed"
+                        },
+                        {
+                            "date": "2022-05-30",
+                            "name": "Mothers' Day"
+                        },
+                        {
+                            "date": "2022-07-19",
+                            "name": "The Sandinista Revolution Day"
+                        },
+                        {
+                            "date": "2022-09-02",
+                            "name": "Army Day"
+                        },
+                        {
+                            "date": "2022-09-14",
+                            "name": "Battle of San Jacinto"
+                        },
+                        {
+                            "date": "2022-09-15",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-10-12",
+                            "name": "Indigenous Resistance Day"
+                        },
+                        {
+                            "date": "2022-11-02",
+                            "name": "All Souls' Day"
+                        },
+                        {
+                            "date": "2022-12-08",
+                            "name": "Feast of the Immaculate Conception"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year\u00b4s Eve"
                         }
                     ]

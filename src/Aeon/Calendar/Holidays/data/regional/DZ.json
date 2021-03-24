@@ -14,59 +14,6 @@
             "calendar": "en.dz#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year"
-                        },
-                        {
-                            "date": "2019-01-12",
-                            "name": "Berber New Year"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "May Day"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Eid al-Fitr"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Eid al-Fitr Holiday"
-                        },
-                        {
-                            "date": "2019-07-05",
-                            "name": "Independence Day"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-12",
-                            "name": "Eid al-Adha Holiday"
-                        },
-                        {
-                            "date": "2019-09-01",
-                            "name": "Muharram"
-                        },
-                        {
-                            "date": "2019-09-10",
-                            "name": "Day of Achura"
-                        },
-                        {
-                            "date": "2019-11-01",
-                            "name": "Anniversary of the Revolution"
-                        },
-                        {
-                            "date": "2019-11-09",
-                            "name": "The Prophet's Birthday"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -168,6 +115,59 @@
                         },
                         {
                             "date": "2021-11-01",
+                            "name": "Anniversary of the Revolution"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year"
+                        },
+                        {
+                            "date": "2022-01-12",
+                            "name": "Berber New Year"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "May Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Eid al-Fitr"
+                        },
+                        {
+                            "date": "2022-05-04",
+                            "name": "Eid al-Fitr Holiday"
+                        },
+                        {
+                            "date": "2022-07-05",
+                            "name": "Independence Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-07-11",
+                            "name": "Eid al-Adha Holiday"
+                        },
+                        {
+                            "date": "2022-07-30",
+                            "name": "Muharram"
+                        },
+                        {
+                            "date": "2022-08-08",
+                            "name": "Day of Achura"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet's Birthday"
+                        },
+                        {
+                            "date": "2022-11-01",
                             "name": "Anniversary of the Revolution"
                         }
                     ]

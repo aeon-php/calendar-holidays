@@ -17,107 +17,6 @@
             "calendar": "en.indonesian#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-02-05",
-                            "name": "Chinese Lunar New Year's Day"
-                        },
-                        {
-                            "date": "2019-03-07",
-                            "name": "Bali's Day of Silence and Hindu New Year"
-                        },
-                        {
-                            "date": "2019-04-03",
-                            "name": "Ascension of the Prophet Muhammad"
-                        },
-                        {
-                            "date": "2019-04-17",
-                            "name": "Election Day"
-                        },
-                        {
-                            "date": "2019-04-19",
-                            "name": "Good Friday"
-                        },
-                        {
-                            "date": "2019-04-21",
-                            "name": "Easter Sunday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "International Labor Day"
-                        },
-                        {
-                            "date": "2019-05-19",
-                            "name": "Waisak Day (Buddha's Anniversary)"
-                        },
-                        {
-                            "date": "2019-05-30",
-                            "name": "Ascension Day of Jesus Christ"
-                        },
-                        {
-                            "date": "2019-06-01",
-                            "name": "Pancasila Day"
-                        },
-                        {
-                            "date": "2019-06-03",
-                            "name": "Cuti Bersama"
-                        },
-                        {
-                            "date": "2019-06-04",
-                            "name": "Cuti Bersama"
-                        },
-                        {
-                            "date": "2019-06-05",
-                            "name": "Idul Fitri Day 1"
-                        },
-                        {
-                            "date": "2019-06-06",
-                            "name": "Idul Fitri Holiday"
-                        },
-                        {
-                            "date": "2019-06-07",
-                            "name": "Cuti Bersama"
-                        },
-                        {
-                            "date": "2019-08-11",
-                            "name": "Eid al-Adha"
-                        },
-                        {
-                            "date": "2019-08-17",
-                            "name": "Indonesian Independence Day"
-                        },
-                        {
-                            "date": "2019-09-01",
-                            "name": "Muharram \/ Islamic New Year"
-                        },
-                        {
-                            "date": "2019-10-27",
-                            "name": "Diwali\/Deepavali"
-                        },
-                        {
-                            "date": "2019-11-09",
-                            "name": "The Prophet Muhammad's Birthday"
-                        },
-                        {
-                            "date": "2019-12-24",
-                            "name": "Cuti Bersama (Christmas Eve)"
-                        },
-                        {
-                            "date": "2019-12-25",
-                            "name": "Christmas Day"
-                        },
-                        {
-                            "date": "2019-12-31",
-                            "name": "New Year's Eve"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -271,11 +170,11 @@
                         },
                         {
                             "date": "2021-05-13",
-                            "name": "Idul Fitri"
+                            "name": "Ascension Day of Jesus Christ"
                         },
                         {
                             "date": "2021-05-13",
-                            "name": "Ascension Day of Jesus Christ"
+                            "name": "Idul Fitri"
                         },
                         {
                             "date": "2021-05-14",
@@ -331,6 +230,83 @@
                         },
                         {
                             "date": "2021-12-31",
+                            "name": "New Year's Eve"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-02-01",
+                            "name": "Chinese Lunar New Year's Day"
+                        },
+                        {
+                            "date": "2022-03-01",
+                            "name": "Ascension of the Prophet Muhammad"
+                        },
+                        {
+                            "date": "2022-04-15",
+                            "name": "Good Friday"
+                        },
+                        {
+                            "date": "2022-04-17",
+                            "name": "Easter Sunday"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "International Labor Day"
+                        },
+                        {
+                            "date": "2022-05-03",
+                            "name": "Idul Fitri"
+                        },
+                        {
+                            "date": "2022-05-04",
+                            "name": "Idul Fitri Holiday"
+                        },
+                        {
+                            "date": "2022-05-26",
+                            "name": "Ascension Day of Jesus Christ"
+                        },
+                        {
+                            "date": "2022-06-01",
+                            "name": "Pancasila Day"
+                        },
+                        {
+                            "date": "2022-07-10",
+                            "name": "Eid al-Adha"
+                        },
+                        {
+                            "date": "2022-07-30",
+                            "name": "Muharram \/ Islamic New Year"
+                        },
+                        {
+                            "date": "2022-08-17",
+                            "name": "Indonesian Independence Day"
+                        },
+                        {
+                            "date": "2022-10-08",
+                            "name": "The Prophet Muhammad's Birthday"
+                        },
+                        {
+                            "date": "2022-10-24",
+                            "name": "Diwali\/Deepavali"
+                        },
+                        {
+                            "date": "2022-12-24",
+                            "name": "Christmas Eve"
+                        },
+                        {
+                            "date": "2022-12-25",
+                            "name": "Christmas Day"
+                        },
+                        {
+                            "date": "2022-12-31",
                             "name": "New Year's Eve"
                         }
                     ]

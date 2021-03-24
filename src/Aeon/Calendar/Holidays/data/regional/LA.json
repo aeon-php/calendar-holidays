@@ -14,83 +14,6 @@
             "calendar": "en.la#holiday@group.v.calendar.google.com",
             "years": [
                 {
-                    "year": 2019,
-                    "holidays": [
-                        {
-                            "date": "2019-01-01",
-                            "name": "New Year's Day"
-                        },
-                        {
-                            "date": "2019-03-08",
-                            "name": "International Women's Day (Women Only)"
-                        },
-                        {
-                            "date": "2019-04-14",
-                            "name": "Lao New Year Holiday"
-                        },
-                        {
-                            "date": "2019-04-15",
-                            "name": "Lao New Year Holiday"
-                        },
-                        {
-                            "date": "2019-04-16",
-                            "name": "Lao New Year Holiday"
-                        },
-                        {
-                            "date": "2019-04-17",
-                            "name": "Lao New Year Holiday"
-                        },
-                        {
-                            "date": "2019-05-01",
-                            "name": "Labor Day \/ May Day"
-                        },
-                        {
-                            "date": "2019-05-18",
-                            "name": "Visakhabousa Day"
-                        },
-                        {
-                            "date": "2019-05-20",
-                            "name": "Visakhabousa Day observed"
-                        },
-                        {
-                            "date": "2019-06-01",
-                            "name": "Children's Day"
-                        },
-                        {
-                            "date": "2019-07-16",
-                            "name": "Khao Pansa"
-                        },
-                        {
-                            "date": "2019-07-20",
-                            "name": "Lao Women Union's Day"
-                        },
-                        {
-                            "date": "2019-07-22",
-                            "name": "Lao Women Union's Day observed"
-                        },
-                        {
-                            "date": "2019-10-13",
-                            "name": "Bouk Ok Pansa"
-                        },
-                        {
-                            "date": "2019-10-14",
-                            "name": "Boat Racing Festival"
-                        },
-                        {
-                            "date": "2019-10-15",
-                            "name": "Bouk Ok Pansa observed"
-                        },
-                        {
-                            "date": "2019-11-11",
-                            "name": "That Luang Festival"
-                        },
-                        {
-                            "date": "2019-12-02",
-                            "name": "National Day"
-                        }
-                    ]
-                },
-                {
                     "year": 2020,
                     "holidays": [
                         {
@@ -200,6 +123,31 @@
                         },
                         {
                             "date": "2021-12-02",
+                            "name": "National Day"
+                        }
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "holidays": [
+                        {
+                            "date": "2022-01-01",
+                            "name": "New Year's Day"
+                        },
+                        {
+                            "date": "2022-03-08",
+                            "name": "International Women's Day (Women Only)"
+                        },
+                        {
+                            "date": "2022-05-01",
+                            "name": "Labor Day \/ May Day"
+                        },
+                        {
+                            "date": "2022-06-01",
+                            "name": "Children's Day"
+                        },
+                        {
+                            "date": "2022-12-02",
                             "name": "National Day"
                         }
                     ]
