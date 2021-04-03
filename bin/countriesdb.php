@@ -1,175 +1,211 @@
 #!/usr/bin/env php
 <?php
 
+use Aeon\Calendar\Gregorian\Calendar;
+use Aeon\Calendar\Gregorian\Day;
 use Aeon\Calendar\Gregorian\GregorianCalendar;
-use Aeon\Calendar\Gregorian\Year;
+use Aeon\Calendar\Gregorian\TimeZone;
+use Flow\ETL\ETL;
+use Flow\ETL\Extractor;
+use Flow\ETL\Loader;
+use Flow\ETL\Row;
+use Flow\ETL\Row\Entries;
+use Flow\ETL\Row\Entry\IntegerEntry;
+use Flow\ETL\Row\Entry\ObjectEntry;
+use Flow\ETL\Row\Entry\StringEntry;
+use Flow\ETL\Rows;
+use Flow\ETL\Transformer;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-if (!\is_string(\getenv('GOOGLE_API_KEY'))) {
+if (!is_string(getenv('GOOGLE_API_KEY'))) {
     die('Please run this script by passing GOOGLE_API_KEY through env variable first.');
 }
 
-$googleApiClient = new \Google_Client();
+$googleApiClient = new Google_Client();
 $googleApiClient->setApplicationName("Google Holidays Calendar Scraper");
 
 // Setup one at https://console.developers.google.com/
 $googleApiClient->setDeveloperKey(getenv('GOOGLE_API_KEY'));
 
-$googleCalendarService = new \Google_Service_Calendar($googleApiClient);
+$googleCalendarService = new Google_Service_Calendar($googleApiClient);
 $calendar = GregorianCalendar::UTC();
 
-$countries = \json_decode(\file_get_contents(__DIR__ . '/../resources/countries.json'), true);
-$timezones = \json_decode(\file_get_contents(__DIR__ . '/../resources/timezones.json'), true);
+$countries = json_decode(file_get_contents(__DIR__ . '/../resources/countries.json'), true);
 
-$count = \count($countries['countries']);
+$count = count($countries['countries']);
 
 $index = 0;
 
-foreach ($countries['countries'] as $countryCode => $countryData) {
-    $index++;
-    echo "$countryCode - $index / $count \n";
+ETL::extract(
+    new class($countries, $googleCalendarService) implements Extractor
+    {
+        private array $countriesData;
 
-    $tz = null;
-    foreach ($timezones as $tzData) {
-        if ($countryCode === $tzData['country_code']) {
-            $tz = $tzData;
+        private Google_Service_Calendar $googleCalendarService;
+
+        public function __construct(array $countriesData, Google_Service_Calendar $googleCalendarService)
+        {
+            $this->countriesData = $countriesData;
+            $this->googleCalendarService = $googleCalendarService;
         }
-    }
 
-    if ($tz === null) {
-        continue;
-    }
+        public function extract(): Generator
+        {
+            foreach ($this->countriesData['countries'] as $countryCode => $countryData) {
+                if (!isset($countryData['googleHolidaysCalendarId'])) {
+                    continue;
+                }
+                $calendarId = str_replace('{{ locale }}', 'en', $countryData['googleHolidaysCalendarId']);
 
-    if (!isset($countryData['googleHolidaysCalendarId'])) {
-        continue;
-    }
+                $rows = new Rows();
 
-    $countryData['timezones'] = $tz['timezones'];
-    $countryData['location'] = [
-        'lat' => $tz['latlng'][0],
-        'lng' => $tz['latlng'][1]
-    ];
+                try {
+                    $items = $this->googleCalendarService->events->listEvents($calendarId)->getItems();
+                } catch (Google\Service\Exception $e) {
+                    continue ;
+                }
 
-    $calendarId = \str_replace('{{ locale }}', 'en', $countryData['googleHolidaysCalendarId']);
+                foreach ($items as $event) {
+                    $rows = $rows->add(
+                        new Row(
+                            new Entries(
+                                new StringEntry('locale', 'en'),
+                                StringEntry::uppercase('country_code', $countryCode),
+                                new ObjectEntry('google_event', $event)
+                            )
+                        )
+                    );
+                }
 
-    try {
-        // Iterate over results from google holidays calendar for given country and save them into
-        // holidays json structure used later by google calendar holidays adapter for aeon holidays library.
-        $holidays = fetchHolidaysFromApi($googleCalendarService, $calendarId);
-
-        // Sort holidays fetched from the API in order to avoid opening pull requests with just changed order of the
-        // same holidays.
-        $holidays = sortHolidaysByDate($holidays);
-
-        // If file with holidays already exists take from past year holidays and override whatever comes from the API.
-        // This way API is used only to update upcoming/current year without removing historical holidays.
-        $holidays = takeOldHolidaysFromExistingFile($countryCode, $holidays, $calendar);
-
-        \file_put_contents(__DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/' . $countryCode . '.json', \json_encode([
-            'country_code' => $countryCode,
-            'name' => $countryData['name'],
-            'timezones' => $tz['timezones'],
-            'location' => [
-                'lat' => $tz['latlng'][0],
-                'lng' => $tz['latlng'][1]
-            ],
-            'google_calendar' => [
-                [
-                    'locale' => 'en',
-                    'calendar' => $calendarId,
-                    'years' => $holidays
-                ]
-            ]
-        ], JSON_PRETTY_PRINT));
-    } catch (Google_Service_Exception $e) {
-        echo "google calendar not found for - $countryCode \n";
-    }
-}
-
-/**
- * @param Google_Service_Calendar $googleCalendarService
- * @param $calendarId
- * @return array
- * @throws Google_Service_Exception
- */
-function fetchHolidaysFromApi(Google_Service_Calendar $googleCalendarService, $calendarId): array
-{
-    $holidaysFromAPI = [];
-
-    /** @var Google_Service_Calendar_Event $event */
-    foreach ($googleCalendarService->events->listEvents($calendarId)->getItems() as $event) {
-        $date = new \DateTimeImmutable($event->getStart()->date);
-
-        $found = false;
-        foreach ($holidaysFromAPI as &$year) {
-            if ($year['year'] === (int)$date->format('Y')) {
-                $year['holidays'][] = ['date' => $event->getStart()->date, 'name' => $event->summary];
-                $found = true;
+                yield $rows;
             }
         }
+    }
+)->transform(
+    new class implements Transformer
+    {
+        public function transform(Rows $rows): Rows
+        {
+            return $rows->map(function (Row $row) : Row {
+                /** @var \Google_Service_Calendar_Event $event */
+                $event = $row->valueOf('google_event');
 
-        if (!$found) {
-            $holidaysFromAPI[] = [
-                'year' => (int)$date->format('Y'),
-                'holidays' => [
-                    ['date' => $event->getStart()->date, 'name' => $event->summary]
-                ]
-            ];
+                return new Row(
+                    new Entries(
+                        $row->get('locale'),
+                        $row->get('country_code'),
+                        new ObjectEntry('year', Day::fromString($event->getStart()->date)->year()),
+                        new ObjectEntry('date', Day::fromString($event->getStart()->date)),
+                        new StringEntry('name', $event->summary),
+                        new IntegerEntry('timestamp', Day::fromString($event->getStart()->date)->midnight(TimeZone::UTC())->timestampUNIX()->inSeconds())
+                    )
+                );
+            });
         }
-    }
+    },
+    new class($calendar) implements Transformer
+    {
+        private Calendar $calendar;
 
-    return $holidaysFromAPI;
-}
+        public function __construct(Calendar $calendar)
+        {
+            $this->calendar = $calendar;
+        }
 
-/**
- * @param array $holidaysFromAPI
- * @return array
- */
-function sortHolidaysByDate(array $holidaysFromAPI) : array
-{
-    foreach ($holidaysFromAPI as &$holidaysYear) {
-        \uasort(
-            $holidaysYear['holidays'],
-            function (array $holidayA, array $holidayB): int {
-                return new \DateTimeImmutable($holidayA['date']) <=> new \DateTimeImmutable($holidayB['date']);
+        public function transform(Rows $rows): Rows
+        {
+            $filePath = __DIR__ . "/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/{$rows->first()->valueOf('country_code')}.json";
+
+            if (!\file_exists($filePath)) {
+                return $rows;
             }
-        );
 
-        $holidaysYear['holidays'] = \array_values($holidaysYear['holidays']);
-    }
+            return $rows->filter(function (Row $row) : bool  {
+                return $row->valueOf('date')->isAfterOrEqual($this->calendar->currentDay());
+            });
+        }
+    },
+    new class($calendar) implements Transformer
+    {
+        private Calendar $calendar;
 
-    return $holidaysFromAPI;
-}
+        public function __construct(Calendar $calendar)
+        {
+            $this->calendar = $calendar;
+        }
 
-/**
- * @param $countryCode
- * @param array $holidaysFromAPI
- * @param GregorianCalendar $calendar
- */
-function takeOldHolidaysFromExistingFile(string $countryCode, array $holidaysFromAPI, GregorianCalendar $calendar): array
-{
-    if (\file_exists(__DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/' . $countryCode . '.json')) {
-        $holidaysFromFile = \json_decode(
-            \file_get_contents(__DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/' . $countryCode . '.json'),
-            true
-        );
+        public function transform(Rows $rows): Rows
+        {
+            $filePath = __DIR__ . "/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/{$rows->first()->valueOf('country_code')}.json";
 
-        foreach ($holidaysFromFile['google_calendar'][0]['years'] as $holidaysFromFileYear) {
-            $fileYear = new Year($holidaysFromFileYear['year']);
+            if (\file_exists($filePath)) {
+                $holidaysData = \json_decode(\file_get_contents($filePath), true);
 
-            foreach ($holidaysFromAPI as &$holidaysFromAPIYear) {
-                $apiYear = new Year((int)$holidaysFromAPIYear['year']);
+                if (!\is_array($holidaysData)) {
+                    var_dump($filePath);
+                    die();
+                }
+                foreach ($holidaysData as $holidayData) {
+                    $date = Day::fromString($holidayData['date']);
+                    $name = $holidayData['name'];
 
-                if ($fileYear->isEqual($apiYear)) {
-
-                    if ($fileYear->isBefore($calendar->currentYear())) {
-                        $holidaysFromAPIYear = $holidaysFromFileYear;
+                    if ($date->isAfter($this->calendar->currentDay())) {
+                        continue ;
                     }
+
+                    $rows = $rows->add(
+                        new Row(
+                            new Entries(
+                                $rows->first()->get('locale'),
+                                $rows->first()->get('country_code'),
+                                new ObjectEntry('year', $date->year()),
+                                new ObjectEntry('date', $date),
+                                new StringEntry('name', $name),
+                                new IntegerEntry('timestamp', $date->midnight(TimeZone::UTC())->timestampUNIX()->inSeconds())
+                            )
+                        )
+                    );
                 }
             }
+
+            return $rows;
+        }
+    },
+    new class implements Transformer
+    {
+        public function transform(Rows $rows): Rows
+        {
+            return $rows->sortAscending('timestamp')
+                ->map(function (Row $row) : Row {
+                    return new Row(
+                        new Entries(
+                            $row->get('country_code'),
+                            new StringEntry('date', $row->valueOf('date')->toString()),
+                            $row->get('name'),
+                        )
+                    );
+                });
+        }
+    },
+)->load(
+    new class implements Loader
+    {
+        public function load(Rows $rows): void
+        {
+            $countryCode = $rows->first()->get('country_code');
+            $filePath = __DIR__ . "/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/{$countryCode->value()}.json";
+
+            $rows = $rows->map(function (Row $row) : Row {
+                return new Row(
+                    new Entries(
+                        $row->get('date'),
+                        $row->get('name'),
+                    )
+                );
+            });
+
+//            \file_put_contents($filePath, \json_encode($rows->toArray(), JSON_PRETTY_PRINT));
         }
     }
-
-    return $holidaysFromAPI;
-}
+);
