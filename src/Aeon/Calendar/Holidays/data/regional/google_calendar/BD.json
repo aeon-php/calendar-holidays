@@ -245,11 +245,11 @@
     },
     {
         "date": "2020-04-14",
-        "name": "Bengali New Year"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-14",
-        "name": "Public Holiday"
+        "name": "Bengali New Year"
     },
     {
         "date": "2020-04-15",
@@ -341,11 +341,11 @@
     },
     {
         "date": "2020-05-06",
-        "name": "Buddha Purnima\/Vesak"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-06",
-        "name": "Public Holiday"
+        "name": "Buddha Purnima\/Vesak"
     },
     {
         "date": "2020-05-07",
@@ -361,11 +361,11 @@
     },
     {
         "date": "2020-05-10",
-        "name": "Public Holiday"
+        "name": "Mothers' Day"
     },
     {
         "date": "2020-05-10",
-        "name": "Mothers' Day"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-11",
@@ -417,11 +417,11 @@
     },
     {
         "date": "2020-05-22",
-        "name": "Public Holiday"
+        "name": "Jumatul Bidah"
     },
     {
         "date": "2020-05-22",
-        "name": "Jumatul Bidah"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-23",
@@ -433,19 +433,19 @@
     },
     {
         "date": "2020-05-25",
-        "name": "Public Holiday"
+        "name": "Eid ul-Fitr"
     },
     {
         "date": "2020-05-25",
-        "name": "Eid ul-Fitr"
+        "name": "Public Holiday"
+    },
+    {
+        "date": "2020-05-26",
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-26",
         "name": "Eid ul-Fitr Holiday"
-    },
-    {
-        "date": "2020-05-26",
-        "name": "Public Holiday"
     },
     {
         "date": "2020-05-27",

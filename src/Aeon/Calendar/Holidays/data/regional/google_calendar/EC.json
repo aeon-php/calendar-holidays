@@ -172,14 +172,6 @@
         "name": "Holy Saturday"
     },
     {
-        "date": "2021-04-03",
-        "name": "Holy Saturday"
-    },
-    {
-        "date": "2021-04-03",
-        "name": "Holy Saturday"
-    },
-    {
         "date": "2021-04-04",
         "name": "Easter Sunday"
     },
@@ -237,11 +229,11 @@
     },
     {
         "date": "2021-12-31",
-        "name": "New Year's Eve"
+        "name": "Day off for New Year's Day"
     },
     {
         "date": "2021-12-31",
-        "name": "Day off for New Year's Day"
+        "name": "New Year's Eve"
     },
     {
         "date": "2022-01-01",

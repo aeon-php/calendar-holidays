@@ -149,11 +149,11 @@
     },
     {
         "date": "2020-04-10",
-        "name": "Public Holiday"
+        "name": "Good Friday"
     },
     {
         "date": "2020-04-10",
-        "name": "Good Friday"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-11",
@@ -161,19 +161,19 @@
     },
     {
         "date": "2020-04-12",
-        "name": "Public Holiday"
-    },
-    {
-        "date": "2020-04-12",
         "name": "Easter Sunday"
     },
     {
-        "date": "2020-04-13",
+        "date": "2020-04-12",
         "name": "Public Holiday"
     },
     {
         "date": "2020-04-13",
         "name": "Easter Monday"
+    },
+    {
+        "date": "2020-04-13",
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-14",
@@ -353,11 +353,11 @@
     },
     {
         "date": "2020-05-24",
-        "name": "Public Holiday"
+        "name": "Eid al-Fitr"
     },
     {
         "date": "2020-05-24",
-        "name": "Eid al-Fitr"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-25",

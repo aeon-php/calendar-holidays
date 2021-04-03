@@ -171,7 +171,7 @@ ETL::extract(
                                 new ObjectEntry('year', $date->year()),
                                 new ObjectEntry('date', $date),
                                 new StringEntry('name', $name),
-                                new IntegerEntry('timestamp', $date->midnight(TimeZone::UTC())->timestampUNIX()->inSeconds())
+                                new IntegerEntry('timestamp', $date->midnight(TimeZone::UTC())->timestampUNIX()->inSeconds() + \strlen($name))
                             )
                         )
                     );
@@ -215,7 +215,10 @@ ETL::extract(
                 );
             });
 
-            \file_put_contents($filePath, \json_encode($rows->toArray(), JSON_PRETTY_PRINT));
+            \file_put_contents(
+                $filePath,
+                \json_encode(\array_values(\array_unique($rows->toArray(), SORT_REGULAR)), JSON_PRETTY_PRINT)
+            );
 
             print "{$countryCode->value()} - Loaded \n";
         }

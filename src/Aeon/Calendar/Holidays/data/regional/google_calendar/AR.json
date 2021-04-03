@@ -25,11 +25,11 @@
     },
     {
         "date": "2019-04-19",
-        "name": "Passover Eve"
+        "name": "Good Friday"
     },
     {
         "date": "2019-04-19",
-        "name": "Good Friday"
+        "name": "Passover Eve"
     },
     {
         "date": "2019-04-20",
@@ -165,19 +165,19 @@
     },
     {
         "date": "2020-04-09",
-        "name": "First day of Passover"
-    },
-    {
-        "date": "2020-04-09",
         "name": "Maundy Thursday"
     },
     {
-        "date": "2020-04-10",
-        "name": "Second Day of Passover"
+        "date": "2020-04-09",
+        "name": "First day of Passover"
     },
     {
         "date": "2020-04-10",
         "name": "Good Friday"
+    },
+    {
+        "date": "2020-04-10",
+        "name": "Second Day of Passover"
     },
     {
         "date": "2020-04-12",
@@ -306,14 +306,6 @@
     {
         "date": "2021-04-02",
         "name": "Sixth Day of Passover"
-    },
-    {
-        "date": "2021-04-03",
-        "name": "Seventh Day of Passover"
-    },
-    {
-        "date": "2021-04-03",
-        "name": "Seventh Day of Passover"
     },
     {
         "date": "2021-04-03",
@@ -453,11 +445,11 @@
     },
     {
         "date": "2022-04-17",
-        "name": "Second Day of Passover"
+        "name": "Easter Sunday"
     },
     {
         "date": "2022-04-17",
-        "name": "Easter Sunday"
+        "name": "Second Day of Passover"
     },
     {
         "date": "2022-04-21",

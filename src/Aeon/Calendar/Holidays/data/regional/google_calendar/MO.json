@@ -181,11 +181,11 @@
     },
     {
         "date": "2020-10-02",
-        "name": "Day after the Mid-Autumn-Festival"
+        "name": "Day after PRC National Day"
     },
     {
         "date": "2020-10-02",
-        "name": "Day after PRC National Day"
+        "name": "Day after the Mid-Autumn-Festival"
     },
     {
         "date": "2020-10-05",
@@ -258,14 +258,6 @@
     {
         "date": "2021-04-02",
         "name": "Good Friday"
-    },
-    {
-        "date": "2021-04-03",
-        "name": "Holy Saturday"
-    },
-    {
-        "date": "2021-04-03",
-        "name": "Holy Saturday"
     },
     {
         "date": "2021-04-03",
@@ -429,10 +421,10 @@
     },
     {
         "date": "2022-12-31",
-        "name": "New Year's Eve Afternoon"
+        "name": "New Year's Eve"
     },
     {
         "date": "2022-12-31",
-        "name": "New Year's Eve"
+        "name": "New Year's Eve Afternoon"
     }
 ]
