@@ -237,11 +237,11 @@
     },
     {
         "date": "2020-11-30",
-        "name": "Chatham Islands Anniversary Day (Chatham Islands)"
+        "name": "Westland Anniversary Day (West Coast)"
     },
     {
         "date": "2020-11-30",
-        "name": "Westland Anniversary Day (West Coast)"
+        "name": "Chatham Islands Anniversary Day (Chatham Islands)"
     },
     {
         "date": "2020-12-24",
@@ -314,6 +314,10 @@
     {
         "date": "2021-04-02",
         "name": "Good Friday"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Holy Saturday"
     },
     {
         "date": "2021-04-03",

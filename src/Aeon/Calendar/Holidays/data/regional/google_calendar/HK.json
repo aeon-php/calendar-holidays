@@ -165,11 +165,11 @@
     },
     {
         "date": "2020-10-01",
-        "name": "National Day of the People's Republic of China"
+        "name": "Mid-Autumn Festival"
     },
     {
         "date": "2020-10-01",
-        "name": "Mid-Autumn Festival"
+        "name": "National Day of the People's Republic of China"
     },
     {
         "date": "2020-10-02",
@@ -218,6 +218,10 @@
     {
         "date": "2021-04-02",
         "name": "Good Friday"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Holy Saturday"
     },
     {
         "date": "2021-04-03",

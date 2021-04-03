@@ -237,11 +237,11 @@
     },
     {
         "date": "2020-04-13",
-        "name": "Chaitra Sankranti"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-13",
-        "name": "Public Holiday"
+        "name": "Chaitra Sankranti"
     },
     {
         "date": "2020-04-14",
@@ -341,11 +341,11 @@
     },
     {
         "date": "2020-05-06",
-        "name": "Public Holiday"
+        "name": "Buddha Purnima\/Vesak"
     },
     {
         "date": "2020-05-06",
-        "name": "Buddha Purnima\/Vesak"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-07",
@@ -441,27 +441,27 @@
     },
     {
         "date": "2020-05-26",
-        "name": "Public Holiday"
+        "name": "Eid ul-Fitr Holiday"
     },
     {
         "date": "2020-05-26",
-        "name": "Eid ul-Fitr Holiday"
-    },
-    {
-        "date": "2020-05-27",
-        "name": "Eid ul-Fitr Holiday"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-27",
         "name": "Public Holiday"
     },
     {
-        "date": "2020-05-28",
+        "date": "2020-05-27",
         "name": "Eid ul-Fitr Holiday"
     },
     {
         "date": "2020-05-28",
         "name": "Public Holiday"
+    },
+    {
+        "date": "2020-05-28",
+        "name": "Eid ul-Fitr Holiday"
     },
     {
         "date": "2020-05-29",

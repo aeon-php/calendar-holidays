@@ -229,11 +229,11 @@
     },
     {
         "date": "2020-11-30",
-        "name": "Day off for Liberation Day"
+        "name": "Day off for Flag and Independence Day"
     },
     {
         "date": "2020-11-30",
-        "name": "Day off for Flag and Independence Day"
+        "name": "Day off for Liberation Day"
     },
     {
         "date": "2020-12-08",
@@ -290,6 +290,10 @@
     {
         "date": "2021-04-02",
         "name": "Good Friday"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Holy Saturday"
     },
     {
         "date": "2021-04-03",

@@ -197,11 +197,11 @@
     },
     {
         "date": "2019-09-09",
-        "name": "Day of Asturias observed (Asturias)"
+        "name": "Day of Extremadura observed (Extremadura)"
     },
     {
         "date": "2019-09-09",
-        "name": "Day of Extremadura observed (Extremadura)"
+        "name": "Day of Asturias observed (Asturias)"
     },
     {
         "date": "2019-09-11",
@@ -249,11 +249,11 @@
     },
     {
         "date": "2019-12-09",
-        "name": "Day of Saint Leocadia (Toledo)"
+        "name": "Immaculate Conception observed (regional holiday)"
     },
     {
         "date": "2019-12-09",
-        "name": "Immaculate Conception observed (regional holiday)"
+        "name": "Day of Saint Leocadia (Toledo)"
     },
     {
         "date": "2019-12-24",
@@ -293,11 +293,11 @@
     },
     {
         "date": "2020-01-22",
-        "name": "Martyr Vicente's Feast (Valencia)"
+        "name": "Feast of Saint Vicente (Huesca)"
     },
     {
         "date": "2020-01-22",
-        "name": "Feast of Saint Vicente (Huesca)"
+        "name": "Martyr Vicente's Feast (Valencia)"
     },
     {
         "date": "2020-01-23",
@@ -389,11 +389,7 @@
     },
     {
         "date": "2020-04-23",
-        "name": "Day of Arag\u00f3n (Aragon)"
-    },
-    {
-        "date": "2020-04-23",
-        "name": "St George's Day (C\u00e1ceres)"
+        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
     },
     {
         "date": "2020-04-23",
@@ -401,7 +397,11 @@
     },
     {
         "date": "2020-04-23",
-        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
+        "name": "St George's Day (C\u00e1ceres)"
+    },
+    {
+        "date": "2020-04-23",
+        "name": "Day of Arag\u00f3n (Aragon)"
     },
     {
         "date": "2020-04-28",
@@ -413,11 +413,11 @@
     },
     {
         "date": "2020-05-02",
-        "name": "San Segundo (\u00c1vila)"
+        "name": "Day of Madrid (Madrid)"
     },
     {
         "date": "2020-05-02",
-        "name": "Day of Madrid (Madrid)"
+        "name": "San Segundo (\u00c1vila)"
     },
     {
         "date": "2020-05-03",
@@ -449,15 +449,11 @@
     },
     {
         "date": "2020-05-31",
-        "name": "Whit Sunday\/Pentecost"
-    },
-    {
-        "date": "2020-05-31",
         "name": "Day of Castile-La Mancha (Castile-La Mancha)"
     },
     {
-        "date": "2020-06-01",
-        "name": "Virgin of Alarcos (Ciudad Real)"
+        "date": "2020-05-31",
+        "name": "Whit Sunday\/Pentecost"
     },
     {
         "date": "2020-06-01",
@@ -470,6 +466,10 @@
     {
         "date": "2020-06-01",
         "name": "Feast of Virgin of Light (Cuenca)"
+    },
+    {
+        "date": "2020-06-01",
+        "name": "Virgin of Alarcos (Ciudad Real)"
     },
     {
         "date": "2020-06-09",
@@ -525,11 +525,11 @@
     },
     {
         "date": "2020-07-31",
-        "name": "Eid al-Adha (regional holiday)"
+        "name": "San Ignacio de Loyola (regional holiday)"
     },
     {
         "date": "2020-07-31",
-        "name": "San Ignacio de Loyola (regional holiday)"
+        "name": "Eid al-Adha (regional holiday)"
     },
     {
         "date": "2020-08-03",
@@ -537,11 +537,11 @@
     },
     {
         "date": "2020-08-05",
-        "name": "The Day of Our Lady of Africa (Ceuta)"
+        "name": "Feast of the White Virgin (\u00c1lava)"
     },
     {
         "date": "2020-08-05",
-        "name": "Feast of the White Virgin (\u00c1lava)"
+        "name": "The Day of Our Lady of Africa (Ceuta)"
     },
     {
         "date": "2020-08-10",
@@ -573,43 +573,15 @@
     },
     {
         "date": "2020-09-02",
-        "name": "Day of the Independent City of Ceuta (Ceuta)"
-    },
-    {
-        "date": "2020-09-02",
         "name": "Day of Saint Antol\u00edn (Palencia)"
     },
     {
-        "date": "2020-09-08",
-        "name": "Virgin of the Plains (Albacete)"
+        "date": "2020-09-02",
+        "name": "Day of the Independent City of Ceuta (Ceuta)"
     },
     {
         "date": "2020-09-08",
-        "name": "Virgin of the Victory (Melilla)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Day of Our Lady of San Lorenzo (Valladolid)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Day of the Virgin of the Vega (Salamanca)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Feast of Virgin of the Antigua (Guadalajara)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Feast of Our Lady of the Cinta (Huelva)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Victory Day (M\u00e1laga)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Day of Asturias (Asturias)"
+        "name": "Day of Extremadura (Extremadura)"
     },
     {
         "date": "2020-09-08",
@@ -617,7 +589,35 @@
     },
     {
         "date": "2020-09-08",
-        "name": "Day of Extremadura (Extremadura)"
+        "name": "Day of Asturias (Asturias)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Victory Day (M\u00e1laga)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Feast of Our Lady of the Cinta (Huelva)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Feast of Virgin of the Antigua (Guadalajara)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Day of the Virgin of the Vega (Salamanca)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Day of Our Lady of San Lorenzo (Valladolid)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Virgin of the Victory (Melilla)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Virgin of the Plains (Albacete)"
     },
     {
         "date": "2020-09-11",

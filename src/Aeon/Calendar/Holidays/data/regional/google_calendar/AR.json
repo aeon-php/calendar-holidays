@@ -165,11 +165,11 @@
     },
     {
         "date": "2020-04-09",
-        "name": "Maundy Thursday"
+        "name": "First day of Passover"
     },
     {
         "date": "2020-04-09",
-        "name": "First day of Passover"
+        "name": "Maundy Thursday"
     },
     {
         "date": "2020-04-10",
@@ -306,6 +306,10 @@
     {
         "date": "2021-04-02",
         "name": "Sixth Day of Passover"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Seventh Day of Passover"
     },
     {
         "date": "2021-04-03",

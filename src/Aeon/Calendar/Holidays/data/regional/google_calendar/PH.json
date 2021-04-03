@@ -65,11 +65,11 @@
     },
     {
         "date": "2019-11-02",
-        "name": "All Souls' Day"
+        "name": "Additional Special Non-Working Day"
     },
     {
         "date": "2019-11-02",
-        "name": "Additional Special Non-Working Day"
+        "name": "All Souls' Day"
     },
     {
         "date": "2019-11-30",
@@ -113,11 +113,11 @@
     },
     {
         "date": "2020-04-09",
-        "name": "The Day of Valor"
+        "name": "Maundy Thursday"
     },
     {
         "date": "2020-04-09",
-        "name": "Maundy Thursday"
+        "name": "The Day of Valor"
     },
     {
         "date": "2020-04-10",
@@ -165,11 +165,11 @@
     },
     {
         "date": "2020-11-02",
-        "name": "All Souls' Day"
+        "name": "Additional Special Non-Working Day"
     },
     {
         "date": "2020-11-02",
-        "name": "Additional Special Non-Working Day"
+        "name": "All Souls' Day"
     },
     {
         "date": "2020-11-30",
@@ -218,6 +218,10 @@
     {
         "date": "2021-04-02",
         "name": "Good Friday"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Black Saturday"
     },
     {
         "date": "2021-04-03",

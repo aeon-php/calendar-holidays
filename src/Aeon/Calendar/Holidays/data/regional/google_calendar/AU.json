@@ -33,6 +33,10 @@
     },
     {
         "date": "2019-03-11",
+        "name": "May Day (Victoria)"
+    },
+    {
+        "date": "2019-03-11",
         "name": "Canberra Day (Australian Capital Territory)"
     },
     {
@@ -42,10 +46,6 @@
     {
         "date": "2019-03-11",
         "name": "Eight Hours Day (Tasmania)"
-    },
-    {
-        "date": "2019-03-11",
-        "name": "May Day (Victoria)"
     },
     {
         "date": "2019-03-18",
@@ -129,11 +129,11 @@
     },
     {
         "date": "2019-08-05",
-        "name": "Northern Territory Picnic Day (Northern Territory)"
+        "name": "New South Wales Bank Holiday (New South Wales)"
     },
     {
         "date": "2019-08-05",
-        "name": "New South Wales Bank Holiday (New South Wales)"
+        "name": "Northern Territory Picnic Day (Northern Territory)"
     },
     {
         "date": "2019-08-12",
@@ -157,15 +157,15 @@
     },
     {
         "date": "2019-10-07",
+        "name": "Queen's Birthday (Queensland)"
+    },
+    {
+        "date": "2019-10-07",
         "name": "Territory Day (Christmas Island)"
     },
     {
         "date": "2019-10-07",
         "name": "May Day (regional holiday)"
-    },
-    {
-        "date": "2019-10-07",
-        "name": "Queen's Birthday (Queensland)"
     },
     {
         "date": "2019-10-14",
@@ -201,11 +201,11 @@
     },
     {
         "date": "2019-12-26",
-        "name": "Proclamation Day (South Australia)"
+        "name": "Boxing Day (regional holiday)"
     },
     {
         "date": "2019-12-26",
-        "name": "Boxing Day (regional holiday)"
+        "name": "Proclamation Day (South Australia)"
     },
     {
         "date": "2019-12-31",
@@ -249,15 +249,15 @@
     },
     {
         "date": "2020-03-09",
-        "name": "Labour Day (Victoria)"
-    },
-    {
-        "date": "2020-03-09",
         "name": "Canberra Day (Australian Capital Territory)"
     },
     {
         "date": "2020-03-09",
         "name": "Eight Hours Day (Tasmania)"
+    },
+    {
+        "date": "2020-03-09",
+        "name": "Labour Day (Victoria)"
     },
     {
         "date": "2020-03-16",
@@ -305,11 +305,11 @@
     },
     {
         "date": "2020-04-27",
-        "name": "ANZAC Day Additional Public Holiday (Australian Capital Territory)"
+        "name": "ANZAC Day Observed (regional holiday)"
     },
     {
         "date": "2020-04-27",
-        "name": "ANZAC Day Observed (regional holiday)"
+        "name": "ANZAC Day Additional Public Holiday (Australian Capital Territory)"
     },
     {
         "date": "2020-05-04",
@@ -486,6 +486,10 @@
     {
         "date": "2021-04-02",
         "name": "Good Friday (Victoria)"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Holy Saturday (regional holiday)"
     },
     {
         "date": "2021-04-03",
