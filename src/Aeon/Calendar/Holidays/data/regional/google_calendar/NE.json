@@ -1,170 +1,226 @@
 [
-  {
-    "date": "2019-01-01",
-    "name": "New Year"
-  },
-  {
-    "date": "2019-04-22",
-    "name": "Easter Monday"
-  },
-  {
-    "date": "2019-04-24",
-    "name": "Concord Day"
-  },
-  {
-    "date": "2019-05-01",
-    "name": "Labour Day"
-  },
-  {
-    "date": "2019-06-01",
-    "name": "Lailat al-Qadr"
-  },
-  {
-    "date": "2019-06-04",
-    "name": "Eid al-Fitr"
-  },
-  {
-    "date": "2019-06-16",
-    "name": "Father's Day"
-  },
-  {
-    "date": "2019-08-03",
-    "name": "Nigerien Independence Day"
-  },
-  {
-    "date": "2019-08-11",
-    "name": "Eid al-Adha"
-  },
-  {
-    "date": "2019-08-12",
-    "name": "Eid al-Adha Holiday"
-  },
-  {
-    "date": "2019-08-31",
-    "name": "Muharram"
-  },
-  {
-    "date": "2019-11-10",
-    "name": "The Prophet's Birthday"
-  },
-  {
-    "date": "2019-12-18",
-    "name": "Nigerien Republic Day"
-  },
-  {
-    "date": "2019-12-25",
-    "name": "Christmas Day"
-  },
-  {
-    "date": "2020-01-01",
-    "name": "New Year"
-  },
-  {
-    "date": "2020-04-13",
-    "name": "Easter Monday"
-  },
-  {
-    "date": "2020-04-24",
-    "name": "Concord Day"
-  },
-  {
-    "date": "2020-05-01",
-    "name": "Labour Day"
-  },
-  {
-    "date": "2020-05-20",
-    "name": "Lailat al-Qadr"
-  },
-  {
-    "date": "2020-05-23",
-    "name": "Eid al-Fitr"
-  },
-  {
-    "date": "2020-06-21",
-    "name": "Father's Day"
-  },
-  {
-    "date": "2020-07-31",
-    "name": "Eid al-Adha"
-  },
-  {
-    "date": "2020-08-01",
-    "name": "Eid al-Adha Holiday"
-  },
-  {
-    "date": "2020-08-03",
-    "name": "Nigerien Independence Day"
-  },
-  {
-    "date": "2020-08-21",
-    "name": "Muharram"
-  },
-  {
-    "date": "2020-10-29",
-    "name": "The Prophet's Birthday"
-  },
-  {
-    "date": "2020-12-18",
-    "name": "Nigerien Republic Day"
-  },
-  {
-    "date": "2020-12-25",
-    "name": "Christmas Day"
-  },
-  {
-    "date": "2021-01-01",
-    "name": "New Year"
-  },
-  {
-    "date": "2021-04-05",
-    "name": "Easter Monday"
-  },
-  {
-    "date": "2021-04-24",
-    "name": "Concord Day"
-  },
-  {
-    "date": "2021-05-01",
-    "name": "Labour Day"
-  },
-  {
-    "date": "2021-05-09",
-    "name": "Lailat al-Qadr"
-  },
-  {
-    "date": "2021-05-13",
-    "name": "Eid al-Fitr"
-  },
-  {
-    "date": "2021-06-20",
-    "name": "Father's Day"
-  },
-  {
-    "date": "2021-07-20",
-    "name": "Eid al-Adha"
-  },
-  {
-    "date": "2021-07-21",
-    "name": "Eid al-Adha Holiday"
-  },
-  {
-    "date": "2021-08-03",
-    "name": "Nigerien Independence Day"
-  },
-  {
-    "date": "2021-08-10",
-    "name": "Muharram"
-  },
-  {
-    "date": "2021-10-19",
-    "name": "The Prophet's Birthday"
-  },
-  {
-    "date": "2021-12-18",
-    "name": "Nigerien Republic Day"
-  },
-  {
-    "date": "2021-12-25",
-    "name": "Christmas Day"
-  }
+    {
+        "date": "2019-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2019-04-22",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2019-04-24",
+        "name": "Concord Day"
+    },
+    {
+        "date": "2019-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2019-06-01",
+        "name": "Lailat al-Qadr"
+    },
+    {
+        "date": "2019-06-04",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2019-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2019-08-03",
+        "name": "Nigerien Independence Day"
+    },
+    {
+        "date": "2019-08-11",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2019-08-12",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2019-08-31",
+        "name": "Muharram"
+    },
+    {
+        "date": "2019-11-10",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2019-12-18",
+        "name": "Nigerien Republic Day"
+    },
+    {
+        "date": "2019-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2020-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2020-04-13",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2020-04-24",
+        "name": "Concord Day"
+    },
+    {
+        "date": "2020-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2020-05-20",
+        "name": "Lailat al-Qadr"
+    },
+    {
+        "date": "2020-05-23",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2020-06-21",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2020-07-31",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2020-08-01",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2020-08-03",
+        "name": "Nigerien Independence Day"
+    },
+    {
+        "date": "2020-08-21",
+        "name": "Muharram"
+    },
+    {
+        "date": "2020-10-29",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2020-12-18",
+        "name": "Nigerien Republic Day"
+    },
+    {
+        "date": "2020-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2021-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2021-04-05",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2021-04-24",
+        "name": "Concord Day"
+    },
+    {
+        "date": "2021-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2021-05-09",
+        "name": "Lailat al-Qadr"
+    },
+    {
+        "date": "2021-05-13",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2021-06-20",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2021-07-20",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2021-07-21",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2021-08-03",
+        "name": "Nigerien Independence Day"
+    },
+    {
+        "date": "2021-08-10",
+        "name": "Muharram"
+    },
+    {
+        "date": "2021-10-19",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2021-12-18",
+        "name": "Nigerien Republic Day"
+    },
+    {
+        "date": "2021-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2022-04-18",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2022-04-24",
+        "name": "Concord Day"
+    },
+    {
+        "date": "2022-04-29",
+        "name": "Lailat al-Qadr"
+    },
+    {
+        "date": "2022-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2022-05-03",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2022-06-19",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2022-07-10",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2022-07-11",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2022-07-30",
+        "name": "Muharram"
+    },
+    {
+        "date": "2022-08-03",
+        "name": "Nigerien Independence Day"
+    },
+    {
+        "date": "2022-10-08",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2022-12-18",
+        "name": "Nigerien Republic Day"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    }
 ]

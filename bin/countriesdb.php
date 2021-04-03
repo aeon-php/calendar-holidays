@@ -18,28 +18,27 @@ use Flow\ETL\Transformer;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-if (!is_string(getenv('GOOGLE_API_KEY'))) {
+if (!\is_string(\getenv('GOOGLE_API_KEY'))) {
     die('Please run this script by passing GOOGLE_API_KEY through env variable first.');
 }
 
 $googleApiClient = new Google_Client();
-$googleApiClient->setApplicationName("Google Holidays Calendar Scraper");
+$googleApiClient->setApplicationName('Google Holidays Calendar Scraper');
 
 // Setup one at https://console.developers.google.com/
-$googleApiClient->setDeveloperKey(getenv('GOOGLE_API_KEY'));
+$googleApiClient->setDeveloperKey(\getenv('GOOGLE_API_KEY'));
 
 $googleCalendarService = new Google_Service_Calendar($googleApiClient);
 $calendar = GregorianCalendar::UTC();
 
-$countries = json_decode(file_get_contents(__DIR__ . '/../resources/countries.json'), true);
+$countries = \json_decode(\file_get_contents(__DIR__ . '/../resources/countries.json'), true);
 
-$count = count($countries['countries']);
+$count = \count($countries['countries']);
 
 $index = 0;
 
 ETL::extract(
-    new class($countries, $googleCalendarService) implements Extractor
-    {
+    new class($countries, $googleCalendarService) implements Extractor {
         private array $countriesData;
 
         private Google_Service_Calendar $googleCalendarService;
@@ -50,20 +49,20 @@ ETL::extract(
             $this->googleCalendarService = $googleCalendarService;
         }
 
-        public function extract(): Generator
+        public function extract() : Generator
         {
             foreach ($this->countriesData['countries'] as $countryCode => $countryData) {
                 if (!isset($countryData['googleHolidaysCalendarId'])) {
                     continue;
                 }
-                $calendarId = str_replace('{{ locale }}', 'en', $countryData['googleHolidaysCalendarId']);
+                $calendarId = \str_replace('{{ locale }}', 'en', $countryData['googleHolidaysCalendarId']);
 
                 $rows = new Rows();
 
                 try {
                     $items = $this->googleCalendarService->events->listEvents($calendarId)->getItems();
                 } catch (Google\Service\Exception $e) {
-                    continue ;
+                    continue;
                 }
 
                 foreach ($items as $event) {
@@ -78,14 +77,18 @@ ETL::extract(
                     );
                 }
 
+                print "{$countryCode} - Loading...\n";
+
                 yield $rows;
             }
         }
     }
 )->transform(
-    new class implements Transformer
-    {
-        public function transform(Rows $rows): Rows
+    /**
+     * Transform Google Calendar Event into flat data structure.
+     */
+    new class implements Transformer {
+        public function transform(Rows $rows) : Rows
         {
             return $rows->map(function (Row $row) : Row {
                 /** @var \Google_Service_Calendar_Event $event */
@@ -104,8 +107,10 @@ ETL::extract(
             });
         }
     },
-    new class($calendar) implements Transformer
-    {
+    /**
+     * If events dataset exists, filter out all historical events from google calendar events.
+     */
+    new class($calendar) implements Transformer {
         private Calendar $calendar;
 
         public function __construct(Calendar $calendar)
@@ -113,7 +118,7 @@ ETL::extract(
             $this->calendar = $calendar;
         }
 
-        public function transform(Rows $rows): Rows
+        public function transform(Rows $rows) : Rows
         {
             $filePath = __DIR__ . "/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/{$rows->first()->valueOf('country_code')}.json";
 
@@ -121,13 +126,15 @@ ETL::extract(
                 return $rows;
             }
 
-            return $rows->filter(function (Row $row) : bool  {
+            return $rows->filter(function (Row $row) : bool {
                 return $row->valueOf('date')->isAfterOrEqual($this->calendar->currentDay());
             });
         }
     },
-    new class($calendar) implements Transformer
-    {
+    /**
+     * If events dataset exists, load it and extract all future events and merge both data sets.
+     */
+    new class($calendar) implements Transformer {
         private Calendar $calendar;
 
         public function __construct(Calendar $calendar)
@@ -135,7 +142,7 @@ ETL::extract(
             $this->calendar = $calendar;
         }
 
-        public function transform(Rows $rows): Rows
+        public function transform(Rows $rows) : Rows
         {
             $filePath = __DIR__ . "/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/{$rows->first()->valueOf('country_code')}.json";
 
@@ -143,15 +150,17 @@ ETL::extract(
                 $holidaysData = \json_decode(\file_get_contents($filePath), true);
 
                 if (!\is_array($holidaysData)) {
-                    var_dump($filePath);
+                    \var_dump($filePath);
+
                     die();
                 }
+
                 foreach ($holidaysData as $holidayData) {
                     $date = Day::fromString($holidayData['date']);
                     $name = $holidayData['name'];
 
                     if ($date->isAfter($this->calendar->currentDay())) {
-                        continue ;
+                        continue;
                     }
 
                     $rows = $rows->add(
@@ -172,9 +181,11 @@ ETL::extract(
             return $rows;
         }
     },
-    new class implements Transformer
-    {
-        public function transform(Rows $rows): Rows
+    /**
+     * Sort events and map data structure into simpler structure.
+     */
+    new class implements Transformer {
+        public function transform(Rows $rows) : Rows
         {
             return $rows->sortAscending('timestamp')
                 ->map(function (Row $row) : Row {
@@ -189,9 +200,8 @@ ETL::extract(
         }
     },
 )->load(
-    new class implements Loader
-    {
-        public function load(Rows $rows): void
+    new class implements Loader {
+        public function load(Rows $rows) : void
         {
             $countryCode = $rows->first()->get('country_code');
             $filePath = __DIR__ . "/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/{$countryCode->value()}.json";
@@ -205,7 +215,9 @@ ETL::extract(
                 );
             });
 
-//            \file_put_contents($filePath, \json_encode($rows->toArray(), JSON_PRETTY_PRINT));
+            \file_put_contents($filePath, \json_encode($rows->toArray(), JSON_PRETTY_PRINT));
+
+            print "{$countryCode->value()} - Loaded \n";
         }
     }
 );

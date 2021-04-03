@@ -1,98 +1,130 @@
 [
-  {
-    "date": "2019-01-01",
-    "name": "New Year"
-  },
-  {
-    "date": "2019-01-04",
-    "name": "Day of King Amador"
-  },
-  {
-    "date": "2019-02-03",
-    "name": "Commemoration of the Batep\u00e1 Massacre"
-  },
-  {
-    "date": "2019-05-01",
-    "name": "Labour Day"
-  },
-  {
-    "date": "2019-07-12",
-    "name": "Independence Day"
-  },
-  {
-    "date": "2019-09-06",
-    "name": "Armed Forces' Day"
-  },
-  {
-    "date": "2019-09-30",
-    "name": "Nationalization of the Ro\u00e7as"
-  },
-  {
-    "date": "2019-12-25",
-    "name": "Christmas Day"
-  },
-  {
-    "date": "2020-01-01",
-    "name": "New Year"
-  },
-  {
-    "date": "2020-01-04",
-    "name": "Day of King Amador"
-  },
-  {
-    "date": "2020-02-03",
-    "name": "Commemoration of the Batep\u00e1 Massacre"
-  },
-  {
-    "date": "2020-05-01",
-    "name": "Labour Day"
-  },
-  {
-    "date": "2020-07-12",
-    "name": "Independence Day"
-  },
-  {
-    "date": "2020-09-06",
-    "name": "Armed Forces' Day"
-  },
-  {
-    "date": "2020-09-30",
-    "name": "Nationalization of the Ro\u00e7as"
-  },
-  {
-    "date": "2020-12-25",
-    "name": "Christmas Day"
-  },
-  {
-    "date": "2021-01-01",
-    "name": "New Year"
-  },
-  {
-    "date": "2021-01-04",
-    "name": "Day of King Amador"
-  },
-  {
-    "date": "2021-02-03",
-    "name": "Commemoration of the Batep\u00e1 Massacre"
-  },
-  {
-    "date": "2021-05-01",
-    "name": "Labour Day"
-  },
-  {
-    "date": "2021-07-12",
-    "name": "Independence Day"
-  },
-  {
-    "date": "2021-09-06",
-    "name": "Armed Forces' Day"
-  },
-  {
-    "date": "2021-09-30",
-    "name": "Nationalization of the Ro\u00e7as"
-  },
-  {
-    "date": "2021-12-25",
-    "name": "Christmas Day"
-  }
+    {
+        "date": "2019-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2019-01-04",
+        "name": "Day of King Amador"
+    },
+    {
+        "date": "2019-02-03",
+        "name": "Commemoration of the Batep\u00e1 Massacre"
+    },
+    {
+        "date": "2019-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2019-07-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2019-09-06",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2019-09-30",
+        "name": "Nationalization of the Ro\u00e7as"
+    },
+    {
+        "date": "2019-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2020-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2020-01-04",
+        "name": "Day of King Amador"
+    },
+    {
+        "date": "2020-02-03",
+        "name": "Commemoration of the Batep\u00e1 Massacre"
+    },
+    {
+        "date": "2020-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2020-07-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2020-09-06",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2020-09-30",
+        "name": "Nationalization of the Ro\u00e7as"
+    },
+    {
+        "date": "2020-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2021-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2021-01-04",
+        "name": "Day of King Amador"
+    },
+    {
+        "date": "2021-02-03",
+        "name": "Commemoration of the Batep\u00e1 Massacre"
+    },
+    {
+        "date": "2021-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2021-07-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2021-09-06",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2021-09-30",
+        "name": "Nationalization of the Ro\u00e7as"
+    },
+    {
+        "date": "2021-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2022-01-04",
+        "name": "Day of King Amador"
+    },
+    {
+        "date": "2022-02-03",
+        "name": "Commemoration of the Batep\u00e1 Massacre"
+    },
+    {
+        "date": "2022-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2022-07-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2022-09-06",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2022-09-30",
+        "name": "Nationalization of the Ro\u00e7as"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    }
 ]

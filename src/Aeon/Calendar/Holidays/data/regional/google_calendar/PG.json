@@ -1,122 +1,166 @@
 [
-  {
-    "date": "2019-01-01",
-    "name": "New Year's Day"
-  },
-  {
-    "date": "2019-04-19",
-    "name": "Good Friday"
-  },
-  {
-    "date": "2019-04-20",
-    "name": "Holy Saturday"
-  },
-  {
-    "date": "2019-04-22",
-    "name": "Easter Monday"
-  },
-  {
-    "date": "2019-06-10",
-    "name": "Queen's Birthday"
-  },
-  {
-    "date": "2019-07-23",
-    "name": "National Remembrance Day"
-  },
-  {
-    "date": "2019-08-26",
-    "name": "National Day of Repentance"
-  },
-  {
-    "date": "2019-09-16",
-    "name": "Independence Day"
-  },
-  {
-    "date": "2019-12-25",
-    "name": "Christmas Day"
-  },
-  {
-    "date": "2019-12-26",
-    "name": "Boxing Day"
-  },
-  {
-    "date": "2020-01-01",
-    "name": "New Year's Day"
-  },
-  {
-    "date": "2020-04-10",
-    "name": "Good Friday"
-  },
-  {
-    "date": "2020-04-11",
-    "name": "Holy Saturday"
-  },
-  {
-    "date": "2020-04-13",
-    "name": "Easter Monday"
-  },
-  {
-    "date": "2020-06-08",
-    "name": "Queen's Birthday"
-  },
-  {
-    "date": "2020-07-23",
-    "name": "National Remembrance Day"
-  },
-  {
-    "date": "2020-08-26",
-    "name": "National Day of Repentance"
-  },
-  {
-    "date": "2020-09-16",
-    "name": "Independence Day"
-  },
-  {
-    "date": "2020-12-25",
-    "name": "Christmas Day"
-  },
-  {
-    "date": "2020-12-26",
-    "name": "Boxing Day"
-  },
-  {
-    "date": "2021-01-01",
-    "name": "New Year's Day"
-  },
-  {
-    "date": "2021-04-02",
-    "name": "Good Friday"
-  },
-  {
-    "date": "2021-04-03",
-    "name": "Holy Saturday"
-  },
-  {
-    "date": "2021-04-05",
-    "name": "Easter Monday"
-  },
-  {
-    "date": "2021-06-14",
-    "name": "Queen's Birthday"
-  },
-  {
-    "date": "2021-07-23",
-    "name": "National Remembrance Day"
-  },
-  {
-    "date": "2021-08-26",
-    "name": "National Day of Repentance"
-  },
-  {
-    "date": "2021-09-16",
-    "name": "Independence Day"
-  },
-  {
-    "date": "2021-12-25",
-    "name": "Christmas Day"
-  },
-  {
-    "date": "2021-12-26",
-    "name": "Boxing Day"
-  }
+    {
+        "date": "2019-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2019-04-19",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2019-04-20",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2019-04-22",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2019-06-10",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2019-07-23",
+        "name": "National Remembrance Day"
+    },
+    {
+        "date": "2019-08-26",
+        "name": "National Day of Repentance"
+    },
+    {
+        "date": "2019-09-16",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2019-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2019-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2020-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2020-04-10",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2020-04-11",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2020-04-13",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2020-06-08",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2020-07-23",
+        "name": "National Remembrance Day"
+    },
+    {
+        "date": "2020-08-26",
+        "name": "National Day of Repentance"
+    },
+    {
+        "date": "2020-09-16",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2020-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2020-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2021-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2021-04-02",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2021-04-03",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2021-04-05",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2021-06-14",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2021-07-23",
+        "name": "National Remembrance Day"
+    },
+    {
+        "date": "2021-08-26",
+        "name": "National Day of Repentance"
+    },
+    {
+        "date": "2021-09-16",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2021-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2022-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2022-04-15",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2022-04-16",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2022-04-18",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2022-06-13",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2022-07-23",
+        "name": "National Remembrance Day"
+    },
+    {
+        "date": "2022-08-26",
+        "name": "National Day of Repentance"
+    },
+    {
+        "date": "2022-09-16",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Boxing Day"
+    }
 ]

@@ -1,0 +1,138 @@
+[
+    {
+        "date": "2020-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2020-04-10",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2020-04-12",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2020-04-13",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2020-05-21",
+        "name": "Saint Helena's Day"
+    },
+    {
+        "date": "2020-06-01",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2020-06-15",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2020-08-31",
+        "name": "August Bank Holiday"
+    },
+    {
+        "date": "2020-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2020-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2020-12-28",
+        "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2021-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2021-04-02",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2021-04-04",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2021-04-05",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2021-05-21",
+        "name": "Saint Helena's Day"
+    },
+    {
+        "date": "2021-05-24",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2021-06-14",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2021-08-30",
+        "name": "August Bank Holiday"
+    },
+    {
+        "date": "2021-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2021-12-27",
+        "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2021-12-28",
+        "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2022-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2022-04-15",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2022-04-17",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2022-04-18",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2022-05-21",
+        "name": "Saint Helena's Day"
+    },
+    {
+        "date": "2022-06-06",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2022-06-20",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2022-08-29",
+        "name": "August Bank Holiday"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2022-12-27",
+        "name": "Day off for Christmas Day"
+    }
+]
