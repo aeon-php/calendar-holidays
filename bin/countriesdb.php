@@ -149,12 +149,6 @@ ETL::extract(
             if (\file_exists($filePath)) {
                 $holidaysData = \json_decode(\file_get_contents($filePath), true);
 
-                if (!\is_array($holidaysData)) {
-                    \var_dump($filePath);
-
-                    die();
-                }
-
                 foreach ($holidaysData as $holidayData) {
                     $date = Day::fromString($holidayData['date']);
                     $name = $holidayData['name'];
@@ -171,7 +165,6 @@ ETL::extract(
                                 new ObjectEntry('year', $date->year()),
                                 new ObjectEntry('date', $date),
                                 new StringEntry('name', $name),
-                                new IntegerEntry('timestamp', $date->midnight(TimeZone::UTC())->timestampUNIX()->inSeconds() + \strlen($name))
                             )
                         )
                     );
@@ -187,7 +180,13 @@ ETL::extract(
     new class implements Transformer {
         public function transform(Rows $rows) : Rows
         {
-            return $rows->sortAscending('timestamp')
+            return $rows->sort(function (Row $row, Row $nextRow) : int {
+                if ($row->valueOf('date')->isEqual($nextRow->valueOf('date'))) {
+                    return $row->valueOf('name') <=> $nextRow->valueOf('name');
+                }
+
+                return $row->valueOf('date')->toDateTimeImmutable() <=> $nextRow->valueOf('date')->toDateTimeImmutable();
+            })
                 ->map(function (Row $row) : Row {
                     return new Row(
                         new Entries(

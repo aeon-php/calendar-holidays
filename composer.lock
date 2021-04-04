@@ -123,12 +123,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flow-php/etl.git",
-                "reference": "406150a7fb4c0c4c4bb4a62d96c283f06ac9cf41"
+                "reference": "7d6bcdf3ab02e3384f391bbcf6d4cba699aa11a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl/zipball/406150a7fb4c0c4c4bb4a62d96c283f06ac9cf41",
-                "reference": "406150a7fb4c0c4c4bb4a62d96c283f06ac9cf41",
+                "url": "https://api.github.com/repos/flow-php/etl/zipball/7d6bcdf3ab02e3384f391bbcf6d4cba699aa11a1",
+                "reference": "7d6bcdf3ab02e3384f391bbcf6d4cba699aa11a1",
                 "shasum": ""
             },
             "require": {
@@ -160,7 +160,7 @@
                 "issues": "https://github.com/flow-php/etl/issues",
                 "source": "https://github.com/flow-php/etl/tree/1.x"
             },
-            "time": "2021-04-01T08:18:59+00:00"
+            "time": "2021-04-04T08:14:18+00:00"
         },
         {
             "name": "google/apiclient",
