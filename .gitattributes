@@ -2,6 +2,8 @@
 *.phpt text eol=lf
 /composer.lock export-ignore
 /.github/ export-ignore
+/bin export-ignore
+/src/Aeon/Calendar/Holidays/GoogleCalendar/ETL export-ignore
 /docs export-ignore
 /tests export-ignore
 /.phive export-ignore
