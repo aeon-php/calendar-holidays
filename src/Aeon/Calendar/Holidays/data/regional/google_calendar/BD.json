@@ -217,11 +217,11 @@
     },
     {
         "date": "2020-04-08",
-        "name": "Shab e-Barat"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-08",
-        "name": "Public Holiday"
+        "name": "Shab e-Barat"
     },
     {
         "date": "2020-04-09",
@@ -237,19 +237,19 @@
     },
     {
         "date": "2020-04-13",
-        "name": "Public Holiday"
-    },
-    {
-        "date": "2020-04-13",
         "name": "Chaitra Sankranti"
     },
     {
-        "date": "2020-04-14",
+        "date": "2020-04-13",
         "name": "Public Holiday"
     },
     {
         "date": "2020-04-14",
         "name": "Bengali New Year"
+    },
+    {
+        "date": "2020-04-14",
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-15",
@@ -341,11 +341,11 @@
     },
     {
         "date": "2020-05-06",
-        "name": "Public Holiday"
+        "name": "Buddha Purnima\/Vesak"
     },
     {
         "date": "2020-05-06",
-        "name": "Buddha Purnima\/Vesak"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-07",
@@ -401,11 +401,11 @@
     },
     {
         "date": "2020-05-19",
-        "name": "Shab-e-qadr"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-19",
-        "name": "Public Holiday"
+        "name": "Shab-e-qadr"
     },
     {
         "date": "2020-05-20",
@@ -441,14 +441,10 @@
     },
     {
         "date": "2020-05-26",
-        "name": "Public Holiday"
+        "name": "Eid ul-Fitr Holiday"
     },
     {
         "date": "2020-05-26",
-        "name": "Eid ul-Fitr Holiday"
-    },
-    {
-        "date": "2020-05-27",
         "name": "Public Holiday"
     },
     {
@@ -456,12 +452,16 @@
         "name": "Eid ul-Fitr Holiday"
     },
     {
-        "date": "2020-05-28",
+        "date": "2020-05-27",
         "name": "Public Holiday"
     },
     {
         "date": "2020-05-28",
         "name": "Eid ul-Fitr Holiday"
+    },
+    {
+        "date": "2020-05-28",
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-29",

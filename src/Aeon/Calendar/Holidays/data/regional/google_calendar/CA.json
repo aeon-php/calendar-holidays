@@ -21,15 +21,15 @@
     },
     {
         "date": "2019-02-18",
-        "name": "Louis Riel Day (Manitoba)"
-    },
-    {
-        "date": "2019-02-18",
         "name": "Family Day (regional holiday)"
     },
     {
         "date": "2019-02-18",
         "name": "Islander Day (Prince Edward Island)"
+    },
+    {
+        "date": "2019-02-18",
+        "name": "Louis Riel Day (Manitoba)"
     },
     {
         "date": "2019-02-18",
@@ -85,11 +85,11 @@
     },
     {
         "date": "2019-05-20",
-        "name": "Victoria Day (regional holiday)"
+        "name": "National Patriots' Day (Quebec)"
     },
     {
         "date": "2019-05-20",
-        "name": "National Patriots' Day (Quebec)"
+        "name": "Victoria Day (regional holiday)"
     },
     {
         "date": "2019-06-16",
@@ -101,11 +101,11 @@
     },
     {
         "date": "2019-06-24",
-        "name": "St. Jean Baptiste Day (Quebec)"
+        "name": "Discovery Day (Newfoundland and Labrador)"
     },
     {
         "date": "2019-06-24",
-        "name": "Discovery Day (Newfoundland and Labrador)"
+        "name": "St. Jean Baptiste Day (Quebec)"
     },
     {
         "date": "2019-07-01",
@@ -125,6 +125,14 @@
     },
     {
         "date": "2019-08-05",
+        "name": "British Columbia Day (British Columbia)"
+    },
+    {
+        "date": "2019-08-05",
+        "name": "Civic\/Provincial Day (regional holiday)"
+    },
+    {
+        "date": "2019-08-05",
         "name": "Heritage Day (Alberta)"
     },
     {
@@ -133,19 +141,11 @@
     },
     {
         "date": "2019-08-05",
-        "name": "Saskatchewan Day (Saskatchewan)"
-    },
-    {
-        "date": "2019-08-05",
         "name": "New Brunswick Day (New Brunswick)"
     },
     {
         "date": "2019-08-05",
-        "name": "British Columbia Day (British Columbia)"
-    },
-    {
-        "date": "2019-08-05",
-        "name": "Civic\/Provincial Day (regional holiday)"
+        "name": "Saskatchewan Day (Saskatchewan)"
     },
     {
         "date": "2019-08-07",
@@ -225,15 +225,15 @@
     },
     {
         "date": "2020-02-17",
-        "name": "Louis Riel Day (Manitoba)"
-    },
-    {
-        "date": "2020-02-17",
         "name": "Family Day (regional holiday)"
     },
     {
         "date": "2020-02-17",
         "name": "Islander Day (Prince Edward Island)"
+    },
+    {
+        "date": "2020-02-17",
+        "name": "Louis Riel Day (Manitoba)"
     },
     {
         "date": "2020-02-17",
@@ -329,6 +329,14 @@
     },
     {
         "date": "2020-08-03",
+        "name": "British Columbia Day (British Columbia)"
+    },
+    {
+        "date": "2020-08-03",
+        "name": "Civic\/Provincial Day (regional holiday)"
+    },
+    {
+        "date": "2020-08-03",
         "name": "Heritage Day (Alberta)"
     },
     {
@@ -337,19 +345,11 @@
     },
     {
         "date": "2020-08-03",
-        "name": "Saskatchewan Day (Saskatchewan)"
-    },
-    {
-        "date": "2020-08-03",
         "name": "New Brunswick Day (New Brunswick)"
     },
     {
         "date": "2020-08-03",
-        "name": "British Columbia Day (British Columbia)"
-    },
-    {
-        "date": "2020-08-03",
-        "name": "Civic\/Provincial Day (regional holiday)"
+        "name": "Saskatchewan Day (Saskatchewan)"
     },
     {
         "date": "2020-08-03",
@@ -433,15 +433,15 @@
     },
     {
         "date": "2021-02-15",
-        "name": "Louis Riel Day (Manitoba)"
-    },
-    {
-        "date": "2021-02-15",
         "name": "Family Day (regional holiday)"
     },
     {
         "date": "2021-02-15",
         "name": "Islander Day (Prince Edward Island)"
+    },
+    {
+        "date": "2021-02-15",
+        "name": "Louis Riel Day (Manitoba)"
     },
     {
         "date": "2021-02-15",
@@ -497,11 +497,11 @@
     },
     {
         "date": "2021-05-24",
-        "name": "Victoria Day (regional holiday)"
+        "name": "National Patriots' Day (Quebec)"
     },
     {
         "date": "2021-05-24",
-        "name": "National Patriots' Day (Quebec)"
+        "name": "Victoria Day (regional holiday)"
     },
     {
         "date": "2021-06-20",
@@ -509,11 +509,11 @@
     },
     {
         "date": "2021-06-21",
-        "name": "National Indigenous Peoples Day (regional holiday)"
+        "name": "June Holiday (Newfoundland and Labrador)"
     },
     {
         "date": "2021-06-21",
-        "name": "June Holiday (Newfoundland and Labrador)"
+        "name": "National Indigenous Peoples Day (regional holiday)"
     },
     {
         "date": "2021-06-24",
@@ -521,11 +521,11 @@
     },
     {
         "date": "2021-07-01",
-        "name": "Memorial Day (Newfoundland and Labrador)"
+        "name": "Canada Day"
     },
     {
         "date": "2021-07-01",
-        "name": "Canada Day"
+        "name": "Memorial Day (Newfoundland and Labrador)"
     },
     {
         "date": "2021-07-09",
@@ -534,6 +534,14 @@
     {
         "date": "2021-07-12",
         "name": "Orangemen's Day (Newfoundland and Labrador)"
+    },
+    {
+        "date": "2021-08-02",
+        "name": "British Columbia Day (British Columbia)"
+    },
+    {
+        "date": "2021-08-02",
+        "name": "Civic\/Provincial Day (regional holiday)"
     },
     {
         "date": "2021-08-02",
@@ -549,15 +557,7 @@
     },
     {
         "date": "2021-08-02",
-        "name": "British Columbia Day (British Columbia)"
-    },
-    {
-        "date": "2021-08-02",
         "name": "Saskatchewan Day (Saskatchewan)"
-    },
-    {
-        "date": "2021-08-02",
-        "name": "Civic\/Provincial Day (regional holiday)"
     },
     {
         "date": "2021-08-04",
@@ -645,11 +645,11 @@
     },
     {
         "date": "2022-02-21",
-        "name": "Nova Scotia Heritage Day (Nova Scotia)"
+        "name": "Family Day (regional holiday)"
     },
     {
         "date": "2022-02-21",
-        "name": "Family Day (regional holiday)"
+        "name": "Islander Day (Prince Edward Island)"
     },
     {
         "date": "2022-02-21",
@@ -657,7 +657,7 @@
     },
     {
         "date": "2022-02-21",
-        "name": "Islander Day (Prince Edward Island)"
+        "name": "Nova Scotia Heritage Day (Nova Scotia)"
     },
     {
         "date": "2022-02-25",
@@ -669,11 +669,11 @@
     },
     {
         "date": "2022-03-14",
-        "name": "St. Patrick's Day (Newfoundland and Labrador)"
+        "name": "Commonwealth Day"
     },
     {
         "date": "2022-03-14",
-        "name": "Commonwealth Day"
+        "name": "St. Patrick's Day (Newfoundland and Labrador)"
     },
     {
         "date": "2022-03-17",
@@ -709,11 +709,11 @@
     },
     {
         "date": "2022-05-23",
-        "name": "Victoria Day (regional holiday)"
+        "name": "National Patriots' Day (Quebec)"
     },
     {
         "date": "2022-05-23",
-        "name": "National Patriots' Day (Quebec)"
+        "name": "Victoria Day (regional holiday)"
     },
     {
         "date": "2022-06-19",
@@ -733,11 +733,11 @@
     },
     {
         "date": "2022-07-01",
-        "name": "Memorial Day (Newfoundland and Labrador)"
+        "name": "Canada Day"
     },
     {
         "date": "2022-07-01",
-        "name": "Canada Day"
+        "name": "Memorial Day (Newfoundland and Labrador)"
     },
     {
         "date": "2022-07-09",
@@ -746,14 +746,6 @@
     {
         "date": "2022-07-11",
         "name": "Orangemen's Day (Newfoundland and Labrador)"
-    },
-    {
-        "date": "2022-08-01",
-        "name": "Saskatchewan Day (Saskatchewan)"
-    },
-    {
-        "date": "2022-08-01",
-        "name": "Natal Day (Nova Scotia)"
     },
     {
         "date": "2022-08-01",
@@ -769,7 +761,15 @@
     },
     {
         "date": "2022-08-01",
+        "name": "Natal Day (Nova Scotia)"
+    },
+    {
+        "date": "2022-08-01",
         "name": "New Brunswick Day (New Brunswick)"
+    },
+    {
+        "date": "2022-08-01",
+        "name": "Saskatchewan Day (Saskatchewan)"
     },
     {
         "date": "2022-08-03",

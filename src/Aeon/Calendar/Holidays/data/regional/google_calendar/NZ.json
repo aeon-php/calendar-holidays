@@ -13,11 +13,11 @@
     },
     {
         "date": "2019-01-28",
-        "name": "Northland Anniversary Day (Northland)"
+        "name": "Auckland Anniversary Day (regional holiday)"
     },
     {
         "date": "2019-01-28",
-        "name": "Auckland Anniversary Day (regional holiday)"
+        "name": "Northland Anniversary Day (Northland)"
     },
     {
         "date": "2019-02-04",
@@ -105,11 +105,11 @@
     },
     {
         "date": "2019-12-02",
-        "name": "Westland Anniversary Day (West Coast)"
+        "name": "Chatham Islands Anniversary Day (Chatham Islands)"
     },
     {
         "date": "2019-12-02",
-        "name": "Chatham Islands Anniversary Day (Chatham Islands)"
+        "name": "Westland Anniversary Day (West Coast)"
     },
     {
         "date": "2019-12-24",
@@ -141,11 +141,11 @@
     },
     {
         "date": "2020-01-27",
-        "name": "Northland Anniversary Day (Northland)"
+        "name": "Auckland Anniversary Day (regional holiday)"
     },
     {
         "date": "2020-01-27",
-        "name": "Auckland Anniversary Day (regional holiday)"
+        "name": "Northland Anniversary Day (Northland)"
     },
     {
         "date": "2020-02-03",
@@ -237,11 +237,11 @@
     },
     {
         "date": "2020-11-30",
-        "name": "Westland Anniversary Day (West Coast)"
+        "name": "Chatham Islands Anniversary Day (Chatham Islands)"
     },
     {
         "date": "2020-11-30",
-        "name": "Chatham Islands Anniversary Day (Chatham Islands)"
+        "name": "Westland Anniversary Day (West Coast)"
     },
     {
         "date": "2020-12-24",
@@ -277,7 +277,7 @@
     },
     {
         "date": "2021-02-01",
-        "name": "Northland Anniversary Day (Northland)"
+        "name": "Auckland Anniversary Day (regional holiday)"
     },
     {
         "date": "2021-02-01",
@@ -285,7 +285,7 @@
     },
     {
         "date": "2021-02-01",
-        "name": "Auckland Anniversary Day (regional holiday)"
+        "name": "Northland Anniversary Day (Northland)"
     },
     {
         "date": "2021-02-06",
@@ -425,15 +425,15 @@
     },
     {
         "date": "2022-01-31",
-        "name": "Northland Anniversary Day (Northland)"
-    },
-    {
-        "date": "2022-01-31",
         "name": "Auckland Anniversary Day (regional holiday)"
     },
     {
         "date": "2022-01-31",
         "name": "Nelson Anniversary Day (regional holiday)"
+    },
+    {
+        "date": "2022-01-31",
+        "name": "Northland Anniversary Day (Northland)"
     },
     {
         "date": "2022-02-06",

@@ -5,11 +5,11 @@
     },
     {
         "date": "2019-01-13",
-        "name": "Lohri"
+        "name": "Guru Govind Singh Jayanti"
     },
     {
         "date": "2019-01-13",
-        "name": "Guru Govind Singh Jayanti"
+        "name": "Lohri"
     },
     {
         "date": "2019-01-14",
@@ -29,11 +29,11 @@
     },
     {
         "date": "2019-02-19",
-        "name": "Shivaji Jayanti"
+        "name": "Guru Ravidas Jayanti"
     },
     {
         "date": "2019-02-19",
-        "name": "Guru Ravidas Jayanti"
+        "name": "Shivaji Jayanti"
     },
     {
         "date": "2019-03-01",
@@ -49,15 +49,15 @@
     },
     {
         "date": "2019-03-21",
-        "name": "Holi"
-    },
-    {
-        "date": "2019-03-21",
         "name": "Dolyatra"
     },
     {
         "date": "2019-03-21",
         "name": "Hazarat Ali's Birthday"
+    },
+    {
+        "date": "2019-03-21",
+        "name": "Holi"
     },
     {
         "date": "2019-04-06",
@@ -69,15 +69,15 @@
     },
     {
         "date": "2019-04-14",
-        "name": "Vaisakhi"
-    },
-    {
-        "date": "2019-04-14",
         "name": "Ambedkar Jayanti"
     },
     {
         "date": "2019-04-14",
         "name": "Mesadi\/Vaisakhadi"
+    },
+    {
+        "date": "2019-04-14",
+        "name": "Vaisakhi"
     },
     {
         "date": "2019-04-17",
@@ -229,11 +229,11 @@
     },
     {
         "date": "2020-01-15",
-        "name": "Pongal"
+        "name": "Makar Sankranti"
     },
     {
         "date": "2020-01-15",
-        "name": "Makar Sankranti"
+        "name": "Pongal"
     },
     {
         "date": "2020-01-26",
@@ -261,11 +261,11 @@
     },
     {
         "date": "2020-03-09",
-        "name": "Holika Dahana"
+        "name": "Hazarat Ali's Birthday"
     },
     {
         "date": "2020-03-09",
-        "name": "Hazarat Ali's Birthday"
+        "name": "Holika Dahana"
     },
     {
         "date": "2020-03-10",
@@ -305,11 +305,11 @@
     },
     {
         "date": "2020-05-07",
-        "name": "Buddha Purnima\/Vesak"
+        "name": "Birthday of Ravindranath"
     },
     {
         "date": "2020-05-07",
-        "name": "Birthday of Ravindranath"
+        "name": "Buddha Purnima\/Vesak"
     },
     {
         "date": "2020-05-22",
@@ -437,11 +437,11 @@
     },
     {
         "date": "2021-01-14",
-        "name": "Pongal"
+        "name": "Makar Sankranti"
     },
     {
         "date": "2021-01-14",
-        "name": "Makar Sankranti"
+        "name": "Pongal"
     },
     {
         "date": "2021-01-20",
@@ -497,15 +497,15 @@
     },
     {
         "date": "2021-04-14",
-        "name": "Vaisakhi"
-    },
-    {
-        "date": "2021-04-14",
         "name": "Ambedkar Jayanti"
     },
     {
         "date": "2021-04-14",
         "name": "Mesadi"
+    },
+    {
+        "date": "2021-04-14",
+        "name": "Vaisakhi"
     },
     {
         "date": "2021-04-15",
@@ -697,11 +697,11 @@
     },
     {
         "date": "2022-04-14",
-        "name": "Vaisakhi"
+        "name": "Mesadi \/ Vaisakhadi"
     },
     {
         "date": "2022-04-14",
-        "name": "Mesadi \/ Vaisakhadi"
+        "name": "Vaisakhi"
     },
     {
         "date": "2022-04-15",
@@ -757,11 +757,11 @@
     },
     {
         "date": "2022-10-02",
-        "name": "Mahatma Gandhi Jayanti"
+        "name": "Maha Saptami"
     },
     {
         "date": "2022-10-02",
-        "name": "Maha Saptami"
+        "name": "Mahatma Gandhi Jayanti"
     },
     {
         "date": "2022-10-03",
@@ -789,19 +789,19 @@
     },
     {
         "date": "2022-10-24",
-        "name": "Naraka Chaturdasi"
-    },
-    {
-        "date": "2022-10-24",
         "name": "Diwali\/Deepavali"
     },
     {
-        "date": "2022-10-26",
-        "name": "Govardhan Puja"
+        "date": "2022-10-24",
+        "name": "Naraka Chaturdasi"
     },
     {
         "date": "2022-10-26",
         "name": "Bhai Duj"
+    },
+    {
+        "date": "2022-10-26",
+        "name": "Govardhan Puja"
     },
     {
         "date": "2022-10-30",

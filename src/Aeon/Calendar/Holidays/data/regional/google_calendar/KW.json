@@ -133,11 +133,11 @@
     },
     {
         "date": "2020-03-22",
-        "name": "Public Holiday"
+        "name": "Isra and Miraj"
     },
     {
         "date": "2020-03-22",
-        "name": "Isra and Miraj"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-03-23",
@@ -397,19 +397,19 @@
     },
     {
         "date": "2020-05-25",
-        "name": "Public Holiday"
+        "name": "Eid al-Fitr holiday"
     },
     {
         "date": "2020-05-25",
-        "name": "Eid al-Fitr holiday"
-    },
-    {
-        "date": "2020-05-26",
         "name": "Public Holiday"
     },
     {
         "date": "2020-05-26",
         "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2020-05-26",
+        "name": "Public Holiday"
     },
     {
         "date": "2020-05-27",

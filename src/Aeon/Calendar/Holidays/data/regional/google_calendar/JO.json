@@ -197,19 +197,19 @@
     },
     {
         "date": "2020-04-19",
-        "name": "Public Holiday"
-    },
-    {
-        "date": "2020-04-19",
         "name": "Orthodox Easter Day"
     },
     {
-        "date": "2020-04-20",
+        "date": "2020-04-19",
         "name": "Public Holiday"
     },
     {
         "date": "2020-04-20",
         "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2020-04-20",
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-21",
@@ -225,11 +225,11 @@
     },
     {
         "date": "2020-04-24",
-        "name": "Ramadan begins"
+        "name": "Public Holiday"
     },
     {
         "date": "2020-04-24",
-        "name": "Public Holiday"
+        "name": "Ramadan begins"
     },
     {
         "date": "2020-04-25",
@@ -361,11 +361,11 @@
     },
     {
         "date": "2020-05-25",
-        "name": "Independence Day"
+        "name": "Eid al-Fitr holiday"
     },
     {
         "date": "2020-05-25",
-        "name": "Eid al-Fitr holiday"
+        "name": "Independence Day"
     },
     {
         "date": "2020-05-26",

@@ -33,7 +33,11 @@
     },
     {
         "date": "2019-03-11",
-        "name": "May Day (Victoria)"
+        "name": "Adelaide Cup (South Australia)"
+    },
+    {
+        "date": "2019-03-11",
+        "name": "Canberra Day (Australian Capital Territory)"
     },
     {
         "date": "2019-03-11",
@@ -41,11 +45,7 @@
     },
     {
         "date": "2019-03-11",
-        "name": "Adelaide Cup (South Australia)"
-    },
-    {
-        "date": "2019-03-11",
-        "name": "Canberra Day (Australian Capital Territory)"
+        "name": "May Day (Victoria)"
     },
     {
         "date": "2019-03-18",
@@ -117,11 +117,11 @@
     },
     {
         "date": "2019-06-10",
-        "name": "Queen's Birthday (regional holiday)"
+        "name": "Day off for Bounty Day (Norfolk Island)"
     },
     {
         "date": "2019-06-10",
-        "name": "Day off for Bounty Day (Norfolk Island)"
+        "name": "Queen's Birthday (regional holiday)"
     },
     {
         "date": "2019-06-17",
@@ -245,7 +245,11 @@
     },
     {
         "date": "2020-03-09",
-        "name": "Labour Day (Victoria)"
+        "name": "Adelaide Cup (South Australia)"
+    },
+    {
+        "date": "2020-03-09",
+        "name": "Canberra Day (Australian Capital Territory)"
     },
     {
         "date": "2020-03-09",
@@ -253,11 +257,7 @@
     },
     {
         "date": "2020-03-09",
-        "name": "Adelaide Cup (South Australia)"
-    },
-    {
-        "date": "2020-03-09",
-        "name": "Canberra Day (Australian Capital Territory)"
+        "name": "Labour Day (Victoria)"
     },
     {
         "date": "2020-03-16",
@@ -305,11 +305,11 @@
     },
     {
         "date": "2020-04-27",
-        "name": "ANZAC Day Observed (regional holiday)"
+        "name": "ANZAC Day Additional Public Holiday (Australian Capital Territory)"
     },
     {
         "date": "2020-04-27",
-        "name": "ANZAC Day Additional Public Holiday (Australian Capital Territory)"
+        "name": "ANZAC Day Observed (regional holiday)"
     },
     {
         "date": "2020-05-04",
@@ -329,11 +329,11 @@
     },
     {
         "date": "2020-06-01",
-        "name": "Western Australia Day (Western Australia)"
+        "name": "Reconciliation Day (Australian Capital Territory)"
     },
     {
         "date": "2020-06-01",
-        "name": "Reconciliation Day (Australian Capital Territory)"
+        "name": "Western Australia Day (Western Australia)"
     },
     {
         "date": "2020-06-08",
@@ -373,11 +373,11 @@
     },
     {
         "date": "2020-10-05",
-        "name": "Queen's Birthday (Queensland)"
+        "name": "Labour Day (regional holiday)"
     },
     {
         "date": "2020-10-05",
-        "name": "Labour Day (regional holiday)"
+        "name": "Queen's Birthday (Queensland)"
     },
     {
         "date": "2020-10-05",
@@ -425,11 +425,11 @@
     },
     {
         "date": "2020-12-28",
-        "name": "Proclamation Day (South Australia)"
+        "name": "Boxing Day Observed (regional holiday)"
     },
     {
         "date": "2020-12-28",
-        "name": "Boxing Day Observed (regional holiday)"
+        "name": "Proclamation Day (South Australia)"
     },
     {
         "date": "2020-12-31",
@@ -465,7 +465,11 @@
     },
     {
         "date": "2021-03-08",
-        "name": "Labour Day (Victoria)"
+        "name": "Adelaide Cup (South Australia)"
+    },
+    {
+        "date": "2021-03-08",
+        "name": "Canberra Day (Australian Capital Territory)"
     },
     {
         "date": "2021-03-08",
@@ -473,11 +477,7 @@
     },
     {
         "date": "2021-03-08",
-        "name": "Adelaide Cup (South Australia)"
-    },
-    {
-        "date": "2021-03-08",
-        "name": "Canberra Day (Australian Capital Territory)"
+        "name": "Labour Day (Victoria)"
     },
     {
         "date": "2021-03-21",
@@ -493,11 +493,11 @@
     },
     {
         "date": "2021-04-04",
-        "name": "Easter Sunday (regional holiday)"
+        "name": "Daylight Saving Time ends"
     },
     {
         "date": "2021-04-04",
-        "name": "Daylight Saving Time ends"
+        "name": "Easter Sunday (regional holiday)"
     },
     {
         "date": "2021-04-05",
@@ -505,19 +505,19 @@
     },
     {
         "date": "2021-04-06",
-        "name": "Self Determination Day (Cocos and Keeling Islands)"
-    },
-    {
-        "date": "2021-04-06",
         "name": "Easter Tuesday (Tasmania)"
     },
     {
-        "date": "2021-04-25",
-        "name": "ANZAC Day Observed (Victoria)"
+        "date": "2021-04-06",
+        "name": "Self Determination Day (Cocos and Keeling Islands)"
     },
     {
         "date": "2021-04-25",
         "name": "ANZAC Day"
+    },
+    {
+        "date": "2021-04-25",
+        "name": "ANZAC Day Observed (Victoria)"
     },
     {
         "date": "2021-04-26",
@@ -525,11 +525,11 @@
     },
     {
         "date": "2021-05-03",
-        "name": "May Day (Northern Territory)"
+        "name": "Labour Day (Queensland)"
     },
     {
         "date": "2021-05-03",
-        "name": "Labour Day (Queensland)"
+        "name": "May Day (Northern Territory)"
     },
     {
         "date": "2021-05-13",
@@ -545,11 +545,11 @@
     },
     {
         "date": "2021-06-07",
-        "name": "Western Australia Day (Western Australia)"
+        "name": "Queen's Birthday observed (Cocos and Keeling Islands)"
     },
     {
         "date": "2021-06-07",
-        "name": "Queen's Birthday observed (Cocos and Keeling Islands)"
+        "name": "Western Australia Day (Western Australia)"
     },
     {
         "date": "2021-06-08",
@@ -589,15 +589,15 @@
     },
     {
         "date": "2021-10-04",
+        "name": "Labour Day (regional holiday)"
+    },
+    {
+        "date": "2021-10-04",
         "name": "Queen's Birthday (Queensland)"
     },
     {
         "date": "2021-10-04",
         "name": "Territory Day (Christmas Island)"
-    },
-    {
-        "date": "2021-10-04",
-        "name": "Labour Day (regional holiday)"
     },
     {
         "date": "2021-10-11",
@@ -693,11 +693,7 @@
     },
     {
         "date": "2022-03-14",
-        "name": "Eight Hours Day (Tasmania)"
-    },
-    {
-        "date": "2022-03-14",
-        "name": "Labour Day (Victoria)"
+        "name": "Adelaide Cup (South Australia)"
     },
     {
         "date": "2022-03-14",
@@ -705,7 +701,11 @@
     },
     {
         "date": "2022-03-14",
-        "name": "Adelaide Cup (South Australia)"
+        "name": "Eight Hours Day (Tasmania)"
+    },
+    {
+        "date": "2022-03-14",
+        "name": "Labour Day (Victoria)"
     },
     {
         "date": "2022-03-21",
@@ -741,11 +741,11 @@
     },
     {
         "date": "2022-04-25",
-        "name": "ANZAC Day Observed (Victoria)"
+        "name": "ANZAC Day"
     },
     {
         "date": "2022-04-25",
-        "name": "ANZAC Day"
+        "name": "ANZAC Day Observed (Victoria)"
     },
     {
         "date": "2022-05-02",
@@ -785,11 +785,11 @@
     },
     {
         "date": "2022-08-01",
-        "name": "Northern Territory Picnic Day (Northern Territory)"
+        "name": "New South Wales Bank Holiday (New South Wales)"
     },
     {
         "date": "2022-08-01",
-        "name": "New South Wales Bank Holiday (New South Wales)"
+        "name": "Northern Territory Picnic Day (Northern Territory)"
     },
     {
         "date": "2022-08-10",
@@ -825,11 +825,11 @@
     },
     {
         "date": "2022-10-10",
-        "name": "Norfolk Island Agricultural Show Day (Norfolk Island)"
+        "name": "Day off for Hari Maulad Nabi (Cocos and Keeling Islands)"
     },
     {
         "date": "2022-10-10",
-        "name": "Day off for Hari Maulad Nabi (Cocos and Keeling Islands)"
+        "name": "Norfolk Island Agricultural Show Day (Norfolk Island)"
     },
     {
         "date": "2022-11-01",
@@ -857,7 +857,7 @@
     },
     {
         "date": "2022-12-26",
-        "name": "Proclamation Day (South Australia)"
+        "name": "Boxing Day"
     },
     {
         "date": "2022-12-26",
@@ -865,11 +865,7 @@
     },
     {
         "date": "2022-12-26",
-        "name": "Boxing Day"
-    },
-    {
-        "date": "2022-12-27",
-        "name": "Day off for Proclamation Day (South Australia)"
+        "name": "Proclamation Day (South Australia)"
     },
     {
         "date": "2022-12-27",
@@ -878,6 +874,10 @@
     {
         "date": "2022-12-27",
         "name": "Christmas Day Observed (regional holiday)"
+    },
+    {
+        "date": "2022-12-27",
+        "name": "Day off for Proclamation Day (South Australia)"
     },
     {
         "date": "2022-12-31",

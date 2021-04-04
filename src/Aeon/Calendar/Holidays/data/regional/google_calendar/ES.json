@@ -77,11 +77,11 @@
     },
     {
         "date": "2019-04-23",
-        "name": "Day of Arag\u00f3n (Aragon)"
+        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
     },
     {
         "date": "2019-04-23",
-        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
+        "name": "Day of Arag\u00f3n (Aragon)"
     },
     {
         "date": "2019-05-01",
@@ -113,7 +113,7 @@
     },
     {
         "date": "2019-06-09",
-        "name": "Whit Sunday\/Pentecost"
+        "name": "Day of La Rioja (La Rioja)"
     },
     {
         "date": "2019-06-09",
@@ -121,11 +121,11 @@
     },
     {
         "date": "2019-06-09",
-        "name": "Day of La Rioja (La Rioja)"
+        "name": "Whit Sunday\/Pentecost"
     },
     {
         "date": "2019-06-10",
-        "name": "Whit Monday (regional holiday)"
+        "name": "Day off for Day of La Rioja (La Rioja)"
     },
     {
         "date": "2019-06-10",
@@ -133,7 +133,7 @@
     },
     {
         "date": "2019-06-10",
-        "name": "Day off for Day of La Rioja (La Rioja)"
+        "name": "Whit Monday (regional holiday)"
     },
     {
         "date": "2019-06-13",
@@ -181,6 +181,10 @@
     },
     {
         "date": "2019-09-08",
+        "name": "Day of Extremadura (Extremadura)"
+    },
+    {
+        "date": "2019-09-08",
         "name": "Virgin of the Plains (Albacete)"
     },
     {
@@ -188,20 +192,16 @@
         "name": "Virgin of the Victory (Melilla)"
     },
     {
-        "date": "2019-09-08",
-        "name": "Day of Extremadura (Extremadura)"
-    },
-    {
         "date": "2019-09-09",
         "name": "Day of Asturias observed (Asturias)"
     },
     {
         "date": "2019-09-09",
-        "name": "Virgin of the Victory observed (Melilla)"
+        "name": "Day of Extremadura observed (Extremadura)"
     },
     {
         "date": "2019-09-09",
-        "name": "Day of Extremadura observed (Extremadura)"
+        "name": "Virgin of the Victory observed (Melilla)"
     },
     {
         "date": "2019-09-11",
@@ -389,7 +389,7 @@
     },
     {
         "date": "2020-04-23",
-        "name": "Santa Faz (Alicante)"
+        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
     },
     {
         "date": "2020-04-23",
@@ -397,11 +397,11 @@
     },
     {
         "date": "2020-04-23",
-        "name": "St George's Day (C\u00e1ceres)"
+        "name": "Santa Faz (Alicante)"
     },
     {
         "date": "2020-04-23",
-        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
+        "name": "St George's Day (C\u00e1ceres)"
     },
     {
         "date": "2020-04-28",
@@ -413,11 +413,11 @@
     },
     {
         "date": "2020-05-02",
-        "name": "San Segundo (\u00c1vila)"
+        "name": "Day of Madrid (Madrid)"
     },
     {
         "date": "2020-05-02",
-        "name": "Day of Madrid (Madrid)"
+        "name": "San Segundo (\u00c1vila)"
     },
     {
         "date": "2020-05-03",
@@ -449,11 +449,15 @@
     },
     {
         "date": "2020-05-31",
-        "name": "Whit Sunday\/Pentecost"
+        "name": "Day of Castile-La Mancha (Castile-La Mancha)"
     },
     {
         "date": "2020-05-31",
-        "name": "Day of Castile-La Mancha (Castile-La Mancha)"
+        "name": "Whit Sunday\/Pentecost"
+    },
+    {
+        "date": "2020-06-01",
+        "name": "Feast of Virgin of Light (Cuenca)"
     },
     {
         "date": "2020-06-01",
@@ -461,23 +465,19 @@
     },
     {
         "date": "2020-06-01",
-        "name": "Whit Monday (regional holiday)"
-    },
-    {
-        "date": "2020-06-01",
         "name": "Virgin of Alarcos (Ciudad Real)"
     },
     {
         "date": "2020-06-01",
-        "name": "Feast of Virgin of Light (Cuenca)"
-    },
-    {
-        "date": "2020-06-09",
-        "name": "Day of Murcia (Murcia)"
+        "name": "Whit Monday (regional holiday)"
     },
     {
         "date": "2020-06-09",
         "name": "Day of La Rioja (La Rioja)"
+    },
+    {
+        "date": "2020-06-09",
+        "name": "Day of Murcia (Murcia)"
     },
     {
         "date": "2020-06-11",
@@ -553,11 +553,11 @@
     },
     {
         "date": "2020-08-19",
-        "name": "Reconquest Day (M\u00e1laga)"
+        "name": "Feast of Saint Maginus (Tarragona)"
     },
     {
         "date": "2020-08-19",
-        "name": "Feast of Saint Maginus (Tarragona)"
+        "name": "Reconquest Day (M\u00e1laga)"
     },
     {
         "date": "2020-08-22",
@@ -581,19 +581,7 @@
     },
     {
         "date": "2020-09-08",
-        "name": "Victory Day (M\u00e1laga)"
-    },
-    {
-        "date": "2020-09-08",
         "name": "Day of Asturias (Asturias)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Virgin of the Victory (Melilla)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Virgin of the Plains (Albacete)"
     },
     {
         "date": "2020-09-08",
@@ -601,7 +589,7 @@
     },
     {
         "date": "2020-09-08",
-        "name": "Feast of Our Lady of the Cinta (Huelva)"
+        "name": "Day of Our Lady of San Lorenzo (Valladolid)"
     },
     {
         "date": "2020-09-08",
@@ -609,15 +597,27 @@
     },
     {
         "date": "2020-09-08",
-        "name": "Festival of Virgin of Guadalupe (C\u00f3rdoba)"
-    },
-    {
-        "date": "2020-09-08",
-        "name": "Day of Our Lady of San Lorenzo (Valladolid)"
+        "name": "Feast of Our Lady of the Cinta (Huelva)"
     },
     {
         "date": "2020-09-08",
         "name": "Feast of Virgin of the Antigua (Guadalajara)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Festival of Virgin of Guadalupe (C\u00f3rdoba)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Victory Day (M\u00e1laga)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Virgin of the Plains (Albacete)"
+    },
+    {
+        "date": "2020-09-08",
+        "name": "Virgin of the Victory (Melilla)"
     },
     {
         "date": "2020-09-11",
@@ -625,11 +625,11 @@
     },
     {
         "date": "2020-09-15",
-        "name": "Pilgrimage of the Virgin of Fuensanta (Murcia)"
+        "name": "Nuestra Se\u00f1ora de la Bien Aparecida (Cantabria)"
     },
     {
         "date": "2020-09-15",
-        "name": "Nuestra Se\u00f1ora de la Bien Aparecida (Cantabria)"
+        "name": "Pilgrimage of the Virgin of Fuensanta (Murcia)"
     },
     {
         "date": "2020-09-17",
@@ -801,11 +801,11 @@
     },
     {
         "date": "2021-03-28",
-        "name": "Palm Sunday"
+        "name": "Daylight Saving Time starts"
     },
     {
         "date": "2021-03-28",
-        "name": "Daylight Saving Time starts"
+        "name": "Palm Sunday"
     },
     {
         "date": "2021-04-02",
@@ -825,11 +825,11 @@
     },
     {
         "date": "2021-04-23",
-        "name": "Day of Arag\u00f3n (Aragon)"
+        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
     },
     {
         "date": "2021-04-23",
-        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
+        "name": "Day of Arag\u00f3n (Aragon)"
     },
     {
         "date": "2021-05-01",
@@ -873,11 +873,11 @@
     },
     {
         "date": "2021-06-09",
-        "name": "Day of Murcia (Murcia)"
+        "name": "Day of La Rioja (La Rioja)"
     },
     {
         "date": "2021-06-09",
-        "name": "Day of La Rioja (La Rioja)"
+        "name": "Day of Murcia (Murcia)"
     },
     {
         "date": "2021-06-13",
@@ -885,11 +885,11 @@
     },
     {
         "date": "2021-06-24",
-        "name": "Saint John the Baptist Day (regional holiday)"
+        "name": "Feast of San Juan (regional holiday)"
     },
     {
         "date": "2021-06-24",
-        "name": "Feast of San Juan (regional holiday)"
+        "name": "Saint John the Baptist Day (regional holiday)"
     },
     {
         "date": "2021-07-13",
@@ -937,15 +937,15 @@
     },
     {
         "date": "2021-09-08",
-        "name": "Virgin of the Plains (Albacete)"
-    },
-    {
-        "date": "2021-09-08",
         "name": "Day of Asturias (Asturias)"
     },
     {
         "date": "2021-09-08",
         "name": "Day of Extremadura (Extremadura)"
+    },
+    {
+        "date": "2021-09-08",
+        "name": "Virgin of the Plains (Albacete)"
     },
     {
         "date": "2021-09-08",
@@ -1009,11 +1009,11 @@
     },
     {
         "date": "2021-12-26",
-        "name": "St Stephen's Day (regional holiday)"
+        "name": "Feast of the Holy Family"
     },
     {
         "date": "2021-12-26",
-        "name": "Feast of the Holy Family"
+        "name": "St Stephen's Day (regional holiday)"
     },
     {
         "date": "2021-12-27",
@@ -1097,11 +1097,11 @@
     },
     {
         "date": "2022-04-23",
-        "name": "Day of Arag\u00f3n (Aragon)"
+        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
     },
     {
         "date": "2022-04-23",
-        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
+        "name": "Day of Arag\u00f3n (Aragon)"
     },
     {
         "date": "2022-05-01",
@@ -1145,11 +1145,11 @@
     },
     {
         "date": "2022-06-09",
-        "name": "Day of Murcia (Murcia)"
+        "name": "Day of La Rioja (La Rioja)"
     },
     {
         "date": "2022-06-09",
-        "name": "Day of La Rioja (La Rioja)"
+        "name": "Day of Murcia (Murcia)"
     },
     {
         "date": "2022-06-13",
@@ -1161,11 +1161,11 @@
     },
     {
         "date": "2022-06-24",
-        "name": "Saint John the Baptist Day (regional holiday)"
+        "name": "Feast of San Juan (regional holiday)"
     },
     {
         "date": "2022-06-24",
-        "name": "Feast of San Juan (regional holiday)"
+        "name": "Saint John the Baptist Day (regional holiday)"
     },
     {
         "date": "2022-07-10",
@@ -1185,11 +1185,11 @@
     },
     {
         "date": "2022-08-05",
-        "name": "The Day of Our Lady of Africa (Ceuta)"
+        "name": "Feast of the White Virgin (\u00c1lava)"
     },
     {
         "date": "2022-08-05",
-        "name": "Feast of the White Virgin (\u00c1lava)"
+        "name": "The Day of Our Lady of Africa (Ceuta)"
     },
     {
         "date": "2022-08-15",
@@ -1205,15 +1205,15 @@
     },
     {
         "date": "2022-09-08",
+        "name": "Day of Asturias (Asturias)"
+    },
+    {
+        "date": "2022-09-08",
         "name": "Day of Extremadura (Extremadura)"
     },
     {
         "date": "2022-09-08",
         "name": "Virgin of the Plains (Albacete)"
-    },
-    {
-        "date": "2022-09-08",
-        "name": "Day of Asturias (Asturias)"
     },
     {
         "date": "2022-09-08",
