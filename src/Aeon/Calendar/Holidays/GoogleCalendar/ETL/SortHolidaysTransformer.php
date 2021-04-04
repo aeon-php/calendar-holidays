@@ -12,7 +12,7 @@ final class SortHolidaysTransformer implements Transformer
 {
     public function transform(Rows $rows) : Rows
     {
-        return $rows->sort(function (Row $row, Row $nextRow): int {
+        return $rows->sort(function (Row $row, Row $nextRow) : int {
             if ($row->valueOf('date')->isEqual($nextRow->valueOf('date'))) {
                 return $row->valueOf('name') <=> $nextRow->valueOf('name');
             }

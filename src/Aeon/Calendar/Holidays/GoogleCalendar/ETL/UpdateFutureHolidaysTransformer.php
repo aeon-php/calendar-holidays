@@ -16,6 +16,7 @@ use Flow\ETL\Transformer;
 final class UpdateFutureHolidaysTransformer implements Transformer
 {
     private Calendar $calendar;
+
     private string $holidaysFilesPath;
 
     public function __construct(Calendar $calendar, string $holidaysFilesPath)

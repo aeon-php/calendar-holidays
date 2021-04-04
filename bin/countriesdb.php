@@ -2,12 +2,13 @@
 <?php
 
 use Aeon\Calendar\Gregorian\GregorianCalendar;
+use Aeon\Calendar\Holidays\GoogleCalendar\ETL\FilterHistoricalHolidaysTransformer;
 use Aeon\Calendar\Holidays\GoogleCalendar\ETL\FlattenHolidaysTransformer;
 use Aeon\Calendar\Holidays\GoogleCalendar\ETL\GoogleCalendarEventsExtractor;
 use Aeon\Calendar\Holidays\GoogleCalendar\ETL\GoogleCalendarEventsTransformer;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\FilterHistoricalHolidaysTransformer;
 use Aeon\Calendar\Holidays\GoogleCalendar\ETL\HolidaysJsonLoader;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\SortHolidaysTransformer;use Aeon\Calendar\Holidays\GoogleCalendar\ETL\UpdateFutureHolidaysTransformer;
+use Aeon\Calendar\Holidays\GoogleCalendar\ETL\SortHolidaysTransformer;
+use Aeon\Calendar\Holidays\GoogleCalendar\ETL\UpdateFutureHolidaysTransformer;
 use Flow\ETL\ETL;
 
 require_once __DIR__ . '/../vendor/autoload.php';
@@ -31,7 +32,7 @@ $count = \count($countries['countries']);
 
 $index = 0;
 
-$holidaysFilesPath = __DIR__ . "/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/";
+$holidaysFilesPath = __DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/';
 
 ETL::extract(
     new GoogleCalendarEventsExtractor($countries, $googleCalendarService)
