@@ -1,0 +1,322 @@
+[
+    {
+        "date": "2019-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2019-01-28",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2019-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2019-03-06",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2019-03-28",
+        "name": "Royal Visit Holiday"
+    },
+    {
+        "date": "2019-04-19",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2019-04-21",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2019-04-22",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2019-05-12",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2019-05-20",
+        "name": "Discovery Day"
+    },
+    {
+        "date": "2019-06-10",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2019-06-16",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2019-07-01",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2019-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2019-11-11",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2019-12-19",
+        "name": "Referendum Day"
+    },
+    {
+        "date": "2019-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2019-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2019-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2019-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2020-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2020-01-27",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2020-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2020-02-26",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2020-04-10",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2020-04-12",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2020-04-13",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2020-05-10",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2020-05-18",
+        "name": "Discovery Day"
+    },
+    {
+        "date": "2020-06-15",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2020-06-21",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2020-07-06",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2020-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2020-11-09",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2020-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2020-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2020-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2020-12-28",
+        "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2020-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2021-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2021-01-25",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2021-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2021-02-17",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2021-04-02",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2021-04-04",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2021-04-05",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2021-05-09",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2021-05-17",
+        "name": "Discovery Day"
+    },
+    {
+        "date": "2021-05-26",
+        "name": "General Election Day"
+    },
+    {
+        "date": "2021-06-14",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2021-06-20",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2021-07-05",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2021-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2021-11-15",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2021-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2021-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2021-12-27",
+        "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2021-12-28",
+        "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2021-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2022-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2022-01-03",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2022-01-24",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2022-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2022-03-02",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2022-04-15",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2022-04-17",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2022-04-18",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2022-05-08",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2022-05-16",
+        "name": "Discovery Day"
+    },
+    {
+        "date": "2022-06-19",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2022-06-20",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2022-07-04",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2022-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2022-11-14",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2022-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2022-12-27",
+        "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
+    }
+]

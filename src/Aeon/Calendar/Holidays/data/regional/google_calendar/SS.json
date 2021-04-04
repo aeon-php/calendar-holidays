@@ -1,0 +1,258 @@
+[
+    {
+        "date": "2019-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2019-01-09",
+        "name": "Peace Agreement Day"
+    },
+    {
+        "date": "2019-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2019-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2019-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2019-05-16",
+        "name": "SPLA Day"
+    },
+    {
+        "date": "2019-06-04",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2019-06-10",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2019-07-01",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2019-07-09",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2019-07-30",
+        "name": "Martyrs Day"
+    },
+    {
+        "date": "2019-08-11",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2019-11-10",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2019-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2019-12-28",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2019-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2020-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2020-01-09",
+        "name": "Peace Agreement Day"
+    },
+    {
+        "date": "2020-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2020-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2020-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2020-05-16",
+        "name": "SPLA Day"
+    },
+    {
+        "date": "2020-05-24",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2020-06-10",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2020-07-06",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2020-07-09",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2020-07-30",
+        "name": "Martyrs Day"
+    },
+    {
+        "date": "2020-07-31",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2020-11-08",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2020-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2020-12-28",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2020-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2021-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2021-01-09",
+        "name": "Peace Agreement Day"
+    },
+    {
+        "date": "2021-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2021-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2021-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2021-05-13",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2021-05-16",
+        "name": "SPLA Day"
+    },
+    {
+        "date": "2021-06-10",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2021-07-05",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2021-07-09",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2021-07-20",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2021-07-30",
+        "name": "Martyrs Day"
+    },
+    {
+        "date": "2021-11-14",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2021-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-28",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2021-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2022-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2022-01-09",
+        "name": "Peace Agreement Day"
+    },
+    {
+        "date": "2022-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2022-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2022-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2022-05-03",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2022-05-16",
+        "name": "SPLA Day"
+    },
+    {
+        "date": "2022-06-10",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2022-07-04",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2022-07-09",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2022-07-10",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2022-07-30",
+        "name": "Martyrs Day"
+    },
+    {
+        "date": "2022-11-13",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-28",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
+    }
+]

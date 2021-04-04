@@ -3,6 +3,7 @@
 $finder = PhpCsFixer\Finder::create()
     ->files()
     ->in([
+        __DIR__ . '/bin',
         __DIR__ . '/src',
         __DIR__ . '/tests',
     ])

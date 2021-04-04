@@ -20,7 +20,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     private array $countryCodes;
 
     /**
-     * @var null|array<array<string, array<Holiday>>>
+     * @var null|array<string, array<Holiday>>
      */
     private ?array $calendars;
 
@@ -67,7 +67,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             $this->loadCalendars();
         }
 
-        /** @var array<array<string, array<int, Holiday>>> $calendars */
+        /** @var array<string, array<string, Holiday>> $calendars */
         $calendars = $this->calendars;
 
         if (!\count($calendars)) {
@@ -76,16 +76,18 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             // @codeCoverageIgnoreEnd
         }
 
-        if (!\array_key_exists($day->year()->number(), $calendars)) {
-            // @codeCoverageIgnoreStart
-            throw new HolidayYearException(\sprintf('There are no holidays in %d, please check regional holidays data set.', $day->year()->number()));
-            // @codeCoverageIgnoreStart
+        foreach ($calendars as $calendar) {
+            if (isset($calendar[$day->toString()])) {
+                return true;
+            }
         }
 
-        return isset($calendars[$day->year()->number()][$day->format('Y-m-d')]);
+        return false;
     }
 
     /**
+     * @throws HolidayYearException
+     *
      * @return array<Holiday>
      */
     public function holidaysAt(Day $day) : array
@@ -94,22 +96,22 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             $this->loadCalendars();
         }
 
-        /** @var array<array<string, array<Holiday>>> $calendars */
+        /** @var array<string, array<Holiday>> $calendars */
         $calendars = $this->calendars;
 
         if (!\count($calendars)) {
             throw new HolidayYearException('Holidays list is empty');
         }
 
-        if (!\array_key_exists($day->year()->number(), $calendars)) {
-            throw new HolidayYearException(\sprintf('There are no holidays in %d, please check regional holidays data set.', $day->year()->number()));
+        $holidays = [];
+
+        foreach ($calendars as $calendar) {
+            if (isset($calendar[$day->toString()])) {
+                $holidays[] = $calendar[$day->toString()];
+            }
         }
 
-        if (isset($calendars[$day->year()->number()][$day->format('Y-m-d')])) {
-            return $calendars[$day->year()->number()][$day->format('Y-m-d')];
-        }
-
-        return [];
+        return $holidays;
     }
 
     private function loadCalendars() : void
@@ -130,44 +132,23 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     private function loadCalendar(string $countryCode) : void
     {
         /**
-         * @var array{
-         *             country_code: string,
-         *             name: string,
-         *             timezones: array<int, string>,
-         *             location: array<int, array<string, float>>,
-         *             google_calendar: array<int, array{
-         *             locale: string,
-         *             calendar: string,
-         *             years: array<int, array{
-         *             year: int,
-         *             holidays: array<int, array{date: string, name: string}>
-         *             }>
-         *             }>
-         *             } $data
+         * @var array<array{date: string, name: string}> $data
          */
-        $data = (array) \json_decode((string) \file_get_contents(__DIR__ . '/data/regional/' . $countryCode . '.json'), true, JSON_THROW_ON_ERROR);
+        $data = (array) \json_decode((string) \file_get_contents(__DIR__ . '/data/regional/google_calendar/' . $countryCode . '.json'), true, JSON_THROW_ON_ERROR);
 
         if ($this->calendars === null) {
             $this->calendars = [];
         }
 
-        foreach ($data['google_calendar'] as $googleCalendar) {
-            foreach ($googleCalendar['years'] as $googleCalendarYear) {
-                if (!\array_key_exists($googleCalendarYear['year'], $this->calendars)) {
-                    $this->calendars[$googleCalendarYear['year']] = [];
-                }
+        if (!\array_key_exists($countryCode, $this->calendars)) {
+            $this->calendars[$countryCode] = [];
+        }
 
-                foreach ($googleCalendarYear['holidays'] as $holiday) {
-                    if (!\array_key_exists($holiday['date'], $this->calendars[$googleCalendarYear['year']])) {
-                        $this->calendars[$googleCalendarYear['year']][$holiday['date']] = [];
-                    }
-
-                    $this->calendars[$googleCalendarYear['year']][$holiday['date']][] = new Holiday(
-                        Day::fromString($holiday['date']),
-                        new HolidayName(new HolidayLocaleName($googleCalendar['locale'], $holiday['name']))
-                    );
-                }
-            }
+        foreach ($data as $holidayData) {
+            $this->calendars[$countryCode][$holidayData['date']] = new Holiday(
+                Day::fromString($holidayData['date']),
+                new HolidayName(new HolidayLocaleName('en', $holidayData['name']))
+            );
         }
     }
 }

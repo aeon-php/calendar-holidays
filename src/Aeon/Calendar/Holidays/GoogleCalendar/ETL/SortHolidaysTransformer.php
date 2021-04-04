@@ -1,0 +1,23 @@
+<?php
+
+declare(strict_types=1);
+
+namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
+
+use Flow\ETL\Row;
+use Flow\ETL\Rows;
+use Flow\ETL\Transformer;
+
+final class SortHolidaysTransformer implements Transformer
+{
+    public function transform(Rows $rows) : Rows
+    {
+        return $rows->sort(function (Row $row, Row $nextRow) : int {
+            if ($row->valueOf('date')->isEqual($nextRow->valueOf('date'))) {
+                return $row->valueOf('name') <=> $nextRow->valueOf('name');
+            }
+
+            return $row->valueOf('date')->toDateTimeImmutable() <=> $nextRow->valueOf('date')->toDateTimeImmutable();
+        });
+    }
+}
