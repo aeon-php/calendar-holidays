@@ -28,10 +28,6 @@ $calendar = GregorianCalendar::UTC();
 
 $countries = \json_decode(\file_get_contents(__DIR__ . '/../resources/countries.json'), true);
 
-$count = \count($countries['countries']);
-
-$index = 0;
-
 $holidaysFilesPath = __DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/';
 
 ETL::extract(
