@@ -260,10 +260,6 @@
         "name": "All Saints' Day"
     },
     {
-        "date": "2021-11-02",
-        "name": "All Souls' Day"
-    },
-    {
         "date": "2021-11-30",
         "name": "Bonifacio Day"
     },
@@ -272,20 +268,12 @@
         "name": "Feast of the Immaculate Conception"
     },
     {
-        "date": "2021-12-24",
-        "name": "Christmas Eve"
-    },
-    {
         "date": "2021-12-25",
         "name": "Christmas Day"
     },
     {
         "date": "2021-12-30",
         "name": "Rizal Day"
-    },
-    {
-        "date": "2021-12-31",
-        "name": "New Year's Eve"
     },
     {
         "date": "2022-01-01",
