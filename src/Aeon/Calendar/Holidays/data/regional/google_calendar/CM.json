@@ -144,10 +144,6 @@
         "name": "Assumption of Mary observed"
     },
     {
-        "date": "2021-10-01",
-        "name": "Independence of Southern British Cameroons from UK"
-    },
-    {
         "date": "2021-10-19",
         "name": "The Prophet's Birthday"
     },
@@ -166,6 +162,10 @@
     {
         "date": "2022-04-15",
         "name": "Good Friday"
+    },
+    {
+        "date": "2022-04-17",
+        "name": "Easter Sunday"
     },
     {
         "date": "2022-05-01",
@@ -198,10 +198,6 @@
     {
         "date": "2022-08-15",
         "name": "Assumption of Mary"
-    },
-    {
-        "date": "2022-10-01",
-        "name": "Independence of Southern British Cameroons from UK"
     },
     {
         "date": "2022-10-08",

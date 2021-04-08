@@ -172,6 +172,10 @@
         "name": "Liberation Day observed"
     },
     {
+        "date": "2021-07-20",
+        "name": "Eid ul Adha"
+    },
+    {
         "date": "2021-08-06",
         "name": "Umuganura Day"
     },
@@ -228,6 +232,10 @@
         "name": "Good Friday"
     },
     {
+        "date": "2022-04-18",
+        "name": "Easter Monday"
+    },
+    {
         "date": "2022-05-01",
         "name": "Labor Day"
     },
@@ -246,6 +254,10 @@
     {
         "date": "2022-07-04",
         "name": "Liberation Day"
+    },
+    {
+        "date": "2022-07-10",
+        "name": "Eid ul Adha"
     },
     {
         "date": "2022-08-05",

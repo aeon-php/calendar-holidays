@@ -180,6 +180,10 @@
         "name": "National Day"
     },
     {
+        "date": "2021-09-21",
+        "name": "Chuseok Harvest Festival"
+    },
+    {
         "date": "2021-10-10",
         "name": "Party Foundation Day"
     },
@@ -194,6 +198,14 @@
     {
         "date": "2022-01-01",
         "name": "New Year"
+    },
+    {
+        "date": "2022-02-01",
+        "name": "Seollal"
+    },
+    {
+        "date": "2022-02-15",
+        "name": "Cheongwoldaeboreum"
     },
     {
         "date": "2022-02-16",
@@ -234,6 +246,10 @@
     {
         "date": "2022-09-09",
         "name": "National Day"
+    },
+    {
+        "date": "2022-09-10",
+        "name": "Chuseok Harvest Festival"
     },
     {
         "date": "2022-10-10",

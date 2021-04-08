@@ -848,10 +848,6 @@
         "name": "Thanksgiving Day (Norfolk Island)"
     },
     {
-        "date": "2022-12-24",
-        "name": "Christmas Eve (regional holiday)"
-    },
-    {
         "date": "2022-12-25",
         "name": "Christmas Day (Victoria)"
     },
@@ -878,9 +874,5 @@
     {
         "date": "2022-12-27",
         "name": "Day off for Proclamation Day (South Australia)"
-    },
-    {
-        "date": "2022-12-31",
-        "name": "New Year's Eve (regional holiday)"
     }
 ]

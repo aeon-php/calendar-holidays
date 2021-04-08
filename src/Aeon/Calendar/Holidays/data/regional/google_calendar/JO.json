@@ -440,8 +440,16 @@
         "name": "Easter Monday"
     },
     {
+        "date": "2021-04-11",
+        "name": "Centenary Celebration Holiday"
+    },
+    {
         "date": "2021-04-13",
         "name": "Ramadan begins"
+    },
+    {
+        "date": "2021-04-30",
+        "name": "Orthodox Good Friday"
     },
     {
         "date": "2021-05-01",
@@ -538,6 +546,10 @@
     {
         "date": "2022-04-18",
         "name": "Easter Monday"
+    },
+    {
+        "date": "2022-04-22",
+        "name": "Orthodox Good Friday"
     },
     {
         "date": "2022-04-24",

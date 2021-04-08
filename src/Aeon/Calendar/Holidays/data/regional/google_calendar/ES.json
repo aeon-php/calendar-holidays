@@ -832,6 +832,14 @@
         "name": "Day of Arag\u00f3n (Aragon)"
     },
     {
+        "date": "2021-04-23",
+        "name": "Santa Faz (Alicante)"
+    },
+    {
+        "date": "2021-04-28",
+        "name": "San Prudencio (\u00c1lava)"
+    },
+    {
         "date": "2021-05-01",
         "name": "Labor Day \/ May Day"
     },
@@ -860,10 +868,6 @@
         "name": "Whit Monday (regional holiday)"
     },
     {
-        "date": "2021-05-30",
-        "name": "Day of the Canary Islands (Canary Islands)"
-    },
-    {
         "date": "2021-05-31",
         "name": "Day of Castile-La Mancha (Castile-La Mancha)"
     },
@@ -884,12 +888,16 @@
         "name": "San Antonio (Ceuta)"
     },
     {
-        "date": "2021-06-24",
-        "name": "Feast of San Juan (regional holiday)"
+        "date": "2021-06-14",
+        "name": "Day off for San Antonio (Ceuta)"
+    },
+    {
+        "date": "2021-06-23",
+        "name": "Day before Feast of San Juan (Alicante)"
     },
     {
         "date": "2021-06-24",
-        "name": "Saint John the Baptist Day (regional holiday)"
+        "name": "Feast of San Juan (regional holiday)"
     },
     {
         "date": "2021-07-13",
@@ -902,10 +910,6 @@
     {
         "date": "2021-07-21",
         "name": "Eid al-Adha (Melilla)"
-    },
-    {
-        "date": "2021-07-25",
-        "name": "Feast of Saint James the Apostle (Basque Country)"
     },
     {
         "date": "2021-07-28",
@@ -921,15 +925,19 @@
     },
     {
         "date": "2021-08-15",
-        "name": "Assumption of Mary"
+        "name": "Assumption of Mary (regional holiday)"
     },
     {
         "date": "2021-08-16",
-        "name": "Assumption observed"
+        "name": "Day off for Assumption of Mary (regional holiday)"
     },
     {
         "date": "2021-08-19",
         "name": "Feast of Saint Maginus (Tarragona)"
+    },
+    {
+        "date": "2021-08-27",
+        "name": "Virgin of the Sea (Almer\u00eda)"
     },
     {
         "date": "2021-09-02",
@@ -984,16 +992,8 @@
         "name": "All Saints' Day (regional holiday)"
     },
     {
-        "date": "2021-12-03",
-        "name": "Day of Navarre (Navarre)"
-    },
-    {
         "date": "2021-12-06",
         "name": "Constitution Day Holiday"
-    },
-    {
-        "date": "2021-12-08",
-        "name": "Immaculate Conception"
     },
     {
         "date": "2021-12-09",
@@ -1014,10 +1014,6 @@
     {
         "date": "2021-12-26",
         "name": "St Stephen's Day (regional holiday)"
-    },
-    {
-        "date": "2021-12-27",
-        "name": "Christmas Day observed (Balearic Islands)"
     },
     {
         "date": "2021-12-31",
@@ -1092,16 +1088,20 @@
         "name": "Easter Sunday"
     },
     {
-        "date": "2022-04-18",
-        "name": "Easter Monday (regional holiday)"
-    },
-    {
         "date": "2022-04-23",
         "name": "Castile and Le\u00f3n Day (Castile-Leon)"
     },
     {
         "date": "2022-04-23",
         "name": "Day of Arag\u00f3n (Aragon)"
+    },
+    {
+        "date": "2022-04-23",
+        "name": "Santa Faz (Alicante)"
+    },
+    {
+        "date": "2022-04-28",
+        "name": "San Prudencio (\u00c1lava)"
     },
     {
         "date": "2022-05-01",
@@ -1176,28 +1176,8 @@
         "name": "Festival of the Vaquillas (Teruel)"
     },
     {
-        "date": "2022-07-25",
-        "name": "Feast of Saint James the Apostle (regional holiday)"
-    },
-    {
         "date": "2022-07-28",
         "name": "Day of the Institutions (Cantabria)"
-    },
-    {
-        "date": "2022-08-05",
-        "name": "Feast of the White Virgin (\u00c1lava)"
-    },
-    {
-        "date": "2022-08-05",
-        "name": "The Day of Our Lady of Africa (Ceuta)"
-    },
-    {
-        "date": "2022-08-15",
-        "name": "Assumption of Mary"
-    },
-    {
-        "date": "2022-08-19",
-        "name": "Feast of Saint Maginus (Tarragona)"
     },
     {
         "date": "2022-09-02",
@@ -1216,10 +1196,6 @@
         "name": "Virgin of the Plains (Albacete)"
     },
     {
-        "date": "2022-09-08",
-        "name": "Virgin of the Victory (Melilla)"
-    },
-    {
         "date": "2022-09-11",
         "name": "Day of Catalonia (Catalonia)"
     },
@@ -1234,5 +1210,57 @@
     {
         "date": "2022-09-23",
         "name": "Day of Saint Tecla (Tarragona)"
+    },
+    {
+        "date": "2022-10-09",
+        "name": "Day of the Valencian Community (Valencia)"
+    },
+    {
+        "date": "2022-10-12",
+        "name": "Hispanic Day"
+    },
+    {
+        "date": "2022-10-30",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2022-11-01",
+        "name": "All Saints' Day (regional holiday)"
+    },
+    {
+        "date": "2022-12-03",
+        "name": "Day of Navarre (Navarre)"
+    },
+    {
+        "date": "2022-12-06",
+        "name": "Constitution Day (regional holiday)"
+    },
+    {
+        "date": "2022-12-09",
+        "name": "Day of Saint Leocadia (Toledo)"
+    },
+    {
+        "date": "2022-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Christmas Day observed (regional holiday)"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "St Stephen's Day (regional holiday)"
+    },
+    {
+        "date": "2022-12-30",
+        "name": "Feast of the Holy Family"
+    },
+    {
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
     }
 ]

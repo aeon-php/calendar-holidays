@@ -76,6 +76,10 @@
         "name": "Commemoration of the Batep\u00e1 Massacre"
     },
     {
+        "date": "2021-04-30",
+        "name": "Day off for Labour Day"
+    },
+    {
         "date": "2021-05-01",
         "name": "Labour Day"
     },
@@ -92,8 +96,20 @@
         "name": "Nationalization of the Ro\u00e7as"
     },
     {
+        "date": "2021-12-21",
+        "name": "S\u00e3o Tom\u00e9 Day"
+    },
+    {
+        "date": "2021-12-24",
+        "name": "Day off for Christmas Day"
+    },
+    {
         "date": "2021-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-31",
+        "name": "Day off for New Year"
     },
     {
         "date": "2022-01-01",
@@ -112,6 +128,10 @@
         "name": "Labour Day"
     },
     {
+        "date": "2022-05-02",
+        "name": "Day off for Labour Day"
+    },
+    {
         "date": "2022-07-12",
         "name": "Independence Day"
     },
@@ -124,7 +144,15 @@
         "name": "Nationalization of the Ro\u00e7as"
     },
     {
+        "date": "2022-12-21",
+        "name": "S\u00e3o Tom\u00e9 Day"
+    },
+    {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Day off for Christmas Day"
     }
 ]

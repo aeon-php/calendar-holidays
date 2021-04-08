@@ -248,8 +248,20 @@
         "name": "Labor Day \/ May Day"
     },
     {
+        "date": "2021-05-13",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2021-06-03",
+        "name": "Corpus Christi"
+    },
+    {
         "date": "2021-06-24",
         "name": "Carabobo Battle"
+    },
+    {
+        "date": "2021-06-29",
+        "name": "Saint Peter and Saint Paul"
     },
     {
         "date": "2021-07-05",
@@ -276,16 +288,16 @@
         "name": "Indigenous Resistance's Day"
     },
     {
-        "date": "2021-11-01",
-        "name": "All Saints Day"
-    },
-    {
         "date": "2021-11-02",
         "name": "All Souls Day"
     },
     {
         "date": "2021-11-27",
         "name": "Aviation Day"
+    },
+    {
+        "date": "2021-12-08",
+        "name": "Feast of the Immaculate Conception"
     },
     {
         "date": "2021-12-24",
