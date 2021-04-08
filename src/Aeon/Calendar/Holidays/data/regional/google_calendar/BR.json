@@ -252,16 +252,8 @@
         "name": "Corpus Christi"
     },
     {
-        "date": "2021-06-07",
-        "name": "National Press Freedom Day"
-    },
-    {
         "date": "2021-06-12",
         "name": "Brazilian Valentine's Day"
-    },
-    {
-        "date": "2021-07-25",
-        "name": "Latin and Caribbean Black Women Day"
     },
     {
         "date": "2021-08-08",
@@ -282,10 +274,6 @@
     {
         "date": "2021-10-28",
         "name": "Public Service Holiday"
-    },
-    {
-        "date": "2021-10-31",
-        "name": "Saci Day"
     },
     {
         "date": "2021-11-02",
@@ -360,20 +348,12 @@
         "name": "Mother's Day"
     },
     {
-        "date": "2022-06-07",
-        "name": "National Press Freedom Day"
-    },
-    {
         "date": "2022-06-12",
         "name": "Brazilian Valentine's Day"
     },
     {
         "date": "2022-06-16",
         "name": "Corpus Christi"
-    },
-    {
-        "date": "2022-07-25",
-        "name": "Latin and Caribbean Black Women Day"
     },
     {
         "date": "2022-08-14",
@@ -394,10 +374,6 @@
     {
         "date": "2022-10-28",
         "name": "Public Service Holiday"
-    },
-    {
-        "date": "2022-10-31",
-        "name": "Saci Day"
     },
     {
         "date": "2022-11-02",
