@@ -568,6 +568,14 @@
         "name": "Doljatra"
     },
     {
+        "date": "2021-04-09",
+        "name": "Arrival Day of Sri Sri Harichand Tagore"
+    },
+    {
+        "date": "2021-04-13",
+        "name": "Chaitra Sankranti"
+    },
+    {
         "date": "2021-04-14",
         "name": "Bengali New Year"
     },
@@ -576,8 +584,16 @@
         "name": "May Day"
     },
     {
+        "date": "2021-05-07",
+        "name": "Jumatul Bidah"
+    },
+    {
         "date": "2021-05-09",
         "name": "Mothers' Day"
+    },
+    {
+        "date": "2021-05-10",
+        "name": "Shab-e-qadr"
     },
     {
         "date": "2021-05-13",
@@ -628,12 +644,28 @@
         "name": "Ashura"
     },
     {
-        "date": "2021-10-03",
+        "date": "2021-09-20",
+        "name": "Madhu Purnima"
+    },
+    {
+        "date": "2021-10-06",
+        "name": "Mahalaya"
+    },
+    {
+        "date": "2021-10-08",
         "name": "Akhari Chahar Somba"
+    },
+    {
+        "date": "2021-10-14",
+        "name": "Mahanabami"
     },
     {
         "date": "2021-10-19",
         "name": "Eid e-Milad-un Nabi"
+    },
+    {
+        "date": "2021-10-20",
+        "name": "Lakshmi Puja"
     },
     {
         "date": "2021-10-20",
@@ -642,10 +674,6 @@
     {
         "date": "2021-10-31",
         "name": "Halloween"
-    },
-    {
-        "date": "2021-11-04",
-        "name": "Lakshmi Puja"
     },
     {
         "date": "2021-11-04",
@@ -661,6 +689,114 @@
     },
     {
         "date": "2021-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2022-02-21",
+        "name": "Language Martyrs' Day"
+    },
+    {
+        "date": "2022-03-17",
+        "name": "Doljatra"
+    },
+    {
+        "date": "2022-03-17",
+        "name": "Sheikh Mujibur Rahman\u2019s birthday"
+    },
+    {
+        "date": "2022-03-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2022-04-14",
+        "name": "Bengali New Year"
+    },
+    {
+        "date": "2022-04-29",
+        "name": "Jumatul Bidah"
+    },
+    {
+        "date": "2022-04-29",
+        "name": "Shab-e-qadr"
+    },
+    {
+        "date": "2022-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2022-05-03",
+        "name": "Eid ul-Fitr"
+    },
+    {
+        "date": "2022-05-04",
+        "name": "Eid ul-Fitr Holiday"
+    },
+    {
+        "date": "2022-05-05",
+        "name": "Eid ul-Fitr Holiday"
+    },
+    {
+        "date": "2022-05-06",
+        "name": "Eid ul-Fitr Holiday"
+    },
+    {
+        "date": "2022-05-08",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2022-06-19",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2022-07-10",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2022-07-11",
+        "name": "Eid al-Adha Day 2"
+    },
+    {
+        "date": "2022-07-12",
+        "name": "Eid al-Adha Day 3"
+    },
+    {
+        "date": "2022-08-08",
+        "name": "Ashura"
+    },
+    {
+        "date": "2022-08-15",
+        "name": "National Mourning Day"
+    },
+    {
+        "date": "2022-09-22",
+        "name": "Akhari Chahar Somba"
+    },
+    {
+        "date": "2022-09-25",
+        "name": "Mahalaya"
+    },
+    {
+        "date": "2022-10-08",
+        "name": "Eid e-Milad-un Nabi"
+    },
+    {
+        "date": "2022-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2022-11-06",
+        "name": "Fateha-i-Yajdaham"
+    },
+    {
+        "date": "2022-12-16",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2022-12-25",
         "name": "Christmas Day"
     }
 ]

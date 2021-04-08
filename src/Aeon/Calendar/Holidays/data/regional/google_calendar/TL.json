@@ -172,12 +172,8 @@
         "name": "Youth National Day"
     },
     {
-        "date": "2021-11-28",
-        "name": "Proclamation of Independence Day"
-    },
-    {
         "date": "2021-12-07",
-        "name": "National Heroes Day"
+        "name": "Day of Remembrance"
     },
     {
         "date": "2021-12-08",
@@ -188,8 +184,20 @@
         "name": "Christmas Day"
     },
     {
+        "date": "2021-12-31",
+        "name": "National Heroes Day"
+    },
+    {
         "date": "2022-01-01",
         "name": "New Year's Day"
+    },
+    {
+        "date": "2022-03-03",
+        "name": "Veteran's Day"
+    },
+    {
+        "date": "2022-03-28",
+        "name": "Proclamation of Independence Day"
     },
     {
         "date": "2022-04-15",
@@ -232,12 +240,8 @@
         "name": "Youth National Day"
     },
     {
-        "date": "2022-11-28",
-        "name": "Proclamation of Independence Day"
-    },
-    {
         "date": "2022-12-07",
-        "name": "National Heroes Day"
+        "name": "Day of Remembrance"
     },
     {
         "date": "2022-12-08",
@@ -246,5 +250,9 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-31",
+        "name": "National Heroes Day"
     }
 ]

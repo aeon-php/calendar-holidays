@@ -232,6 +232,10 @@
         "name": "Easter Sunday"
     },
     {
+        "date": "2021-04-21",
+        "name": "Kartini Day"
+    },
+    {
         "date": "2021-05-01",
         "name": "International Labor Day"
     },
@@ -250,14 +254,6 @@
     {
         "date": "2021-05-14",
         "name": "Idul Fitri Holiday"
-    },
-    {
-        "date": "2021-05-17",
-        "name": "Cuti Bersama (Idul Fitri)"
-    },
-    {
-        "date": "2021-05-18",
-        "name": "Cuti Bersama (Idul Fitri)"
     },
     {
         "date": "2021-05-26",
@@ -280,6 +276,10 @@
         "name": "Indonesian Independence Day"
     },
     {
+        "date": "2021-10-02",
+        "name": "Batik Day"
+    },
+    {
         "date": "2021-10-19",
         "name": "The Prophet Muhammad's Birthday"
     },
@@ -288,16 +288,24 @@
         "name": "Diwali\/Deepavali"
     },
     {
+        "date": "2021-11-12",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2021-11-25",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2021-12-22",
+        "name": "Mother's Day"
+    },
+    {
         "date": "2021-12-24",
         "name": "Cuti Bersama (Christmas Eve)"
     },
     {
         "date": "2021-12-25",
         "name": "Christmas Day"
-    },
-    {
-        "date": "2021-12-26",
-        "name": "Cuti Bersama (Day after Christmas Day)"
     },
     {
         "date": "2021-12-31",
@@ -322,6 +330,10 @@
     {
         "date": "2022-04-17",
         "name": "Easter Sunday"
+    },
+    {
+        "date": "2022-04-21",
+        "name": "Kartini Day"
     },
     {
         "date": "2022-05-01",
@@ -356,12 +368,28 @@
         "name": "Indonesian Independence Day"
     },
     {
+        "date": "2022-10-02",
+        "name": "Batik Day"
+    },
+    {
         "date": "2022-10-08",
         "name": "The Prophet Muhammad's Birthday"
     },
     {
         "date": "2022-10-24",
         "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2022-11-12",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2022-11-25",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2022-12-22",
+        "name": "Mother's Day"
     },
     {
         "date": "2022-12-24",

@@ -292,6 +292,10 @@
         "name": "Orthodox Easter Day"
     },
     {
+        "date": "2021-05-03",
+        "name": "Orthodox Easter Monday"
+    },
+    {
         "date": "2021-05-06",
         "name": "Martyr's Day"
     },
@@ -402,6 +406,10 @@
     {
         "date": "2022-04-24",
         "name": "Orthodox Easter Day"
+    },
+    {
+        "date": "2022-04-25",
+        "name": "Orthodox Easter Monday"
     },
     {
         "date": "2022-05-01",
