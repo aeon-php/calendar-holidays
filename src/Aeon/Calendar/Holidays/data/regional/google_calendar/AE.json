@@ -208,7 +208,7 @@
         "name": "Eid al-Adha Holiday"
     },
     {
-        "date": "2021-08-12",
+        "date": "2021-08-10",
         "name": "Al-Hijra (Islamic New Year)"
     },
     {
@@ -229,70 +229,6 @@
     },
     {
         "date": "2021-12-31",
-        "name": "New Year's Eve"
-    },
-    {
-        "date": "2022-01-01",
-        "name": "New Year's Day"
-    },
-    {
-        "date": "2022-03-01",
-        "name": "Leilat al-Meiraj (The Prophet's Ascension)"
-    },
-    {
-        "date": "2022-04-03",
-        "name": "Ramadan Start"
-    },
-    {
-        "date": "2022-05-03",
-        "name": "Eid al-Fitr"
-    },
-    {
-        "date": "2022-05-04",
-        "name": "Eid al-Fitr Holiday 1"
-    },
-    {
-        "date": "2022-05-05",
-        "name": "Eid al-Fitr Holiday 2"
-    },
-    {
-        "date": "2022-07-01",
-        "name": "Hajj season begins"
-    },
-    {
-        "date": "2022-07-09",
-        "name": "Arafat (Hajj) Day"
-    },
-    {
-        "date": "2022-07-10",
-        "name": "Eid al-Adha (Feast of Sacrifice)"
-    },
-    {
-        "date": "2022-07-11",
-        "name": "Eid al-Adha Holiday"
-    },
-    {
-        "date": "2022-07-12",
-        "name": "Eid al-Adha Holiday"
-    },
-    {
-        "date": "2022-07-30",
-        "name": "Al-Hijra (Islamic New Year)"
-    },
-    {
-        "date": "2022-10-08",
-        "name": "Mouloud"
-    },
-    {
-        "date": "2022-12-01",
-        "name": "Commemoration Day"
-    },
-    {
-        "date": "2022-12-02",
-        "name": "National Day"
-    },
-    {
-        "date": "2022-12-31",
         "name": "New Year's Eve"
     }
 ]
