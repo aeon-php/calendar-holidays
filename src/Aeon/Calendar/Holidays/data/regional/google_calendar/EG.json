@@ -276,12 +276,16 @@
         "name": "Revolution Day July 23"
     },
     {
-        "date": "2021-08-10",
+        "date": "2021-08-09",
         "name": "Muharram"
     },
     {
         "date": "2021-08-15",
         "name": "Flooding of the Nile"
+    },
+    {
+        "date": "2021-08-19",
+        "name": "Ashura"
     },
     {
         "date": "2021-09-11",
@@ -370,6 +374,10 @@
     {
         "date": "2022-07-30",
         "name": "Muharram"
+    },
+    {
+        "date": "2022-08-08",
+        "name": "Ashura"
     },
     {
         "date": "2022-08-15",
