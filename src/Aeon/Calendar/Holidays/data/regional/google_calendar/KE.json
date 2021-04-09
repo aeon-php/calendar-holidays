@@ -196,6 +196,10 @@
         "name": "Mashujaa Day"
     },
     {
+        "date": "2021-11-04",
+        "name": "Diwali"
+    },
+    {
         "date": "2021-12-12",
         "name": "Jamhuri Day"
     },
@@ -214,6 +218,10 @@
     {
         "date": "2021-12-26",
         "name": "Boxing Day"
+    },
+    {
+        "date": "2021-12-27",
+        "name": "Day off for Boxing Day"
     },
     {
         "date": "2021-12-31",
@@ -268,6 +276,10 @@
         "name": "Mashujaa Day"
     },
     {
+        "date": "2022-10-24",
+        "name": "Diwali"
+    },
+    {
         "date": "2022-12-12",
         "name": "Jamhuri Day"
     },
@@ -284,8 +296,8 @@
         "name": "Boxing Day"
     },
     {
-        "date": "2022-12-26",
-        "name": "Christmas Day observed"
+        "date": "2022-12-27",
+        "name": "Day off for Christmas Day"
     },
     {
         "date": "2022-12-31",

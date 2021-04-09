@@ -536,10 +536,6 @@
         "name": "Eid al-Fitr holiday"
     },
     {
-        "date": "2022-07-09",
-        "name": "Waqfat Arafat Day"
-    },
-    {
         "date": "2022-07-10",
         "name": "Eid al-Adha"
     },
@@ -550,17 +546,5 @@
     {
         "date": "2022-07-12",
         "name": "Eid al-Adha holiday"
-    },
-    {
-        "date": "2022-07-30",
-        "name": "Islamic New Year"
-    },
-    {
-        "date": "2022-10-08",
-        "name": "The Prophet's Birthday"
-    },
-    {
-        "date": "2022-12-31",
-        "name": "New Year's Eve"
     }
 ]
