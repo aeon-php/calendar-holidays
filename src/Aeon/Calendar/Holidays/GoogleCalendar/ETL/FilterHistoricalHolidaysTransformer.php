@@ -23,6 +23,10 @@ final class FilterHistoricalHolidaysTransformer implements Transformer
 
     public function transform(Rows $rows) : Rows
     {
+        if (!$rows->count()) {
+            return $rows;
+        }
+
         $filePath = "{$this->holidaysFilesPath}{$rows->first()->valueOf('country_code')}.json";
 
         if (!\file_exists($filePath)) {

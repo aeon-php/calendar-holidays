@@ -36,6 +36,8 @@ final class GoogleCalendarEventsExtractor implements Extractor
             try {
                 $items = $this->googleCalendarService->events->listEvents($calendarId)->getItems();
             } catch (\Google\Service\Exception $e) {
+                print "Error[{$countryCode}]: " . $e->getMessage() . "\n";
+
                 continue;
             }
 
@@ -53,7 +55,11 @@ final class GoogleCalendarEventsExtractor implements Extractor
 
             print "{$countryCode} - Loading...\n";
 
-            yield $rows;
+            if ($rows->count()) {
+                yield $rows;
+            } else {
+                print "Inf[{$countryCode}]: no holidays found.\n";
+            }
         }
     }
 }

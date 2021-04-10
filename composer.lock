@@ -123,15 +123,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flow-php/etl.git",
-                "reference": "7d6bcdf3ab02e3384f391bbcf6d4cba699aa11a1"
+                "reference": "07beb607eda5420d357d5eba49b6ccb42dfd7c52"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl/zipball/7d6bcdf3ab02e3384f391bbcf6d4cba699aa11a1",
-                "reference": "7d6bcdf3ab02e3384f391bbcf6d4cba699aa11a1",
+                "url": "https://api.github.com/repos/flow-php/etl/zipball/07beb607eda5420d357d5eba49b6ccb42dfd7c52",
+                "reference": "07beb607eda5420d357d5eba49b6ccb42dfd7c52",
                 "shasum": ""
             },
             "require": {
+                "ext-dom": "*",
                 "ext-json": "*",
                 "ext-mbstring": "*",
                 "php": "^7.4 | ^8.0"
@@ -160,7 +161,7 @@
                 "issues": "https://github.com/flow-php/etl/issues",
                 "source": "https://github.com/flow-php/etl/tree/1.x"
             },
-            "time": "2021-04-04T08:14:18+00:00"
+            "time": "2021-04-09T13:31:33+00:00"
         },
         {
             "name": "google/apiclient",
@@ -233,7 +234,7 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.166.0",
+            "version": "v0.167.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
@@ -268,7 +269,7 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.166.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.167.0"
             },
             "time": "2021-03-22T11:26:04+00:00"
         },

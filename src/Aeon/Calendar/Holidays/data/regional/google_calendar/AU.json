@@ -513,47 +513,15 @@
     },
     {
         "date": "2021-04-25",
-        "name": "ANZAC Day"
-    },
-    {
-        "date": "2021-04-25",
         "name": "ANZAC Day Observed (Victoria)"
-    },
-    {
-        "date": "2021-04-26",
-        "name": "ANZAC Day Observed (regional holiday)"
-    },
-    {
-        "date": "2021-05-03",
-        "name": "Labour Day (Queensland)"
-    },
-    {
-        "date": "2021-05-03",
-        "name": "May Day (Northern Territory)"
-    },
-    {
-        "date": "2021-05-13",
-        "name": "Hari Raya Puasa (regional holiday)"
     },
     {
         "date": "2021-05-31",
         "name": "Reconciliation Day (Australian Capital Territory)"
     },
     {
-        "date": "2021-06-06",
-        "name": "Queen's Birthday (Cocos and Keeling Islands)"
-    },
-    {
         "date": "2021-06-07",
         "name": "Queen's Birthday observed (Cocos and Keeling Islands)"
-    },
-    {
-        "date": "2021-06-07",
-        "name": "Western Australia Day (Western Australia)"
-    },
-    {
-        "date": "2021-06-08",
-        "name": "Bounty Day (Norfolk Island)"
     },
     {
         "date": "2021-06-14",
@@ -572,36 +540,8 @@
         "name": "Northern Territory Picnic Day (Northern Territory)"
     },
     {
-        "date": "2021-08-11",
-        "name": "Royal National Agricultural Show Day Queensland (Queensland)"
-    },
-    {
         "date": "2021-09-24",
         "name": "Friday before the AFL Grand Final (Victoria)"
-    },
-    {
-        "date": "2021-09-27",
-        "name": "Queen's Birthday (Western Australia)"
-    },
-    {
-        "date": "2021-10-03",
-        "name": "Daylight Saving Time starts"
-    },
-    {
-        "date": "2021-10-04",
-        "name": "Labour Day (regional holiday)"
-    },
-    {
-        "date": "2021-10-04",
-        "name": "Queen's Birthday (Queensland)"
-    },
-    {
-        "date": "2021-10-04",
-        "name": "Territory Day (Christmas Island)"
-    },
-    {
-        "date": "2021-10-11",
-        "name": "Norfolk Island Agricultural Show Day (Norfolk Island)"
     },
     {
         "date": "2021-10-19",
@@ -612,20 +552,8 @@
         "name": "Recreation Day (Tasmania)"
     },
     {
-        "date": "2021-11-02",
-        "name": "Melbourne Cup Day (Victoria)"
-    },
-    {
         "date": "2021-11-11",
         "name": "Remembrance Day"
-    },
-    {
-        "date": "2021-11-24",
-        "name": "Thanksgiving Day (Norfolk Island)"
-    },
-    {
-        "date": "2021-12-24",
-        "name": "Christmas Eve (regional holiday)"
     },
     {
         "date": "2021-12-25",
@@ -636,20 +564,12 @@
         "name": "Boxing Day"
     },
     {
-        "date": "2021-12-26",
-        "name": "Proclamation Day (South Australia)"
-    },
-    {
         "date": "2021-12-27",
         "name": "Christmas Day Observed (regional holiday)"
     },
     {
         "date": "2021-12-28",
         "name": "Boxing Day Observed (regional holiday)"
-    },
-    {
-        "date": "2021-12-28",
-        "name": "Day off for Proclamation Day (South Australia)"
     },
     {
         "date": "2021-12-31",
@@ -660,10 +580,6 @@
         "name": "New Year's Day"
     },
     {
-        "date": "2022-01-03",
-        "name": "Day off for New Year's Day (regional holiday)"
-    },
-    {
         "date": "2022-01-26",
         "name": "Australia Day"
     },
@@ -672,20 +588,8 @@
         "name": "Chinese New Year (Christmas Island)"
     },
     {
-        "date": "2022-02-02",
-        "name": "Chinese New Year Holiday (Day 2) (Christmas Island)"
-    },
-    {
-        "date": "2022-02-14",
-        "name": "Royal Hobart Regatta (Tasmania)"
-    },
-    {
         "date": "2022-03-06",
         "name": "Foundation Day (Norfolk Island)"
-    },
-    {
-        "date": "2022-03-07",
-        "name": "Day off for Foundation Day (Norfolk Island)"
     },
     {
         "date": "2022-03-07",
@@ -704,14 +608,6 @@
         "name": "Eight Hours Day (Tasmania)"
     },
     {
-        "date": "2022-03-14",
-        "name": "Labour Day (Victoria)"
-    },
-    {
-        "date": "2022-03-21",
-        "name": "Harmony Day"
-    },
-    {
         "date": "2022-04-03",
         "name": "Daylight Saving Time ends"
     },
@@ -720,88 +616,24 @@
         "name": "Self Determination Day (Cocos and Keeling Islands)"
     },
     {
-        "date": "2022-04-15",
-        "name": "Good Friday (Victoria)"
-    },
-    {
         "date": "2022-04-16",
         "name": "Holy Saturday (regional holiday)"
-    },
-    {
-        "date": "2022-04-17",
-        "name": "Easter Sunday (regional holiday)"
-    },
-    {
-        "date": "2022-04-18",
-        "name": "Easter Monday"
-    },
-    {
-        "date": "2022-04-19",
-        "name": "Easter Tuesday (Tasmania)"
-    },
-    {
-        "date": "2022-04-25",
-        "name": "ANZAC Day"
     },
     {
         "date": "2022-04-25",
         "name": "ANZAC Day Observed (Victoria)"
     },
     {
-        "date": "2022-05-02",
-        "name": "Labour Day (Queensland)"
-    },
-    {
-        "date": "2022-05-02",
-        "name": "May Day (Northern Territory)"
-    },
-    {
-        "date": "2022-05-03",
-        "name": "Hari Raya Puasa (regional holiday)"
-    },
-    {
-        "date": "2022-05-30",
-        "name": "Reconciliation Day (Australian Capital Territory)"
-    },
-    {
         "date": "2022-06-06",
         "name": "Western Australia Day (Western Australia)"
-    },
-    {
-        "date": "2022-06-08",
-        "name": "Bounty Day (Norfolk Island)"
-    },
-    {
-        "date": "2022-06-13",
-        "name": "Queen's Birthday (regional holiday)"
     },
     {
         "date": "2022-07-10",
         "name": "Hari Raya Haji (regional holiday)"
     },
     {
-        "date": "2022-07-11",
-        "name": "Day off for Hari Raya Haji (regional holiday)"
-    },
-    {
-        "date": "2022-08-01",
-        "name": "New South Wales Bank Holiday (New South Wales)"
-    },
-    {
-        "date": "2022-08-01",
-        "name": "Northern Territory Picnic Day (Northern Territory)"
-    },
-    {
-        "date": "2022-08-10",
-        "name": "Royal National Agricultural Show Day Queensland (Queensland)"
-    },
-    {
         "date": "2022-09-26",
         "name": "Queen's Birthday (Western Australia)"
-    },
-    {
-        "date": "2022-09-30",
-        "name": "Friday before the AFL Grand Final (Victoria)"
     },
     {
         "date": "2022-10-02",
@@ -812,44 +644,8 @@
         "name": "Labour Day (regional holiday)"
     },
     {
-        "date": "2022-10-03",
-        "name": "Queen's Birthday (Queensland)"
-    },
-    {
-        "date": "2022-10-03",
-        "name": "Territory Day (Christmas Island)"
-    },
-    {
-        "date": "2022-10-08",
-        "name": "Hari Maulad Nabi (Cocos and Keeling Islands)"
-    },
-    {
-        "date": "2022-10-10",
-        "name": "Day off for Hari Maulad Nabi (Cocos and Keeling Islands)"
-    },
-    {
-        "date": "2022-10-10",
-        "name": "Norfolk Island Agricultural Show Day (Norfolk Island)"
-    },
-    {
-        "date": "2022-11-01",
-        "name": "Melbourne Cup Day (Victoria)"
-    },
-    {
-        "date": "2022-11-07",
-        "name": "Recreation Day (Tasmania)"
-    },
-    {
         "date": "2022-11-11",
         "name": "Remembrance Day"
-    },
-    {
-        "date": "2022-11-30",
-        "name": "Thanksgiving Day (Norfolk Island)"
-    },
-    {
-        "date": "2022-12-25",
-        "name": "Christmas Day (Victoria)"
     },
     {
         "date": "2022-12-26",
@@ -860,19 +656,15 @@
         "name": "Christmas Day Observed (regional holiday)"
     },
     {
-        "date": "2022-12-26",
-        "name": "Proclamation Day (South Australia)"
-    },
-    {
-        "date": "2022-12-27",
-        "name": "Boxing Day Observed (regional holiday)"
-    },
-    {
         "date": "2022-12-27",
         "name": "Christmas Day Observed (regional holiday)"
     },
     {
         "date": "2022-12-27",
         "name": "Day off for Proclamation Day (South Australia)"
+    },
+    {
+        "date": "2022-12-31",
+        "name": "New Year's Eve (regional holiday)"
     }
 ]

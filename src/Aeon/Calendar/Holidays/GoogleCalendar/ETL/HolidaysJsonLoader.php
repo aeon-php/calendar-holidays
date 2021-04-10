@@ -20,6 +20,10 @@ final class HolidaysJsonLoader implements Loader
 
     public function load(Rows $rows) : void
     {
+        if (!$rows->count()) {
+            return;
+        }
+
         $countryCode = $rows->first()->get('country_code');
         $filePath = "{$this->holidaysFilesPath}{$rows->first()->valueOf('country_code')}.json";
 

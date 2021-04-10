@@ -284,16 +284,16 @@
         "name": "Easter Monday"
     },
     {
-        "date": "2021-04-15",
-        "name": "Tax Day"
-    },
-    {
         "date": "2021-05-05",
         "name": "Cinco de Mayo"
     },
     {
         "date": "2021-05-09",
         "name": "Mother's Day"
+    },
+    {
+        "date": "2021-05-17",
+        "name": "Tax Day"
     },
     {
         "date": "2021-05-31",
@@ -393,7 +393,7 @@
     },
     {
         "date": "2022-02-21",
-        "name": "Presidents' Day (regional holiday)"
+        "name": "Presidents' Day"
     },
     {
         "date": "2022-03-01",
