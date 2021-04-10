@@ -38,7 +38,7 @@ final class HolidaysJsonLoader implements Loader
 
         \file_put_contents(
             $filePath,
-            \json_encode(\array_values(\array_unique($rows->toArray(), SORT_REGULAR)), JSON_PRETTY_PRINT)
+            \json_encode($rows->toArray(), JSON_PRETTY_PRINT)
         );
 
         print "{$countryCode->value()} - Loaded \n";
