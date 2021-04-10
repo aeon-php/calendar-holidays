@@ -1,4 +1,4 @@
-## [Unreleased] - 2021-04-09
+## [Unreleased] - 2021-04-10
 
 ### Changed
 - [#132](https://github.com/aeon-php/calendar-holidays/pull/132) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
@@ -9,6 +9,9 @@
 - [#127](https://github.com/aeon-php/calendar-holidays/pull/127) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#125](https://github.com/aeon-php/calendar-holidays/pull/125) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#123](https://github.com/aeon-php/calendar-holidays/pull/123) - **Replaced old google events sync script with flow-php/etl component** - [@norberttech](https://github.com/norberttech)
+
+### Fixed
+- [#133](https://github.com/aeon-php/calendar-holidays/pull/133) - **skipping empty holidays lists** - [@norberttech](https://github.com/norberttech)
 
 ## [0.7.0] - 2021-01-25
 
