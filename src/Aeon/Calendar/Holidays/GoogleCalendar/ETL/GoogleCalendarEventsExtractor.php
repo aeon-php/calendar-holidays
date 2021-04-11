@@ -25,10 +25,12 @@ final class GoogleCalendarEventsExtractor implements Extractor
 
     public function extract() : \Generator
     {
-        foreach ($this->countriesData['countries'] as $countryCode => $countryData) {
-            if (!isset($countryData['googleHolidaysCalendarId'])) {
+        foreach ($this->countriesData as $countryData) {
+            if (!isset($countryData['googleHolidaysCalendarId']) || !isset($countryData['countryCode'])) {
                 continue;
             }
+
+            $countryCode = $countryData['countryCode'];
             $calendarId = \str_replace('{{ locale }}', 'en', $countryData['googleHolidaysCalendarId']);
 
             $rows = new Rows();
