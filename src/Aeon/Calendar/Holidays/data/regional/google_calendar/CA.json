@@ -488,20 +488,8 @@
         "name": "Vimy Ridge Day"
     },
     {
-        "date": "2021-04-26",
-        "name": "St. George's Day (Newfoundland and Labrador)"
-    },
-    {
         "date": "2021-05-09",
         "name": "Mother's Day"
-    },
-    {
-        "date": "2021-05-24",
-        "name": "National Patriots' Day (Quebec)"
-    },
-    {
-        "date": "2021-05-24",
-        "name": "Victoria Day (regional holiday)"
     },
     {
         "date": "2021-06-20",
@@ -512,10 +500,6 @@
         "name": "June Holiday (Newfoundland and Labrador)"
     },
     {
-        "date": "2021-06-21",
-        "name": "National Indigenous Peoples Day (regional holiday)"
-    },
-    {
         "date": "2021-06-24",
         "name": "St. Jean Baptiste Day (Quebec)"
     },
@@ -524,16 +508,8 @@
         "name": "Canada Day"
     },
     {
-        "date": "2021-07-01",
-        "name": "Memorial Day (Newfoundland and Labrador)"
-    },
-    {
         "date": "2021-07-09",
         "name": "Nunavut Day (Nunavut)"
-    },
-    {
-        "date": "2021-07-12",
-        "name": "Orangemen's Day (Newfoundland and Labrador)"
     },
     {
         "date": "2021-08-02",
@@ -553,15 +529,7 @@
     },
     {
         "date": "2021-08-02",
-        "name": "New Brunswick Day (New Brunswick)"
-    },
-    {
-        "date": "2021-08-02",
         "name": "Saskatchewan Day (Saskatchewan)"
-    },
-    {
-        "date": "2021-08-04",
-        "name": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)"
     },
     {
         "date": "2021-08-16",
@@ -572,10 +540,6 @@
         "name": "Gold Cup Parade (Prince Edward Island)"
     },
     {
-        "date": "2021-09-06",
-        "name": "Labour Day"
-    },
-    {
         "date": "2021-10-11",
         "name": "Thanksgiving Day (regional holiday)"
     },
@@ -584,24 +548,12 @@
         "name": "Healthcare Aide Day (regional holiday)"
     },
     {
-        "date": "2021-10-31",
-        "name": "Halloween"
-    },
-    {
         "date": "2021-11-07",
         "name": "Daylight Saving Time ends"
     },
     {
-        "date": "2021-11-11",
-        "name": "Remembrance Day (regional holiday)"
-    },
-    {
         "date": "2021-12-11",
         "name": "Anniversary of the Statute of Westminster"
-    },
-    {
-        "date": "2021-12-24",
-        "name": "Christmas Eve (New Brunswick)"
     },
     {
         "date": "2021-12-25",
@@ -612,20 +564,12 @@
         "name": "Boxing Day (regional holiday)"
     },
     {
-        "date": "2021-12-27",
-        "name": "Boxing Day (regional holiday)"
-    },
-    {
         "date": "2021-12-31",
         "name": "New Year's Eve"
     },
     {
         "date": "2022-01-01",
         "name": "New Year's Day"
-    },
-    {
-        "date": "2022-01-02",
-        "name": "Day After New Year\u2019s Day (Quebec)"
     },
     {
         "date": "2022-01-03",
@@ -645,47 +589,15 @@
     },
     {
         "date": "2022-02-21",
-        "name": "Family Day (regional holiday)"
-    },
-    {
-        "date": "2022-02-21",
         "name": "Islander Day (Prince Edward Island)"
-    },
-    {
-        "date": "2022-02-21",
-        "name": "Louis Riel Day (Manitoba)"
     },
     {
         "date": "2022-02-21",
         "name": "Nova Scotia Heritage Day (Nova Scotia)"
     },
     {
-        "date": "2022-02-25",
-        "name": "Yukon Heritage Day (Yukon)"
-    },
-    {
         "date": "2022-03-13",
         "name": "Daylight Saving Time starts"
-    },
-    {
-        "date": "2022-03-14",
-        "name": "Commonwealth Day"
-    },
-    {
-        "date": "2022-03-14",
-        "name": "St. Patrick's Day (Newfoundland and Labrador)"
-    },
-    {
-        "date": "2022-03-17",
-        "name": "St. Patrick's Day"
-    },
-    {
-        "date": "2022-04-06",
-        "name": "National Tartan Day"
-    },
-    {
-        "date": "2022-04-09",
-        "name": "Vimy Ridge Day"
     },
     {
         "date": "2022-04-15",
@@ -712,16 +624,8 @@
         "name": "National Patriots' Day (Quebec)"
     },
     {
-        "date": "2022-05-23",
-        "name": "Victoria Day (regional holiday)"
-    },
-    {
         "date": "2022-06-19",
         "name": "Father's Day"
-    },
-    {
-        "date": "2022-06-21",
-        "name": "National Indigenous Peoples Day (regional holiday)"
     },
     {
         "date": "2022-06-24",
@@ -730,14 +634,6 @@
     {
         "date": "2022-06-27",
         "name": "June Holiday (Newfoundland and Labrador)"
-    },
-    {
-        "date": "2022-07-01",
-        "name": "Canada Day"
-    },
-    {
-        "date": "2022-07-01",
-        "name": "Memorial Day (Newfoundland and Labrador)"
     },
     {
         "date": "2022-07-09",
@@ -750,10 +646,6 @@
     {
         "date": "2022-08-01",
         "name": "British Columbia Day (British Columbia)"
-    },
-    {
-        "date": "2022-08-01",
-        "name": "Civic\/Provincial Day (regional holiday)"
     },
     {
         "date": "2022-08-01",
@@ -776,36 +668,8 @@
         "name": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)"
     },
     {
-        "date": "2022-08-15",
-        "name": "Discovery Day (Yukon)"
-    },
-    {
         "date": "2022-08-19",
         "name": "Gold Cup Parade (Prince Edward Island)"
-    },
-    {
-        "date": "2022-09-05",
-        "name": "Labour Day"
-    },
-    {
-        "date": "2022-10-10",
-        "name": "Thanksgiving Day (regional holiday)"
-    },
-    {
-        "date": "2022-10-18",
-        "name": "Healthcare Aide Day (regional holiday)"
-    },
-    {
-        "date": "2022-10-31",
-        "name": "Halloween"
-    },
-    {
-        "date": "2022-11-06",
-        "name": "Daylight Saving Time ends"
-    },
-    {
-        "date": "2022-11-11",
-        "name": "Remembrance Day (regional holiday)"
     },
     {
         "date": "2022-12-11",
