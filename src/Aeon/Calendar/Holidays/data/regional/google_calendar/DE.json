@@ -444,6 +444,10 @@
         "name": "St. Martin's Day"
     },
     {
+        "date": "2021-11-14",
+        "name": "National Day of Mourning"
+    },
+    {
         "date": "2021-11-17",
         "name": "Repentance Day (Saxony)"
     },
@@ -488,6 +492,10 @@
         "name": "New Year's Eve"
     },
     {
+        "date": "2022-01-01",
+        "name": "New Year's Day"
+    },
+    {
         "date": "2022-01-06",
         "name": "Epiphany (regional holiday)"
     },
@@ -508,6 +516,10 @@
         "name": "Carnival \/ Ash Wednesday"
     },
     {
+        "date": "2022-03-08",
+        "name": "International Women's Day (regional holiday)"
+    },
+    {
         "date": "2022-03-27",
         "name": "Daylight Saving Time starts"
     },
@@ -522,6 +534,10 @@
     {
         "date": "2022-04-18",
         "name": "Easter Monday"
+    },
+    {
+        "date": "2022-05-01",
+        "name": "May Day"
     },
     {
         "date": "2022-05-08",
@@ -584,6 +600,10 @@
         "name": "Repentance Day (Saxony)"
     },
     {
+        "date": "2022-11-20",
+        "name": "Sunday of the Dead"
+    },
+    {
         "date": "2022-11-27",
         "name": "First Advent Sunday"
     },
@@ -602,6 +622,10 @@
     {
         "date": "2022-12-18",
         "name": "Fourth Advent Sunday"
+    },
+    {
+        "date": "2022-12-24",
+        "name": "Christmas Eve"
     },
     {
         "date": "2022-12-26",
