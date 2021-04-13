@@ -256,8 +256,40 @@
         "name": "Eid al-Adha"
     },
     {
+        "date": "2021-07-23",
+        "name": "Full Moon Day of Waso (Beginning of Buddhist Lent)"
+    },
+    {
+        "date": "2021-10-19",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
+        "date": "2021-10-20",
+        "name": "Full Moon Day of Thadingyut (End of Buddhist Lent)"
+    },
+    {
+        "date": "2021-10-21",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
         "date": "2021-11-04",
         "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2021-11-17",
+        "name": "Full Moon Day of Tazaungmone Holiday"
+    },
+    {
+        "date": "2021-11-18",
+        "name": "Full Moon Day of Tazaungmone"
+    },
+    {
+        "date": "2021-11-28",
+        "name": "National Day"
+    },
+    {
+        "date": "2021-11-29",
+        "name": "Day off for National Day"
     },
     {
         "date": "2021-12-25",
@@ -282,6 +314,10 @@
     {
         "date": "2022-03-02",
         "name": "Peasants' Day"
+    },
+    {
+        "date": "2022-03-16",
+        "name": "Full Moon Day of Tabaung"
     },
     {
         "date": "2022-03-27",
@@ -312,12 +348,40 @@
         "name": "Eid al-Adha"
     },
     {
+        "date": "2022-07-13",
+        "name": "Full Moon Day of Waso (Beginning of Buddhist Lent)"
+    },
+    {
         "date": "2022-07-19",
         "name": "Martyrs' Day"
     },
     {
+        "date": "2022-10-09",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
+        "date": "2022-10-10",
+        "name": "Full Moon Day of Thadingyut (End of Buddhist Lent)"
+    },
+    {
+        "date": "2022-10-11",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
         "date": "2022-10-24",
         "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2022-11-08",
+        "name": "Full Moon Day of Tazaungmone"
+    },
+    {
+        "date": "2022-11-09",
+        "name": "Full Moon Day of Tazaungmone Holiday"
+    },
+    {
+        "date": "2022-11-18",
+        "name": "National Day"
     },
     {
         "date": "2022-12-25",
