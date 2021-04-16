@@ -164,12 +164,8 @@
         "name": "Isra and Mi'raj"
     },
     {
-        "date": "2021-05-13",
-        "name": "Eid al-Fitr"
-    },
-    {
         "date": "2021-05-14",
-        "name": "Eid al-Fitr Holiday"
+        "name": "Eid al-Fitr"
     },
     {
         "date": "2021-05-15",
@@ -177,6 +173,10 @@
     },
     {
         "date": "2021-05-16",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2021-05-17",
         "name": "Eid al-Fitr Holiday"
     },
     {
@@ -216,11 +216,15 @@
         "name": "Eid al-Fitr"
     },
     {
-        "date": "2022-05-04",
+        "date": "2022-05-03",
         "name": "Eid al-Fitr Holiday"
     },
     {
         "date": "2022-05-05",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2022-05-06",
         "name": "Eid al-Fitr Holiday"
     },
     {
