@@ -184,10 +184,6 @@
         "name": "Labor Day \/ May Day"
     },
     {
-        "date": "2021-05-24",
-        "name": "The Battle of Pichincha"
-    },
-    {
         "date": "2021-07-24",
         "name": "Sim\u00f3n Bol\u00edvar's Birthday Memorial"
     },
@@ -209,7 +205,7 @@
     },
     {
         "date": "2021-11-01",
-        "name": "Independence of Cuenca"
+        "name": "Day off for Independence of Cuenca"
     },
     {
         "date": "2021-11-02",
@@ -268,6 +264,14 @@
         "name": "Labor Day \/ May Day"
     },
     {
+        "date": "2022-05-02",
+        "name": "Day off for Labor Day \/ May Day"
+    },
+    {
+        "date": "2022-05-23",
+        "name": "Day off for The Battle of Pichincha"
+    },
+    {
         "date": "2022-05-24",
         "name": "The Battle of Pichincha"
     },
@@ -288,12 +292,20 @@
         "name": "Independence of Guayaquil"
     },
     {
+        "date": "2022-10-10",
+        "name": "Day off for Independence of Guayaquil"
+    },
+    {
         "date": "2022-11-02",
         "name": "All Souls' Day"
     },
     {
         "date": "2022-11-03",
         "name": "Independence of Cuenca"
+    },
+    {
+        "date": "2022-11-04",
+        "name": "Day off for All Souls' Day"
     },
     {
         "date": "2022-12-25",
