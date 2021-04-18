@@ -245,7 +245,23 @@
     },
     {
         "date": "2022-05-02",
-        "name": "Labour Day observed"
+        "name": "Hari Raya Puasa"
+    },
+    {
+        "date": "2022-05-03",
+        "name": "Day off for Labour Day"
+    },
+    {
+        "date": "2022-05-15",
+        "name": "Vesak Day"
+    },
+    {
+        "date": "2022-05-16",
+        "name": "Day off for Vesak Day"
+    },
+    {
+        "date": "2022-07-09",
+        "name": "Hari Raya Haji"
     },
     {
         "date": "2022-08-09",
@@ -254,6 +270,10 @@
     {
         "date": "2022-10-14",
         "name": "Children's Day"
+    },
+    {
+        "date": "2022-10-24",
+        "name": "Diwali\/Deepavali"
     },
     {
         "date": "2022-12-24",
@@ -265,7 +285,7 @@
     },
     {
         "date": "2022-12-26",
-        "name": "Christmas Day observed"
+        "name": "Day off for Christmas Day"
     },
     {
         "date": "2022-12-31",
