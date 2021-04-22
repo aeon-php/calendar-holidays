@@ -112,6 +112,18 @@
         "name": "Independence Day"
     },
     {
+        "date": "2021-09-02",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2021-09-03",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2021-09-04",
+        "name": "Independence Day Holiday"
+    },
+    {
         "date": "2021-10-01",
         "name": "Teachers Day"
     },
@@ -133,7 +145,7 @@
     },
     {
         "date": "2022-03-21",
-        "name": "Navruz"
+        "name": "Nowruz"
     },
     {
         "date": "2022-05-03",
