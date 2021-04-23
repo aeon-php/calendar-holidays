@@ -216,6 +216,10 @@
         "name": "Independence Day"
     },
     {
+        "date": "2021-07-12",
+        "name": "Day off for Independence Day"
+    },
+    {
         "date": "2021-08-02",
         "name": "Emancipation Day"
     },
@@ -232,6 +236,10 @@
         "name": "Christmas Eve"
     },
     {
+        "date": "2021-12-24",
+        "name": "Day off for Christmas Day"
+    },
+    {
         "date": "2021-12-25",
         "name": "Christmas Day"
     },
@@ -241,7 +249,7 @@
     },
     {
         "date": "2021-12-27",
-        "name": "Christmas Day observed"
+        "name": "Day off for Boxing Day"
     },
     {
         "date": "2021-12-31",
@@ -305,7 +313,7 @@
     },
     {
         "date": "2022-07-11",
-        "name": "Independence Day observed"
+        "name": "Day off for Independence Day"
     },
     {
         "date": "2022-08-01",
@@ -333,7 +341,7 @@
     },
     {
         "date": "2022-12-26",
-        "name": "Christmas Day observed"
+        "name": "Day off for Christmas Day"
     },
     {
         "date": "2022-12-31",
