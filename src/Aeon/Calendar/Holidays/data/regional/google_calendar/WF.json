@@ -104,12 +104,12 @@
         "name": "Easter Monday"
     },
     {
-        "date": "2021-04-28",
-        "name": "St. Pierre Chanel Day"
-    },
-    {
         "date": "2021-05-01",
         "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2021-05-08",
+        "name": "Victory Day"
     },
     {
         "date": "2021-05-13",
@@ -122,10 +122,6 @@
     {
         "date": "2021-07-14",
         "name": "Bastille Day"
-    },
-    {
-        "date": "2021-07-29",
-        "name": "Territory Day"
     },
     {
         "date": "2021-08-15",
@@ -152,12 +148,12 @@
         "name": "Easter Monday"
     },
     {
-        "date": "2022-04-28",
-        "name": "St. Pierre Chanel Day"
-    },
-    {
         "date": "2022-05-01",
         "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2022-05-08",
+        "name": "Victory Day"
     },
     {
         "date": "2022-05-26",
@@ -170,10 +166,6 @@
     {
         "date": "2022-07-14",
         "name": "Bastille Day"
-    },
-    {
-        "date": "2022-07-29",
-        "name": "Territory Day"
     },
     {
         "date": "2022-08-15",
