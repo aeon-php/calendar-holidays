@@ -1,6 +1,7 @@
-## [Unreleased] - 2021-05-03
+## [Unreleased] - 2021-05-06
 
 ### Changed
+- [#153](https://github.com/aeon-php/calendar-holidays/pull/153) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#151](https://github.com/aeon-php/calendar-holidays/pull/151) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#150](https://github.com/aeon-php/calendar-holidays/pull/150) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [10b71e](https://github.com/aeon-php/calendar-holidays/commit/10b71ec5219650edcf7c6acfc91992a15d0ebf37) - **github actions schedule** - [@norberttech](https://github.com/norberttech)
