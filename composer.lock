@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dcc278a1c2d43a567f2be2f62578eeec",
+    "content-hash": "915e9fcd7a6222150b438a967aaaac39",
     "packages": [
         {
             "name": "aeon-php/calendar",
@@ -708,16 +708,16 @@
         },
         {
             "name": "halaxa/json-machine",
-            "version": "0.6.1",
+            "version": "0.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/halaxa/json-machine.git",
-                "reference": "52a5521768a8d01706480af0a2bf387f17f16daf"
+                "reference": "39ec702c434e72ddae25d3af14c1d0fe60b03ef6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/52a5521768a8d01706480af0a2bf387f17f16daf",
-                "reference": "52a5521768a8d01706480af0a2bf387f17f16daf",
+                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/39ec702c434e72ddae25d3af14c1d0fe60b03ef6",
+                "reference": "39ec702c434e72ddae25d3af14c1d0fe60b03ef6",
                 "shasum": ""
             },
             "require": {
@@ -753,9 +753,9 @@
             "description": "Efficient, easy-to-use and fast JSON pull parser",
             "support": {
                 "issues": "https://github.com/halaxa/json-machine/issues",
-                "source": "https://github.com/halaxa/json-machine/tree/0.6.1"
+                "source": "https://github.com/halaxa/json-machine/tree/0.7.0"
             },
-            "time": "2021-04-06T09:51:24+00:00"
+            "time": "2021-05-06T11:47:56+00:00"
         },
         {
             "name": "monolog/monolog",
