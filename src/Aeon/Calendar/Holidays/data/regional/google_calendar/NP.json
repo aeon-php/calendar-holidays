@@ -344,6 +344,10 @@
         "name": "Gai Jatra"
     },
     {
+        "date": "2021-08-30",
+        "name": "Gaura Parba"
+    },
+    {
         "date": "2021-09-09",
         "name": "Hartalika Teej"
     },
@@ -372,7 +376,91 @@
         "name": "Guru Nanak Jayanti"
     },
     {
+        "date": "2021-12-03",
+        "name": "International Day of Disabled Persons"
+    },
+    {
+        "date": "2021-12-19",
+        "name": "Udhauli Parva"
+    },
+    {
         "date": "2021-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-30",
+        "name": "Tamu Lhosar"
+    },
+    {
+        "date": "2022-01-15",
+        "name": "Maghe Sankranti"
+    },
+    {
+        "date": "2022-02-02",
+        "name": "Sonam Losar (Tamang New Year)"
+    },
+    {
+        "date": "2022-03-03",
+        "name": "Gyalpo Losar"
+    },
+    {
+        "date": "2022-03-08",
+        "name": "Nari Dibas"
+    },
+    {
+        "date": "2022-05-01",
+        "name": "Majdoor Divas"
+    },
+    {
+        "date": "2022-05-03",
+        "name": "Ramjan Edul Fikra"
+    },
+    {
+        "date": "2022-05-16",
+        "name": "Buddha Jayanti"
+    },
+    {
+        "date": "2022-05-29",
+        "name": "Ganatantra Diwas (Republic Day)"
+    },
+    {
+        "date": "2022-07-10",
+        "name": "Edul Aajaha"
+    },
+    {
+        "date": "2022-08-11",
+        "name": "Janai Purnima"
+    },
+    {
+        "date": "2022-08-19",
+        "name": "Gaura Parba"
+    },
+    {
+        "date": "2022-08-30",
+        "name": "Hartalika Teej"
+    },
+    {
+        "date": "2022-09-18",
+        "name": "Jitiya"
+    },
+    {
+        "date": "2022-09-19",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2022-10-30",
+        "name": "Chhat Parwa"
+    },
+    {
+        "date": "2022-12-07",
+        "name": "Udhauli Parva"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-30",
+        "name": "Tamu Lhosar"
     }
 ]
