@@ -324,6 +324,10 @@
         "name": "Coronation Day"
     },
     {
+        "date": "2021-05-10",
+        "name": "Royal Ploughing Ceremony Day"
+    },
+    {
         "date": "2021-05-26",
         "name": "Visakha Bucha"
     },
@@ -344,12 +348,20 @@
         "name": "Asalha Bucha observed"
     },
     {
+        "date": "2021-07-27",
+        "name": "Day off for Buddhist Lent Day"
+    },
+    {
         "date": "2021-07-28",
         "name": "King Vajiralongkorn's Birthday"
     },
     {
         "date": "2021-08-12",
         "name": "The Queen's Birthday"
+    },
+    {
+        "date": "2021-09-24",
+        "name": "Mahidol Day"
     },
     {
         "date": "2021-10-13",
@@ -444,8 +456,16 @@
         "name": "Coronation Day"
     },
     {
+        "date": "2022-05-13",
+        "name": "Royal Ploughing Ceremony Day"
+    },
+    {
         "date": "2022-06-03",
         "name": "Queen Suthida's Birthday"
+    },
+    {
+        "date": "2022-07-14",
+        "name": "Buddhist Lent Day"
     },
     {
         "date": "2022-07-28",
