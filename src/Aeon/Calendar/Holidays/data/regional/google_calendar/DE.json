@@ -404,6 +404,10 @@
         "name": "Father's Day"
     },
     {
+        "date": "2021-05-23",
+        "name": "Whit Sunday (regional holiday)"
+    },
+    {
         "date": "2021-05-24",
         "name": "Whit Monday"
     },
@@ -414,6 +418,10 @@
     {
         "date": "2021-08-08",
         "name": "Peace Festival in Augsburg (Bavaria)"
+    },
+    {
+        "date": "2021-08-15",
+        "name": "Assumption of Mary (regional holiday)"
     },
     {
         "date": "2021-09-20",
@@ -528,8 +536,20 @@
         "name": "Palm Sunday"
     },
     {
+        "date": "2022-04-14",
+        "name": "Maundy Thursday (regional holiday)"
+    },
+    {
         "date": "2022-04-15",
         "name": "Good Friday"
+    },
+    {
+        "date": "2022-04-16",
+        "name": "Holy Saturday (regional holiday)"
+    },
+    {
+        "date": "2022-04-17",
+        "name": "Easter Sunday (regional holiday)"
     },
     {
         "date": "2022-04-18",
@@ -538,6 +558,10 @@
     {
         "date": "2022-05-01",
         "name": "May Day"
+    },
+    {
+        "date": "2022-05-08",
+        "name": "Anniversary of the End of World War II (regional holiday)"
     },
     {
         "date": "2022-05-08",
@@ -552,6 +576,10 @@
         "name": "Father's Day"
     },
     {
+        "date": "2022-06-05",
+        "name": "Whit Sunday (regional holiday)"
+    },
+    {
         "date": "2022-06-06",
         "name": "Whit Monday"
     },
@@ -562,6 +590,10 @@
     {
         "date": "2022-08-08",
         "name": "Peace Festival in Augsburg (Bavaria)"
+    },
+    {
+        "date": "2022-08-15",
+        "name": "Assumption of Mary (regional holiday)"
     },
     {
         "date": "2022-09-20",
@@ -626,6 +658,10 @@
     {
         "date": "2022-12-24",
         "name": "Christmas Eve"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
     },
     {
         "date": "2022-12-26",
