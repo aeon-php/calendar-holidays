@@ -404,6 +404,14 @@
         "name": "Labour Day Holiday"
     },
     {
+        "date": "2021-06-12",
+        "name": "Dragon Boat Festival holiday"
+    },
+    {
+        "date": "2021-06-13",
+        "name": "Dragon Boat Festival holiday"
+    },
+    {
         "date": "2021-06-14",
         "name": "Dragon Boat Festival"
     },
@@ -418,6 +426,14 @@
     {
         "date": "2021-09-10",
         "name": "Teachers' Day"
+    },
+    {
+        "date": "2021-09-19",
+        "name": "Mid-Autumn Festival holiday"
+    },
+    {
+        "date": "2021-09-20",
+        "name": "Mid-Autumn Festival holiday"
     },
     {
         "date": "2021-09-21",
