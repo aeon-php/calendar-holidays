@@ -592,8 +592,16 @@
         "name": "Eid-ul-Fitr Holiday"
     },
     {
+        "date": "2022-05-05",
+        "name": "Eid-ul-Fitr Holiday"
+    },
+    {
         "date": "2022-05-06",
         "name": "Eid-ul-Fitr Holiday"
+    },
+    {
+        "date": "2022-05-16",
+        "name": "Buddha Purnima"
     },
     {
         "date": "2022-07-01",
@@ -602,6 +610,10 @@
     {
         "date": "2022-07-10",
         "name": "Eid al-Adha"
+    },
+    {
+        "date": "2022-07-11",
+        "name": "Eid al-Adha Holiday"
     },
     {
         "date": "2022-07-12",
@@ -628,6 +640,14 @@
         "name": "Defence Day"
     },
     {
+        "date": "2022-09-17",
+        "name": "Chelum"
+    },
+    {
+        "date": "2022-10-03",
+        "name": "Durga Puja"
+    },
+    {
         "date": "2022-10-05",
         "name": "Dussehra"
     },
@@ -638,6 +658,10 @@
     {
         "date": "2022-10-08",
         "name": "Eid Milad un-Nabi"
+    },
+    {
+        "date": "2022-10-09",
+        "name": "Birthday of Guru Balmik Sawami Ji"
     },
     {
         "date": "2022-10-24",
@@ -662,5 +686,9 @@
     {
         "date": "2022-12-26",
         "name": "Day After Christmas (Christians only)"
+    },
+    {
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
     }
 ]
