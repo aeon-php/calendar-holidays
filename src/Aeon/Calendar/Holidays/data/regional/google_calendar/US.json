@@ -300,6 +300,10 @@
         "name": "Memorial Day"
     },
     {
+        "date": "2021-06-01",
+        "name": "First Day of LGBTQ+ Pride Month"
+    },
+    {
         "date": "2021-06-19",
         "name": "Juneteenth"
     },
@@ -334,6 +338,10 @@
     {
         "date": "2021-10-31",
         "name": "Halloween"
+    },
+    {
+        "date": "2021-11-01",
+        "name": "First Day of American Indian Heritage Month"
     },
     {
         "date": "2021-11-02",
@@ -421,7 +429,7 @@
     },
     {
         "date": "2022-05-01",
-        "name": "First Day of Asian American and Pacific Islander Heritage Month"
+        "name": "First Day of Asian Pacific American Heritage Month"
     },
     {
         "date": "2022-05-05",
@@ -434,6 +442,10 @@
     {
         "date": "2022-05-30",
         "name": "Memorial Day"
+    },
+    {
+        "date": "2022-06-01",
+        "name": "First Day of LGBTQ+ Pride Month"
     },
     {
         "date": "2022-06-19",
@@ -466,6 +478,10 @@
     {
         "date": "2022-10-31",
         "name": "Halloween"
+    },
+    {
+        "date": "2022-11-01",
+        "name": "First Day of American Indian Heritage Month"
     },
     {
         "date": "2022-11-06",
