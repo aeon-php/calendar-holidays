@@ -369,7 +369,7 @@
     },
     {
         "date": "2021-06-29",
-        "name": "St. Peter and St. Paul (regional holiday)"
+        "name": "St. Peter and St. Paul (Ticino)"
     },
     {
         "date": "2021-08-01",
@@ -405,7 +405,7 @@
     },
     {
         "date": "2021-09-22",
-        "name": "Mauritius Day (regional holiday)"
+        "name": "Mauritius Day (Appenzell Innerrhoden)"
     },
     {
         "date": "2021-09-25",
@@ -493,6 +493,10 @@
     },
     {
         "date": "2022-05-01",
+        "name": "May Day (Half-Day) (regional holiday)"
+    },
+    {
+        "date": "2022-05-01",
         "name": "May Day (regional holiday)"
     },
     {
@@ -517,7 +521,7 @@
     },
     {
         "date": "2022-06-29",
-        "name": "St. Peter and St. Paul (regional holiday)"
+        "name": "St. Peter and St. Paul (Ticino)"
     },
     {
         "date": "2022-08-01",
@@ -553,7 +557,7 @@
     },
     {
         "date": "2022-09-22",
-        "name": "Mauritius Day (regional holiday)"
+        "name": "Mauritius Day (Appenzell Innerrhoden)"
     },
     {
         "date": "2022-09-25",
