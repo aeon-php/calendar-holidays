@@ -265,7 +265,7 @@
     },
     {
         "date": "2021-07-20",
-        "name": "Eid al-Adha"
+        "name": "Idul Adha"
     },
     {
         "date": "2021-08-10",
@@ -281,11 +281,11 @@
     },
     {
         "date": "2021-10-19",
-        "name": "The Prophet Muhammad's Birthday"
+        "name": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)"
     },
     {
         "date": "2021-11-04",
-        "name": "Diwali\/Deepavali"
+        "name": "Diwali \/ Deepavali"
     },
     {
         "date": "2021-11-12",
@@ -301,11 +301,15 @@
     },
     {
         "date": "2021-12-24",
-        "name": "Cuti Bersama (Christmas Eve)"
+        "name": "Christmas Eve Joint Holiday"
     },
     {
         "date": "2021-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-27",
+        "name": "Boxing Day"
     },
     {
         "date": "2021-12-31",
@@ -357,7 +361,7 @@
     },
     {
         "date": "2022-07-10",
-        "name": "Eid al-Adha"
+        "name": "Idul Adha"
     },
     {
         "date": "2022-07-30",
@@ -373,11 +377,11 @@
     },
     {
         "date": "2022-10-08",
-        "name": "The Prophet Muhammad's Birthday"
+        "name": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)"
     },
     {
         "date": "2022-10-24",
-        "name": "Diwali\/Deepavali"
+        "name": "Diwali \/ Deepavali"
     },
     {
         "date": "2022-11-12",

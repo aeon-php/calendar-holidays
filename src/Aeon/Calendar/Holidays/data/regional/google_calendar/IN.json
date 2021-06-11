@@ -568,6 +568,14 @@
         "name": "Mahatma Gandhi Jayanti"
     },
     {
+        "date": "2021-10-07",
+        "name": "First Day of Sharad Navratri"
+    },
+    {
+        "date": "2021-10-11",
+        "name": "First Day of Durga Puja Festivities"
+    },
+    {
         "date": "2021-10-12",
         "name": "Maha Saptami"
     },
@@ -676,8 +684,28 @@
         "name": "Holika Dahana"
     },
     {
+        "date": "2022-03-18",
+        "name": "Holi"
+    },
+    {
         "date": "2022-04-02",
         "name": "Chaitra Sukhladi"
+    },
+    {
+        "date": "2022-04-02",
+        "name": "Gudi Padwa"
+    },
+    {
+        "date": "2022-04-02",
+        "name": "Ugadi"
+    },
+    {
+        "date": "2022-04-10",
+        "name": "Rama Navami"
+    },
+    {
+        "date": "2022-04-14",
+        "name": "Ambedkar Jayanti"
     },
     {
         "date": "2022-04-14",
@@ -742,6 +770,18 @@
     {
         "date": "2022-08-31",
         "name": "Ganesh Chaturthi\/Vinayaka Chaturthi"
+    },
+    {
+        "date": "2022-09-08",
+        "name": "Onam"
+    },
+    {
+        "date": "2022-09-26",
+        "name": "First Day of Sharad Navratri"
+    },
+    {
+        "date": "2022-10-01",
+        "name": "First Day of Durga Puja Festivities"
     },
     {
         "date": "2022-10-02",
