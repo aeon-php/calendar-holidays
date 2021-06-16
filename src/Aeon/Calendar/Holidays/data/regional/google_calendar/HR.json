@@ -224,12 +224,28 @@
         "name": "Assumption of Mary"
     },
     {
+        "date": "2021-08-23",
+        "name": "European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes"
+    },
+    {
+        "date": "2021-08-30",
+        "name": "Day of Remembrance of Missing Persons in the Homeland War"
+    },
+    {
         "date": "2021-09-07",
         "name": "Rosh Hashana"
     },
     {
         "date": "2021-09-16",
         "name": "Yom Kippur"
+    },
+    {
+        "date": "2021-09-25",
+        "name": "Unification Day of Istria, Rijeka, Zadar, and the Islands"
+    },
+    {
+        "date": "2021-10-08",
+        "name": "Day of the Croatian Parliament"
     },
     {
         "date": "2021-11-01",
@@ -260,6 +276,22 @@
         "name": "Orthodox Christmas Day"
     },
     {
+        "date": "2022-01-09",
+        "name": "Me\u0111imurje Unification Day"
+    },
+    {
+        "date": "2022-01-15",
+        "name": "Day of Peaceful Reintegration of the Croatian Danube Region"
+    },
+    {
+        "date": "2022-01-15",
+        "name": "Day of the International Recognition of the Republic of Croatia"
+    },
+    {
+        "date": "2022-03-15",
+        "name": "Day of the Establishment of the National Protection in the Republic of Croatia"
+    },
+    {
         "date": "2022-04-17",
         "name": "Easter Sunday"
     },
@@ -276,12 +308,20 @@
         "name": "Orthodox Easter Monday"
     },
     {
+        "date": "2022-04-30",
+        "name": "Day of the Deaths of Zrinski and Frankopan"
+    },
+    {
         "date": "2022-05-01",
         "name": "Labor Day \/ May Day"
     },
     {
         "date": "2022-05-03",
         "name": "Ramadan Bayram"
+    },
+    {
+        "date": "2022-05-09",
+        "name": "Europe Day and Victory Day Over Fascism"
     },
     {
         "date": "2022-05-30",
@@ -312,12 +352,28 @@
         "name": "Assumption of Mary"
     },
     {
+        "date": "2022-08-23",
+        "name": "European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes"
+    },
+    {
+        "date": "2022-08-30",
+        "name": "Day of Remembrance of Missing Persons in the Homeland War"
+    },
+    {
+        "date": "2022-09-25",
+        "name": "Unification Day of Istria, Rijeka, Zadar, and the Islands"
+    },
+    {
         "date": "2022-09-26",
         "name": "Rosh Hashana"
     },
     {
         "date": "2022-10-05",
         "name": "Yom Kippur"
+    },
+    {
+        "date": "2022-10-08",
+        "name": "Day of the Croatian Parliament"
     },
     {
         "date": "2022-11-01",

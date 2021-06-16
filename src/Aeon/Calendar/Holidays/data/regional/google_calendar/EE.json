@@ -132,6 +132,34 @@
         "name": "Independence Restoration Day"
     },
     {
+        "date": "2021-08-23",
+        "name": "Day of Remembrance for Victims of Communism and Nazism"
+    },
+    {
+        "date": "2021-09-12",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2021-09-22",
+        "name": "Resistance Day"
+    },
+    {
+        "date": "2021-10-09",
+        "name": "Finno-Ugric Day"
+    },
+    {
+        "date": "2021-11-02",
+        "name": "All Soul's Day"
+    },
+    {
+        "date": "2021-11-14",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2021-11-16",
+        "name": "Day of Declaration of Sovereignty"
+    },
+    {
         "date": "2021-12-24",
         "name": "Christmas Eve"
     },
@@ -148,8 +176,20 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2022-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2022-02-02",
+        "name": "Anniversary of Tartu Peace Treaty"
+    },
+    {
         "date": "2022-02-24",
         "name": "Independence Day"
+    },
+    {
+        "date": "2022-03-14",
+        "name": "Mother Tongue Day"
     },
     {
         "date": "2022-04-15",
@@ -164,8 +204,20 @@
         "name": "Labor Day"
     },
     {
+        "date": "2022-05-08",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2022-06-04",
+        "name": "Flag Day"
+    },
+    {
         "date": "2022-06-05",
         "name": "Pentecost"
+    },
+    {
+        "date": "2022-06-14",
+        "name": "Day of Mourning"
     },
     {
         "date": "2022-06-23",
@@ -178,6 +230,34 @@
     {
         "date": "2022-08-20",
         "name": "Independence Restoration Day"
+    },
+    {
+        "date": "2022-08-23",
+        "name": "Day of Remembrance for Victims of Communism and Nazism"
+    },
+    {
+        "date": "2022-09-11",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2022-09-22",
+        "name": "Resistance Day"
+    },
+    {
+        "date": "2022-10-08",
+        "name": "Finno-Ugric Day"
+    },
+    {
+        "date": "2022-11-02",
+        "name": "All Soul's Day"
+    },
+    {
+        "date": "2022-11-13",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2022-11-16",
+        "name": "Day of Declaration of Sovereignty"
     },
     {
         "date": "2022-12-24",
