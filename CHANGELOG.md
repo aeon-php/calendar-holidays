@@ -1,4 +1,4 @@
-## [Unreleased] - 2021-06-16
+## [Unreleased] - 2021-06-18
 
 ### Added
 - [#117](https://github.com/aeon-php/calendar-holidays/pull/117) - **aeon-php/automation integration** - [@norberttech](https://github.com/norberttech)
@@ -48,6 +48,7 @@
 - [#123](https://github.com/aeon-php/calendar-holidays/pull/123) - **Replaced old google events sync script with flow-php/etl component** - [@norberttech](https://github.com/norberttech)
 - [#117](https://github.com/aeon-php/calendar-holidays/pull/117) - **updated phive dependencies** - [@norberttech](https://github.com/norberttech)
 - [d3b9ad](https://github.com/aeon-php/calendar-holidays/commit/d3b9adf3b8b4c14ce6dab2ab6a667b6538b24470) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
+- [fddc36](https://github.com/aeon-php/calendar-holidays/commit/fddc36a558a736deb0210037c21fd97d5e19c9b0) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
 
 ### Fixed
 - [#133](https://github.com/aeon-php/calendar-holidays/pull/133) - **skipping empty holidays lists** - [@norberttech](https://github.com/norberttech)
