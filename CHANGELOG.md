@@ -51,6 +51,7 @@
 - [fddc36](https://github.com/aeon-php/calendar-holidays/commit/fddc36a558a736deb0210037c21fd97d5e19c9b0) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
 - [#112](https://github.com/aeon-php/calendar-holidays/pull/112) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#111](https://github.com/aeon-php/calendar-holidays/pull/111) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
+- [5294cb](https://github.com/aeon-php/calendar-holidays/commit/5294cbabedc8e7f6919682f0191ea6fc8dc21734) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
 
 ### Fixed
 - [#133](https://github.com/aeon-php/calendar-holidays/pull/133) - **skipping empty holidays lists** - [@norberttech](https://github.com/norberttech)
