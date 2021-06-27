@@ -532,16 +532,16 @@
         "name": "Bakr Id\/Eid ul-Adha"
     },
     {
+        "date": "2021-08-09",
+        "name": "Muharram\/Ashura"
+    },
+    {
         "date": "2021-08-15",
         "name": "Independence Day"
     },
     {
         "date": "2021-08-16",
         "name": "Parsi New Year"
-    },
-    {
-        "date": "2021-08-19",
-        "name": "Muharram\/Ashura"
     },
     {
         "date": "2021-08-21",
@@ -644,6 +644,10 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2022-01-09",
+        "name": "Guru Govind Singh Jayanti"
+    },
+    {
         "date": "2022-01-13",
         "name": "Lohri"
     },
@@ -676,12 +680,20 @@
         "name": "Shivaji Jayanti"
     },
     {
+        "date": "2022-02-26",
+        "name": "Maharishi Dayanand Saraswati Jayanti"
+    },
+    {
         "date": "2022-03-01",
         "name": "Maha Shivaratri\/Shivaratri"
     },
     {
         "date": "2022-03-17",
         "name": "Holika Dahana"
+    },
+    {
+        "date": "2022-03-18",
+        "name": "Dolyatra"
     },
     {
         "date": "2022-03-18",
@@ -728,11 +740,15 @@
         "name": "Easter Day"
     },
     {
+        "date": "2022-04-29",
+        "name": "Jamat Ul-Vida"
+    },
+    {
         "date": "2022-05-03",
         "name": "Ramzan Id\/Eid-ul-Fitar"
     },
     {
-        "date": "2022-05-07",
+        "date": "2022-05-09",
         "name": "Birthday of Ravindranath"
     },
     {
@@ -758,6 +774,10 @@
     {
         "date": "2022-08-15",
         "name": "Independence Day"
+    },
+    {
+        "date": "2022-08-16",
+        "name": "Parsi New Year"
     },
     {
         "date": "2022-08-18",
@@ -804,12 +824,12 @@
         "name": "Dussehra"
     },
     {
-        "date": "2022-10-08",
-        "name": "Milad un-Nabi\/Id-e-Milad"
+        "date": "2022-10-09",
+        "name": "Maharishi Valmiki Jayanti"
     },
     {
         "date": "2022-10-09",
-        "name": "Maharishi Valmiki Jayanti"
+        "name": "Milad un-Nabi\/Id-e-Milad"
     },
     {
         "date": "2022-10-13",
@@ -824,12 +844,12 @@
         "name": "Naraka Chaturdasi"
     },
     {
-        "date": "2022-10-26",
-        "name": "Bhai Duj"
+        "date": "2022-10-25",
+        "name": "Govardhan Puja"
     },
     {
         "date": "2022-10-26",
-        "name": "Govardhan Puja"
+        "name": "Bhai Duj"
     },
     {
         "date": "2022-10-30",
@@ -850,5 +870,9 @@
     {
         "date": "2022-12-25",
         "name": "Christmas"
+    },
+    {
+        "date": "2022-12-29",
+        "name": "Guru Govind Singh Jayanti"
     }
 ]
