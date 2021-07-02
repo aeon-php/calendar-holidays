@@ -412,12 +412,16 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2022-01-02",
+        "name": "Day after New Year's Day"
+    },
+    {
         "date": "2022-01-03",
-        "name": "New Year's Day Observed"
+        "name": "Day off for New Year's Day"
     },
     {
         "date": "2022-01-04",
-        "name": "Day after New Year's Day"
+        "name": "Day off for Day after New Year's Day"
     },
     {
         "date": "2022-01-24",
