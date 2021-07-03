@@ -164,6 +164,10 @@
         "name": "Assumption of Mary"
     },
     {
+        "date": "2021-11-01",
+        "name": "All Saints' Day"
+    },
+    {
         "date": "2021-11-11",
         "name": "Saint Martin's Day"
     },
@@ -200,11 +204,15 @@
         "name": "Labor Day \/ May Day"
     },
     {
+        "date": "2022-05-08",
+        "name": "1945 Victory Day"
+    },
+    {
         "date": "2022-05-26",
         "name": "Ascension Day"
     },
     {
-        "date": "2022-05-27",
+        "date": "2022-05-28",
         "name": "Abolition Day"
     },
     {
@@ -222,6 +230,10 @@
     {
         "date": "2022-08-15",
         "name": "Assumption of Mary"
+    },
+    {
+        "date": "2022-11-01",
+        "name": "All Saints' Day"
     },
     {
         "date": "2022-11-11",
