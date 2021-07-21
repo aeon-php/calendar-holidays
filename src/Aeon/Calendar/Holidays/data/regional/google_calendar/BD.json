@@ -609,11 +609,15 @@
     },
     {
         "date": "2021-07-21",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2021-07-21",
         "name": "Eid al-Adha Day 2"
     },
     {
         "date": "2021-07-22",
-        "name": "Eid al-Adha Day 3"
+        "name": "Eid al-Adha Holiday"
     },
     {
         "date": "2021-07-24",
@@ -741,11 +745,11 @@
     },
     {
         "date": "2022-07-11",
-        "name": "Eid al-Adha Day 2"
+        "name": "Eid al-Adha Holiday"
     },
     {
         "date": "2022-07-12",
-        "name": "Eid al-Adha Day 3"
+        "name": "Eid al-Adha Holiday"
     },
     {
         "date": "2022-08-08",
