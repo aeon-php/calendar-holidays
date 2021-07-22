@@ -360,6 +360,10 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2022-01-02",
+        "name": "New Year Holiday"
+    },
+    {
         "date": "2022-01-03",
         "name": "New Year Holiday"
     },
@@ -380,8 +384,20 @@
         "name": "Orthodox Christmas Day"
     },
     {
+        "date": "2022-01-08",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2022-01-09",
+        "name": "New Year Holiday"
+    },
+    {
         "date": "2022-02-23",
         "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2022-03-07",
+        "name": "Public Holiday"
     },
     {
         "date": "2022-03-08",
@@ -396,8 +412,16 @@
         "name": "Day off for Spring and Labor Day"
     },
     {
+        "date": "2022-05-03",
+        "name": "Public Holiday"
+    },
+    {
         "date": "2022-05-09",
         "name": "Victory Day"
+    },
+    {
+        "date": "2022-05-10",
+        "name": "Public Holiday"
     },
     {
         "date": "2022-06-12",

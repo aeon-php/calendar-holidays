@@ -228,8 +228,16 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2022-03-14",
+        "name": "Public Holiday"
+    },
+    {
         "date": "2022-03-15",
         "name": "1848 Revolution Memorial Day"
+    },
+    {
+        "date": "2022-03-26",
+        "name": "Extra Work Day"
     },
     {
         "date": "2022-04-15",
@@ -260,8 +268,16 @@
         "name": "Hungary National Day"
     },
     {
+        "date": "2022-10-15",
+        "name": "Extra Work Day"
+    },
+    {
         "date": "2022-10-23",
         "name": "1956 Revolution Memorial Day"
+    },
+    {
+        "date": "2022-10-31",
+        "name": "Public Holiday"
     },
     {
         "date": "2022-11-01",
