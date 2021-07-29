@@ -240,6 +240,10 @@
         "name": "Liberation Day"
     },
     {
+        "date": "2021-08-16",
+        "name": "Day off for Liberation Day"
+    },
+    {
         "date": "2021-09-20",
         "name": "Chuseok Holiday"
     },
@@ -260,8 +264,16 @@
         "name": "National Foundation Day"
     },
     {
+        "date": "2021-10-04",
+        "name": "Day off for National Foundation Day"
+    },
+    {
         "date": "2021-10-09",
         "name": "Hangeul Proclamation Day"
+    },
+    {
+        "date": "2021-10-11",
+        "name": "Day off for Hangeul Proclamation Day"
     },
     {
         "date": "2021-12-24",
@@ -270,6 +282,10 @@
     {
         "date": "2021-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-27",
+        "name": "Day off for Christmas Day"
     },
     {
         "date": "2021-12-31",
