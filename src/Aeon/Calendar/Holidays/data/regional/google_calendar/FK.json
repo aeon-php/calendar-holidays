@@ -173,10 +173,6 @@
     },
     {
         "date": "2021-12-28",
-        "name": "Christmas Holiday"
-    },
-    {
-        "date": "2021-12-28",
         "name": "Day off for Boxing Day"
     },
     {
@@ -185,7 +181,11 @@
     },
     {
         "date": "2021-12-30",
-        "name": "Day off for Christmas Holiday"
+        "name": "Christmas Holiday"
+    },
+    {
+        "date": "2021-12-31",
+        "name": "Christmas Holiday"
     },
     {
         "date": "2022-01-01",
@@ -240,8 +240,8 @@
         "name": "Christmas Holiday"
     },
     {
-        "date": "2022-12-28",
-        "name": "Christmas Holiday"
+        "date": "2022-12-27",
+        "name": "Day off for Boxing Day"
     },
     {
         "date": "2022-12-28",
@@ -249,6 +249,10 @@
     },
     {
         "date": "2022-12-29",
-        "name": "Day off for Christmas Holiday"
+        "name": "Christmas Holiday"
+    },
+    {
+        "date": "2022-12-30",
+        "name": "Christmas Holiday"
     }
 ]
