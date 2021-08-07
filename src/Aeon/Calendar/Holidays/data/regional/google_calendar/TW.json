@@ -324,6 +324,14 @@
         "name": "Armed Forces Day"
     },
     {
+        "date": "2021-09-11",
+        "name": "Make up Day for Mid Autumn Festival Holiday"
+    },
+    {
+        "date": "2021-09-20",
+        "name": "Mid-Autumn Festival"
+    },
+    {
         "date": "2021-09-21",
         "name": "Mid-Autumn Festival"
     },
@@ -358,6 +366,10 @@
     {
         "date": "2022-01-01",
         "name": "Republic Day\/New Year's Day"
+    },
+    {
+        "date": "2022-01-22",
+        "name": "Make up Day for Lunar New Year Holiday"
     },
     {
         "date": "2022-01-31",
