@@ -220,6 +220,10 @@
         "name": "Kurman Ait"
     },
     {
+        "date": "2021-08-30",
+        "name": "Public Holiday (Day off for Victory Day)"
+    },
+    {
         "date": "2021-08-31",
         "name": "Independence Day of the Kyrgyz Republic"
     },
@@ -269,7 +273,7 @@
     },
     {
         "date": "2022-05-02",
-        "name": "May Day observed"
+        "name": "Day off for May Day"
     },
     {
         "date": "2022-05-03",
@@ -289,7 +293,7 @@
     },
     {
         "date": "2022-07-11",
-        "name": "Kurman Ait observed"
+        "name": "Day off for Kurman Ait"
     },
     {
         "date": "2022-08-31",
