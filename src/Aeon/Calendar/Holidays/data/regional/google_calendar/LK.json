@@ -389,7 +389,7 @@
     },
     {
         "date": "2021-11-18",
-        "name": "Il Full Moon Poya Day"
+        "name": "Ill Full Moon Poya Day"
     },
     {
         "date": "2021-12-18",
@@ -404,6 +404,14 @@
         "name": "Christmas Day"
     },
     {
+        "date": "2022-01-14",
+        "name": "Tamil Thai Pongal Day"
+    },
+    {
+        "date": "2022-01-17",
+        "name": "Duruthu Full Moon Poya Day"
+    },
+    {
         "date": "2022-02-04",
         "name": "National Day"
     },
@@ -412,12 +420,32 @@
         "name": "Valentine's Day"
     },
     {
+        "date": "2022-02-16",
+        "name": "Navam Full Moon Poya Day"
+    },
+    {
         "date": "2022-03-01",
         "name": "Mahasivarathri Day"
     },
     {
+        "date": "2022-03-17",
+        "name": "Madin Full Moon Poya Day"
+    },
+    {
+        "date": "2022-04-13",
+        "name": "Sinhala and Tamil New Year's Eve"
+    },
+    {
+        "date": "2022-04-14",
+        "name": "Sinhala and Tamil New Year's Day"
+    },
+    {
         "date": "2022-04-15",
         "name": "Good Friday"
+    },
+    {
+        "date": "2022-04-16",
+        "name": "Bak Full Moon Poya Day"
     },
     {
         "date": "2022-04-17",
@@ -436,6 +464,18 @@
         "name": "Mother's Day"
     },
     {
+        "date": "2022-05-15",
+        "name": "Vesak Full Moon Poya Day"
+    },
+    {
+        "date": "2022-05-16",
+        "name": "Day after Vesak Full Moon Poya Day"
+    },
+    {
+        "date": "2022-06-14",
+        "name": "Poson Full Moon Poya Day"
+    },
+    {
         "date": "2022-06-19",
         "name": "Father's Day"
     },
@@ -444,8 +484,36 @@
         "name": "Eid al-Adha"
     },
     {
+        "date": "2022-07-13",
+        "name": "Esala Full Moon Poya Day"
+    },
+    {
+        "date": "2022-08-11",
+        "name": "Nikini Full Moon Poya Day"
+    },
+    {
+        "date": "2022-09-10",
+        "name": "Binara Full Moon Poya Day"
+    },
+    {
         "date": "2022-10-08",
         "name": "Milad-Un-Nabi (Holy Prophet's Birthday)"
+    },
+    {
+        "date": "2022-10-09",
+        "name": "Vap Full Moon Poya Day"
+    },
+    {
+        "date": "2022-10-24",
+        "name": "Deepavali"
+    },
+    {
+        "date": "2022-11-07",
+        "name": "Ill Full Moon Poya Day"
+    },
+    {
+        "date": "2022-12-07",
+        "name": "Unduvap Full Moon Poya Day"
     },
     {
         "date": "2022-12-24",
