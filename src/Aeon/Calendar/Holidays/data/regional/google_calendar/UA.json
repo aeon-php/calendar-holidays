@@ -461,7 +461,7 @@
     },
     {
         "date": "2022-05-09",
-        "name": "Victory Day \/ Memorial Day"
+        "name": "Victory Day"
     },
     {
         "date": "2022-05-21",
@@ -472,12 +472,24 @@
         "name": "Kyiv Day"
     },
     {
+        "date": "2022-06-01",
+        "name": "Child Protection Day"
+    },
+    {
+        "date": "2022-06-06",
+        "name": "Journalists' Day"
+    },
+    {
         "date": "2022-06-12",
         "name": "Orthodox Pentecost"
     },
     {
         "date": "2022-06-13",
         "name": "Orthodox Pentecost Holiday"
+    },
+    {
+        "date": "2022-06-22",
+        "name": "Day of Mourning and Commemoration of War Victims"
     },
     {
         "date": "2022-06-28",
