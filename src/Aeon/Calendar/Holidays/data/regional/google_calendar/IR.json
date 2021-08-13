@@ -268,7 +268,7 @@
         "name": "Birthday of Prophet Muhammad and Imam Sadeq"
     },
     {
-        "date": "2022-01-07",
+        "date": "2022-01-06",
         "name": "Martyrdom of Fatima"
     },
     {
@@ -286,6 +286,34 @@
     {
         "date": "2022-03-19",
         "name": "Imam Mahdi's birthday"
+    },
+    {
+        "date": "2022-03-20",
+        "name": "Oil Nationalization Day"
+    },
+    {
+        "date": "2022-03-21",
+        "name": "Norooz (Persian New Year)"
+    },
+    {
+        "date": "2022-03-22",
+        "name": "Norooz Holiday"
+    },
+    {
+        "date": "2022-03-23",
+        "name": "Norooz Holiday"
+    },
+    {
+        "date": "2022-03-24",
+        "name": "Norooz Holiday"
+    },
+    {
+        "date": "2022-04-01",
+        "name": "Islamic Republic Day"
+    },
+    {
+        "date": "2022-04-02",
+        "name": "Nature Day"
     },
     {
         "date": "2022-04-23",
@@ -328,19 +356,11 @@
         "name": "Demise of Prophet Muhammad and Martyrdom of Imam Hassan"
     },
     {
-        "date": "2022-09-26",
-        "name": "Martyrdom of Imam Reza"
-    },
-    {
         "date": "2022-10-04",
         "name": "Martyrdom of Imam Hasan al-Askari"
     },
     {
         "date": "2022-10-13",
         "name": "Birthday of Prophet Muhammad and Imam Sadeq"
-    },
-    {
-        "date": "2022-12-27",
-        "name": "Martyrdom of Fatima"
     }
 ]
