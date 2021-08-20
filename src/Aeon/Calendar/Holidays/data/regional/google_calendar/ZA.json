@@ -256,10 +256,6 @@
         "name": "Heritage Day"
     },
     {
-        "date": "2021-11-01",
-        "name": "All Saints' Day"
-    },
-    {
         "date": "2021-12-16",
         "name": "Day of Reconciliation"
     },
@@ -317,19 +313,11 @@
     },
     {
         "date": "2022-05-02",
-        "name": "Workers' Day observed"
+        "name": "Day off for Workers' Day"
     },
     {
         "date": "2022-05-08",
         "name": "Mother's Day"
-    },
-    {
-        "date": "2022-05-26",
-        "name": "Ascension Day"
-    },
-    {
-        "date": "2022-06-05",
-        "name": "Pentecost"
     },
     {
         "date": "2022-06-16",
@@ -352,10 +340,6 @@
         "name": "Heritage Day"
     },
     {
-        "date": "2022-11-01",
-        "name": "All Saints' Day"
-    },
-    {
         "date": "2022-12-16",
         "name": "Day of Reconciliation"
     },
@@ -369,11 +353,11 @@
     },
     {
         "date": "2022-12-26",
-        "name": "Christmas Day observed"
+        "name": "Day of Goodwill"
     },
     {
         "date": "2022-12-26",
-        "name": "Day of Goodwill"
+        "name": "Day off for Christmas Day"
     },
     {
         "date": "2022-12-31",
