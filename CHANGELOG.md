@@ -1,4 +1,4 @@
-## [Unreleased] - 2021-08-26
+## [Unreleased] - 2021-08-27
 
 ### Added
 - [#117](https://github.com/aeon-php/calendar-holidays/pull/117) - **aeon-php/automation integration** - [@norberttech](https://github.com/norberttech)
@@ -96,6 +96,7 @@
 - [#51](https://github.com/aeon-php/calendar-holidays/pull/51) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#48](https://github.com/aeon-php/calendar-holidays/pull/48) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#47](https://github.com/aeon-php/calendar-holidays/pull/47) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
+- [#46](https://github.com/aeon-php/calendar-holidays/pull/46) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 
 ### Fixed
 - [#133](https://github.com/aeon-php/calendar-holidays/pull/133) - **skipping empty holidays lists** - [@norberttech](https://github.com/norberttech)
