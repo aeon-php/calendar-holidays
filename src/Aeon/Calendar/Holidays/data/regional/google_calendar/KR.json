@@ -284,20 +284,12 @@
         "name": "Christmas Day"
     },
     {
-        "date": "2021-12-27",
-        "name": "Day off for Christmas Day"
-    },
-    {
         "date": "2021-12-31",
         "name": "New Year's Eve"
     },
     {
         "date": "2022-01-01",
         "name": "New Year's Day"
-    },
-    {
-        "date": "2022-01-03",
-        "name": "Day off for New Year's Day"
     },
     {
         "date": "2022-02-01",
