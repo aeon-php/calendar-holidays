@@ -1,4 +1,4 @@
-## [Unreleased] - 2021-08-27
+## [Unreleased] - 2021-08-29
 
 ### Added
 - [#117](https://github.com/aeon-php/calendar-holidays/pull/117) - **aeon-php/automation integration** - [@norberttech](https://github.com/norberttech)
