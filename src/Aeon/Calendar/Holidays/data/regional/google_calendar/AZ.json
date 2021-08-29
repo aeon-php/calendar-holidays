@@ -341,11 +341,11 @@
     },
     {
         "date": "2022-01-03",
-        "name": "New Year's Day observed"
+        "name": "Day off for New Year's Day"
     },
     {
         "date": "2022-01-04",
-        "name": "New Year's Day (day 2) observed"
+        "name": "Day off for New Year's Day (day 2)"
     },
     {
         "date": "2022-01-20",
@@ -380,6 +380,10 @@
         "name": "Ramadan holiday"
     },
     {
+        "date": "2022-05-04",
+        "name": "Ramadan holiday"
+    },
+    {
         "date": "2022-05-09",
         "name": "Victory Day over Fascism"
     },
@@ -389,7 +393,7 @@
     },
     {
         "date": "2022-05-30",
-        "name": "Republic Day observed"
+        "name": "Day off for Republic Day"
     },
     {
         "date": "2022-06-15",
@@ -401,11 +405,15 @@
     },
     {
         "date": "2022-06-27",
-        "name": "Azerbaijan Armed Forces Day observed"
+        "name": "Day off for Azerbaijan Armed Forces Day"
     },
     {
         "date": "2022-07-10",
         "name": "Feast of the Sacrifice"
+    },
+    {
+        "date": "2022-07-11",
+        "name": "Feast of the Sacrifice Holiday"
     },
     {
         "date": "2022-10-18",
