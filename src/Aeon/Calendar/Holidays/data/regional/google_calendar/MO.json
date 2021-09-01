@@ -336,6 +336,10 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2022-01-03",
+        "name": "New Year Holiday"
+    },
+    {
         "date": "2022-01-31",
         "name": "Lunar New Year Eve"
     },
@@ -372,8 +376,16 @@
         "name": "Labor Day \/ May Day"
     },
     {
+        "date": "2022-05-02",
+        "name": "May Day Holiday"
+    },
+    {
         "date": "2022-05-08",
         "name": "Buddha's Birthday"
+    },
+    {
+        "date": "2022-05-09",
+        "name": "Buddha's Birthday Holiday"
     },
     {
         "date": "2022-06-03",
@@ -422,9 +434,5 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
-    },
-    {
-        "date": "2022-12-31",
-        "name": "New Year's Eve Afternoon"
     }
 ]
