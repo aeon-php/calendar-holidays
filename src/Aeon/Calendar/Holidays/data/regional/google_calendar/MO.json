@@ -296,6 +296,10 @@
         "name": "Day after PRC National Day"
     },
     {
+        "date": "2021-10-04",
+        "name": "Day off for Day after PRC National Day"
+    },
+    {
         "date": "2021-10-14",
         "name": "Chong Yeung Festival (Festival of Ancestors)"
     },
@@ -322,6 +326,10 @@
     {
         "date": "2021-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2021-12-27",
+        "name": "Christmas Day Holiday"
     },
     {
         "date": "2021-12-31",
@@ -396,6 +404,10 @@
         "name": "Day after the Mid-Autumn-Festival"
     },
     {
+        "date": "2022-09-12",
+        "name": "Mid-Autumn Festival Holiday"
+    },
+    {
         "date": "2022-10-01",
         "name": "National Day of the People's Republic of China"
     },
@@ -404,8 +416,16 @@
         "name": "Day after PRC National Day"
     },
     {
+        "date": "2022-10-03",
+        "name": "Day off for National Day of the People's Republic of China"
+    },
+    {
         "date": "2022-10-04",
         "name": "Chong Yeung Festival (Festival of Ancestors)"
+    },
+    {
+        "date": "2022-10-05",
+        "name": "Day off for Day after PRC National Day"
     },
     {
         "date": "2022-11-02",
@@ -430,6 +450,14 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Christmas Eve Holiday"
+    },
+    {
+        "date": "2022-12-27",
+        "name": "Christmas Day Holiday"
     },
     {
         "date": "2022-12-31",
