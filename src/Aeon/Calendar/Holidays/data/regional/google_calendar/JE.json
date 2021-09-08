@@ -180,7 +180,7 @@
         "name": "Liberation Day"
     },
     {
-        "date": "2022-05-30",
+        "date": "2022-06-02",
         "name": "Spring Bank Holiday"
     },
     {
@@ -202,9 +202,5 @@
     {
         "date": "2022-12-26",
         "name": "Day off for Christmas Day"
-    },
-    {
-        "date": "2022-12-27",
-        "name": "Day off for Boxing Day"
     }
 ]
