@@ -120,6 +120,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     public function in(TimePeriod $period) : array
     {
         if ($this->calendars === null) {
+            /** @psalm-suppress UnusedMethodCall */
             $this->loadCalendars();
         }
 
