@@ -1,5 +1,8 @@
 ## [Unreleased] - 2021-09-11
 
+### Added
+- [#213](https://github.com/aeon-php/calendar-holidays/pull/213) - **Method for getting holidays for a specific time period** - [@owsiakl](https://github.com/owsiakl)
+
 ### Changed
 - [#217](https://github.com/aeon-php/calendar-holidays/pull/217) - **updated dependencies** - [@norberttech](https://github.com/norberttech)
 - [#217](https://github.com/aeon-php/calendar-holidays/pull/217) - **replaced phive with additional composer.json file in tools folder** - [@norberttech](https://github.com/norberttech)
