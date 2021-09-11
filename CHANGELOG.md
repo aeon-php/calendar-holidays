@@ -90,6 +90,7 @@
 - [#123](https://github.com/aeon-php/calendar-holidays/pull/123) - **Replaced old google events sync script with flow-php/etl component** - [@norberttech](https://github.com/norberttech)
 
 ### Fixed
+- [f46605](https://github.com/aeon-php/calendar-holidays/commit/f466055f9ee9ba84df5ac189b64ae83e70ed2ad1) - **static analysis** - [@norberttech](https://github.com/norberttech)
 - [#133](https://github.com/aeon-php/calendar-holidays/pull/133) - **skipping empty holidays lists** - [@norberttech](https://github.com/norberttech)
 
 ## [0.7.0] - 2021-01-25
