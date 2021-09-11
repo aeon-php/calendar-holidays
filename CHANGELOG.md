@@ -1,6 +1,8 @@
-## [Unreleased] - 2021-09-09
+## [Unreleased] - 2021-09-11
 
 ### Changed
+- [#217](https://github.com/aeon-php/calendar-holidays/pull/217) - **updated dependencies** - [@norberttech](https://github.com/norberttech)
+- [#217](https://github.com/aeon-php/calendar-holidays/pull/217) - **replaced phive with additional composer.json file in tools folder** - [@norberttech](https://github.com/norberttech)
 - [#216](https://github.com/aeon-php/calendar-holidays/pull/216) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#215](https://github.com/aeon-php/calendar-holidays/pull/215) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#214](https://github.com/aeon-php/calendar-holidays/pull/214) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
