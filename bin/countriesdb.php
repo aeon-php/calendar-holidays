@@ -44,12 +44,11 @@ $holidaysFilesPath = __DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/goo
 
 ETL::extract(
     new GoogleCalendarEventsExtractor($countries->dump(), $googleCalendarService)
-)->transform(
-    new GoogleCalendarEventsTransformer(),
-    new FilterHistoricalHolidaysTransformer($calendar, $holidaysFilesPath),
-    new UpdateFutureHolidaysTransformer($calendar, $holidaysFilesPath),
-    new SortHolidaysTransformer(),
-    new FlattenHolidaysTransformer()
-)->load(
+)->transform(new GoogleCalendarEventsTransformer())
+    ->transform(new FilterHistoricalHolidaysTransformer($calendar, $holidaysFilesPath))
+    ->transform(new UpdateFutureHolidaysTransformer($calendar, $holidaysFilesPath))
+    ->transform(new SortHolidaysTransformer())
+    ->transform(new FlattenHolidaysTransformer())
+->load(
     new HolidaysJsonLoader($holidaysFilesPath)
 );
