@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Holidays;
 
 use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\TimePeriod;
 use Aeon\Calendar\Holidays;
 
 /**
@@ -19,6 +20,11 @@ final class EmptyHolidays implements Holidays
     }
 
     public function holidaysAt(Day $day) : array
+    {
+        return [];
+    }
+
+    public function in(TimePeriod $period) : array
     {
         return [];
     }

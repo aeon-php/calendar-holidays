@@ -7,6 +7,7 @@ namespace Aeon\Calendar\Holidays;
 use Aeon\Calendar\Exception\HolidayYearException;
 use Aeon\Calendar\Exception\InvalidArgumentException;
 use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\TimePeriod;
 use Aeon\Calendar\Holidays;
 
 /**
@@ -107,6 +108,31 @@ final class GoogleCalendarRegionalHolidays implements Holidays
         foreach ($calendars as $calendar) {
             if (isset($calendar[$day->toString()])) {
                 $holidays[] = $calendar[$day->toString()];
+            }
+        }
+
+        return $holidays;
+    }
+
+    /**
+     * @return array<Holiday>
+     */
+    public function in(TimePeriod $period) : array
+    {
+        if ($this->calendars === null) {
+            $this->loadCalendars();
+        }
+
+        /** @var array<string, array<string, Holiday>> $calendars */
+        $calendars = $this->calendars;
+
+        $holidays = [];
+
+        foreach ($calendars as $calendar) {
+            foreach ($calendar as $holiday) {
+                if ($holiday->day()->isAfterOrEqual($period->start()->day()) && $holiday->day()->isBeforeOrEqual($period->end()->day())) {
+                    $holidays[] = $holiday;
+                }
             }
         }
 

@@ -5,7 +5,9 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Tests\Functional\Holidays;
 
 use Aeon\Calendar\Exception\InvalidArgumentException;
+use Aeon\Calendar\Gregorian\DateTime;
 use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\TimePeriod;
 use Aeon\Calendar\Holidays\GoogleCalendar\CountryCodes;
 use Aeon\Calendar\Holidays\GoogleCalendarRegionalHolidays;
 use Aeon\Calendar\Holidays\Holiday;
@@ -48,5 +50,21 @@ final class GoogleCalendarRegionalHolidaysTest extends TestCase
         $holidays = new GoogleCalendarRegionalHolidays();
 
         $holidays->holidaysAt(Day::fromString('2020-01-01'));
+    }
+
+    public function test_getting_holidays_for_a_time_period() : void
+    {
+        $holidays = new GoogleCalendarRegionalHolidays(CountryCodes::PL);
+
+        $januaryHolidays = $holidays->in(
+            new TimePeriod(
+                DateTime::fromString('2021-01-01'),
+                DateTime::fromString('2021-01-31')
+            )
+        );
+
+        $this->assertCount(2, $januaryHolidays);
+        $this->assertSame('New Year\'s Day', $januaryHolidays[0]->name());
+        $this->assertSame('Epiphany', $januaryHolidays[1]->name());
     }
 }

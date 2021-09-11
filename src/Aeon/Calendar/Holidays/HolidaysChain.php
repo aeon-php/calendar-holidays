@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Holidays;
 
 use Aeon\Calendar\Gregorian\Day;
+use Aeon\Calendar\Gregorian\TimePeriod;
 use Aeon\Calendar\Holidays;
 
 /**
@@ -42,6 +43,21 @@ final class HolidaysChain implements Holidays
             ...\array_map(
                 function (Holidays $holidays) use ($day) : array {
                     return $holidays->holidaysAt($day);
+                },
+                $this->holidaysProviders
+            )
+        );
+    }
+
+    /**
+     * @return array<Holiday>
+     */
+    public function in(TimePeriod $period) : array
+    {
+        return \array_merge(
+            ...\array_map(
+                function (Holidays $holidays) use ($period) : array {
+                    return $holidays->in($period);
                 },
                 $this->holidaysProviders
             )
