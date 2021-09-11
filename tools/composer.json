@@ -1,0 +1,11 @@
+{
+  "name": "amazon-php/sp-api-sdk-tools",
+  "description": "Amazon PHP SP API SDK - Tools",
+  "require-dev": {
+    "phpunit/phpunit": "^9.5",
+    "vimeo/psalm": "^4.6",
+    "phpstan/phpstan": "^0.12.82",
+    "infection/infection": "^0.22.1",
+    "friendsofphp/php-cs-fixer": "^2.18"
+  }
+}

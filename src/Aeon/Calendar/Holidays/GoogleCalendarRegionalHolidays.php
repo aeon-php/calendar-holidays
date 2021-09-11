@@ -49,9 +49,6 @@ final class GoogleCalendarRegionalHolidays implements Holidays
 
         $this->countryCodes = $normalizedCountryCodes;
         $this->calendars = null;
-
-        $this->countryCodes = $normalizedCountryCodes;
-        $this->calendars = null;
     }
 
     /**
@@ -64,6 +61,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     public function isHoliday(Day $day) : bool
     {
         if ($this->calendars === null) {
+            /** @psalm-suppress UnusedMethodCall */
             $this->loadCalendars();
         }
 
@@ -93,6 +91,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
     public function holidaysAt(Day $day) : array
     {
         if ($this->calendars === null) {
+            /** @psalm-suppress UnusedMethodCall */
             $this->loadCalendars();
         }
 
@@ -121,6 +120,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
         }
 
         foreach ($this->countryCodes as $countryCode) {
+            /** @psalm-suppress UnusedMethodCall */
             $this->loadCalendar($countryCode);
         }
     }
@@ -140,11 +140,13 @@ final class GoogleCalendarRegionalHolidays implements Holidays
             $this->calendars = [];
         }
 
+        /** @psalm-suppress PossiblyNullArgument */
         if (!\array_key_exists($countryCode, $this->calendars)) {
             $this->calendars[$countryCode] = [];
         }
 
         foreach ($data as $holidayData) {
+            /** @psalm-suppress PossiblyNullArrayAssignment */
             $this->calendars[$countryCode][$holidayData['date']] = new Holiday(
                 Day::fromString($holidayData['date']),
                 new HolidayName(new HolidayLocaleName('en', $holidayData['name']))
