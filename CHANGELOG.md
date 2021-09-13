@@ -1,4 +1,4 @@
-## [Unreleased] - 2021-09-11
+## [0.8.0] - 2021-09-13
 
 ### Added
 - [#213](https://github.com/aeon-php/calendar-holidays/pull/213) - **Method for getting holidays for a specific time period** - [@owsiakl](https://github.com/owsiakl)
