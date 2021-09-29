@@ -1,3 +1,8 @@
+## [Unreleased] - 2021-09-29
+
+### Changed
+- [0bece3](https://github.com/aeon-php/calendar-holidays/commit/0bece3fe6e18ef1df49e5fa7a05921614c5cdb71) - **Udated dependencies** - [@norberttech](https://github.com/norberttech)
+
 ## [0.8.0] - 2021-09-13
 
 ### Added
