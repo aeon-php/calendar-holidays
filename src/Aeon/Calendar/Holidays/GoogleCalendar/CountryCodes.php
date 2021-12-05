@@ -6,6 +6,7 @@ namespace Aeon\Calendar\Holidays\GoogleCalendar;
 
 /**
  * @psalm-immutable
+ * @codeCoverageIgnore
  */
 final class CountryCodes
 {
