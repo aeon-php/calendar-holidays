@@ -1,4 +1,4 @@
-## [Unreleased] - 2021-12-06
+## [0.9.0] - 2021-12-06
 
 ### Added
 - [#220](https://github.com/aeon-php/calendar-holidays/pull/220) - **php 8.1 in test suite** - [@norberttech](https://github.com/norberttech)
