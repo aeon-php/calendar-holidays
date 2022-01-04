@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aeon-php/calendar",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "9cc9b7b007e1703ab532ec204f864a6e8ce0147d"
+                "reference": "6a0cf060d1d2e687b8f97fb02f7478965b841896"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/9cc9b7b007e1703ab532ec204f864a6e8ce0147d",
-                "reference": "9cc9b7b007e1703ab532ec204f864a6e8ce0147d",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/6a0cf060d1d2e687b8f97fb02f7478965b841896",
+                "reference": "6a0cf060d1d2e687b8f97fb02f7478965b841896",
                 "shasum": ""
             },
             "require": {
@@ -51,9 +51,9 @@
             ],
             "support": {
                 "issues": "https://github.com/aeon-php/calendar/issues",
-                "source": "https://github.com/aeon-php/calendar/tree/1.0.2"
+                "source": "https://github.com/aeon-php/calendar/tree/1.0.3"
             },
-            "time": "2021-12-05T20:54:21+00:00"
+            "time": "2022-01-03T12:11:17+00:00"
         }
     ],
     "packages-dev": [
@@ -120,12 +120,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flow-php/array-dot.git",
-                "reference": "4a00735518e25780a5e50a733be73a4017cfe2ed"
+                "reference": "8b3b145f0c2a7f5201ff17c62521387391047e86"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/array-dot/zipball/4a00735518e25780a5e50a733be73a4017cfe2ed",
-                "reference": "4a00735518e25780a5e50a733be73a4017cfe2ed",
+                "url": "https://api.github.com/repos/flow-php/array-dot/zipball/8b3b145f0c2a7f5201ff17c62521387391047e86",
+                "reference": "8b3b145f0c2a7f5201ff17c62521387391047e86",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +161,7 @@
                 "issues": "https://github.com/flow-php/array-dot/issues",
                 "source": "https://github.com/flow-php/array-dot/tree/1.x"
             },
-            "time": "2021-11-24T21:22:25+00:00"
+            "time": "2022-01-03T21:17:04+00:00"
         },
         {
             "name": "flow-php/etl",
@@ -169,12 +169,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flow-php/etl.git",
-                "reference": "d64b281e4bff79efe5d5598401eefb4e35e9ca6e"
+                "reference": "a9bea0b01fc7eb9533fb3279b7d589757bd3822a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl/zipball/d64b281e4bff79efe5d5598401eefb4e35e9ca6e",
-                "reference": "d64b281e4bff79efe5d5598401eefb4e35e9ca6e",
+                "url": "https://api.github.com/repos/flow-php/etl/zipball/a9bea0b01fc7eb9533fb3279b7d589757bd3822a",
+                "reference": "a9bea0b01fc7eb9533fb3279b7d589757bd3822a",
                 "shasum": ""
             },
             "require": {
@@ -205,7 +205,7 @@
                 "issues": "https://github.com/flow-php/etl/issues",
                 "source": "https://github.com/flow-php/etl/tree/1.x"
             },
-            "time": "2021-12-06T06:11:08+00:00"
+            "time": "2022-01-03T06:09:19+00:00"
         },
         {
             "name": "flow-php/etl-adapter-json",
@@ -213,12 +213,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flow-php/etl-adapter-json.git",
-                "reference": "f87f5e88dd4006cd4f0a17a42405c30be8e044e9"
+                "reference": "97b9e4fcb473329429a5a42b8692af5a75ae065f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl-adapter-json/zipball/f87f5e88dd4006cd4f0a17a42405c30be8e044e9",
-                "reference": "f87f5e88dd4006cd4f0a17a42405c30be8e044e9",
+                "url": "https://api.github.com/repos/flow-php/etl-adapter-json/zipball/97b9e4fcb473329429a5a42b8692af5a75ae065f",
+                "reference": "97b9e4fcb473329429a5a42b8692af5a75ae065f",
                 "shasum": ""
             },
             "require": {
@@ -227,7 +227,7 @@
                 "php": "^7.4 | ^8.0"
             },
             "require-dev": {
-                "halaxa/json-machine": "^0.6.1"
+                "halaxa/json-machine": "^0.6.1 || ^0.7.0"
             },
             "suggest": {
                 "halaxa/json-machine": "Memory safe json library used by Extractors and Loaders"
@@ -258,7 +258,7 @@
                 "issues": "https://github.com/flow-php/etl-adapter-json/issues",
                 "source": "https://github.com/flow-php/etl-adapter-json/tree/1.x"
             },
-            "time": "2021-11-24T22:18:29+00:00"
+            "time": "2022-01-03T22:16:48+00:00"
         },
         {
             "name": "flow-php/etl-adapter-memory",
@@ -266,12 +266,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flow-php/etl-adapter-memory.git",
-                "reference": "366d0eb2ebabd9ee629530b7dc9cd3c97d3fdae1"
+                "reference": "cedac0618e00761fdda4700b33cba06bddfc3ffb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl-adapter-memory/zipball/366d0eb2ebabd9ee629530b7dc9cd3c97d3fdae1",
-                "reference": "366d0eb2ebabd9ee629530b7dc9cd3c97d3fdae1",
+                "url": "https://api.github.com/repos/flow-php/etl-adapter-memory/zipball/cedac0618e00761fdda4700b33cba06bddfc3ffb",
+                "reference": "cedac0618e00761fdda4700b33cba06bddfc3ffb",
                 "shasum": ""
             },
             "require": {
@@ -303,7 +303,7 @@
                 "issues": "https://github.com/flow-php/etl-adapter-memory/issues",
                 "source": "https://github.com/flow-php/etl-adapter-memory/tree/1.x"
             },
-            "time": "2021-12-06T04:10:43+00:00"
+            "time": "2022-01-03T04:10:44+00:00"
         },
         {
             "name": "flow-php/etl-transformer",
@@ -311,12 +311,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/flow-php/etl-transformer.git",
-                "reference": "b0a3fbb86614fde0e2c5e2a8a727f5858875cfef"
+                "reference": "74c25d162befe24eb137e57fac4587967a1c5046"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl-transformer/zipball/b0a3fbb86614fde0e2c5e2a8a727f5858875cfef",
-                "reference": "b0a3fbb86614fde0e2c5e2a8a727f5858875cfef",
+                "url": "https://api.github.com/repos/flow-php/etl-transformer/zipball/74c25d162befe24eb137e57fac4587967a1c5046",
+                "reference": "74c25d162befe24eb137e57fac4587967a1c5046",
                 "shasum": ""
             },
             "require": {
@@ -361,7 +361,7 @@
                 "issues": "https://github.com/flow-php/etl-transformer/issues",
                 "source": "https://github.com/flow-php/etl-transformer/tree/1.x"
             },
-            "time": "2021-11-29T21:15:38+00:00"
+            "time": "2022-01-03T21:11:33+00:00"
         },
         {
             "name": "google/apiclient",
@@ -436,16 +436,16 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.224.1",
+            "version": "v0.228.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "06e515176ebf32c3dcf7c01b3f377af6bfca6ae3"
+                "reference": "ec64bbf1d6af9475bee7b1ce4fc0ed8a0a8d8889"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/06e515176ebf32c3dcf7c01b3f377af6bfca6ae3",
-                "reference": "06e515176ebf32c3dcf7c01b3f377af6bfca6ae3",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/ec64bbf1d6af9475bee7b1ce4fc0ed8a0a8d8889",
+                "reference": "ec64bbf1d6af9475bee7b1ce4fc0ed8a0a8d8889",
                 "shasum": ""
             },
             "require": {
@@ -474,9 +474,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.224.1"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.228.0"
             },
-            "time": "2021-12-05T12:26:30+00:00"
+            "time": "2021-12-21T12:26:12+00:00"
         },
         {
             "name": "google/auth",
@@ -536,16 +536,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.4.0",
+            "version": "7.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "868b3571a039f0ebc11ac8f344f4080babe2cb94"
+                "reference": "ee0a041b1760e6a53d2a39c8c34115adc2af2c79"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/868b3571a039f0ebc11ac8f344f4080babe2cb94",
-                "reference": "868b3571a039f0ebc11ac8f344f4080babe2cb94",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/ee0a041b1760e6a53d2a39c8c34115adc2af2c79",
+                "reference": "ee0a041b1760e6a53d2a39c8c34115adc2af2c79",
                 "shasum": ""
             },
             "require": {
@@ -554,7 +554,7 @@
                 "guzzlehttp/psr7": "^1.8.3 || ^2.1",
                 "php": "^7.2.5 || ^8.0",
                 "psr/http-client": "^1.0",
-                "symfony/deprecation-contracts": "^2.2"
+                "symfony/deprecation-contracts": "^2.2 || ^3.0"
             },
             "provide": {
                 "psr/http-client-implementation": "1.0"
@@ -640,7 +640,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.4.0"
+                "source": "https://github.com/guzzle/guzzle/tree/7.4.1"
             },
             "funding": [
                 {
@@ -656,7 +656,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-10-18T09:52:00+00:00"
+            "time": "2021-12-06T18:43:05+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1623,5 +1623,5 @@
         "ext-mbstring": "*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
