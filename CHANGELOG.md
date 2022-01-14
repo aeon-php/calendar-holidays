@@ -1,9 +1,10 @@
-## [Unreleased] - 2022-01-06
+## [Unreleased] - 2022-01-14
 
 ### Changed
 - [49b8ec](https://github.com/aeon-php/calendar-holidays/commit/49b8ec94a78dd68192dabdcdd219eaa13203f6bd) - **custom workflows into aeon-php reusable workflows** - [@norberttech](https://github.com/norberttech)
 
 ### Updated
+- [cf2009](https://github.com/aeon-php/calendar-holidays/commit/cf2009232de15b3e666b30f62dc8c29b8b747df5) - **infection** - [@norberttech](https://github.com/norberttech)
 - [dcaccb](https://github.com/aeon-php/calendar-holidays/commit/dcaccbf2e757ea4cd98bf916f9ff98ec2f88a6bd) - **dependencies** - [@norberttech](https://github.com/norberttech)
 
 ## [0.9.0] - 2021-12-06
