@@ -4,24 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e46e29fa6bbd170ea066c96d11ef09ea",
+    "content-hash": "b28bc864401dc221aa123aeb5985504a",
     "packages": [
         {
             "name": "aeon-php/calendar",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "6a0cf060d1d2e687b8f97fb02f7478965b841896"
+                "reference": "2b1c9bb578bd3bf9b47f9e7549bcd2a5bf5e4b25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/6a0cf060d1d2e687b8f97fb02f7478965b841896",
-                "reference": "6a0cf060d1d2e687b8f97fb02f7478965b841896",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/2b1c9bb578bd3bf9b47f9e7549bcd2a5bf5e4b25",
+                "reference": "2b1c9bb578bd3bf9b47f9e7549bcd2a5bf5e4b25",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.4.2 || ^8.0 || ^8.1"
+                "php": "^7.4.2 || ~8.0 || ~8.1"
             },
             "require-dev": {
                 "ext-bcmath": "*"
@@ -51,9 +51,9 @@
             ],
             "support": {
                 "issues": "https://github.com/aeon-php/calendar/issues",
-                "source": "https://github.com/aeon-php/calendar/tree/1.0.3"
+                "source": "https://github.com/aeon-php/calendar/tree/1.0.4"
             },
-            "time": "2022-01-03T12:11:17+00:00"
+            "time": "2022-01-28T13:12:23+00:00"
         }
     ],
     "packages-dev": [
@@ -1624,7 +1624,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.4.2 || ^8.0 || ^8.1",
+        "php": "^7.4.2 || ~8.0 || ~8.1",
         "ext-json": "*",
         "ext-mbstring": "*"
     },
