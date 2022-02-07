@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b28bc864401dc221aa123aeb5985504a",
+    "content-hash": "a84064eb60ea72509edad663c8d7fc20",
     "packages": [
         {
             "name": "aeon-php/calendar",
@@ -859,16 +859,16 @@
         },
         {
             "name": "halaxa/json-machine",
-            "version": "0.8.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/halaxa/json-machine.git",
-                "reference": "a7f1918ac10760ea10c7b276e8ddbf0841bd976a"
+                "reference": "0372736167a86a3f9c8723544e84bdb24ff032a6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/a7f1918ac10760ea10c7b276e8ddbf0841bd976a",
-                "reference": "a7f1918ac10760ea10c7b276e8ddbf0841bd976a",
+                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/0372736167a86a3f9c8723544e84bdb24ff032a6",
+                "reference": "0372736167a86a3f9c8723544e84bdb24ff032a6",
                 "shasum": ""
             },
             "require": {
@@ -887,10 +887,7 @@
             "autoload": {
                 "psr-4": {
                     "JsonMachine\\": "src/"
-                },
-                "files": [
-                    "src/functions.php"
-                ]
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -905,7 +902,7 @@
             "description": "Efficient, easy-to-use and fast JSON pull parser",
             "support": {
                 "issues": "https://github.com/halaxa/json-machine/issues",
-                "source": "https://github.com/halaxa/json-machine/tree/0.8.0"
+                "source": "https://github.com/halaxa/json-machine/tree/1.0.1"
             },
             "funding": [
                 {
@@ -913,7 +910,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2022-01-07T15:21:59+00:00"
+            "time": "2022-02-05T17:55:41+00:00"
         },
         {
             "name": "monolog/monolog",
