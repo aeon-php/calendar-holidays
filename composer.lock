@@ -859,16 +859,16 @@
         },
         {
             "name": "halaxa/json-machine",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/halaxa/json-machine.git",
-                "reference": "c7edb2317c783f931c7f7cc4ab989d29a2151aef"
+                "reference": "b4086dfe72670df060d2bd481f01bc9e450a5640"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/c7edb2317c783f931c7f7cc4ab989d29a2151aef",
-                "reference": "c7edb2317c783f931c7f7cc4ab989d29a2151aef",
+                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/b4086dfe72670df060d2bd481f01bc9e450a5640",
+                "reference": "b4086dfe72670df060d2bd481f01bc9e450a5640",
                 "shasum": ""
             },
             "require": {
@@ -887,7 +887,10 @@
             "autoload": {
                 "psr-4": {
                     "JsonMachine\\": "src/"
-                }
+                },
+                "exclude-from-classmap": [
+                    "src/autoloader.php"
+                ]
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -902,7 +905,7 @@
             "description": "Efficient, easy-to-use and fast JSON pull parser",
             "support": {
                 "issues": "https://github.com/halaxa/json-machine/issues",
-                "source": "https://github.com/halaxa/json-machine/tree/1.1.0"
+                "source": "https://github.com/halaxa/json-machine/tree/1.1.1"
             },
             "funding": [
                 {
@@ -910,7 +913,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2022-02-19T21:00:16+00:00"
+            "time": "2022-03-03T11:02:11+00:00"
         },
         {
             "name": "monolog/monolog",
