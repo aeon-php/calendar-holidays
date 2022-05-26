@@ -18,8 +18,6 @@
     "require-dev": {
         "flow-php/etl": "1.x@dev",
         "flow-php/etl-adapter-json": "1.x@dev",
-        "flow-php/etl-adapter-memory": "1.x@dev",
-        "flow-php/etl-transformer": "1.x@dev",
         "google/apiclient": "^2.0",
         "halaxa/json-machine": "^0.6.1 || ^0.7.0 || ^0.8.0 || ^1.0.0"
     },

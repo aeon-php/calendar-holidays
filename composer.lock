@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a84064eb60ea72509edad663c8d7fc20",
+    "content-hash": "210db67ffe2052f471a6ec5415cdf261",
     "packages": [
         {
             "name": "aeon-php/calendar",
@@ -277,112 +277,6 @@
                 "source": "https://github.com/flow-php/etl-adapter-json/tree/1.x"
             },
             "time": "2022-05-25T07:26:30+00:00"
-        },
-        {
-            "name": "flow-php/etl-adapter-memory",
-            "version": "1.x-dev",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/flow-php/etl-adapter-memory.git",
-                "reference": "4f57587e1801de81ff8138e52f7900f0d4164b45"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl-adapter-memory/zipball/4f57587e1801de81ff8138e52f7900f0d4164b45",
-                "reference": "4f57587e1801de81ff8138e52f7900f0d4164b45",
-                "shasum": ""
-            },
-            "require": {
-                "flow-php/etl": "^1.0@dev",
-                "php": "^7.4.2 || ~8.0"
-            },
-            "default-branch": true,
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Flow\\": [
-                        "src/Flow"
-                    ]
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "PHP ETL - Adapter - Memory",
-            "keywords": [
-                "etl",
-                "extract",
-                "load",
-                "memory",
-                "transform"
-            ],
-            "support": {
-                "issues": "https://github.com/flow-php/etl-adapter-memory/issues",
-                "source": "https://github.com/flow-php/etl-adapter-memory/tree/1.x"
-            },
-            "abandoned": "flow-php/etl",
-            "time": "2022-02-20T11:02:54+00:00"
-        },
-        {
-            "name": "flow-php/etl-transformer",
-            "version": "1.x-dev",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/flow-php/etl-transformer.git",
-                "reference": "9fb054884909dd5a04bcd9071ebb9f581c47effc"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl-transformer/zipball/9fb054884909dd5a04bcd9071ebb9f581c47effc",
-                "reference": "9fb054884909dd5a04bcd9071ebb9f581c47effc",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "flow-php/array-dot": "^1.0@dev",
-                "flow-php/etl": "^1.0@dev",
-                "php": "^7.4 | ^8.0"
-            },
-            "require-dev": {
-                "flow-php/etl-adapter-json": "^1.0@dev",
-                "jawira/case-converter": "^3.4",
-                "laminas/laminas-hydrator": "^4.0",
-                "opis/closure": "^3.5.1",
-                "symfony/validator": "^5.3"
-            },
-            "suggest": {
-                "jawira/case-converter": "Provides CaseConverter that is required by the EntryNameCaseConverterTransformer",
-                "laminas/laminas-hydrator": "Help converting ObjectEntry into ArrayEntry that can be later unpack into standalone Entries",
-                "ocramius/generated-hydrator": "Provieds generated hydrator that implemenets Laminas\\Hydrator\\HydratorInterface"
-            },
-            "default-branch": true,
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Flow\\": [
-                        "src/Flow"
-                    ]
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "PHP ETL - Transformers",
-            "keywords": [
-                "etl",
-                "extract",
-                "filter",
-                "load",
-                "transform"
-            ],
-            "support": {
-                "issues": "https://github.com/flow-php/etl-transformer/issues",
-                "source": "https://github.com/flow-php/etl-transformer/tree/1.x"
-            },
-            "abandoned": "flow-php/etl",
-            "time": "2022-02-19T15:38:38+00:00"
         },
         {
             "name": "google/apiclient",
@@ -1643,9 +1537,7 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "flow-php/etl": 20,
-        "flow-php/etl-adapter-json": 20,
-        "flow-php/etl-adapter-memory": 20,
-        "flow-php/etl-transformer": 20
+        "flow-php/etl-adapter-json": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
