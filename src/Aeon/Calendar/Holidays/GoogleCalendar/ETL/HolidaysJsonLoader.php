@@ -9,6 +9,9 @@ use Flow\ETL\Row;
 use Flow\ETL\Row\Entries;
 use Flow\ETL\Rows;
 
+/**
+ * @implements Loader<array<mixed>>
+ */
 final class HolidaysJsonLoader implements Loader
 {
     private string $holidaysFilesPath;
@@ -16,6 +19,15 @@ final class HolidaysJsonLoader implements Loader
     public function __construct(string $holidaysFilesPath)
     {
         $this->holidaysFilesPath = $holidaysFilesPath;
+    }
+
+    public function __serialize() : array
+    {
+        return [];
+    }
+
+    public function __unserialize(array $data) : void
+    {
     }
 
     public function load(Rows $rows) : void

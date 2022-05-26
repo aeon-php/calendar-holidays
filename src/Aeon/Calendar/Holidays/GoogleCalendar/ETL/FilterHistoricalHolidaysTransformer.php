@@ -9,6 +9,9 @@ use Flow\ETL\Row;
 use Flow\ETL\Rows;
 use Flow\ETL\Transformer;
 
+/**
+ * @implements Transformer<array<mixed>>
+ */
 final class FilterHistoricalHolidaysTransformer implements Transformer
 {
     private Calendar $calendar;
@@ -19,6 +22,15 @@ final class FilterHistoricalHolidaysTransformer implements Transformer
     {
         $this->calendar = $calendar;
         $this->holidaysFilesPath = $holidaysFilesPath;
+    }
+
+    public function __serialize() : array
+    {
+        return [];
+    }
+
+    public function __unserialize(array $data) : void
+    {
     }
 
     public function transform(Rows $rows) : Rows
