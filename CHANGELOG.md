@@ -11,6 +11,9 @@
 - [cf2009](https://github.com/aeon-php/calendar-holidays/commit/cf2009232de15b3e666b30f62dc8c29b8b747df5) - **infection** - [@norberttech](https://github.com/norberttech)
 - [dcaccb](https://github.com/aeon-php/calendar-holidays/commit/dcaccbf2e757ea4cd98bf916f9ff98ec2f88a6bd) - **dependencies** - [@norberttech](https://github.com/norberttech)
 
+### Removed
+- [0074d7](https://github.com/aeon-php/calendar-holidays/commit/0074d771b934c5b2205422d90e03a9eb412a6230) - **legacy flow-php components** - [@norberttech](https://github.com/norberttech)
+
 ## [0.9.0] - 2021-12-06
 
 ### Added
