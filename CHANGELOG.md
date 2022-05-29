@@ -1,4 +1,7 @@
-## [Unreleased] - 2022-05-26
+## [Unreleased] - 2022-05-29
+
+### Added
+- [8a3552](https://github.com/aeon-php/calendar-holidays/commit/8a355209233537f964068391284d4f96797743b9) - **new holidays dump and fixed countriesdb** - [@norberttech](https://github.com/norberttech)
 
 ### Changed
 - [49b8ec](https://github.com/aeon-php/calendar-holidays/commit/49b8ec94a78dd68192dabdcdd219eaa13203f6bd) - **custom workflows into aeon-php reusable workflows** - [@norberttech](https://github.com/norberttech)
