@@ -398,5 +398,105 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's (Day 2)"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Orthodox Christmas Eve"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Independence Day (Federation of Bosnia and Herzegovina)"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Orthodox Good Friday"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Orthodox Holy Saturday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Orthodox Easter Sunday"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "End of Ramadan"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-05-02",
+        "name": "Labor Day (Day 2)"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory Day (Federation of Bosnia and Herzegovina)"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Feast of the Sacrifice"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve (regional holiday)"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

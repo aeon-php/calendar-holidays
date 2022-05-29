@@ -460,12 +460,24 @@
         "name": "Queen Suthida's Birthday"
     },
     {
+        "date": "2022-07-13",
+        "name": "Asalha Bucha"
+    },
+    {
         "date": "2022-07-14",
         "name": "Buddhist Lent Day"
     },
     {
+        "date": "2022-07-15",
+        "name": "Bridge Public holiday"
+    },
+    {
         "date": "2022-07-28",
         "name": "King Vajiralongkorn's Birthday"
+    },
+    {
+        "date": "2022-07-29",
+        "name": "Bridge Public holiday"
     },
     {
         "date": "2022-08-12",
@@ -476,12 +488,16 @@
         "name": "Anniversary of the Death of King Bhumibol"
     },
     {
+        "date": "2022-10-14",
+        "name": "Bridge Public holiday"
+    },
+    {
         "date": "2022-10-23",
         "name": "Chulalongkorn Day"
     },
     {
         "date": "2022-10-24",
-        "name": "Chulalongkorn Day observed"
+        "name": "Day off for Chulalongkorn Day"
     },
     {
         "date": "2022-12-05",
@@ -504,7 +520,123 @@
         "name": "Christmas Day"
     },
     {
+        "date": "2022-12-30",
+        "name": "Bridge Public holiday"
+    },
+    {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Second Day of Lunar New Year"
+    },
+    {
+        "date": "2023-01-24",
+        "name": "Third Day of Lunar New Year"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-03-06",
+        "name": "Makha Bucha"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Chakri Day"
+    },
+    {
+        "date": "2023-04-13",
+        "name": "Songkran"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Songkran"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Songkran"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-05-04",
+        "name": "Coronation Day"
+    },
+    {
+        "date": "2023-05-11",
+        "name": "Royal Ploughing Ceremony Day"
+    },
+    {
+        "date": "2023-06-03",
+        "name": "Queen Suthida's Birthday"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "Queen Suthida's Birthday observed"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "King Vajiralongkorn's Birthday"
+    },
+    {
+        "date": "2023-08-02",
+        "name": "Buddhist Lent Day"
+    },
+    {
+        "date": "2023-08-11",
+        "name": "The Queen's Birthday observed"
+    },
+    {
+        "date": "2023-08-12",
+        "name": "The Queen's Birthday"
+    },
+    {
+        "date": "2023-10-13",
+        "name": "Anniversary of the Death of King Bhumibol"
+    },
+    {
+        "date": "2023-10-23",
+        "name": "Chulalongkorn Day"
+    },
+    {
+        "date": "2023-12-05",
+        "name": "King Bhumibol's Birthday\/Father's Day"
+    },
+    {
+        "date": "2023-12-10",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-12-11",
+        "name": "Constitution Day observed"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

@@ -254,5 +254,69 @@
     {
         "date": "2022-12-26",
         "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year holiday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-06-19",
+        "name": "Day off for Constitution Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Immaculate Conception"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

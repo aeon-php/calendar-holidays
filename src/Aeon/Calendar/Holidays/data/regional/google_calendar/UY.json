@@ -126,5 +126,37 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-07-18",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-08-25",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

@@ -324,6 +324,10 @@
         "name": "Flag Day"
     },
     {
+        "date": "2022-10-11",
+        "name": "Bolivian Women's Day"
+    },
+    {
         "date": "2022-10-12",
         "name": "Indigenous Resistance's Day"
     },
@@ -342,5 +346,105 @@
     {
         "date": "2022-12-26",
         "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Plurinational State Foundation Day"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Day off for Plurinational State Foundation Day"
+    },
+    {
+        "date": "2023-02-02",
+        "name": "Feast of Candelaria"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Carnival \/ Shrove Monday"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnival \/ Shrove Tuesday \/ Pancake Day"
+    },
+    {
+        "date": "2023-03-19",
+        "name": "Father Day"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Day of the Sea"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-12",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-27",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-21",
+        "name": "Aymara New Year Day"
+    },
+    {
+        "date": "2023-08-06",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Day off for Independence Day"
+    },
+    {
+        "date": "2023-08-17",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2023-10-11",
+        "name": "Bolivian Women's Day"
+    },
+    {
+        "date": "2023-10-12",
+        "name": "Indigenous Resistance's Day"
+    },
+    {
+        "date": "2023-10-17",
+        "name": "Day of Dignity"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

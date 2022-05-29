@@ -441,7 +441,7 @@
     },
     {
         "date": "2022-07-11",
-        "name": "Eid al-Adha holiday"
+        "name": "Eid al-Adha Holiday"
     },
     {
         "date": "2022-07-30",
@@ -477,6 +477,130 @@
     },
     {
         "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Orthodox Christmas"
+    },
+    {
+        "date": "2023-02-09",
+        "name": "St Maron's Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Commemoration of the Assasination of PM Rafic Hariri"
+    },
+    {
+        "date": "2023-03-09",
+        "name": "Teachers' Day"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-03-25",
+        "name": "Feast of the Annunciation"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Orthodox Good Friday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Orthodox Easter Day"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid ul Fitr Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-05-07",
+        "name": "Liberation and Resistance Holiday"
+    },
+    {
+        "date": "2023-05-07",
+        "name": "Martyr's Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Liberation and Resistance Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Ashoura"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-09-08",
+        "name": "Nativity of Mary"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-11-22",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-25",
         "name": "Christmas Day"
     }
 ]

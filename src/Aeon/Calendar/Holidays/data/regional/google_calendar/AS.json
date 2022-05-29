@@ -206,5 +206,57 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-16",
+        "name": "Martin Luther King Jr. Day"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "President's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2023-07-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-07-16",
+        "name": "Manu'a Cession Day"
+    },
+    {
+        "date": "2023-09-04",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Columbus Day"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Veterans' Day"
+    },
+    {
+        "date": "2023-11-23",
+        "name": "Thanksgiving"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

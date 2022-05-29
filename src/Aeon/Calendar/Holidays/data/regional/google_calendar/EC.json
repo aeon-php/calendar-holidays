@@ -312,15 +312,91 @@
         "name": "Day off for All Souls' Day"
     },
     {
+        "date": "2022-12-06",
+        "name": "Foundation of Quito"
+    },
+    {
         "date": "2022-12-25",
         "name": "Christmas Day"
     },
     {
-        "date": "2022-12-26",
-        "name": "Day off for Christmas Day"
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
     },
     {
-        "date": "2022-12-31",
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Carnival"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnival"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-24",
+        "name": "The Battle of Pichincha"
+    },
+    {
+        "date": "2023-05-26",
+        "name": "Day off for The Battle of Pichincha"
+    },
+    {
+        "date": "2023-07-24",
+        "name": "Sim\u00f3n Bol\u00edvar's Birthday Memorial"
+    },
+    {
+        "date": "2023-08-10",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-08-11",
+        "name": "Day off for Independence Day"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Independence of Guayaquil"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2023-11-03",
+        "name": "Independence of Cuenca"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

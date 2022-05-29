@@ -320,6 +320,10 @@
         "name": "Fathers' Day"
     },
     {
+        "date": "2022-07-01",
+        "name": "Republic Day"
+    },
+    {
         "date": "2022-07-10",
         "name": "Eid al-Adha"
     },
@@ -348,11 +352,95 @@
         "name": "Boxing Day"
     },
     {
-        "date": "2022-12-26",
-        "name": "Day off for Christmas Day"
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
     },
     {
-        "date": "2022-12-31",
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-03-06",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid ul-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "African Union Day"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2023-08-04",
+        "name": "Founders' Day"
+    },
+    {
+        "date": "2023-09-21",
+        "name": "Kwame Nkrumah Memorial Day"
+    },
+    {
+        "date": "2023-12-01",
+        "name": "Farmer's Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

@@ -258,5 +258,73 @@
     {
         "date": "2022-12-31",
         "name": "New Year\u00b4s Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Day of Love and Friendship"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-30",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "The Sandinista Revolution Day"
+    },
+    {
+        "date": "2023-09-02",
+        "name": "Army Day"
+    },
+    {
+        "date": "2023-09-14",
+        "name": "Battle of San Jacinto"
+    },
+    {
+        "date": "2023-09-15",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-10-12",
+        "name": "Indigenous Resistance Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year\u00b4s Eve"
     }
 ]

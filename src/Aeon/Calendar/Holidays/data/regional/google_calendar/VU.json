@@ -265,14 +265,78 @@
     },
     {
         "date": "2022-12-26",
-        "name": "Day off for Christmas Day"
-    },
-    {
-        "date": "2022-12-26",
         "name": "Family Day"
     },
     {
         "date": "2022-12-27",
         "name": "Day off for Family Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Father Lini Day"
+    },
+    {
+        "date": "2023-03-05",
+        "name": "Custom Chief's Day"
+    },
+    {
+        "date": "2023-03-06",
+        "name": "Day off for Custom Chief's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-07-24",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-07-30",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-07-31",
+        "name": "Day off for Independence Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-10-05",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-11-29",
+        "name": "Unity Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Family Day"
     }
 ]

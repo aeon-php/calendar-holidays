@@ -172,12 +172,16 @@
         "name": "Labour Day"
     },
     {
-        "date": "2022-06-06",
-        "name": "Whit Monday"
+        "date": "2022-06-02",
+        "name": "The Queen's Birthday Celebration"
     },
     {
-        "date": "2022-06-13",
-        "name": "Queen's Birthday Celebration"
+        "date": "2022-06-03",
+        "name": "The Queen's Platinum Jubilee"
+    },
+    {
+        "date": "2022-06-06",
+        "name": "Whit Monday"
     },
     {
         "date": "2022-08-01",
@@ -197,6 +201,54 @@
     },
     {
         "date": "2022-12-31",
+        "name": "Festival Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-03-17",
+        "name": "St. Patrick's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-12",
+        "name": "The Queen's Birthday Celebration"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Emancipation Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "Festival Day"
     }
 ]

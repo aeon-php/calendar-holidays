@@ -206,5 +206,65 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-06",
+        "name": "St. Brigid\u2019s Day"
+    },
+    {
+        "date": "2023-03-17",
+        "name": "St. Patrick's Day"
+    },
+    {
+        "date": "2023-03-19",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "June Bank Holiday"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "August Bank Holiday"
+    },
+    {
+        "date": "2023-10-30",
+        "name": "October Bank Holiday"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "St. Stephen's Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

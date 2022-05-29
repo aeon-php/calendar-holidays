@@ -378,5 +378,97 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2023-02-23",
+        "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Women's Day"
+    },
+    {
+        "date": "2023-03-15",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Union Day of Belarus and Russia"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Catholic Easter Sunday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Orthodox Easter Sunday"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "Radonitsa"
+    },
+    {
+        "date": "2023-04-26",
+        "name": "Day of Remembrance of the Chernobyl Tragedy"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Day of the National Emblem and Flag of Belarus"
+    },
+    {
+        "date": "2023-06-22",
+        "name": "Remembrance Day of Victims of the Great Patriotic War"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "Independence Day of the Republic of Belarus"
+    },
+    {
+        "date": "2023-07-06",
+        "name": "Kupalle (Day 1)"
+    },
+    {
+        "date": "2023-07-07",
+        "name": "Kupalle (Day 2)"
+    },
+    {
+        "date": "2023-09-17",
+        "name": "National Unity Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2023-11-07",
+        "name": "October Revolution Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Catholic Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

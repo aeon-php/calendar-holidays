@@ -230,5 +230,61 @@
     {
         "date": "2022-12-26",
         "name": "Boxing Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-27",
+        "name": "King's Day"
+    },
+    {
+        "date": "2023-04-30",
+        "name": "Carnival Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Emancipation Day"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Sint Maarten's Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

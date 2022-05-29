@@ -448,12 +448,20 @@
         "name": "First Day of LGBTQ+ Pride Month"
     },
     {
+        "date": "2022-06-14",
+        "name": "Flag Day"
+    },
+    {
         "date": "2022-06-19",
         "name": "Father's Day"
     },
     {
         "date": "2022-06-19",
         "name": "Juneteenth"
+    },
+    {
+        "date": "2022-06-20",
+        "name": "Juneteenth (substitute)"
     },
     {
         "date": "2022-07-04",
@@ -513,10 +521,154 @@
     },
     {
         "date": "2022-12-26",
-        "name": "Day off for Christmas Day"
+        "name": "Christmas Day (substitute)"
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day (substitute)"
+    },
+    {
+        "date": "2023-01-16",
+        "name": "Martin Luther King Jr. Day"
+    },
+    {
+        "date": "2023-02-01",
+        "name": "First Day of Black History Month"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Presidents' Day"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "First Day of Women's History Month"
+    },
+    {
+        "date": "2023-03-12",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-03-17",
+        "name": "St. Patrick's Day"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-18",
+        "name": "Tax Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "First Day of Asian Pacific American Heritage Month"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Cinco de Mayo"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2023-06-01",
+        "name": "First Day of LGBTQ+ Pride Month"
+    },
+    {
+        "date": "2023-06-14",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-06-19",
+        "name": "Juneteenth"
+    },
+    {
+        "date": "2023-07-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-09-04",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-09-15",
+        "name": "First Day of Hispanic Heritage Month"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Columbus Day"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Indigenous Peoples' Day"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "First Day of American Indian Heritage Month"
+    },
+    {
+        "date": "2023-11-05",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-07",
+        "name": "Election Day"
+    },
+    {
+        "date": "2023-11-10",
+        "name": "Veterans Day (substitute)"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Veterans Day"
+    },
+    {
+        "date": "2023-11-23",
+        "name": "Thanksgiving Day"
+    },
+    {
+        "date": "2023-11-24",
+        "name": "Native American Heritage Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

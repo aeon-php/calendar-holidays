@@ -796,10 +796,6 @@
         "name": "Thanksgiving Day (regional holiday)"
     },
     {
-        "date": "2022-10-18",
-        "name": "Healthcare Aide Day (regional holiday)"
-    },
-    {
         "date": "2022-10-31",
         "name": "Halloween"
     },
@@ -828,11 +824,223 @@
         "name": "Boxing Day (regional holiday)"
     },
     {
-        "date": "2022-12-27",
-        "name": "Boxing Day (New Brunswick)"
+        "date": "2022-12-26",
+        "name": "Day off for Boxing Day (Saskatchewan)"
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day After New Year\u2019s Day (Quebec)"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-02-02",
+        "name": "Groundhog Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Family Day (regional holiday)"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Islander Day (Prince Edward Island)"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Louis Riel Day (Manitoba)"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Nova Scotia Heritage Day (Nova Scotia)"
+    },
+    {
+        "date": "2023-02-24",
+        "name": "Yukon Heritage Day (Yukon)"
+    },
+    {
+        "date": "2023-03-12",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-03-13",
+        "name": "Commonwealth Day"
+    },
+    {
+        "date": "2023-03-17",
+        "name": "St. Patrick's Day"
+    },
+    {
+        "date": "2023-03-20",
+        "name": "St. Patrick's Day (Newfoundland and Labrador)"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Tartan Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday (regional holiday)"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Vimy Ridge Day"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday (regional holiday)"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "St. George's Day (Newfoundland and Labrador)"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-22",
+        "name": "National Patriots' Day (Quebec)"
+    },
+    {
+        "date": "2023-05-22",
+        "name": "Victoria Day (regional holiday)"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-06-21",
+        "name": "National Indigenous Peoples Day (regional holiday)"
+    },
+    {
+        "date": "2023-06-24",
+        "name": "St. Jean Baptiste Day (Quebec)"
+    },
+    {
+        "date": "2023-06-26",
+        "name": "June Holiday (Newfoundland and Labrador)"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Canada Day"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Memorial Day (Newfoundland and Labrador)"
+    },
+    {
+        "date": "2023-07-09",
+        "name": "Nunavut Day (Nunavut)"
+    },
+    {
+        "date": "2023-07-10",
+        "name": "Nunavut Day observed (Nunavut)"
+    },
+    {
+        "date": "2023-07-10",
+        "name": "Orangemen's Day (Newfoundland and Labrador)"
+    },
+    {
+        "date": "2023-08-02",
+        "name": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "British Columbia Day (British Columbia)"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Civic\/Provincial Day (regional holiday)"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Heritage Day (Alberta)"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Natal Day (Nova Scotia)"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "New Brunswick Day (New Brunswick)"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Saskatchewan Day (Saskatchewan)"
+    },
+    {
+        "date": "2023-08-18",
+        "name": "Gold Cup Parade (Prince Edward Island)"
+    },
+    {
+        "date": "2023-08-21",
+        "name": "Discovery Day (Yukon)"
+    },
+    {
+        "date": "2023-09-04",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-09-30",
+        "name": "National Day for Truth and Reconciliation"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Thanksgiving Day (regional holiday)"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-11-05",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Remembrance Day (regional holiday)"
+    },
+    {
+        "date": "2023-12-11",
+        "name": "Anniversary of the Statute of Westminster"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day (regional holiday)"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

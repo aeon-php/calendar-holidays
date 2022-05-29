@@ -310,5 +310,77 @@
     {
         "date": "2022-11-30",
         "name": "Independence Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Isra and Mi'raj"
+    },
+    {
+        "date": "2023-04-20",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Eid al-Fitr Eve"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-05-22",
+        "name": "Unity Day"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Eid al-Adha Eve"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2023-07-02",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2023-07-07",
+        "name": "July 7th Anniversary"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram"
+    },
+    {
+        "date": "2023-09-26",
+        "name": "Revolution Day"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-10-14",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-11-30",
+        "name": "Independence Day"
     }
 ]

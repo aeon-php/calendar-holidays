@@ -254,5 +254,77 @@
     {
         "date": "2022-12-27",
         "name": "Christmas Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-01-31",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-02-01",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-11",
+        "name": "Easter Tuesday"
+    },
+    {
+        "date": "2023-05-17",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "RONPhos Handover"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "Day off for RONPhos Handover"
+    },
+    {
+        "date": "2023-08-19",
+        "name": "Day of the Tribes"
+    },
+    {
+        "date": "2023-08-21",
+        "name": "Day of the Tribes observed"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Sir Hammer DeRoburt Day"
+    },
+    {
+        "date": "2023-10-26",
+        "name": "Angam Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Christmas Day observed"
     }
 ]

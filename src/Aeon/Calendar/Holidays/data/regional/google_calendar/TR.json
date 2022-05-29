@@ -264,24 +264,24 @@
         "name": "Commemoration of Atat\u00fcrk, Youth and Sports Day"
     },
     {
-        "date": "2022-07-09",
+        "date": "2022-07-08",
         "name": "Sacrifice Feast Eve"
     },
     {
-        "date": "2022-07-10",
+        "date": "2022-07-09",
         "name": "Sacrifice Feast"
     },
     {
+        "date": "2022-07-10",
+        "name": "Sacrifice Feast Holiday"
+    },
+    {
         "date": "2022-07-11",
-        "name": "Sacrifice Feast Day 2"
+        "name": "Sacrifice Feast Holiday"
     },
     {
         "date": "2022-07-12",
-        "name": "Sacrifice Feast Day 3"
-    },
-    {
-        "date": "2022-07-13",
-        "name": "Sacrifice Feast Day 4"
+        "name": "Sacrifice Feast Holiday"
     },
     {
         "date": "2022-07-15",
@@ -305,6 +305,82 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Ramadan Feast Eve"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Ramadan Feast"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "National Sovereignty and Children's Day"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Ramadan Feast Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Ramadan Feast Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor and Solidarity Day"
+    },
+    {
+        "date": "2023-05-19",
+        "name": "Commemoration of Atat\u00fcrk, Youth and Sports Day"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Sacrifice Feast Eve"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Sacrifice Feast"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Sacrifice Feast Holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Sacrifice Feast Holiday"
+    },
+    {
+        "date": "2023-07-02",
+        "name": "Sacrifice Feast Holiday"
+    },
+    {
+        "date": "2023-07-15",
+        "name": "Democracy and National Unity Day"
+    },
+    {
+        "date": "2023-08-30",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-10-28",
+        "name": "Republic Day Eve"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2023-11-10",
+        "name": "Ataturk Memorial Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

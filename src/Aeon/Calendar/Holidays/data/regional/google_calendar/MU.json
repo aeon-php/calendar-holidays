@@ -274,5 +274,73 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year (Day 2)"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Chinese Spring Festival"
+    },
+    {
+        "date": "2023-02-01",
+        "name": "Abolition of Slavery"
+    },
+    {
+        "date": "2023-02-05",
+        "name": "Thaipoosam Cavadee"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Maha Shivaratree"
+    },
+    {
+        "date": "2023-03-12",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Ougadi"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-09-18",
+        "name": "Ganesh Chaturthi"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "Arrival of Indentured Labourers"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Divali"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

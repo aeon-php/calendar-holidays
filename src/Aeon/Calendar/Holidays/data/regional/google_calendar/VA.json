@@ -398,5 +398,105 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-02-11",
+        "name": "Anniversary of the foundation of Vatican City"
+    },
+    {
+        "date": "2023-03-13",
+        "name": "Anniversary of the election of Pope Francis"
+    },
+    {
+        "date": "2023-03-19",
+        "name": "St Joseph's Day"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "St George's Feast"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Feast of St Joseph the Worker"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Domini"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "The Feasts of Saints Peter and Paul"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Day of the Assumption of Mary"
+    },
+    {
+        "date": "2023-08-16",
+        "name": "Assumption Day Holiday"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "St Stephen's Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

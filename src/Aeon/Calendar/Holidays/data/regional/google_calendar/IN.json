@@ -768,7 +768,7 @@
         "name": "Bakr Id\/Eid ul-Adha"
     },
     {
-        "date": "2022-08-08",
+        "date": "2022-08-09",
         "name": "Muharram\/Ashura"
     },
     {
@@ -878,5 +878,229 @@
     {
         "date": "2022-12-29",
         "name": "Guru Govind Singh Jayanti"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-14",
+        "name": "Lohri"
+    },
+    {
+        "date": "2023-01-15",
+        "name": "Makar Sankranti"
+    },
+    {
+        "date": "2023-01-15",
+        "name": "Pongal"
+    },
+    {
+        "date": "2023-01-25",
+        "name": "Vasant Panchami"
+    },
+    {
+        "date": "2023-01-26",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2023-02-04",
+        "name": "Hazarat Ali's Birthday"
+    },
+    {
+        "date": "2023-02-05",
+        "name": "Guru Ravidas Jayanti"
+    },
+    {
+        "date": "2023-02-15",
+        "name": "Maharishi Dayanand Saraswati Jayanti"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Maha Shivaratri\/Shivaratri"
+    },
+    {
+        "date": "2023-02-19",
+        "name": "Shivaji Jayanti"
+    },
+    {
+        "date": "2023-03-07",
+        "name": "Dolyatra"
+    },
+    {
+        "date": "2023-03-07",
+        "name": "Holika Dahana"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Holi"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Chaitra Sukhladi"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Gudi Padwa"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Ugadi"
+    },
+    {
+        "date": "2023-03-30",
+        "name": "Rama Navami"
+    },
+    {
+        "date": "2023-04-04",
+        "name": "Mahavir Jayanti"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Day"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Ambedkar Jayanti"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Vaisakhi"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Jamat Ul-Vida"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Ramzan Id\/Eid-ul-Fitar"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Buddha Purnima\/Vesak"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Birthday of Rabindranath"
+    },
+    {
+        "date": "2023-06-20",
+        "name": "Rath Yatra"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Bakr Id\/Eid ul-Adha"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Muharram\/Ashura"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-08-16",
+        "name": "Parsi New Year"
+    },
+    {
+        "date": "2023-08-29",
+        "name": "Onam"
+    },
+    {
+        "date": "2023-08-30",
+        "name": "Raksha Bandhan (Rakhi)"
+    },
+    {
+        "date": "2023-09-06",
+        "name": "Janmashtami (Smarta)"
+    },
+    {
+        "date": "2023-09-07",
+        "name": "Janmashtami"
+    },
+    {
+        "date": "2023-09-19",
+        "name": "Ganesh Chaturthi\/Vinayaka Chaturthi"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Milad un-Nabi\/Id-e-Milad"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Mahatma Gandhi Jayanti"
+    },
+    {
+        "date": "2023-10-15",
+        "name": "First Day of Sharad Navratri"
+    },
+    {
+        "date": "2023-10-20",
+        "name": "First Day of Durga Puja Festivities"
+    },
+    {
+        "date": "2023-10-21",
+        "name": "Maha Saptami"
+    },
+    {
+        "date": "2023-10-22",
+        "name": "Maha Ashtami"
+    },
+    {
+        "date": "2023-10-23",
+        "name": "Maha Navami"
+    },
+    {
+        "date": "2023-10-24",
+        "name": "Dussehra"
+    },
+    {
+        "date": "2023-10-28",
+        "name": "Maharishi Valmiki Jayanti"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "Karaka Chaturthi (Karva Chauth)"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Naraka Chaturdasi"
+    },
+    {
+        "date": "2023-11-14",
+        "name": "Bhai Duj"
+    },
+    {
+        "date": "2023-11-14",
+        "name": "Govardhan Puja"
+    },
+    {
+        "date": "2023-11-19",
+        "name": "Chhat Puja (Pratihar Sashthi\/Surya Sashthi)"
+    },
+    {
+        "date": "2023-11-24",
+        "name": "Guru Tegh Bahadur's Martyrdom Day"
+    },
+    {
+        "date": "2023-11-27",
+        "name": "Guru Nanak Jayanti"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas"
     }
 ]

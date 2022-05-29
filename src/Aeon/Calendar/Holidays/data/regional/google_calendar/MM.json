@@ -424,7 +424,7 @@
         "name": "Eid al-Adha"
     },
     {
-        "date": "2022-07-13",
+        "date": "2022-07-12",
         "name": "Full Moon Day of Waso (Beginning of Buddhist Lent)"
     },
     {
@@ -432,15 +432,15 @@
         "name": "Martyrs' Day"
     },
     {
-        "date": "2022-10-09",
+        "date": "2022-10-08",
         "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
     },
     {
-        "date": "2022-10-10",
+        "date": "2022-10-09",
         "name": "Full Moon Day of Thadingyut (End of Buddhist Lent)"
     },
     {
-        "date": "2022-10-11",
+        "date": "2022-10-10",
         "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
     },
     {
@@ -448,16 +448,20 @@
         "name": "Diwali\/Deepavali"
     },
     {
-        "date": "2022-11-08",
+        "date": "2022-11-06",
         "name": "Full Moon Day of Tazaungmone"
     },
     {
-        "date": "2022-11-09",
+        "date": "2022-11-07",
         "name": "Full Moon Day of Tazaungmone Holiday"
     },
     {
-        "date": "2022-11-18",
+        "date": "2022-11-17",
         "name": "National Day"
+    },
+    {
+        "date": "2022-12-22",
+        "name": "Kayin New Year Day"
     },
     {
         "date": "2022-12-25",
@@ -465,6 +469,98 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2023-01-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-02-12",
+        "name": "Union Day"
+    },
+    {
+        "date": "2023-03-02",
+        "name": "Peasants' Day"
+    },
+    {
+        "date": "2023-03-06",
+        "name": "Full Moon Day of Tabaung"
+    },
+    {
+        "date": "2023-03-27",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2023-04-13",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Full Moon Day of Waso (Beginning of Buddhist Lent)"
+    },
+    {
+        "date": "2023-10-28",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Full Moon Day of Thadingyut (End of Buddhist Lent)"
+    },
+    {
+        "date": "2023-10-30",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2023-11-26",
+        "name": "Full Moon Day of Tazaungmone Holiday"
+    },
+    {
+        "date": "2023-11-27",
+        "name": "Full Moon Day of Tazaungmone"
+    },
+    {
+        "date": "2023-12-09",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year Holiday"
     }
 ]

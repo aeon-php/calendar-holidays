@@ -360,8 +360,16 @@
         "name": "St Anthony's Day"
     },
     {
+        "date": "2022-06-16",
+        "name": "Corpus Christi"
+    },
+    {
         "date": "2022-06-24",
         "name": "Carabobo Battle"
+    },
+    {
+        "date": "2022-06-29",
+        "name": "Saint Peter and Saint Paul"
     },
     {
         "date": "2022-07-05",
@@ -388,6 +396,10 @@
         "name": "Indigenous Resistance's Day"
     },
     {
+        "date": "2022-10-26",
+        "name": "Dr. Jos\u00e9 Gregorio Hern\u00e1ndez Day"
+    },
+    {
         "date": "2022-11-01",
         "name": "All Saints Day"
     },
@@ -396,8 +408,16 @@
         "name": "All Souls Day"
     },
     {
+        "date": "2022-11-18",
+        "name": "Day of the Virgin of the Rosary of Chiquinquir\u00e1"
+    },
+    {
         "date": "2022-11-27",
         "name": "Aviation Day"
+    },
+    {
+        "date": "2022-12-08",
+        "name": "Feast of the Immaculate Conception"
     },
     {
         "date": "2022-12-24",
@@ -408,11 +428,103 @@
         "name": "Christmas Day"
     },
     {
-        "date": "2022-12-26",
-        "name": "Christmas Day observed"
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
     },
     {
-        "date": "2022-12-31",
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Carnival \/ Shrove Monday"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnival \/ Shrove Tuesday \/ Pancake Day"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-19",
+        "name": "Declaration of Independence"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-06-13",
+        "name": "St Anthony's Day"
+    },
+    {
+        "date": "2023-06-24",
+        "name": "Carabobo Battle"
+    },
+    {
+        "date": "2023-07-05",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-07-24",
+        "name": "Sim\u00f3n Bol\u00edvar's Birthday"
+    },
+    {
+        "date": "2023-08-03",
+        "name": "Flag's Day"
+    },
+    {
+        "date": "2023-08-04",
+        "name": "National Guard's Day"
+    },
+    {
+        "date": "2023-09-11",
+        "name": "Our Lady of Coromoto"
+    },
+    {
+        "date": "2023-10-12",
+        "name": "Indigenous Resistance's Day"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Souls Day"
+    },
+    {
+        "date": "2023-11-27",
+        "name": "Aviation Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Eve observed"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

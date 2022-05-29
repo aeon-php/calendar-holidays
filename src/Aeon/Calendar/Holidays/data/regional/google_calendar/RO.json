@@ -453,7 +453,11 @@
     },
     {
         "date": "2022-12-01",
-        "name": "National holiday"
+        "name": "National Day"
+    },
+    {
+        "date": "2022-12-02",
+        "name": "Public Sector Holiday"
     },
     {
         "date": "2022-12-08",
@@ -473,6 +477,126 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day after New Year's Day"
+    },
+    {
+        "date": "2023-01-24",
+        "name": "Unification Day"
+    },
+    {
+        "date": "2023-02-19",
+        "name": "Constantin Brancusi Day"
+    },
+    {
+        "date": "2023-02-24",
+        "name": "Dragobete"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "M\u0103r\u021bi\u0219or"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Orthodox Good Friday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Orthodox Easter Day"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-07",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-10",
+        "name": "Monarchy Day"
+    },
+    {
+        "date": "2023-05-10",
+        "name": "National Independence Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Orthodox Ascension Day"
+    },
+    {
+        "date": "2023-06-01",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-06-04",
+        "name": "Orthodox Pentecost"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "Orthodox Pentecost Monday"
+    },
+    {
+        "date": "2023-06-26",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2023-07-29",
+        "name": "National Anthem Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "St Mary's Day"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-11-30",
+        "name": "St Andrew's Day"
+    },
+    {
+        "date": "2023-12-01",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Second day of Christmas"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

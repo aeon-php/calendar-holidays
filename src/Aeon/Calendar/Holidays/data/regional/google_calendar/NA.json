@@ -226,5 +226,65 @@
     {
         "date": "2022-12-26",
         "name": "Family Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year observed"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Workers' Day"
+    },
+    {
+        "date": "2023-05-04",
+        "name": "Cassinga Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Africa Day"
+    },
+    {
+        "date": "2023-08-26",
+        "name": "Heroes' Day"
+    },
+    {
+        "date": "2023-12-10",
+        "name": "Day of the Namibian Women and International Human Rights Day"
+    },
+    {
+        "date": "2023-12-11",
+        "name": "Day of the Namibian Women and International Human Rights Day observed"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Family Day"
     }
 ]

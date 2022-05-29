@@ -254,5 +254,65 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-03-25",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Great Prayer Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-21",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-10-28",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

@@ -226,5 +226,65 @@
     {
         "date": "2022-12-27",
         "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-03-13",
+        "name": "Commonwealth Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-08",
+        "name": "Gospel Day"
+    },
+    {
+        "date": "2023-06-10",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "National Children's Day"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Tuvalu Day"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Day off for Tuvalu Day"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Tuvalu Day Holiday"
+    },
+    {
+        "date": "2023-10-03",
+        "name": "Day off for Tuvalu Day Holiday"
+    },
+    {
+        "date": "2023-11-13",
+        "name": "Heir to the Throne's Birthday"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

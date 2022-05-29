@@ -186,5 +186,49 @@
     {
         "date": "2022-12-27",
         "name": "Day off for National Day of Thanksgiving"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-09",
+        "name": "Day off for Queen's Official Birthday"
+    },
+    {
+        "date": "2023-06-10",
+        "name": "Queen's Official Birthday"
+    },
+    {
+        "date": "2023-07-07",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "National Day of Thanksgiving"
     }
 ]

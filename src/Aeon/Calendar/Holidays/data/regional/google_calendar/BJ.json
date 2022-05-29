@@ -286,5 +286,77 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-10",
+        "name": "Vodoun Festival"
+    },
+    {
+        "date": "2023-01-16",
+        "name": "Day of Remembrance"
+    },
+    {
+        "date": "2023-02-28",
+        "name": "People's Sovereignty Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Women's Day"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Korit\u00e9"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Tabaski"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Maouloud"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

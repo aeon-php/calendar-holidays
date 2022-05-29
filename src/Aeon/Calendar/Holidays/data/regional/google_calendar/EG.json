@@ -380,10 +380,6 @@
         "name": "Eid al-Adha Holiday"
     },
     {
-        "date": "2022-07-13",
-        "name": "Eid al-Adha Holiday"
-    },
-    {
         "date": "2022-07-23",
         "name": "Revolution Day July 23"
     },
@@ -410,5 +406,105 @@
     {
         "date": "2022-10-08",
         "name": "Prophet Mohamed's Birthday"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Coptic Christmas Day"
+    },
+    {
+        "date": "2023-01-25",
+        "name": "Revolution Day January 25"
+    },
+    {
+        "date": "2023-01-26",
+        "name": "Day off for Revolution Day January 25"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Coptic Good Friday"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Coptic Holy Saturday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Coptic Easter Sunday"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Spring Festival"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid el Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid el Fitr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid el Fitr Holiday"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "Sinai Liberation Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Arafat Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "June 30 Revolution"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram"
+    },
+    {
+        "date": "2023-07-23",
+        "name": "Revolution Day July 23"
+    },
+    {
+        "date": "2023-07-27",
+        "name": "Day off for Revolution Day July 23"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Ashura"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Flooding of the Nile"
+    },
+    {
+        "date": "2023-09-12",
+        "name": "Nayrouz"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Prophet Mohamed's Birthday"
+    },
+    {
+        "date": "2023-10-06",
+        "name": "Armed Forces Day"
     }
 ]

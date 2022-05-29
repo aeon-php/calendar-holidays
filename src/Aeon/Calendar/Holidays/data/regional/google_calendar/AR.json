@@ -512,16 +512,28 @@
         "name": "Yom Kippur"
     },
     {
+        "date": "2022-10-07",
+        "name": "Bridge Public Holiday"
+    },
+    {
         "date": "2022-10-10",
-        "name": "Day of respect for cultural diversity"
+        "name": "Day of Respect for Cultural Diversity"
+    },
+    {
+        "date": "2022-11-20",
+        "name": "National Sovereignty Day"
     },
     {
         "date": "2022-11-21",
-        "name": "National Sovereignty Day"
+        "name": "Bridge Public Holiday"
     },
     {
         "date": "2022-12-08",
         "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2022-12-09",
+        "name": "Bridge Public Holiday"
     },
     {
         "date": "2022-12-25",
@@ -529,6 +541,134 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Carnival \/ Shrove Monday"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnival \/ Shrove Tuesday \/ Pancake Day"
+    },
+    {
+        "date": "2023-03-24",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Day of the Veterans"
+    },
+    {
+        "date": "2023-04-05",
+        "name": "Passover Eve"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "First day of Passover"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Second Day of Passover"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-11",
+        "name": "Sixth Day of Passover"
+    },
+    {
+        "date": "2023-04-12",
+        "name": "Seventh Day of Passover"
+    },
+    {
+        "date": "2023-04-13",
+        "name": "Last day of Passover"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "End of Ramadan"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Action Day for Tolerance and Respect between People"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "National Day\/May 1810 Revolution"
+    },
+    {
+        "date": "2023-06-17",
+        "name": "Commemoration of General Don Mart\u00edn Miguel de G\u00fcemes"
+    },
+    {
+        "date": "2023-06-20",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-09",
+        "name": "Independence day"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram\/New Year"
+    },
+    {
+        "date": "2023-08-21",
+        "name": "San Mart\u00edn Day"
+    },
+    {
+        "date": "2023-09-16",
+        "name": "Rosh Hashana"
+    },
+    {
+        "date": "2023-09-17",
+        "name": "Second day of Rosh Hashana"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Yom Kippur"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Day of Respect for Cultural Diversity"
+    },
+    {
+        "date": "2023-11-20",
+        "name": "National Sovereignty Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

@@ -174,5 +174,49 @@
     {
         "date": "2022-12-26",
         "name": "Boxing Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-03-11",
+        "name": "Moshoeshoe's Birthday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Africa\/Heroes Day"
+    },
+    {
+        "date": "2023-07-17",
+        "name": "King's Birthday"
+    },
+    {
+        "date": "2023-10-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

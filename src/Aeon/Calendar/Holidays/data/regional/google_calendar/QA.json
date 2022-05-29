@@ -230,5 +230,41 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "National Sports Day"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha (Feast of Sacrifice)"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-12-18",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

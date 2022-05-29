@@ -632,6 +632,10 @@
         "name": "Independence Day"
     },
     {
+        "date": "2022-08-19",
+        "name": "Janmashtami"
+    },
+    {
         "date": "2022-08-21",
         "name": "Birthday of Lord Zoroaster (Khordad Sal)"
     },
@@ -652,20 +656,24 @@
         "name": "Dussehra"
     },
     {
-        "date": "2022-10-07",
-        "name": "Giarhwin Sharief"
-    },
-    {
-        "date": "2022-10-08",
-        "name": "Eid Milad un-Nabi"
-    },
-    {
         "date": "2022-10-09",
         "name": "Birthday of Guru Balmik Sawami Ji"
     },
     {
+        "date": "2022-10-09",
+        "name": "Eid Milad un-Nabi"
+    },
+    {
         "date": "2022-10-24",
         "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2022-11-07",
+        "name": "Giarhwin Sharief"
+    },
+    {
+        "date": "2022-11-08",
+        "name": "Guru Nanak's Birthday"
     },
     {
         "date": "2022-11-09",

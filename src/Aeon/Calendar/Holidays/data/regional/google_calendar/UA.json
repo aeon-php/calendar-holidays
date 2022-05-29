@@ -481,11 +481,11 @@
     },
     {
         "date": "2022-06-12",
-        "name": "Orthodox Pentecost"
+        "name": "Orthodox Pentecost (Suspended)"
     },
     {
         "date": "2022-06-13",
-        "name": "Orthodox Pentecost Holiday"
+        "name": "Orthodox Pentecost Holiday (Suspended)"
     },
     {
         "date": "2022-06-22",
@@ -493,7 +493,7 @@
     },
     {
         "date": "2022-06-28",
-        "name": "Constitution Day"
+        "name": "Constitution Day (Suspended)"
     },
     {
         "date": "2022-07-03",
@@ -517,11 +517,11 @@
     },
     {
         "date": "2022-08-24",
-        "name": "Independence Day"
+        "name": "Independence Day (Suspended)"
     },
     {
         "date": "2022-10-14",
-        "name": "Day of Defenders and Defenders of Ukraine"
+        "name": "Day of Defenders and Defenders of Ukraine (Suspended)"
     },
     {
         "date": "2022-10-30",
@@ -545,10 +545,162 @@
     },
     {
         "date": "2022-12-25",
-        "name": "Catholic Christmas Day"
+        "name": "Catholic Christmas Day (Suspended)"
     },
     {
         "date": "2022-12-26",
-        "name": "Day off for Catholic Christmas Day"
+        "name": "Catholic Christmas Day (Suspended) observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day (Suspended)"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day (Suspended) observed"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Orthodox Christmas Day (Suspended)"
+    },
+    {
+        "date": "2023-01-09",
+        "name": "Orthodox Christmas Day (Suspended) observed"
+    },
+    {
+        "date": "2023-01-14",
+        "name": "Orthodox New Year"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Ukrainian Unity Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-02-16",
+        "name": "Unity Day (Suspended)"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day (Suspended)"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-01",
+        "name": "April Fools"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Othodox Easter Day (Suspended)"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Orthodox Easter Monday (Suspended)"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day (Suspended)"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory Day (Suspended)"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-20",
+        "name": "Europe Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Kyiv Day"
+    },
+    {
+        "date": "2023-06-01",
+        "name": "Child Protection Day"
+    },
+    {
+        "date": "2023-06-04",
+        "name": "Orthodox Pentecost (Suspended)"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "Orthodox Pentecost Holiday (Suspended)"
+    },
+    {
+        "date": "2023-06-06",
+        "name": "Journalists' Day"
+    },
+    {
+        "date": "2023-06-22",
+        "name": "Day of Mourning and Commemoration of War Victims"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Constitution Day (Suspended)"
+    },
+    {
+        "date": "2023-07-02",
+        "name": "Navy Day"
+    },
+    {
+        "date": "2023-07-06",
+        "name": "Kupala Night"
+    },
+    {
+        "date": "2023-07-08",
+        "name": "Family Day"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Baptism of Kyivan Rus"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Ukrainian Statehood Day"
+    },
+    {
+        "date": "2023-08-24",
+        "name": "Independence Day (Suspended)"
+    },
+    {
+        "date": "2023-10-14",
+        "name": "Day of Defenders and Defenders of Ukraine (Suspended)"
+    },
+    {
+        "date": "2023-10-16",
+        "name": "Day of Defenders and Defenders of Ukraine (Suspended) observed"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-09",
+        "name": "Cultural Workers and Folk Artists Day"
+    },
+    {
+        "date": "2023-11-21",
+        "name": "Dignity and Freedom Day"
+    },
+    {
+        "date": "2023-12-06",
+        "name": "Army Day"
+    },
+    {
+        "date": "2023-12-19",
+        "name": "St. Nicholas Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Catholic Christmas Day (Suspended)"
     }
 ]

@@ -438,5 +438,113 @@
     {
         "date": "2022-12-29",
         "name": "Independence Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-13",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Second Day of Lunar New Year"
+    },
+    {
+        "date": "2023-01-24",
+        "name": "Third Day of Lunar New Year"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Patriots' Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-03-18",
+        "name": "Soldiers' Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Health Day"
+    },
+    {
+        "date": "2023-04-26",
+        "name": "Intellectual Property Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Great Buddha Day"
+    },
+    {
+        "date": "2023-05-15",
+        "name": "Family Day"
+    },
+    {
+        "date": "2023-06-01",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-07-10",
+        "name": "Political Flag Day"
+    },
+    {
+        "date": "2023-07-11",
+        "name": "Naadam Holiday (National Day)"
+    },
+    {
+        "date": "2023-07-12",
+        "name": "Naadam Holiday (National Day)"
+    },
+    {
+        "date": "2023-07-13",
+        "name": "Naadam Holiday (National Day)"
+    },
+    {
+        "date": "2023-07-14",
+        "name": "Naadam Holiday (National Day)"
+    },
+    {
+        "date": "2023-07-15",
+        "name": "Naadam Holiday (National Day)"
+    },
+    {
+        "date": "2023-08-25",
+        "name": "Youth's Day"
+    },
+    {
+        "date": "2023-09-10",
+        "name": "Repression Victims' Day"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Elders' Day"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Capital City Day"
+    },
+    {
+        "date": "2023-11-26",
+        "name": "Republic's Day"
+    },
+    {
+        "date": "2023-12-10",
+        "name": "Human Rights Day"
+    },
+    {
+        "date": "2023-12-29",
+        "name": "Independence Day"
     }
 ]

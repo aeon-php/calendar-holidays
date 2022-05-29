@@ -272,6 +272,10 @@
         "name": "International Labor Day observed"
     },
     {
+        "date": "2022-09-01",
+        "name": "Independence Day Holiday"
+    },
+    {
         "date": "2022-09-02",
         "name": "Independence Day"
     },
@@ -285,6 +289,82 @@
     },
     {
         "date": "2022-12-31",
+        "name": "International New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "International New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for International New Year's Day"
+    },
+    {
+        "date": "2023-01-21",
+        "name": "Vietnamese New Year's Eve"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Vietnamese New Year"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2023-01-24",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2023-01-25",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2023-01-26",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-29",
+        "name": "Hung Kings Festival"
+    },
+    {
+        "date": "2023-04-30",
+        "name": "Liberation Day\/Reunification Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Day off for Liberation Day\/Reunification Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "International Labor Day"
+    },
+    {
+        "date": "2023-05-02",
+        "name": "Day off for International Labor Day"
+    },
+    {
+        "date": "2023-09-02",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-09-04",
+        "name": "Independence Day observed"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "International New Year's Eve"
     }
 ]

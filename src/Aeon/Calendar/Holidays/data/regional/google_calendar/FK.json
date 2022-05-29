@@ -254,5 +254,61 @@
     {
         "date": "2022-12-30",
         "name": "Christmas Holiday"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-01-10",
+        "name": "Margaret Thatcher Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2023-06-14",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-08-14",
+        "name": "Falkland Day"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Peat Cutting Monday"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Battle Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-27",
+        "name": "Christmas Holiday"
+    },
+    {
+        "date": "2023-12-28",
+        "name": "Christmas Holiday"
+    },
+    {
+        "date": "2023-12-29",
+        "name": "Christmas Holiday"
     }
 ]

@@ -290,5 +290,73 @@
     {
         "date": "2022-11-23",
         "name": "Labor Thanksgiving Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-01-09",
+        "name": "Coming of Age Day"
+    },
+    {
+        "date": "2023-02-11",
+        "name": "National Foundation Day"
+    },
+    {
+        "date": "2023-02-23",
+        "name": "Emperor's Birthday"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Spring Equinox"
+    },
+    {
+        "date": "2023-04-29",
+        "name": "Sh\u014dwa Day"
+    },
+    {
+        "date": "2023-05-03",
+        "name": "Constitution Memorial Day"
+    },
+    {
+        "date": "2023-05-04",
+        "name": "Greenery Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-07-17",
+        "name": "Sea Day"
+    },
+    {
+        "date": "2023-08-11",
+        "name": "Mountain Day"
+    },
+    {
+        "date": "2023-09-18",
+        "name": "Respect for the Aged Day"
+    },
+    {
+        "date": "2023-09-23",
+        "name": "Autumn Equinox"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Sports Day"
+    },
+    {
+        "date": "2023-11-03",
+        "name": "Culture Day"
+    },
+    {
+        "date": "2023-11-23",
+        "name": "Labor Thanksgiving Day"
     }
 ]

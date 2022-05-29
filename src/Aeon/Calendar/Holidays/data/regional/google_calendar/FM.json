@@ -134,5 +134,45 @@
     {
         "date": "2022-12-26",
         "name": "Christmas Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-03-31",
+        "name": "Micronesia Culture Day"
+    },
+    {
+        "date": "2023-05-10",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-10-24",
+        "name": "United Nations Day"
+    },
+    {
+        "date": "2023-11-03",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-11-10",
+        "name": "Veterans of Foreign Wars Day observed"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Veterans of Foreign Wars Day"
+    },
+    {
+        "date": "2023-11-23",
+        "name": "Presidents Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

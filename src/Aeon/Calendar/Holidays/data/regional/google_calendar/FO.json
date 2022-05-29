@@ -302,5 +302,81 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "National Flag Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Prayer Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "St. Olav's Eve"
+    },
+    {
+        "date": "2023-07-29",
+        "name": "St. Olav's Day (National Day)"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

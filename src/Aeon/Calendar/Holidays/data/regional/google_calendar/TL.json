@@ -225,7 +225,7 @@
     },
     {
         "date": "2022-07-10",
-        "name": "Eid ul Adha"
+        "name": "Eid al-Adha"
     },
     {
         "date": "2022-08-30",
@@ -244,6 +244,10 @@
         "name": "Youth National Day"
     },
     {
+        "date": "2022-11-28",
+        "name": "Proclamation of Independence Day"
+    },
+    {
         "date": "2022-12-07",
         "name": "Day of Remembrance"
     },
@@ -257,6 +261,74 @@
     },
     {
         "date": "2022-12-31",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-03-03",
+        "name": "Veteran's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-20",
+        "name": "Restoration of Independence Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-08-30",
+        "name": "Popular Consultation Day"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Youth National Day"
+    },
+    {
+        "date": "2023-11-28",
+        "name": "Proclamation of Independence Day"
+    },
+    {
+        "date": "2023-12-07",
+        "name": "Day of Remembrance"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Day of Our Lady of Immaculate Conception"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "National Heroes Day"
     }
 ]

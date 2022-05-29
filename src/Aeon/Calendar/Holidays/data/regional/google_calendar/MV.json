@@ -316,24 +316,32 @@
         "name": "Eid al Fitr Holiday"
     },
     {
-        "date": "2022-07-09",
+        "date": "2022-07-08",
         "name": "Hajj Day"
     },
     {
+        "date": "2022-07-09",
+        "name": "Eid-ul Al'haa"
+    },
+    {
         "date": "2022-07-10",
-        "name": "Eid ul Adha"
+        "name": "Eid-ul Al'haa Holiday"
     },
     {
         "date": "2022-07-11",
-        "name": "Eid ul Adha Holiday"
+        "name": "Eid-ul Al'haa Holiday"
     },
     {
         "date": "2022-07-12",
-        "name": "Eid ul Adha Holiday"
+        "name": "Eid-ul Al'haa Holiday"
     },
     {
         "date": "2022-07-13",
-        "name": "Eid ul Adha Holiday"
+        "name": "Bank Holiday"
+    },
+    {
+        "date": "2022-07-14",
+        "name": "Bank Holiday"
     },
     {
         "date": "2022-07-26",
@@ -344,12 +352,24 @@
         "name": "Independence Day Holiday"
     },
     {
+        "date": "2022-07-28",
+        "name": "Bank Holiday"
+    },
+    {
         "date": "2022-07-30",
         "name": "Muharram\/Islamic New Year"
     },
     {
+        "date": "2022-09-27",
+        "name": "National Day"
+    },
+    {
         "date": "2022-10-08",
         "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2022-10-27",
+        "name": "The Day Maldives Embraced Islam"
     },
     {
         "date": "2022-11-03",
@@ -357,6 +377,82 @@
     },
     {
         "date": "2022-11-11",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Ramadan Start"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid-ul-Fithr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid-ul-Fithr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid-ul-Fithr Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Hajj Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid-ul Al'haa"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid-ul Al'haa Holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Eid-ul Al'haa Holiday"
+    },
+    {
+        "date": "2023-07-02",
+        "name": "Eid-ul Al'haa Holiday"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram\/Islamic New Year"
+    },
+    {
+        "date": "2023-07-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-07-27",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2023-09-16",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2023-10-16",
+        "name": "The Day Maldives Embraced Islam"
+    },
+    {
+        "date": "2023-11-03",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-11-11",
         "name": "Republic Day"
     }
 ]

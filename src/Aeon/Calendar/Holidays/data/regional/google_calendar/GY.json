@@ -252,12 +252,8 @@
         "name": "CARICOM Day"
     },
     {
-        "date": "2022-07-10",
-        "name": "Eid ul Adha"
-    },
-    {
-        "date": "2022-07-11",
-        "name": "Day off for Eid ul Adha"
+        "date": "2022-07-09",
+        "name": "Eid al-Adha"
     },
     {
         "date": "2022-08-01",
@@ -266,6 +262,10 @@
     {
         "date": "2022-10-08",
         "name": "Youman-Nabi (Mawlid)"
+    },
+    {
+        "date": "2022-10-24",
+        "name": "Deepavali"
     },
     {
         "date": "2022-12-25",
@@ -282,5 +282,57 @@
     {
         "date": "2022-12-27",
         "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day Holiday"
+    },
+    {
+        "date": "2023-02-23",
+        "name": "Mashramani (Republic Day)"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Arrival Day"
+    },
+    {
+        "date": "2023-05-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "CARICOM Day"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Emancipation Day"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Youman-Nabi (Mawlid)"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

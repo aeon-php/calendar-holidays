@@ -213,14 +213,14 @@
     },
     {
         "date": "2022-08-08",
-        "name": "Independence Day observed"
+        "name": "Day off for Independence Day"
     },
     {
         "date": "2022-08-15",
         "name": "Assumption of Mary"
     },
     {
-        "date": "2022-10-09",
+        "date": "2022-10-08",
         "name": "The Day After Prophet's Birthday"
     },
     {
@@ -233,6 +233,66 @@
     },
     {
         "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-18",
+        "name": "Day After Laila tou-Kadr"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Aid el-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Aid el-Kebir"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Day After Prophet's Birthday"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2023-11-15",
+        "name": "National Peace Day"
+    },
+    {
+        "date": "2023-12-25",
         "name": "Christmas Day"
     }
 ]

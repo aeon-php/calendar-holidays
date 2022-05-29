@@ -394,5 +394,105 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Constituent Assembly Convocation Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day\/May Day"
+    },
+    {
+        "date": "2023-05-04",
+        "name": "Independence Restoration Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Whitsunday"
+    },
+    {
+        "date": "2023-06-23",
+        "name": "Midsummer Eve"
+    },
+    {
+        "date": "2023-06-24",
+        "name": "Midsummer Day"
+    },
+    {
+        "date": "2023-07-08",
+        "name": "Last Day of the Song and Dance Festival"
+    },
+    {
+        "date": "2023-07-10",
+        "name": "Last Day of the Song and Dance Festival observed"
+    },
+    {
+        "date": "2023-09-10",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-11-18",
+        "name": "Republic of Latvia Proclamation Day"
+    },
+    {
+        "date": "2023-11-20",
+        "name": "Republic of Latvia Proclamation Day observed"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Second Day of Christmas"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

@@ -224,6 +224,10 @@
         "name": "Ascension Day"
     },
     {
+        "date": "2022-06-05",
+        "name": "Whit Sunday"
+    },
+    {
         "date": "2022-06-06",
         "name": "Whit Monday"
     },
@@ -253,6 +257,74 @@
     },
     {
         "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Mi'raj"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-27",
+        "name": "Abolition Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-08",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-14",
+        "name": "French National Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Armistice Day"
+    },
+    {
+        "date": "2023-12-25",
         "name": "Christmas Day"
     }
 ]

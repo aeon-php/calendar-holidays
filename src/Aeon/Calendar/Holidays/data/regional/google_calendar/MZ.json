@@ -182,5 +182,53 @@
     {
         "date": "2022-12-26",
         "name": "Family Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year observed"
+    },
+    {
+        "date": "2023-02-03",
+        "name": "Mozambican Heroes Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Mozambican Woman's Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-06-25",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-06-26",
+        "name": "Independence Day observed"
+    },
+    {
+        "date": "2023-09-07",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2023-10-04",
+        "name": "Peace and Reconciliation Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Family Day"
     }
 ]

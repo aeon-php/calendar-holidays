@@ -229,7 +229,7 @@
     },
     {
         "date": "2022-11-05",
-        "name": "Colon Day"
+        "name": "Col\u00f3n Day"
     },
     {
         "date": "2022-11-10",
@@ -244,11 +244,87 @@
         "name": "Mother's Day"
     },
     {
+        "date": "2022-12-20",
+        "name": "National Day of Mourning"
+    },
+    {
+        "date": "2022-12-24",
+        "name": "Christmas Eve"
+    },
+    {
         "date": "2022-12-25",
         "name": "Christmas Day"
     },
     {
         "date": "2022-12-26",
-        "name": "Christmas Day observed"
+        "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-09",
+        "name": "Martyr's Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Carnival"
+    },
+    {
+        "date": "2023-02-19",
+        "name": "Carnival"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnival \/ Shrove Tuesday \/ Pancake Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-11-03",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-11-04",
+        "name": "National Symbols Day"
+    },
+    {
+        "date": "2023-11-05",
+        "name": "Col\u00f3n Day"
+    },
+    {
+        "date": "2023-11-10",
+        "name": "Shout in Villa de los Santos"
+    },
+    {
+        "date": "2023-11-28",
+        "name": "Independence from Spain"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-12-20",
+        "name": "National Day of Mourning"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

@@ -260,11 +260,11 @@
         "name": "Hajj season begins"
     },
     {
-        "date": "2022-07-09",
+        "date": "2022-07-08",
         "name": "Arafat (Hajj) Day"
     },
     {
-        "date": "2022-07-10",
+        "date": "2022-07-09",
         "name": "Eid al-Adha (Feast of Sacrifice)"
     },
     {
@@ -293,6 +293,66 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Leilat al-Meiraj (The Prophet's Ascension)"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Ramadan Start"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-06-20",
+        "name": "Hajj season begins"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Arafat (Hajj) Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha (Feast of Sacrifice)"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Al-Hijra (Islamic New Year)"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Mouloud"
+    },
+    {
+        "date": "2023-12-02",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

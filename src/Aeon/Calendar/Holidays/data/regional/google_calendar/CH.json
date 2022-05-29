@@ -594,5 +594,157 @@
     {
         "date": "2022-12-31",
         "name": "Restoration Day (Geneva)"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day (regional holiday)"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Berchtold Day (regional holiday)"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany (regional holiday)"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Republic Day (Neuch\u00e2tel)"
+    },
+    {
+        "date": "2023-03-19",
+        "name": "Saint Joseph's Day (regional holiday)"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "N\u00e4felser Fahrt (Glarus)"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday (regional holiday)"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday (regional holiday)"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Sechsel\u00e4uten (Zurich)"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day (Half-Day) (regional holiday)"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day (regional holiday)"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day (regional holiday)"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Pentecost (regional holiday)"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Pentecost Monday (regional holiday)"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi (regional holiday)"
+    },
+    {
+        "date": "2023-06-23",
+        "name": "Jura Independence Day (Jura)"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "St. Peter and St. Paul (Ticino)"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Swiss National Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary (regional holiday)"
+    },
+    {
+        "date": "2023-09-07",
+        "name": "Jeune Genevois (Geneva)"
+    },
+    {
+        "date": "2023-09-09",
+        "name": "Knabenschiessen (Zurich)"
+    },
+    {
+        "date": "2023-09-10",
+        "name": "Knabenschiessen (Zurich)"
+    },
+    {
+        "date": "2023-09-11",
+        "name": "Knabenschiessen (Zurich)"
+    },
+    {
+        "date": "2023-09-17",
+        "name": "Swiss Federal Fast (regional holiday)"
+    },
+    {
+        "date": "2023-09-18",
+        "name": "Federal Fast Monday (Vaud)"
+    },
+    {
+        "date": "2023-09-22",
+        "name": "Mauritius Day (Appenzell Innerrhoden)"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "St. Nicholas of Fl\u00fce (Obwalden)"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day (regional holiday)"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Immaculate Conception (regional holiday)"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day (regional holiday)"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "St. Stephen's Day (regional holiday)"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "Restoration Day (Geneva)"
     }
 ]

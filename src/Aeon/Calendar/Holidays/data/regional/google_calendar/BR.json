@@ -409,7 +409,7 @@
     },
     {
         "date": "2022-11-20",
-        "name": "Black Consciousness Day"
+        "name": "Black Awareness Day"
     },
     {
         "date": "2022-12-24",
@@ -421,6 +421,118 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve (from 2pm)"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-17",
+        "name": "Carnival Friday"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Carnival Saturday"
+    },
+    {
+        "date": "2023-02-19",
+        "name": "Carnival Sunday"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Carnival Monday"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnival Tuesday"
+    },
+    {
+        "date": "2023-02-22",
+        "name": "Carnival end (until 2pm)"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Tiradentes Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-06-07",
+        "name": "National Press Freedom Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-12",
+        "name": "Brazilian Valentine's Day"
+    },
+    {
+        "date": "2023-07-25",
+        "name": "Latin and Caribbean Black Women Day"
+    },
+    {
+        "date": "2023-08-13",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-09-07",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-10-12",
+        "name": "Our Lady of Aparecida \/ Children's Day"
+    },
+    {
+        "date": "2023-10-15",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2023-10-28",
+        "name": "Public Service Holiday"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Saci Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2023-11-15",
+        "name": "Republic Proclamation Day"
+    },
+    {
+        "date": "2023-11-20",
+        "name": "Black Awareness Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve (from 2pm)"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve (from 2pm)"
     }
 ]

@@ -226,5 +226,65 @@
     {
         "date": "2022-12-28",
         "name": "Incwala Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-19",
+        "name": "Birthday of King Mswati III"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "National Flag Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-07-22",
+        "name": "Birthday of the late King Sobhuza"
+    },
+    {
+        "date": "2023-07-24",
+        "name": "Day off for Birthday of the late King Sobhuza"
+    },
+    {
+        "date": "2023-09-04",
+        "name": "Umhlanga Reed Dance"
+    },
+    {
+        "date": "2023-09-06",
+        "name": "Somhlolo Day (Independence Day)"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-28",
+        "name": "Incwala Day"
     }
 ]

@@ -440,7 +440,7 @@
         "name": "Macau S.A.R. Establishment Day"
     },
     {
-        "date": "2022-12-21",
+        "date": "2022-12-22",
         "name": "Winter Solstice"
     },
     {
@@ -462,5 +462,101 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-21",
+        "name": "Lunar New Year Eve"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Lunar New Year (First Day)"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Lunar New Year (Second Day)"
+    },
+    {
+        "date": "2023-01-24",
+        "name": "Lunar New Year (Third Day)"
+    },
+    {
+        "date": "2023-04-05",
+        "name": "Cheng Ming Festival"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Holy Saturday Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-26",
+        "name": "Buddha's Birthday"
+    },
+    {
+        "date": "2023-06-22",
+        "name": "Dragon Boat Festival"
+    },
+    {
+        "date": "2023-09-30",
+        "name": "Day after the Mid-Autumn-Festival"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "National Day of the People's Republic of China"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Day after PRC National Day"
+    },
+    {
+        "date": "2023-10-23",
+        "name": "Chong Yeung Festival (Festival of Ancestors)"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Soul's Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2023-12-20",
+        "name": "Macau S.A.R. Establishment Day"
+    },
+    {
+        "date": "2023-12-22",
+        "name": "Winter Solstice"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve Afternoon"
     }
 ]

@@ -266,5 +266,73 @@
     {
         "date": "2022-12-27",
         "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year"
+    },
+    {
+        "date": "2023-01-15",
+        "name": "John Chilembwe Day"
+    },
+    {
+        "date": "2023-01-16",
+        "name": "Day off for John Chilembwe Day"
+    },
+    {
+        "date": "2023-03-03",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Easter Saturday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Kamuzu Day"
+    },
+    {
+        "date": "2023-05-15",
+        "name": "Day off for Kamuzu Day"
+    },
+    {
+        "date": "2023-07-06",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-10-15",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-10-16",
+        "name": "Day off for Mother's Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

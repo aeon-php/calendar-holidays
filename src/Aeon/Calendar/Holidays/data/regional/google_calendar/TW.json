@@ -470,5 +470,105 @@
     {
         "date": "2022-12-25",
         "name": "Constitution Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "Republic Day\/New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Republic Day\/New Year's Day observed"
+    },
+    {
+        "date": "2023-01-21",
+        "name": "Lunar New Year's Eve"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2023-01-24",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2023-01-25",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2023-01-26",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2023-02-04",
+        "name": "Farmer's Day"
+    },
+    {
+        "date": "2023-02-05",
+        "name": "Lantern Festival"
+    },
+    {
+        "date": "2023-02-28",
+        "name": "Peace Memorial Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-03-29",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2023-04-04",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-04-05",
+        "name": "Tomb Sweeping Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-06-22",
+        "name": "Dragon Boat Festival"
+    },
+    {
+        "date": "2023-08-30",
+        "name": "Hungry Ghost Festival"
+    },
+    {
+        "date": "2023-09-03",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2023-09-28",
+        "name": "Teachers' Day"
+    },
+    {
+        "date": "2023-09-29",
+        "name": "Mid-Autumn Festival"
+    },
+    {
+        "date": "2023-10-10",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-10-23",
+        "name": "Double Ninth Day"
+    },
+    {
+        "date": "2023-10-25",
+        "name": "Taiwan's Retrocession Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Constitution Day"
     }
 ]

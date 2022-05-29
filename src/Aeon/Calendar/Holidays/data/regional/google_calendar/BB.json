@@ -342,5 +342,89 @@
     {
         "date": "2022-12-31",
         "name": "Old Year's Night"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-01-21",
+        "name": "Errol Barrow Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-28",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Emancipation Day"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Kadooment Day"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-11-30",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "Old Year's Night"
     }
 ]

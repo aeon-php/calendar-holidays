@@ -332,6 +332,14 @@
         "name": "Martyrdom of Imam Sadeq"
     },
     {
+        "date": "2022-06-04",
+        "name": "Demise of Imam Khomeini"
+    },
+    {
+        "date": "2022-06-05",
+        "name": "Khordad National Uprising"
+    },
+    {
         "date": "2022-07-10",
         "name": "Eid-e-Ghorban (Feast of Sacrifice)"
     },
@@ -362,5 +370,109 @@
     {
         "date": "2022-10-13",
         "name": "Birthday of Prophet Muhammad and Imam Sadeq"
+    },
+    {
+        "date": "2023-02-04",
+        "name": "Birthday of Imam Ali"
+    },
+    {
+        "date": "2023-02-11",
+        "name": "Revolution Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Prophet's Ascension"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Imam Mahdi's birthday"
+    },
+    {
+        "date": "2023-03-20",
+        "name": "Oil Nationalization Day"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Norooz (Persian New Year)"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Norooz Holiday"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Norooz Holiday"
+    },
+    {
+        "date": "2023-03-24",
+        "name": "Norooz Holiday"
+    },
+    {
+        "date": "2023-04-01",
+        "name": "Islamic Republic Day"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Nature Day"
+    },
+    {
+        "date": "2023-04-12",
+        "name": "Martyrdom of Imam Ali"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid-e-Fetr (End of Ramadan)"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid-e-Fetr (Additional Holiday)"
+    },
+    {
+        "date": "2023-05-16",
+        "name": "Martyrdom of Imam Sadeq"
+    },
+    {
+        "date": "2023-06-04",
+        "name": "Demise of Imam Khomeini"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "Khordad National Uprising"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid-e-Ghorban (Feast of Sacrifice)"
+    },
+    {
+        "date": "2023-07-07",
+        "name": "Eid-e-Ghadir"
+    },
+    {
+        "date": "2023-07-27",
+        "name": "Tassoua"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Ashura"
+    },
+    {
+        "date": "2023-09-06",
+        "name": "Arbaeen"
+    },
+    {
+        "date": "2023-09-14",
+        "name": "Demise of Prophet Muhammad and Martyrdom of Imam Hassan"
+    },
+    {
+        "date": "2023-09-23",
+        "name": "Martyrdom of Imam Hasan al-Askari"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Birthday of Prophet Muhammad and Imam Sadeq"
+    },
+    {
+        "date": "2023-12-16",
+        "name": "Martyrdom of Fatima"
     }
 ]

@@ -210,5 +210,57 @@
     {
         "date": "2022-12-27",
         "name": "Boxing Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day After New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-01-03",
+        "name": "Day After New Year's Day observed"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "ANZAC Day"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "Queen's Birthday"
+    },
+    {
+        "date": "2023-07-07",
+        "name": "Ui Ariki Day"
+    },
+    {
+        "date": "2023-08-04",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-10-26",
+        "name": "Gospel Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

@@ -222,5 +222,61 @@
     {
         "date": "2022-12-26",
         "name": "Christmas Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year observed"
+    },
+    {
+        "date": "2023-01-16",
+        "name": "Martin Luther King Jr. Day"
+    },
+    {
+        "date": "2023-03-06",
+        "name": "Guam History and Chamorro Heritage Day"
+    },
+    {
+        "date": "2023-05-22",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2023-07-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-07-21",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-09-04",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2023-11-10",
+        "name": "Veterans Day observed"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Veterans Day"
+    },
+    {
+        "date": "2023-11-23",
+        "name": "Thanksgiving"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Santa Marian Kamalen Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

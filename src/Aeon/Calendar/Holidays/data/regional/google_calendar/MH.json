@@ -218,5 +218,57 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-06-02",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2023-07-07",
+        "name": "Fishermen's Day"
+    },
+    {
+        "date": "2023-09-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-09-22",
+        "name": "Manit Day"
+    },
+    {
+        "date": "2023-11-17",
+        "name": "President's Day"
+    },
+    {
+        "date": "2023-12-01",
+        "name": "Gospel Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

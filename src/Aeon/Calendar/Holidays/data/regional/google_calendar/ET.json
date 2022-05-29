@@ -206,5 +206,57 @@
     {
         "date": "2022-10-08",
         "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Ethiopian Christmas Day"
+    },
+    {
+        "date": "2023-01-19",
+        "name": "Epiphany \/ Timkat"
+    },
+    {
+        "date": "2023-03-02",
+        "name": "Adwa Victory Day"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Ethiopian Good Friday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Fasika"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "International Labor Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Patriots' Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Derg Downfall Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-09-12",
+        "name": "Ethiopian New Year"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-09-28",
+        "name": "Meskel"
     }
 ]

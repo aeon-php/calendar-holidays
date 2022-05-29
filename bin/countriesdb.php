@@ -11,6 +11,8 @@ use Aeon\Calendar\Holidays\GoogleCalendar\ETL\SortHolidaysTransformer;
 use Aeon\Calendar\Holidays\GoogleCalendar\ETL\UpdateFutureHolidaysTransformer;
 use Flow\ETL\Adapter\JSON\JSONMachine\JsonExtractor;
 use Flow\ETL\Adapter\JSON\JSONMachineExtractor;
+use Flow\ETL\DSL\Json;
+use Flow\ETL\DSL\To;
 use Flow\ETL\ETL;
 use Flow\ETL\Flow;
 use Flow\ETL\Loader\MemoryLoader;
@@ -35,14 +37,13 @@ $googleApiClient->setDeveloperKey(\getenv('GOOGLE_API_KEY'));
 $googleCalendarService = new Google_Service_Calendar($googleApiClient);
 $calendar = GregorianCalendar::UTC();
 
-$countries = new ArrayMemory();
-$countriesExtractor = new JsonExtractor(new LocalFile(__DIR__ . '/../resources/countries.json'), 10, 'row');
 
 (new Flow())
-    ->read($countriesExtractor)
+    ->read(Json::from(new LocalFile(__DIR__ . '/../resources/countries.json')))
     ->transform(new ArrayUnpackTransformer('row'))
     ->transform(new KeepEntriesTransformer('countryCode', 'googleHolidaysCalendarId'))
-    ->write(new MemoryLoader($countries));
+    ->write(To::memory($countries = new ArrayMemory()))
+    ->run();
 
 $holidaysFilesPath = __DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/';
 
@@ -53,4 +54,5 @@ $holidaysFilesPath = __DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/goo
     ->transform(new UpdateFutureHolidaysTransformer($calendar, $holidaysFilesPath))
     ->transform(new SortHolidaysTransformer())
     ->transform(new FlattenHolidaysTransformer())
-    ->write(new HolidaysJsonLoader($holidaysFilesPath));
+    ->write(new HolidaysJsonLoader($holidaysFilesPath))
+    ->run();

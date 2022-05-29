@@ -240,6 +240,10 @@
         "name": "Daylight Saving Time starts"
     },
     {
+        "date": "2022-10-03",
+        "name": "Boqueron Battle Victory Day"
+    },
+    {
         "date": "2022-12-08",
         "name": "Virgin of Caacup\u00e9 Day"
     },
@@ -253,6 +257,70 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Heroes' Day"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "National Holiday"
+    },
+    {
+        "date": "2023-05-15",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-06-12",
+        "name": "Chaco Armistice"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Founding of Asuncion"
+    },
+    {
+        "date": "2023-09-29",
+        "name": "Boqueron Battle Victory Day"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Virgin of Caacup\u00e9 Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

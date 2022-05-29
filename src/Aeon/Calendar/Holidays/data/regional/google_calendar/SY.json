@@ -286,5 +286,73 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Revolution Day"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-03-31",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Orthodox Easter Day"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Evacuation Day"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-05-06",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-10-06",
+        "name": "October Liberation Day"
+    },
+    {
+        "date": "2023-10-27",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

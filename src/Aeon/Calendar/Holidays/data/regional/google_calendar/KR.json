@@ -328,6 +328,10 @@
         "name": "Teacher's Day"
     },
     {
+        "date": "2022-06-01",
+        "name": "Local Election Day"
+    },
+    {
         "date": "2022-06-06",
         "name": "Memorial Day"
     },
@@ -373,6 +377,94 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Seollal Holiday"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Seollal"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Seollal Holiday"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Independence Movement Day"
+    },
+    {
+        "date": "2023-04-05",
+        "name": "Arbor Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-05-08",
+        "name": "Parents' Day"
+    },
+    {
+        "date": "2023-05-15",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2023-05-27",
+        "name": "Buddha's Birthday"
+    },
+    {
+        "date": "2023-06-06",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2023-07-17",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-09-28",
+        "name": "Chuseok Holiday"
+    },
+    {
+        "date": "2023-09-29",
+        "name": "Chuseok"
+    },
+    {
+        "date": "2023-09-30",
+        "name": "Chuseok Holiday"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2023-10-03",
+        "name": "National Foundation Day"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Hangeul Proclamation Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

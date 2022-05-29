@@ -262,5 +262,69 @@
     {
         "date": "2022-12-27",
         "name": "Constitution Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Seollal"
+    },
+    {
+        "date": "2023-02-16",
+        "name": "Birth date of Kim Jong Il"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Birth Date of Kim Il Sung"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "Chosun People's Army Foundation Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-06-06",
+        "name": "Chosun Children's Union Foundation Day"
+    },
+    {
+        "date": "2023-07-27",
+        "name": "Day of Victory in the Fatherland Liberation War"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-08-25",
+        "name": "Day of Songun"
+    },
+    {
+        "date": "2023-09-09",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-09-29",
+        "name": "Chuseok Harvest Festival"
+    },
+    {
+        "date": "2023-10-10",
+        "name": "Party Foundation Day"
+    },
+    {
+        "date": "2023-11-16",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-12-27",
+        "name": "Constitution Day"
     }
 ]

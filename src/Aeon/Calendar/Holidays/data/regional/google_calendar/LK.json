@@ -504,6 +504,10 @@
         "name": "Vap Full Moon Poya Day"
     },
     {
+        "date": "2022-10-10",
+        "name": "Special Bank Holiday"
+    },
+    {
         "date": "2022-10-24",
         "name": "Deepavali"
     },
@@ -522,5 +526,129 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Special Bank Holiday"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Duruthu Full Moon Poya Day"
+    },
+    {
+        "date": "2023-01-15",
+        "name": "Tamil Thai Pongal Day"
+    },
+    {
+        "date": "2023-02-04",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-02-05",
+        "name": "Navam Full Moon Poya Day"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Mahasivarathri Day"
+    },
+    {
+        "date": "2023-03-07",
+        "name": "Madin Full Moon Poya Day"
+    },
+    {
+        "date": "2023-04-05",
+        "name": "Bak Full Moon Poya Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-13",
+        "name": "Sinhala and Tamil New Year's Eve"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Sinhala and Tamil New Year's Day"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Vesak Full Moon Poya Day"
+    },
+    {
+        "date": "2023-05-06",
+        "name": "Day after Vesak Full Moon Poya Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-06-03",
+        "name": "Poson Full Moon Poya Day"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "Esala Full Moon Poya Day"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Nikini Full Moon Poya Day"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Milad-Un-Nabi (Holy Prophet's Birthday)"
+    },
+    {
+        "date": "2023-09-28",
+        "name": "Binara Full Moon Poya Day"
+    },
+    {
+        "date": "2023-10-28",
+        "name": "Vap Full Moon Poya Day"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Deepavali"
+    },
+    {
+        "date": "2023-11-26",
+        "name": "Ill Full Moon Poya Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Unduvap Full Moon Poya Day"
     }
 ]

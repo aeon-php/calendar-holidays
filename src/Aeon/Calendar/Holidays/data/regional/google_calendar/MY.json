@@ -862,5 +862,217 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day (regional holiday)"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed (regional holiday)"
+    },
+    {
+        "date": "2023-01-14",
+        "name": "Birthday of Yang di-Pertuan Besar (Negeri Sembilan)"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Lunar New Year Holiday (regional holiday)"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Second Day of Lunar New Year (regional holiday)"
+    },
+    {
+        "date": "2023-02-01",
+        "name": "Federal Territory Day (regional holiday)"
+    },
+    {
+        "date": "2023-02-04",
+        "name": "Thaipusam (regional holiday)"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Isra and Mi'raj (regional holiday)"
+    },
+    {
+        "date": "2023-03-04",
+        "name": "Anniversary of the Coronation of the Sultan of Terengganu (Terengganu)"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Birthday of the Sultan of Johor (Johor)"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "First Day of Ramadan (regional holiday)"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday (regional holiday)"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Nuzul Al-Quran (regional holiday)"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Declaration of Malacca as Historical City (Malacca)"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Hari Raya Puasa"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Hari Raya Puasa Day 2"
+    },
+    {
+        "date": "2023-04-26",
+        "name": "Birthday of the Sultan of Terengganu (Terengganu)"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-22",
+        "name": "Pahang State Holiday (Pahang)"
+    },
+    {
+        "date": "2023-05-30",
+        "name": "Harvest Festival (regional holiday)"
+    },
+    {
+        "date": "2023-05-31",
+        "name": "Second Day of Harvest Festival (regional holiday)"
+    },
+    {
+        "date": "2023-06-01",
+        "name": "Gawai Dayak (Sarawak)"
+    },
+    {
+        "date": "2023-06-02",
+        "name": "Gawai Dayak Holiday (Sarawak)"
+    },
+    {
+        "date": "2023-06-05",
+        "name": "The Yang di-Pertuan Agong's Birthday"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Sultan of Kedah's Birthday (Kedah)"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Day of Arafat (Terengganu)"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Hari Raya Haji"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Hari Raya Haji holiday"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Hari Raya Haji (Day 2) (regional holiday)"
+    },
+    {
+        "date": "2023-07-07",
+        "name": "George Town World Heritage City Day (Penang)"
+    },
+    {
+        "date": "2023-07-08",
+        "name": "Penang Governor's Birthday (Penang)"
+    },
+    {
+        "date": "2023-07-17",
+        "name": "Birthday of the Raja of Perlis (Perlis)"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram\/New Year"
+    },
+    {
+        "date": "2023-07-22",
+        "name": "Sarawak Independence Day (Sarawak)"
+    },
+    {
+        "date": "2023-07-30",
+        "name": "Birthday of the Sultan of Pahang (Pahang)"
+    },
+    {
+        "date": "2023-07-31",
+        "name": "Birthday of the Sultan of Pahang observed (Pahang)"
+    },
+    {
+        "date": "2023-08-23",
+        "name": "Almarhum Sultan Iskandar Hol Day (Johor)"
+    },
+    {
+        "date": "2023-08-24",
+        "name": "Birthday of the Governor of Malacca (Malacca)"
+    },
+    {
+        "date": "2023-08-31",
+        "name": "Malaysia's National Day"
+    },
+    {
+        "date": "2023-09-16",
+        "name": "Malaysia Day"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet Muhammad's Birthday"
+    },
+    {
+        "date": "2023-10-07",
+        "name": "Birthday of the Governor of Sabah (Sabah)"
+    },
+    {
+        "date": "2023-10-14",
+        "name": "Birthday of the Governor of Sarawak (Sarawak)"
+    },
+    {
+        "date": "2023-11-03",
+        "name": "Birthday of the Sultan of Perak (Perak)"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Birthday of the Sultan of Kelantan (Kelantan)"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Birthday of the Sultan of Kelantan (Day 2) (Kelantan)"
+    },
+    {
+        "date": "2023-12-11",
+        "name": "Birthday of the Sultan of Selangor (Selangor)"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve (Sabah)"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

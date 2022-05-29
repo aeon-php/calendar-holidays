@@ -349,10 +349,10 @@
     },
     {
         "date": "2022-06-28",
-        "name": "St Vitus Day"
+        "name": "St Vitus' Day"
     },
     {
-        "date": "2022-07-10",
+        "date": "2022-07-09",
         "name": "First Day of Eid al-Adha"
     },
     {
@@ -373,6 +373,122 @@
     },
     {
         "date": "2022-12-31",
+        "name": "Western New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "Western New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Western New Year's Day observed"
+    },
+    {
+        "date": "2023-01-03",
+        "name": "Second Day of Western New Year's Day"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "First Day of Baptism"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-14",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-27",
+        "name": "Spirituality Day\/St Sava's Day"
+    },
+    {
+        "date": "2023-02-15",
+        "name": "Statehood Day of the Republic of Serbia"
+    },
+    {
+        "date": "2023-02-16",
+        "name": "Statehood Day of the Republic of Serbia (Day 2)"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Western Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Western Easter Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Western Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Western Easter Monday"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Easter Day"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Holocaust Remembrance Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor holiday"
+    },
+    {
+        "date": "2023-05-02",
+        "name": "Labor holiday second day"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "St Vitus' Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "First Day of Eid al-Adha"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Yom Kippur"
+    },
+    {
+        "date": "2023-10-21",
+        "name": "World War II Victims Remembrance Day"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Armistice Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "First Day of Western Christmas"
+    },
+    {
+        "date": "2023-12-31",
         "name": "Western New Year's Eve"
     }
 ]

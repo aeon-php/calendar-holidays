@@ -666,5 +666,169 @@
     {
         "date": "2022-12-26",
         "name": "Hanukkah (Day 8)"
+    },
+    {
+        "date": "2023-03-06",
+        "name": "Purim Eve"
+    },
+    {
+        "date": "2023-04-01",
+        "name": "Aliyah Day"
+    },
+    {
+        "date": "2023-04-05",
+        "name": "Passover Eve"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Passover (Day 1)"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Passover (Day 2)"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Passover (Day 3)"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Passover (Day 4)"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Passover (Day 5)"
+    },
+    {
+        "date": "2023-04-11",
+        "name": "Passover (Day 6)"
+    },
+    {
+        "date": "2023-04-12",
+        "name": "Passover (Day 7)"
+    },
+    {
+        "date": "2023-04-18",
+        "name": "Yom HaShoah"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "Yom HaZikaron"
+    },
+    {
+        "date": "2023-04-26",
+        "name": "Yom HaAtzmaut"
+    },
+    {
+        "date": "2023-05-19",
+        "name": "Jerusalem Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Shavuot Eve"
+    },
+    {
+        "date": "2023-05-26",
+        "name": "Shavuot"
+    },
+    {
+        "date": "2023-07-26",
+        "name": "Tisha B'Av Eve"
+    },
+    {
+        "date": "2023-07-27",
+        "name": "Tisha B'Av"
+    },
+    {
+        "date": "2023-09-15",
+        "name": "Rosh Hashana Eve"
+    },
+    {
+        "date": "2023-09-16",
+        "name": "Rosh Hashana"
+    },
+    {
+        "date": "2023-09-17",
+        "name": "Rosh Hashana (Day 2)"
+    },
+    {
+        "date": "2023-09-24",
+        "name": "Yom Kippur Eve"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Yom Kippur"
+    },
+    {
+        "date": "2023-09-29",
+        "name": "Sukkot Eve"
+    },
+    {
+        "date": "2023-09-30",
+        "name": "Sukkot (Day 1)"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Sukkot (Day 2)"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Sukkot (Day 3)"
+    },
+    {
+        "date": "2023-10-03",
+        "name": "Sukkot (Day 4)"
+    },
+    {
+        "date": "2023-10-04",
+        "name": "Sukkot (Day 5)"
+    },
+    {
+        "date": "2023-10-05",
+        "name": "Sukkot (Day 6)"
+    },
+    {
+        "date": "2023-10-06",
+        "name": "Sukkot (Day 7) \/ Hoshanah Rabah"
+    },
+    {
+        "date": "2023-10-07",
+        "name": "Shemini Atzeret \/ Simchat Torah"
+    },
+    {
+        "date": "2023-10-22",
+        "name": "Aliyah Day School Observance"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Hanukkah (Day 1)"
+    },
+    {
+        "date": "2023-12-09",
+        "name": "Hanukkah (Day 2)"
+    },
+    {
+        "date": "2023-12-10",
+        "name": "Hanukkah (Day 3)"
+    },
+    {
+        "date": "2023-12-11",
+        "name": "Hanukkah (Day 4)"
+    },
+    {
+        "date": "2023-12-12",
+        "name": "Hanukkah (Day 5)"
+    },
+    {
+        "date": "2023-12-13",
+        "name": "Hanukkah (Day 6) \/ Rosh Chodesh Tevet"
+    },
+    {
+        "date": "2023-12-14",
+        "name": "Hanukkah (Day 7)"
+    },
+    {
+        "date": "2023-12-15",
+        "name": "Hanukkah (Day 8)"
     }
 ]

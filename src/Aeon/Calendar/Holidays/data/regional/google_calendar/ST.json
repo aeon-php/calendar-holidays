@@ -154,5 +154,49 @@
     {
         "date": "2022-12-26",
         "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year"
+    },
+    {
+        "date": "2023-01-04",
+        "name": "Day of King Amador"
+    },
+    {
+        "date": "2023-02-03",
+        "name": "Commemoration of the Batep\u00e1 Massacre"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-07-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-09-06",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2023-09-29",
+        "name": "Day off for Nationalization of the Ro\u00e7as"
+    },
+    {
+        "date": "2023-09-30",
+        "name": "Nationalization of the Ro\u00e7as"
+    },
+    {
+        "date": "2023-12-21",
+        "name": "S\u00e3o Tom\u00e9 Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

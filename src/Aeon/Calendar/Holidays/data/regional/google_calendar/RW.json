@@ -257,7 +257,7 @@
     },
     {
         "date": "2022-07-10",
-        "name": "Eid ul Adha"
+        "name": "Eid al-Adha"
     },
     {
         "date": "2022-08-05",
@@ -276,7 +276,79 @@
         "name": "Boxing Day"
     },
     {
-        "date": "2022-12-26",
+        "date": "2022-12-27",
         "name": "Christmas Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day After New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year observed"
+    },
+    {
+        "date": "2023-02-01",
+        "name": "National Heroes' Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Tutsi Genocide Memorial Day"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid al-Fitr observed"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "Independence Day observed"
+    },
+    {
+        "date": "2023-07-04",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-08-04",
+        "name": "Umuganura Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

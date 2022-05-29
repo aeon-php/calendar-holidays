@@ -638,5 +638,173 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-01-09",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Women's Day"
+    },
+    {
+        "date": "2023-03-19",
+        "name": "Saint Joseph's Day"
+    },
+    {
+        "date": "2023-03-20",
+        "name": "Saint Joseph's Day"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Language Day"
+    },
+    {
+        "date": "2023-04-26",
+        "name": "Secretaries' Day"
+    },
+    {
+        "date": "2023-04-29",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-04-29",
+        "name": "Day of Trees"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-15",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2023-05-22",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-12",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-06-19",
+        "name": "Sacred Heart"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Feast of Saint Peter and Saint Paul"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "Feast of Saint Peter and Saint Paul"
+    },
+    {
+        "date": "2023-07-20",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Battle of Boyac\u00e1 Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-08-21",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-09-16",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-10-12",
+        "name": "Columbus Day"
+    },
+    {
+        "date": "2023-10-16",
+        "name": "Columbus Day"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-11-06",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Independence of Cartagena"
+    },
+    {
+        "date": "2023-11-13",
+        "name": "Independence of Cartagena"
+    },
+    {
+        "date": "2023-11-14",
+        "name": "Colombian Women's Day"
+    },
+    {
+        "date": "2023-12-07",
+        "name": "Eve of the Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

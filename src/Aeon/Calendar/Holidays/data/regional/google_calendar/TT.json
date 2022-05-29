@@ -378,5 +378,105 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-02-20",
+        "name": "Carnival"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnival\/Shrove Tuesday"
+    },
+    {
+        "date": "2023-03-30",
+        "name": "Spiritual Baptist Liberation Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-30",
+        "name": "Indian Arrival Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-06-19",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Emancipation Day"
+    },
+    {
+        "date": "2023-08-31",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-09-24",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Republic Day observed"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2023-11-13",
+        "name": "Diwali\/Deepavali observed"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

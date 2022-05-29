@@ -514,5 +514,129 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day (Day 2)"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-03-14",
+        "name": "Summer Day"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Nevruz Day"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Day off for Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Good Friday (Orthodox)"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Easter Saturday (Orthodox)"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Easter Sunday (Orthodox)"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Day off for Easter Sunday (Orthodox)"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Easter Monday (Orthodox)"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "International Worker\u2019s Day"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Feast of the Sacrifice"
+    },
+    {
+        "date": "2023-09-05",
+        "name": "Mother Teresa Beatification Day"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2023-11-28",
+        "name": "Flag and Independence Day"
+    },
+    {
+        "date": "2023-11-29",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "National Youth Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

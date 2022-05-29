@@ -172,12 +172,16 @@
         "name": "Carnival Holiday"
     },
     {
+        "date": "2022-10-26",
+        "name": "National Heroes Day"
+    },
+    {
         "date": "2022-11-01",
         "name": "Independence Day"
     },
     {
         "date": "2022-12-09",
-        "name": "National Heroes Day"
+        "name": "V.C. Bird Day"
     },
     {
         "date": "2022-12-25",
@@ -189,6 +193,58 @@
     },
     {
         "date": "2022-12-27",
-        "name": "Christmas Day observed"
+        "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Carnival Holiday"
+    },
+    {
+        "date": "2023-08-08",
+        "name": "Carnival Holiday"
+    },
+    {
+        "date": "2023-10-26",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-09",
+        "name": "V.C. Bird Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

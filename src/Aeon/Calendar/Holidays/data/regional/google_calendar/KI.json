@@ -196,12 +196,20 @@
         "name": "Easter Monday"
     },
     {
+        "date": "2022-07-08",
+        "name": "Gospel Day"
+    },
+    {
         "date": "2022-07-11",
-        "name": "Independence Day holiday"
+        "name": "National Culture and Senior Citizen Day"
     },
     {
         "date": "2022-07-12",
         "name": "Independence Day"
+    },
+    {
+        "date": "2022-07-13",
+        "name": "Kiribati Special Day"
     },
     {
         "date": "2022-07-15",
@@ -212,12 +220,20 @@
         "name": "Unaine Day"
     },
     {
-        "date": "2022-08-01",
+        "date": "2022-08-05",
         "name": "Youth Day"
+    },
+    {
+        "date": "2022-10-05",
+        "name": "World Teachers' Day"
     },
     {
         "date": "2022-12-11",
         "name": "Human Rights and Peace Day"
+    },
+    {
+        "date": "2022-12-12",
+        "name": "Day off for Human Rights and Peace Day"
     },
     {
         "date": "2022-12-25",
@@ -225,6 +241,62 @@
     },
     {
         "date": "2022-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2022-12-27",
+        "name": "Day off for Boxing Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-07-11",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2023-07-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-07-15",
+        "name": "Unimwane Day"
+    },
+    {
+        "date": "2023-07-16",
+        "name": "Unaine Day"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2023-12-11",
+        "name": "Human Rights and Peace Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
         "name": "Boxing Day"
     }
 ]

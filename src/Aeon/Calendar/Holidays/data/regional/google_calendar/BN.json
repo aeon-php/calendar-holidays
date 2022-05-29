@@ -268,12 +268,8 @@
         "name": "Royal Brunei Armed Forces Day"
     },
     {
-        "date": "2022-07-10",
-        "name": "Eid ul Adha"
-    },
-    {
-        "date": "2022-07-11",
-        "name": "Eid ul Adha observed"
+        "date": "2022-07-09",
+        "name": "Eid al-Adha"
     },
     {
         "date": "2022-07-15",
@@ -298,5 +294,73 @@
     {
         "date": "2022-12-26",
         "name": "Christmas Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-22",
+        "name": "Lunar New Year"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Day off for Lunar New Year"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Isra and Mi'raj"
+    },
+    {
+        "date": "2023-02-23",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Ramadan Start"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Nuzul Al-Qur'an"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid Al Fitr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid Al Fitr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid Al Fitr Holiday observed"
+    },
+    {
+        "date": "2023-05-31",
+        "name": "Royal Brunei Armed Forces Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-15",
+        "name": "Sultan's Birthday"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram\/Islamic New Year"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

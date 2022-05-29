@@ -188,6 +188,10 @@
         "name": "Ascension Day"
     },
     {
+        "date": "2022-06-08",
+        "name": "President Pierre Nkurunziza Day"
+    },
+    {
         "date": "2022-07-01",
         "name": "Independence Day"
     },
@@ -213,6 +217,74 @@
     },
     {
         "date": "2022-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year"
+    },
+    {
+        "date": "2023-02-05",
+        "name": "Unity Day"
+    },
+    {
+        "date": "2023-02-06",
+        "name": "Day off for Unity Day"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "President Ntaryamira Day"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "President Pierre Nkurunziza Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-10-13",
+        "name": "Prince Louis Rwagasore Day"
+    },
+    {
+        "date": "2023-10-21",
+        "name": "President Ndadaye's Day"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-12-25",
         "name": "Christmas Day"
     }
 ]

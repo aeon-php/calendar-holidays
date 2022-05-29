@@ -1133,11 +1133,19 @@
     },
     {
         "date": "2022-06-06",
-        "name": "Whit Monday (regional holiday)"
+        "name": "Whit Monday (Catalonia)"
+    },
+    {
+        "date": "2022-06-09",
+        "name": "Day of La Rioja (La Rioja)"
     },
     {
         "date": "2022-06-09",
         "name": "Day of Murcia (Murcia)"
+    },
+    {
+        "date": "2022-06-13",
+        "name": "San Antonio (Ceuta)"
     },
     {
         "date": "2022-06-16",
@@ -1188,6 +1196,14 @@
         "name": "Day of the Independent City of Ceuta (Ceuta)"
     },
     {
+        "date": "2022-09-06",
+        "name": "Elcano's Day (Basque Country)"
+    },
+    {
+        "date": "2022-09-08",
+        "name": "Day of Asturias (Asturias)"
+    },
+    {
         "date": "2022-09-08",
         "name": "Day of Extremadura (Extremadura)"
     },
@@ -1201,7 +1217,7 @@
     },
     {
         "date": "2022-09-11",
-        "name": "Day of Catalonia (Catalonia)"
+        "name": "National Day of Catalonia (Catalonia)"
     },
     {
         "date": "2022-09-15",
@@ -1216,6 +1232,10 @@
         "name": "Day of Saint Tecla (Tarragona)"
     },
     {
+        "date": "2022-09-24",
+        "name": "Virgin of Mercy (Barcelona)"
+    },
+    {
         "date": "2022-10-09",
         "name": "Day of the Valencian Community (Valencia)"
     },
@@ -1224,16 +1244,24 @@
         "name": "Hispanic Day"
     },
     {
+        "date": "2022-10-30",
+        "name": "Daylight Saving Time ends"
+    },
+    {
         "date": "2022-11-01",
-        "name": "All Saints' Day (regional holiday)"
+        "name": "All Saint's Day Holiday (regional holiday)"
     },
     {
         "date": "2022-11-09",
         "name": "La Almudena (Madrid)"
     },
     {
+        "date": "2022-12-03",
+        "name": "Day of Navarre (Navarre)"
+    },
+    {
         "date": "2022-12-06",
-        "name": "Constitution Day (regional holiday)"
+        "name": "Constitution Day Holiday"
     },
     {
         "date": "2022-12-08",
@@ -1249,7 +1277,11 @@
     },
     {
         "date": "2022-12-25",
-        "name": "Christmas Day"
+        "name": "Christmas Day (regional holiday)"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Day After Christmas Day (regional holiday)"
     },
     {
         "date": "2022-12-26",
@@ -1261,6 +1293,278 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Reconquest Day (Granada)"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Day of Saint Ildefonso (Toledo)"
+    },
+    {
+        "date": "2023-01-29",
+        "name": "St. Valero's Feast (Zaragoza)"
+    },
+    {
+        "date": "2023-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2023-02-22",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2023-02-28",
+        "name": "Day of Andaluc\u00eda (Andalusia)"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Day of the Balearic Islands (Balearic Islands)"
+    },
+    {
+        "date": "2023-03-06",
+        "name": "Fifth of March (Zaragoza)"
+    },
+    {
+        "date": "2023-03-19",
+        "name": "San Jose (regional holiday)"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2023-04-06",
+        "name": "Maundy Thursday (regional holiday)"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday (regional holiday)"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Sermon of the Tortillas (Teruel)"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Santa Faz (Alicante)"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Day of Arag\u00f3n (Aragon)"
+    },
+    {
+        "date": "2023-04-28",
+        "name": "San Prudencio (\u00c1lava)"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-02",
+        "name": "Day of Madrid (Madrid)"
+    },
+    {
+        "date": "2023-05-07",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2023-05-15",
+        "name": "Feast Day of St Isidore (Madrid)"
+    },
+    {
+        "date": "2023-05-17",
+        "name": "Galicia Literature Day (Galicia)"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Whit Sunday\/Pentecost"
+    },
+    {
+        "date": "2023-05-30",
+        "name": "Day of the Canary Islands (Canary Islands)"
+    },
+    {
+        "date": "2023-05-31",
+        "name": "Day of Castile-La Mancha (Castile-La Mancha)"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi (Castile-La Mancha)"
+    },
+    {
+        "date": "2023-06-09",
+        "name": "Day of La Rioja (La Rioja)"
+    },
+    {
+        "date": "2023-06-09",
+        "name": "Day of Murcia (Murcia)"
+    },
+    {
+        "date": "2023-06-13",
+        "name": "San Antonio (Ceuta)"
+    },
+    {
+        "date": "2023-06-24",
+        "name": "Feast of San Juan (regional holiday)"
+    },
+    {
+        "date": "2023-06-24",
+        "name": "Saint John the Baptist Day (regional holiday)"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha (regional holiday)"
+    },
+    {
+        "date": "2023-07-13",
+        "name": "Festival of the Vaquillas (Teruel)"
+    },
+    {
+        "date": "2023-07-25",
+        "name": "Feast of Saint James the Apostle (regional holiday)"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Day of the Institutions (Cantabria)"
+    },
+    {
+        "date": "2023-08-05",
+        "name": "Feast of the White Virgin (\u00c1lava)"
+    },
+    {
+        "date": "2023-08-05",
+        "name": "The Day of Our Lady of Africa (Ceuta)"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-08-19",
+        "name": "Feast of Saint Maginus (Tarragona)"
+    },
+    {
+        "date": "2023-09-02",
+        "name": "Day of the Independent City of Ceuta (Ceuta)"
+    },
+    {
+        "date": "2023-09-08",
+        "name": "Day of Asturias (Asturias)"
+    },
+    {
+        "date": "2023-09-08",
+        "name": "Day of Extremadura (Extremadura)"
+    },
+    {
+        "date": "2023-09-08",
+        "name": "Virgin of the Plains (Albacete)"
+    },
+    {
+        "date": "2023-09-08",
+        "name": "Virgin of the Victory (Melilla)"
+    },
+    {
+        "date": "2023-09-11",
+        "name": "National Day of Catalonia (Catalonia)"
+    },
+    {
+        "date": "2023-09-15",
+        "name": "Nuestra Se\u00f1ora de la Bien Aparecida (Cantabria)"
+    },
+    {
+        "date": "2023-09-17",
+        "name": "Day of Melilla (Melilla)"
+    },
+    {
+        "date": "2023-09-23",
+        "name": "Day of Saint Tecla (Tarragona)"
+    },
+    {
+        "date": "2023-09-24",
+        "name": "Virgin of Mercy (Barcelona)"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "Day of the Valencian Community (Valencia)"
+    },
+    {
+        "date": "2023-10-12",
+        "name": "Hispanic Day"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day (regional holiday)"
+    },
+    {
+        "date": "2023-11-09",
+        "name": "La Almudena (Madrid)"
+    },
+    {
+        "date": "2023-12-03",
+        "name": "Day of Navarre (Navarre)"
+    },
+    {
+        "date": "2023-12-06",
+        "name": "Constitution Day (regional holiday)"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Immaculate Conception"
+    },
+    {
+        "date": "2023-12-09",
+        "name": "Day of Saint Leocadia (Toledo)"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "St Stephen's Day (regional holiday)"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "Feast of the Holy Family"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

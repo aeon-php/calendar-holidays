@@ -306,5 +306,73 @@
     {
         "date": "2022-11-08",
         "name": "Days of History and Memory of Ancestors Holiday"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2023-01-09",
+        "name": "Day off for Orthodox Christmas Day"
+    },
+    {
+        "date": "2023-02-23",
+        "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "National Holiday \"Nooruz\""
+    },
+    {
+        "date": "2023-04-07",
+        "name": "April People's Revolution Day"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Orozo Ait"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Day off for Orozo Ait"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Constitution Day of the Kyrgyz Republic"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Kurman Ait"
+    },
+    {
+        "date": "2023-08-31",
+        "name": "Independence Day of the Kyrgyz Republic"
+    },
+    {
+        "date": "2023-11-07",
+        "name": "Days of History and Memory of Ancestors"
+    },
+    {
+        "date": "2023-11-08",
+        "name": "Days of History and Memory of Ancestors Holiday"
     }
 ]

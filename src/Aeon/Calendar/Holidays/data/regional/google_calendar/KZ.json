@@ -324,6 +324,10 @@
         "name": "Kurban Ait"
     },
     {
+        "date": "2022-08-29",
+        "name": "Constitution Day (extra holiday)"
+    },
+    {
         "date": "2022-08-30",
         "name": "Constitution Day"
     },
@@ -345,6 +349,90 @@
     },
     {
         "date": "2022-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2023-01-03",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Nauryz"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Nauryz Holiday"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Nauryz Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Unity Day"
+    },
+    {
+        "date": "2023-05-07",
+        "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2023-05-08",
+        "name": "Day off for Defender of the Fatherland Day"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Kurban Ait"
+    },
+    {
+        "date": "2023-07-06",
+        "name": "Day of the Capital"
+    },
+    {
+        "date": "2023-08-30",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-12-01",
+        "name": "Day of the First President of the Republic of Kazakhstan"
+    },
+    {
+        "date": "2023-12-16",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-17",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2023-12-18",
+        "name": "Day off for Independence Day"
+    },
+    {
+        "date": "2023-12-19",
+        "name": "Day off for Independence Day Holiday"
+    },
+    {
+        "date": "2023-12-31",
         "name": "New Year's Eve"
     }
 ]

@@ -298,5 +298,85 @@
     {
         "date": "2022-12-26",
         "name": "Day off for Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-03-12",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2023-03-13",
+        "name": "Day off for Youth Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-28",
+        "name": "Kenneth Kaunda Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Africa Freedom Day"
+    },
+    {
+        "date": "2023-06-18",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "Heroes' Day"
+    },
+    {
+        "date": "2023-07-04",
+        "name": "Unity Day"
+    },
+    {
+        "date": "2023-08-07",
+        "name": "Farmers' Day"
+    },
+    {
+        "date": "2023-10-18",
+        "name": "Prayer Day"
+    },
+    {
+        "date": "2023-10-24",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

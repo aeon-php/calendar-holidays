@@ -113,7 +113,7 @@
     },
     {
         "date": "2022-07-10",
-        "name": "Eid ul Adha"
+        "name": "Eid al-Adha"
     },
     {
         "date": "2022-07-30",
@@ -125,6 +125,38 @@
     },
     {
         "date": "2022-11-28",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Africa Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram\/Islamic New Year"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2023-11-28",
         "name": "Independence Day"
     }
 ]

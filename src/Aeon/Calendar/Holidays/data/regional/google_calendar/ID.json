@@ -360,7 +360,7 @@
         "name": "Pancasila Day"
     },
     {
-        "date": "2022-07-10",
+        "date": "2022-07-09",
         "name": "Idul Adha"
     },
     {
@@ -406,5 +406,25 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Kartini Day"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Batik Day"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2023-11-25",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2023-12-22",
+        "name": "Mother's Day"
     }
 ]

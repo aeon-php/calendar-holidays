@@ -210,5 +210,61 @@
     {
         "date": "2022-12-26",
         "name": "Boxing Day"
+    },
+    {
+        "date": "2022-12-27",
+        "name": "Christmas Day observed"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-03-14",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "National Workers Day"
+    },
+    {
+        "date": "2023-05-29",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2023-07-03",
+        "name": "Carnival Monday"
+    },
+    {
+        "date": "2023-07-04",
+        "name": "Carnival Tuesday"
+    },
+    {
+        "date": "2023-08-01",
+        "name": "Emancipation Day"
+    },
+    {
+        "date": "2023-10-27",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]

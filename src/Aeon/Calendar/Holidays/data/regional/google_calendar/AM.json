@@ -470,5 +470,113 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day (Day 2)"
+    },
+    {
+        "date": "2023-01-05",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Christmas Remembrance Day"
+    },
+    {
+        "date": "2023-01-28",
+        "name": "Army Day"
+    },
+    {
+        "date": "2023-02-16",
+        "name": "Feast of Saint Vartan"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Motherhood and Beauty Day"
+    },
+    {
+        "date": "2023-04-08",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Genocide Remembrance Day"
+    },
+    {
+        "date": "2023-04-29",
+        "name": "Citizens' Day"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day\/May Day"
+    },
+    {
+        "date": "2023-05-08",
+        "name": "Yerkrapah Day"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory and Peace Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2023-06-01",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2023-07-05",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2023-07-05",
+        "name": "Day of State Symbols"
+    },
+    {
+        "date": "2023-09-01",
+        "name": "Knowledge and Literature Day"
+    },
+    {
+        "date": "2023-09-21",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-10-14",
+        "name": "Translators' Day"
+    },
+    {
+        "date": "2023-12-07",
+        "name": "Spitak Remembrance Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

@@ -201,7 +201,7 @@
     },
     {
         "date": "2022-07-10",
-        "name": "Eid ul Adha"
+        "name": "Eid al-Adha"
     },
     {
         "date": "2022-09-09",
@@ -213,6 +213,66 @@
     },
     {
         "date": "2022-11-07",
-        "name": "Constitution Day observed"
+        "name": "Day off for Constitution Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2023-03-22",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2023-03-24",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-06-27",
+        "name": "Day of National Unity"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-09-09",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-09-11",
+        "name": "Day off for Independence Day"
+    },
+    {
+        "date": "2023-11-06",
+        "name": "Constitution Day"
     }
 ]

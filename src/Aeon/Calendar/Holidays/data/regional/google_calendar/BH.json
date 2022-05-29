@@ -216,19 +216,19 @@
         "name": "Eid al-Fitr Holiday"
     },
     {
-        "date": "2022-07-09",
+        "date": "2022-07-08",
         "name": "Arafat Day"
     },
     {
-        "date": "2022-07-10",
+        "date": "2022-07-09",
         "name": "Eid al-Adha"
     },
     {
-        "date": "2022-07-11",
+        "date": "2022-07-10",
         "name": "Eid al-Adha Holiday"
     },
     {
-        "date": "2022-07-12",
+        "date": "2022-07-11",
         "name": "Eid al-Adha Holiday"
     },
     {
@@ -236,11 +236,11 @@
         "name": "Muharram"
     },
     {
-        "date": "2022-08-08",
+        "date": "2022-08-07",
         "name": "Ashoora"
     },
     {
-        "date": "2022-08-09",
+        "date": "2022-08-08",
         "name": "Ashoora (second day)"
     },
     {
@@ -253,6 +253,66 @@
     },
     {
         "date": "2022-12-17",
+        "name": "National Day (second day)"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Arafat Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Ashoora"
+    },
+    {
+        "date": "2023-07-29",
+        "name": "Ashoora (second day)"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-12-16",
+        "name": "National Day"
+    },
+    {
+        "date": "2023-12-17",
         "name": "National Day (second day)"
     }
 ]

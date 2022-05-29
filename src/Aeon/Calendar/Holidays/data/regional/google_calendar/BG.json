@@ -366,5 +366,97 @@
     {
         "date": "2022-12-28",
         "name": "Christmas holiday"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "New Year's Day observed"
+    },
+    {
+        "date": "2023-02-01",
+        "name": "Day of Remembrance and Respect to Victims of the Communist Regime"
+    },
+    {
+        "date": "2023-03-01",
+        "name": "Baba Marta"
+    },
+    {
+        "date": "2023-03-03",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2023-03-26",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-15",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2023-05-06",
+        "name": "St. George's Day"
+    },
+    {
+        "date": "2023-05-08",
+        "name": "St. George's Day observed"
+    },
+    {
+        "date": "2023-05-24",
+        "name": "Culture and Literacy Day"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "July Morning"
+    },
+    {
+        "date": "2023-09-06",
+        "name": "Unification Day"
+    },
+    {
+        "date": "2023-09-22",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-10-29",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "Revival Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Second day of Christmas"
+    },
+    {
+        "date": "2023-12-27",
+        "name": "Christmas holiday"
     }
 ]

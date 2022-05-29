@@ -174,5 +174,45 @@
     {
         "date": "2022-12-08",
         "name": "Constitution Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-14",
+        "name": "Defenders of the Motherland Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2023-03-21",
+        "name": "Nowruz"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-09-01",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Teachers Day"
+    },
+    {
+        "date": "2023-12-08",
+        "name": "Constitution Day"
     }
 ]

@@ -262,5 +262,69 @@
     {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2023-01-19",
+        "name": "Timket"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Women's Day"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Coptic Good Friday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Coptic Easter"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "International Workers' Day"
+    },
+    {
+        "date": "2023-05-24",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-06-20",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-09-01",
+        "name": "Commencement Day of Eritrean Armed Struggle"
+    },
+    {
+        "date": "2023-09-12",
+        "name": "Geez New Year"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Meskel"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
     }
 ]

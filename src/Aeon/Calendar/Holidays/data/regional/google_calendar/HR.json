@@ -345,7 +345,7 @@
     },
     {
         "date": "2022-08-05",
-        "name": "Homeland Thanksgiving Day"
+        "name": "Victory Day"
     },
     {
         "date": "2022-08-15",
@@ -389,6 +389,134 @@
     },
     {
         "date": "2022-12-26",
+        "name": "St Stephen's Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2023-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2023-01-09",
+        "name": "Me\u0111imurje Unification Day"
+    },
+    {
+        "date": "2023-01-15",
+        "name": "Day of Peaceful Reintegration of the Croatian Danube Region"
+    },
+    {
+        "date": "2023-01-15",
+        "name": "Day of the International Recognition of the Republic of Croatia"
+    },
+    {
+        "date": "2023-03-15",
+        "name": "Day of the Establishment of the National Protection in the Republic of Croatia"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Orthodox Easter Day"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Ramadan Bayram"
+    },
+    {
+        "date": "2023-04-30",
+        "name": "Day of the Deaths of Zrinski and Frankopan"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-09",
+        "name": "Europe Day and Victory Day Over Fascism"
+    },
+    {
+        "date": "2023-05-30",
+        "name": "Statehood Day"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-22",
+        "name": "Day of Antifascist Struggle"
+    },
+    {
+        "date": "2023-06-25",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Kurban Bayram"
+    },
+    {
+        "date": "2023-08-05",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2023-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-08-23",
+        "name": "European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes"
+    },
+    {
+        "date": "2023-08-30",
+        "name": "Day of Remembrance of Missing Persons in the Homeland War"
+    },
+    {
+        "date": "2023-09-16",
+        "name": "Rosh Hashana"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Unification Day of Istria, Rijeka, Zadar, and the Islands"
+    },
+    {
+        "date": "2023-09-25",
+        "name": "Yom Kippur"
+    },
+    {
+        "date": "2023-10-08",
+        "name": "Day of the Croatian Parliament"
+    },
+    {
+        "date": "2023-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2023-11-18",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
         "name": "St Stephen's Day"
     }
 ]

@@ -614,5 +614,105 @@
     {
         "date": "2022-12-26",
         "name": "Boxing Day"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-02-17",
+        "name": "Al Isra' wal Miraj"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Ramadan begins"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Orthodox Good Friday"
+    },
+    {
+        "date": "2023-04-16",
+        "name": "Orthodox Easter Day"
+    },
+    {
+        "date": "2023-04-17",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-25",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-06-28",
+        "name": "Arafah"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2023-07-02",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2023-07-19",
+        "name": "Muharram\/New Year"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Prophet's Birthday"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Boxing Day"
     }
 ]
