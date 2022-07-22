@@ -12,6 +12,7 @@
 - [ba1413](https://github.com/aeon-php/calendar-holidays/commit/ba141352983c03609a040d24c816a4e468ab3e2a) - **PHP versions scope** - [@norberttech](https://github.com/norberttech)
 
 ### Updated
+- [b33a1a](https://github.com/aeon-php/calendar-holidays/commit/b33a1aa00fa334ad98c64a69aa365d366f3db584) - **README.md** - [@norberttech](https://github.com/norberttech)
 - [11803f](https://github.com/aeon-php/calendar-holidays/commit/11803f9d80bd3fca99a502a4c4130971f777b50d) - **dependencies** - [@norberttech](https://github.com/norberttech)
 - [5b7667](https://github.com/aeon-php/calendar-holidays/commit/5b76676c6d73665bdf7252faba7e5584ed544336) - **dependencies** - [@norberttech](https://github.com/norberttech)
 - [cf2009](https://github.com/aeon-php/calendar-holidays/commit/cf2009232de15b3e666b30f62dc8c29b8b747df5) - **infection** - [@norberttech](https://github.com/norberttech)
