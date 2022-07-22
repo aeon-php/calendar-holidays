@@ -3,4 +3,4 @@ parameters:
     paths:
         - src
     excludePaths:
-        - src/Aeon/Calendar/Holidays/GoogleCalendar/ETL/*
+        - src/Aeon/GoogleCalendar/ETL/*

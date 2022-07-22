@@ -7,7 +7,7 @@
 >
   <coverage>
     <include>
-      <directory suffix=".php">src</directory>
+      <directory suffix=".php">src/Aeon/Calendar</directory>
     </include>
     <report>
       <html outputDirectory="var/phpunit/coverage/html" lowUpperBound="95" highLowerBound="100"/>

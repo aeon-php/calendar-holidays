@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
+namespace Aeon\GoogleCalendar\ETL;
 
 use Flow\ETL\Extractor;
 use Flow\ETL\FlowContext;

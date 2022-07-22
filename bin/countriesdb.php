@@ -2,13 +2,13 @@
 <?php
 
 use Aeon\Calendar\Gregorian\GregorianCalendar;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\FilterHistoricalHolidaysTransformer;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\FlattenHolidaysTransformer;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\GoogleCalendarEventsExtractor;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\GoogleCalendarEventsTransformer;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\HolidaysJsonLoader;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\SortHolidaysTransformer;
-use Aeon\Calendar\Holidays\GoogleCalendar\ETL\UpdateFutureHolidaysTransformer;
+use Aeon\GoogleCalendar\ETL\FilterHistoricalHolidaysTransformer;
+use Aeon\GoogleCalendar\ETL\FlattenHolidaysTransformer;
+use Aeon\GoogleCalendar\ETL\GoogleCalendarEventsExtractor;
+use Aeon\GoogleCalendar\ETL\GoogleCalendarEventsTransformer;
+use Aeon\GoogleCalendar\ETL\HolidaysJsonLoader;
+use Aeon\GoogleCalendar\ETL\SortHolidaysTransformer;
+use Aeon\GoogleCalendar\ETL\UpdateFutureHolidaysTransformer;
 use Flow\ETL\DSL\Json;
 use Flow\ETL\DSL\To;
 use Flow\ETL\Flow;

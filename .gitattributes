@@ -3,7 +3,7 @@
 /composer.lock export-ignore
 /.github/ export-ignore
 /bin export-ignore
-/src/Aeon/Calendar/Holidays/GoogleCalendar/ETL export-ignore
+/src/Aeon/GoogleCalendar/ETL export-ignore
 /docs export-ignore
 /tests export-ignore
 /tools export-ignore

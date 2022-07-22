@@ -9,7 +9,7 @@
         <directory name="src"/>
         <ignoreFiles>
             <directory name="vendor"/>
-            <directory name="src/Aeon/Calendar/Holidays/GoogleCalendar/ETL"/>
+            <directory name="src/Aeon/GoogleCalendar/ETL"/>
         </ignoreFiles>
     </projectFiles>
 </psalm>
