@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
 
+use Flow\ETL\FlowContext;
 use Flow\ETL\Row;
 use Flow\ETL\Rows;
 use Flow\ETL\Transformer;
@@ -22,7 +23,7 @@ final class SortHolidaysTransformer implements Transformer
     {
     }
 
-    public function transform(Rows $rows) : Rows
+    public function transform(Rows $rows, FlowContext $context) : Rows
     {
         return $rows->sort(function (Row $row, Row $nextRow) : int {
             if ($row->valueOf('date')->isEqual($nextRow->valueOf('date'))) {

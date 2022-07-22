@@ -6,6 +6,7 @@ namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
 
 use Aeon\Calendar\Gregorian\Calendar;
 use Aeon\Calendar\Gregorian\Day;
+use Flow\ETL\FlowContext;
 use Flow\ETL\Row;
 use Flow\ETL\Row\Entries;
 use Flow\ETL\Row\Entry\ObjectEntry;
@@ -37,7 +38,7 @@ final class UpdateFutureHolidaysTransformer implements Transformer
     {
     }
 
-    public function transform(Rows $rows) : Rows
+    public function transform(Rows $rows, FlowContext $context) : Rows
     {
         if (!$rows->count()) {
             return $rows;

@@ -220,6 +220,10 @@
         "name": "Assumption of Mary"
     },
     {
+        "date": "2022-10-02",
+        "name": "Father's Day"
+    },
+    {
         "date": "2022-11-01",
         "name": "All Saints' Day"
     },
@@ -268,12 +272,20 @@
         "name": "Whit Monday"
     },
     {
+        "date": "2023-06-11",
+        "name": "Mother's Day"
+    },
+    {
         "date": "2023-06-23",
         "name": "National Day"
     },
     {
         "date": "2023-08-15",
         "name": "Assumption of Mary"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Father's Day"
     },
     {
         "date": "2023-11-01",

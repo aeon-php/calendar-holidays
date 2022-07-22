@@ -885,10 +885,6 @@
     },
     {
         "date": "2023-01-14",
-        "name": "Lohri"
-    },
-    {
-        "date": "2023-01-15",
         "name": "Makar Sankranti"
     },
     {
@@ -896,20 +892,20 @@
         "name": "Pongal"
     },
     {
-        "date": "2023-01-25",
-        "name": "Vasant Panchami"
-    },
-    {
         "date": "2023-01-26",
         "name": "Republic Day"
     },
     {
-        "date": "2023-02-04",
-        "name": "Hazarat Ali's Birthday"
+        "date": "2023-01-26",
+        "name": "Vasant Panchami"
     },
     {
         "date": "2023-02-05",
         "name": "Guru Ravidas Jayanti"
+    },
+    {
+        "date": "2023-02-05",
+        "name": "Hazarat Ali's Birthday"
     },
     {
         "date": "2023-02-15",
@@ -972,6 +968,10 @@
         "name": "Vaisakhi"
     },
     {
+        "date": "2023-04-15",
+        "name": "Mesadi \/ Vaisakhadi"
+    },
+    {
         "date": "2023-04-21",
         "name": "Jamat Ul-Vida"
     },
@@ -993,10 +993,10 @@
     },
     {
         "date": "2023-06-29",
-        "name": "Bakr Id\/Eid ul-Adha"
+        "name": "Bakrid\/Eid ul-Adha"
     },
     {
-        "date": "2023-07-28",
+        "date": "2023-07-29",
         "name": "Muharram\/Ashura"
     },
     {
@@ -1006,6 +1006,10 @@
     {
         "date": "2023-08-16",
         "name": "Parsi New Year"
+    },
+    {
+        "date": "2023-08-20",
+        "name": "Ganesh Chaturthi\/Vinayaka Chaturthi"
     },
     {
         "date": "2023-08-29",
@@ -1024,11 +1028,7 @@
         "name": "Janmashtami"
     },
     {
-        "date": "2023-09-19",
-        "name": "Ganesh Chaturthi\/Vinayaka Chaturthi"
-    },
-    {
-        "date": "2023-09-27",
+        "date": "2023-09-28",
         "name": "Milad un-Nabi\/Id-e-Milad"
     },
     {
@@ -1076,12 +1076,12 @@
         "name": "Naraka Chaturdasi"
     },
     {
-        "date": "2023-11-14",
-        "name": "Bhai Duj"
+        "date": "2023-11-13",
+        "name": "Govardhan Puja"
     },
     {
-        "date": "2023-11-14",
-        "name": "Govardhan Puja"
+        "date": "2023-11-15",
+        "name": "Bhai Duj"
     },
     {
         "date": "2023-11-19",

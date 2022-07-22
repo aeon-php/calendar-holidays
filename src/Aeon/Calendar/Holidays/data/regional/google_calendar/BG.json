@@ -357,6 +357,10 @@
     },
     {
         "date": "2022-12-26",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2022-12-26",
         "name": "Second day of Christmas"
     },
     {
@@ -386,6 +390,10 @@
     {
         "date": "2023-03-03",
         "name": "Liberation Day"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Mother's Day"
     },
     {
         "date": "2023-03-26",
@@ -450,6 +458,10 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Father's Day"
     },
     {
         "date": "2023-12-26",

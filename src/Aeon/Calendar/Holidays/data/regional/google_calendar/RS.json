@@ -372,8 +372,16 @@
         "name": "First Day of Western Christmas"
     },
     {
+        "date": "2022-12-25",
+        "name": "Mother's Day"
+    },
+    {
         "date": "2022-12-31",
         "name": "Western New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "Father's Day"
     },
     {
         "date": "2023-01-01",
@@ -381,11 +389,11 @@
     },
     {
         "date": "2023-01-02",
-        "name": "Western New Year's Day observed"
+        "name": "Second Day of Western New Year's Day"
     },
     {
         "date": "2023-01-03",
-        "name": "Second Day of Western New Year's Day"
+        "name": "Day off for Western New Year's Day"
     },
     {
         "date": "2023-01-06",
@@ -457,7 +465,7 @@
     },
     {
         "date": "2023-05-02",
-        "name": "Labor holiday second day"
+        "name": "Labor Day Holiday"
     },
     {
         "date": "2023-05-09",
@@ -484,8 +492,16 @@
         "name": "Armistice Day"
     },
     {
+        "date": "2023-12-24",
+        "name": "Mother's Day"
+    },
+    {
         "date": "2023-12-25",
         "name": "First Day of Western Christmas"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "Father's Day"
     },
     {
         "date": "2023-12-31",

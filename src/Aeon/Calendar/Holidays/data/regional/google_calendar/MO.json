@@ -425,7 +425,7 @@
     },
     {
         "date": "2022-10-05",
-        "name": "Day off for Day after PRC National Day"
+        "name": "PRC National Day Holiday"
     },
     {
         "date": "2022-11-02",
@@ -468,8 +468,8 @@
         "name": "New Year's Day"
     },
     {
-        "date": "2023-01-21",
-        "name": "Lunar New Year Eve"
+        "date": "2023-01-02",
+        "name": "New Year Holiday"
     },
     {
         "date": "2023-01-22",
@@ -482,6 +482,10 @@
     {
         "date": "2023-01-24",
         "name": "Lunar New Year (Third Day)"
+    },
+    {
+        "date": "2023-01-25",
+        "name": "Lunar New Year Holiday"
     },
     {
         "date": "2023-04-05",
@@ -524,6 +528,10 @@
         "name": "Day after PRC National Day"
     },
     {
+        "date": "2023-10-04",
+        "name": "PRC National Day Holiday"
+    },
+    {
         "date": "2023-10-23",
         "name": "Chong Yeung Festival (Festival of Ancestors)"
     },
@@ -552,11 +560,11 @@
         "name": "Christmas Day"
     },
     {
-        "date": "2023-12-31",
-        "name": "New Year's Eve"
+        "date": "2023-12-26",
+        "name": "Christmas Eve Holiday"
     },
     {
         "date": "2023-12-31",
-        "name": "New Year's Eve Afternoon"
+        "name": "New Year's Eve"
     }
 ]

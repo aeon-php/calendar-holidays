@@ -600,7 +600,7 @@
         "name": "Eid al-Adha holiday"
     },
     {
-        "date": "2022-07-30",
+        "date": "2022-07-29",
         "name": "Muharram\/New Year"
     },
     {
@@ -656,8 +656,12 @@
         "name": "Orthodox Easter Monday"
     },
     {
-        "date": "2023-04-22",
+        "date": "2023-04-21",
         "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr holiday"
     },
     {
         "date": "2023-04-23",
@@ -665,10 +669,6 @@
     },
     {
         "date": "2023-04-24",
-        "name": "Eid al-Fitr holiday"
-    },
-    {
-        "date": "2023-04-25",
         "name": "Eid al-Fitr holiday"
     },
     {
@@ -680,12 +680,16 @@
         "name": "Independence Day"
     },
     {
-        "date": "2023-06-28",
+        "date": "2023-06-27",
         "name": "Arafah"
     },
     {
-        "date": "2023-06-29",
+        "date": "2023-06-28",
         "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha holiday"
     },
     {
         "date": "2023-06-30",
@@ -696,11 +700,7 @@
         "name": "Eid al-Adha holiday"
     },
     {
-        "date": "2023-07-02",
-        "name": "Eid al-Adha holiday"
-    },
-    {
-        "date": "2023-07-19",
+        "date": "2023-07-18",
         "name": "Muharram\/New Year"
     },
     {

@@ -313,11 +313,15 @@
     },
     {
         "date": "2023-04-21",
+        "name": "Ramadan Feast"
+    },
+    {
+        "date": "2023-04-21",
         "name": "Ramadan Feast Eve"
     },
     {
         "date": "2023-04-22",
-        "name": "Ramadan Feast"
+        "name": "Ramadan Feast Holiday"
     },
     {
         "date": "2023-04-23",
@@ -325,10 +329,6 @@
     },
     {
         "date": "2023-04-23",
-        "name": "Ramadan Feast Holiday"
-    },
-    {
-        "date": "2023-04-24",
         "name": "Ramadan Feast Holiday"
     },
     {
@@ -340,12 +340,16 @@
         "name": "Commemoration of Atat\u00fcrk, Youth and Sports Day"
     },
     {
-        "date": "2023-06-28",
+        "date": "2023-06-27",
         "name": "Sacrifice Feast Eve"
     },
     {
-        "date": "2023-06-29",
+        "date": "2023-06-28",
         "name": "Sacrifice Feast"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Sacrifice Feast Holiday"
     },
     {
         "date": "2023-06-30",
@@ -353,10 +357,6 @@
     },
     {
         "date": "2023-07-01",
-        "name": "Sacrifice Feast Holiday"
-    },
-    {
-        "date": "2023-07-02",
         "name": "Sacrifice Feast Holiday"
     },
     {

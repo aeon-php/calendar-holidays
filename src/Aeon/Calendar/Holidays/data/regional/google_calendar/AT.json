@@ -428,6 +428,10 @@
         "name": "Labor Day \/ May Day"
     },
     {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
         "date": "2023-05-18",
         "name": "Ascension Day"
     },
@@ -442,6 +446,10 @@
     {
         "date": "2023-06-08",
         "name": "Corpus Christi"
+    },
+    {
+        "date": "2023-06-11",
+        "name": "Father's Day"
     },
     {
         "date": "2023-08-15",

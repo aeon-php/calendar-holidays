@@ -480,6 +480,14 @@
         "name": "Republic Day\/New Year's Day observed"
     },
     {
+        "date": "2023-01-07",
+        "name": "Special Working Day"
+    },
+    {
+        "date": "2023-01-20",
+        "name": "Lunar New Year Holiday"
+    },
+    {
         "date": "2023-01-21",
         "name": "Lunar New Year's Eve"
     },
@@ -504,12 +512,44 @@
         "name": "Lunar New Year Holiday"
     },
     {
+        "date": "2023-01-27",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2023-01-28",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2023-01-29",
+        "name": "Lunar New Year Holiday"
+    },
+    {
         "date": "2023-02-04",
         "name": "Farmer's Day"
     },
     {
+        "date": "2023-02-04",
+        "name": "Make up Day for Lunar New Year Holiday"
+    },
+    {
         "date": "2023-02-05",
         "name": "Lantern Festival"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Make up Day for Peace Memorial Holiday"
+    },
+    {
+        "date": "2023-02-25",
+        "name": "Peace Memorial Day Holiday"
+    },
+    {
+        "date": "2023-02-26",
+        "name": "Peace Memorial Day Holiday"
+    },
+    {
+        "date": "2023-02-27",
+        "name": "Peace Memorial Day Holiday"
     },
     {
         "date": "2023-02-28",
@@ -520,8 +560,24 @@
         "name": "International Women's Day"
     },
     {
+        "date": "2023-03-25",
+        "name": "Make up Day for Children's Day Holiday"
+    },
+    {
         "date": "2023-03-29",
         "name": "Youth Day"
+    },
+    {
+        "date": "2023-04-01",
+        "name": "Public Holiday"
+    },
+    {
+        "date": "2023-04-02",
+        "name": "Public Holiday"
+    },
+    {
+        "date": "2023-04-03",
+        "name": "Public Holiday"
     },
     {
         "date": "2023-04-04",
@@ -536,8 +592,24 @@
         "name": "Labor Day"
     },
     {
+        "date": "2023-06-17",
+        "name": "Make up Day for Dragon Boat Festival Holiday"
+    },
+    {
         "date": "2023-06-22",
         "name": "Dragon Boat Festival"
+    },
+    {
+        "date": "2023-06-23",
+        "name": "Dragon Boat Festival Holiday"
+    },
+    {
+        "date": "2023-06-24",
+        "name": "Dragon Boat Festival Holiday"
+    },
+    {
+        "date": "2023-06-25",
+        "name": "Dragon Boat Festival Holiday"
     },
     {
         "date": "2023-08-30",
@@ -548,12 +620,36 @@
         "name": "Armed Forces Day"
     },
     {
+        "date": "2023-09-23",
+        "name": "Make up Day for National Day Holiday"
+    },
+    {
         "date": "2023-09-28",
         "name": "Teachers' Day"
     },
     {
         "date": "2023-09-29",
         "name": "Mid-Autumn Festival"
+    },
+    {
+        "date": "2023-09-30",
+        "name": "Mid-Autumn Festival Holiday"
+    },
+    {
+        "date": "2023-10-01",
+        "name": "Mid-Autumn Festival Holiday"
+    },
+    {
+        "date": "2023-10-07",
+        "name": "National Day Holiday"
+    },
+    {
+        "date": "2023-10-08",
+        "name": "National Day Holiday"
+    },
+    {
+        "date": "2023-10-09",
+        "name": "National Day Holiday"
     },
     {
         "date": "2023-10-10",

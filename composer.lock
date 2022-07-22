@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "210db67ffe2052f471a6ec5415cdf261",
+    "content-hash": "e2e5c3d3a6cddca6f66967b34a1a94a5",
     "packages": [
         {
             "name": "aeon-php/calendar",
@@ -59,16 +59,16 @@
     "packages-dev": [
         {
             "name": "firebase/php-jwt",
-            "version": "v6.2.0",
+            "version": "v6.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/firebase/php-jwt.git",
-                "reference": "d28e6df83830252650da4623c78aaaf98fb385f3"
+                "reference": "018dfc4e1da92ad8a1b90adc4893f476a3b41cb8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/firebase/php-jwt/zipball/d28e6df83830252650da4623c78aaaf98fb385f3",
-                "reference": "d28e6df83830252650da4623c78aaaf98fb385f3",
+                "url": "https://api.github.com/repos/firebase/php-jwt/zipball/018dfc4e1da92ad8a1b90adc4893f476a3b41cb8",
+                "reference": "018dfc4e1da92ad8a1b90adc4893f476a3b41cb8",
                 "shasum": ""
             },
             "require": {
@@ -115,181 +115,22 @@
             ],
             "support": {
                 "issues": "https://github.com/firebase/php-jwt/issues",
-                "source": "https://github.com/firebase/php-jwt/tree/v6.2.0"
+                "source": "https://github.com/firebase/php-jwt/tree/v6.3.0"
             },
-            "time": "2022-05-13T20:54:50+00:00"
-        },
-        {
-            "name": "flow-php/array-dot",
-            "version": "1.x-dev",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/flow-php/array-dot.git",
-                "reference": "c0688bb9e2c90f343779bc3b1761e11bd26da55f"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/array-dot/zipball/c0688bb9e2c90f343779bc3b1761e11bd26da55f",
-                "reference": "c0688bb9e2c90f343779bc3b1761e11bd26da55f",
-                "shasum": ""
-            },
-            "require": {
-                "php": "~8.1"
-            },
-            "default-branch": true,
-            "type": "library",
-            "autoload": {
-                "files": [
-                    "src/Flow/ArrayDot/array_dot.php"
-                ],
-                "psr-4": {
-                    "Flow\\": [
-                        "src/Flow"
-                    ]
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "PHP ETL - Array Dot fuctions",
-            "keywords": [
-                "array",
-                "dot",
-                "etl",
-                "extract",
-                "filter",
-                "load",
-                "transform"
-            ],
-            "support": {
-                "issues": "https://github.com/flow-php/array-dot/issues",
-                "source": "https://github.com/flow-php/array-dot/tree/1.x"
-            },
-            "time": "2022-04-10T09:46:31+00:00"
-        },
-        {
-            "name": "flow-php/etl",
-            "version": "1.x-dev",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/flow-php/etl.git",
-                "reference": "5974a3229769ffc5e27edec871e28a133d9d89cf"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl/zipball/5974a3229769ffc5e27edec871e28a133d9d89cf",
-                "reference": "5974a3229769ffc5e27edec871e28a133d9d89cf",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "ext-mbstring": "*",
-                "flow-php/array-dot": "^1.0@dev",
-                "php": "~8.1"
-            },
-            "require-dev": {
-                "jawira/case-converter": "^3.4",
-                "laminas/laminas-hydrator": "^4.0",
-                "laravel/serializable-closure": "^1.1",
-                "symfony/validator": "^5.3 || ^6.0"
-            },
-            "suggest": {
-                "jawira/case-converter": "Provides CaseConverter that is required by the EntryNameCaseConverterTransformer",
-                "laminas/laminas-hydrator": "Help converting ObjectEntry into ArrayEntry that can be later unpack into standalone Entries",
-                "ocramius/generated-hydrator": "Provieds generated hydrator that implemenets Laminas\\Hydrator\\HydratorInterface"
-            },
-            "default-branch": true,
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Flow\\": [
-                        "src/Flow"
-                    ]
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "PHP ETL - Extract Transform Load - Abstraction",
-            "keywords": [
-                "etl",
-                "extract",
-                "load",
-                "transform"
-            ],
-            "support": {
-                "issues": "https://github.com/flow-php/etl/issues",
-                "source": "https://github.com/flow-php/etl/tree/1.x"
-            },
-            "time": "2022-05-29T11:54:09+00:00"
-        },
-        {
-            "name": "flow-php/etl-adapter-json",
-            "version": "1.x-dev",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/flow-php/etl-adapter-json.git",
-                "reference": "d2dabfffcd70c28f6c9597ac814ffa654d949993"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/flow-php/etl-adapter-json/zipball/d2dabfffcd70c28f6c9597ac814ffa654d949993",
-                "reference": "d2dabfffcd70c28f6c9597ac814ffa654d949993",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "flow-php/etl": "^1.0@dev",
-                "php": "~8.1"
-            },
-            "require-dev": {
-                "halaxa/json-machine": "^0.8.0 || ^1.0.0"
-            },
-            "suggest": {
-                "halaxa/json-machine": "Memory safe json library used by Extractors and Loaders"
-            },
-            "default-branch": true,
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Flow\\": [
-                        "src/Flow"
-                    ]
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "PHP ETL - Adapter - JSON",
-            "keywords": [
-                "adapter",
-                "etl",
-                "extract",
-                "json",
-                "load",
-                "transform"
-            ],
-            "support": {
-                "issues": "https://github.com/flow-php/etl-adapter-json/issues",
-                "source": "https://github.com/flow-php/etl-adapter-json/tree/1.x"
-            },
-            "time": "2022-05-25T07:26:30+00:00"
+            "time": "2022-07-15T16:48:45+00:00"
         },
         {
             "name": "google/apiclient",
-            "version": "v2.12.4",
+            "version": "v2.12.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client.git",
-                "reference": "702eed9ae7022ba20dc7118c8161060cb50ee9f8"
+                "reference": "f92aa126903a9e2da5bd41a280d9633cb249e79e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/702eed9ae7022ba20dc7118c8161060cb50ee9f8",
-                "reference": "702eed9ae7022ba20dc7118c8161060cb50ee9f8",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/f92aa126903a9e2da5bd41a280d9633cb249e79e",
+                "reference": "f92aa126903a9e2da5bd41a280d9633cb249e79e",
                 "shasum": ""
             },
             "require": {
@@ -298,18 +139,17 @@
                 "google/auth": "^1.10",
                 "guzzlehttp/guzzle": "~5.3.3||~6.0||~7.0",
                 "guzzlehttp/psr7": "^1.8.4||^2.2.1",
-                "monolog/monolog": "^1.17||^2.0",
+                "monolog/monolog": "^1.17||^2.0||^3.0",
                 "php": "^5.6|^7.0|^8.0",
                 "phpseclib/phpseclib": "~2.0||^3.0.2"
             },
             "require-dev": {
                 "cache/filesystem-adapter": "^0.3.2|^1.1",
                 "composer/composer": "^1.10.22",
-                "dealerdirect/phpcodesniffer-composer-installer": "^0.7",
                 "phpcompatibility/php-compatibility": "^9.2",
                 "phpspec/prophecy-phpunit": "^1.1||^2.0",
                 "phpunit/phpunit": "^5.7.21 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
-                "squizlabs/php_codesniffer": "~2.3",
+                "squizlabs/php_codesniffer": "^3.0",
                 "symfony/css-selector": "~2.1",
                 "symfony/dom-crawler": "~2.1",
                 "yoast/phpunit-polyfills": "^1.0"
@@ -345,22 +185,22 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client/issues",
-                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.12.4"
+                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.12.6"
             },
-            "time": "2022-04-20T16:44:03+00:00"
+            "time": "2022-06-06T20:00:19+00:00"
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.250.0",
+            "version": "v0.258.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "3db4c0db2a5452e623b54f06dd993c432e6d6f8c"
+                "reference": "71eb32534aba05e373fe317c1373a9645065881c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/3db4c0db2a5452e623b54f06dd993c432e6d6f8c",
-                "reference": "3db4c0db2a5452e623b54f06dd993c432e6d6f8c",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/71eb32534aba05e373fe317c1373a9645065881c",
+                "reference": "71eb32534aba05e373fe317c1373a9645065881c",
                 "shasum": ""
             },
             "require": {
@@ -389,22 +229,22 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.250.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.258.0"
             },
-            "time": "2022-05-22T01:16:11+00:00"
+            "time": "2022-07-18T01:10:11+00:00"
         },
         {
             "name": "google/auth",
-            "version": "v1.21.0",
+            "version": "v1.21.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-auth-library-php.git",
-                "reference": "73392bad2eb6852eea9084b6bbdec752515cb849"
+                "reference": "aa3b9ca29258ac6347ce3c8937a2418c5d78f840"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-auth-library-php/zipball/73392bad2eb6852eea9084b6bbdec752515cb849",
-                "reference": "73392bad2eb6852eea9084b6bbdec752515cb849",
+                "url": "https://api.github.com/repos/googleapis/google-auth-library-php/zipball/aa3b9ca29258ac6347ce3c8937a2418c5d78f840",
+                "reference": "aa3b9ca29258ac6347ce3c8937a2418c5d78f840",
                 "shasum": ""
             },
             "require": {
@@ -447,28 +287,28 @@
             "support": {
                 "docs": "https://googleapis.github.io/google-auth-library-php/main/",
                 "issues": "https://github.com/googleapis/google-auth-library-php/issues",
-                "source": "https://github.com/googleapis/google-auth-library-php/tree/v1.21.0"
+                "source": "https://github.com/googleapis/google-auth-library-php/tree/v1.21.1"
             },
-            "time": "2022-04-13T20:35:52+00:00"
+            "time": "2022-05-16T19:34:15+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.4.3",
+            "version": "7.4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "74a8602c6faec9ef74b7a9391ac82c5e65b1cdab"
+                "reference": "1dd98b0564cb3f6bd16ce683cb755f94c10fbd82"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/74a8602c6faec9ef74b7a9391ac82c5e65b1cdab",
-                "reference": "74a8602c6faec9ef74b7a9391ac82c5e65b1cdab",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/1dd98b0564cb3f6bd16ce683cb755f94c10fbd82",
+                "reference": "1dd98b0564cb3f6bd16ce683cb755f94c10fbd82",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
                 "guzzlehttp/promises": "^1.5",
-                "guzzlehttp/psr7": "^1.8.3 || ^2.1",
+                "guzzlehttp/psr7": "^1.9 || ^2.4",
                 "php": "^7.2.5 || ^8.0",
                 "psr/http-client": "^1.0",
                 "symfony/deprecation-contracts": "^2.2 || ^3.0"
@@ -557,7 +397,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.4.3"
+                "source": "https://github.com/guzzle/guzzle/tree/7.4.5"
             },
             "funding": [
                 {
@@ -573,7 +413,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-25T13:24:33+00:00"
+            "time": "2022-06-20T22:16:13+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -661,16 +501,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.2.1",
+            "version": "2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "c94a94f120803a18554c1805ef2e539f8285f9a2"
+                "reference": "13388f00956b1503577598873fffb5ae994b5737"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/c94a94f120803a18554c1805ef2e539f8285f9a2",
-                "reference": "c94a94f120803a18554c1805ef2e539f8285f9a2",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/13388f00956b1503577598873fffb5ae994b5737",
+                "reference": "13388f00956b1503577598873fffb5ae994b5737",
                 "shasum": ""
             },
             "require": {
@@ -694,7 +534,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.2-dev"
+                    "dev-master": "2.4-dev"
                 }
             },
             "autoload": {
@@ -756,7 +596,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.2.1"
+                "source": "https://github.com/guzzle/psr7/tree/2.4.0"
             },
             "funding": [
                 {
@@ -772,78 +612,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-03-20T21:55:58+00:00"
-        },
-        {
-            "name": "halaxa/json-machine",
-            "version": "1.1.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/halaxa/json-machine.git",
-                "reference": "b4086dfe72670df060d2bd481f01bc9e450a5640"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/b4086dfe72670df060d2bd481f01bc9e450a5640",
-                "reference": "b4086dfe72670df060d2bd481f01bc9e450a5640",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=7.0"
-            },
-            "require-dev": {
-                "ext-json": "*",
-                "friendsofphp/php-cs-fixer": "^3.0",
-                "phpunit/phpunit": "^8.0"
-            },
-            "suggest": {
-                "ext-json": "To run JSON Machine out of the box without custom decoders.",
-                "guzzlehttp/guzzle": "To run example with GuzzleHttp"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "JsonMachine\\": "src/"
-                },
-                "exclude-from-classmap": [
-                    "src/autoloader.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "Apache-2.0"
-            ],
-            "authors": [
-                {
-                    "name": "Filip Halaxa",
-                    "email": "filip@halaxa.cz"
-                }
-            ],
-            "description": "Efficient, easy-to-use and fast JSON pull parser",
-            "support": {
-                "issues": "https://github.com/halaxa/json-machine/issues",
-                "source": "https://github.com/halaxa/json-machine/tree/1.1.1"
-            },
-            "funding": [
-                {
-                    "url": "https://ko-fi.com/G2G57KTE4",
-                    "type": "other"
-                }
-            ],
-            "time": "2022-03-03T11:02:11+00:00"
+            "time": "2022-06-20T21:43:11+00:00"
         },
         {
             "name": "monolog/monolog",
-            "version": "2.6.0",
+            "version": "2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "247918972acd74356b0a91dfaa5adcaec069b6c0"
+                "reference": "5579edf28aee1190a798bfa5be8bc16c563bd524"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/247918972acd74356b0a91dfaa5adcaec069b6c0",
-                "reference": "247918972acd74356b0a91dfaa5adcaec069b6c0",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/5579edf28aee1190a798bfa5be8bc16c563bd524",
+                "reference": "5579edf28aee1190a798bfa5be8bc16c563bd524",
                 "shasum": ""
             },
             "require": {
@@ -922,7 +704,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Seldaek/monolog/issues",
-                "source": "https://github.com/Seldaek/monolog/tree/2.6.0"
+                "source": "https://github.com/Seldaek/monolog/tree/2.7.0"
             },
             "funding": [
                 {
@@ -934,20 +716,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-10T09:36:00+00:00"
+            "time": "2022-06-09T08:59:12+00:00"
         },
         {
             "name": "paragonie/constant_time_encoding",
-            "version": "v2.5.0",
+            "version": "v2.6.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/constant_time_encoding.git",
-                "reference": "9229e15f2e6ba772f0c55dd6986c563b937170a8"
+                "reference": "58c3f47f650c94ec05a151692652a868995d2938"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/9229e15f2e6ba772f0c55dd6986c563b937170a8",
-                "reference": "9229e15f2e6ba772f0c55dd6986c563b937170a8",
+                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/58c3f47f650c94ec05a151692652a868995d2938",
+                "reference": "58c3f47f650c94ec05a151692652a868995d2938",
                 "shasum": ""
             },
             "require": {
@@ -1001,7 +783,7 @@
                 "issues": "https://github.com/paragonie/constant_time_encoding/issues",
                 "source": "https://github.com/paragonie/constant_time_encoding"
             },
-            "time": "2022-01-17T05:32:27+00:00"
+            "time": "2022-06-14T06:56:20+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -1164,20 +946,20 @@
         },
         {
             "name": "psr/cache",
-            "version": "3.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/cache.git",
-                "reference": "aa5030cfa5405eccfdcb1083ce040c2cb8d253bf"
+                "reference": "d11b50ad223250cf17b86e38383413f5a6764bf8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/cache/zipball/aa5030cfa5405eccfdcb1083ce040c2cb8d253bf",
-                "reference": "aa5030cfa5405eccfdcb1083ce040c2cb8d253bf",
+                "url": "https://api.github.com/repos/php-fig/cache/zipball/d11b50ad223250cf17b86e38383413f5a6764bf8",
+                "reference": "d11b50ad223250cf17b86e38383413f5a6764bf8",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.0"
+                "php": ">=5.3.0"
             },
             "type": "library",
             "extra": {
@@ -1197,7 +979,7 @@
             "authors": [
                 {
                     "name": "PHP-FIG",
-                    "homepage": "https://www.php-fig.org/"
+                    "homepage": "http://www.php-fig.org/"
                 }
             ],
             "description": "Common interface for caching libraries",
@@ -1207,9 +989,9 @@
                 "psr-6"
             ],
             "support": {
-                "source": "https://github.com/php-fig/cache/tree/3.0.0"
+                "source": "https://github.com/php-fig/cache/tree/master"
             },
-            "time": "2021-02-03T23:26:27+00:00"
+            "time": "2016-08-06T20:24:11+00:00"
         },
         {
             "name": "psr/http-client",
@@ -1373,30 +1155,30 @@
         },
         {
             "name": "psr/log",
-            "version": "3.0.0",
+            "version": "1.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "fe5ea303b0887d5caefd3d431c3e61ad47037001"
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/fe5ea303b0887d5caefd3d431c3e61ad47037001",
-                "reference": "fe5ea303b0887d5caefd3d431c3e61ad47037001",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/d49695b909c3b7628b6289db5479a1c204601f11",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0.0"
+                "php": ">=5.3.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.x-dev"
+                    "dev-master": "1.1.x-dev"
                 }
             },
             "autoload": {
                 "psr-4": {
-                    "Psr\\Log\\": "src"
+                    "Psr\\Log\\": "Psr/Log/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1417,9 +1199,9 @@
                 "psr-3"
             ],
             "support": {
-                "source": "https://github.com/php-fig/log/tree/3.0.0"
+                "source": "https://github.com/php-fig/log/tree/1.1.4"
             },
-            "time": "2021-07-14T16:46:02+00:00"
+            "time": "2021-05-03T11:20:27+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -1467,25 +1249,25 @@
         },
         {
             "name": "symfony/deprecation-contracts",
-            "version": "v3.1.0",
+            "version": "v2.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/deprecation-contracts.git",
-                "reference": "07f1b9cc2ffee6aaafcf4b710fbc38ff736bd918"
+                "reference": "e8b495ea28c1d97b5e0c121748d6f9b53d075c66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/07f1b9cc2ffee6aaafcf4b710fbc38ff736bd918",
-                "reference": "07f1b9cc2ffee6aaafcf4b710fbc38ff736bd918",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/e8b495ea28c1d97b5e0c121748d6f9b53d075c66",
+                "reference": "e8b495ea28c1d97b5e0c121748d6f9b53d075c66",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.1"
+                "php": ">=7.1"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "3.1-dev"
+                    "dev-main": "2.5-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
@@ -1514,7 +1296,7 @@
             "description": "A generic function and convention to trigger deprecation notices",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.1.0"
+                "source": "https://github.com/symfony/deprecation-contracts/tree/v2.5.2"
             },
             "funding": [
                 {
@@ -1530,15 +1312,12 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-02-25T11:15:52+00:00"
+            "time": "2022-01-02T09:53:40+00:00"
         }
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "flow-php/etl": 20,
-        "flow-php/etl-adapter-json": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {

@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
 
 use Flow\ETL\Extractor;
+use Flow\ETL\FlowContext;
 use Flow\ETL\Row;
 use Flow\ETL\Row\Entries;
 use Flow\ETL\Row\Entry\ObjectEntry;
@@ -23,7 +24,7 @@ final class GoogleCalendarEventsExtractor implements Extractor
         $this->googleCalendarService = $googleCalendarService;
     }
 
-    public function extract() : \Generator
+    public function extract(FlowContext $context) : \Generator
     {
         foreach ($this->countriesData as $countryData) {
             if (!isset($countryData['googleHolidaysCalendarId']) || !isset($countryData['countryCode'])) {

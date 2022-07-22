@@ -312,11 +312,11 @@
         "name": "Republic Day"
     },
     {
-        "date": "2022-07-31",
+        "date": "2022-07-29",
         "name": "Islamic New Year"
     },
     {
-        "date": "2022-08-08",
+        "date": "2022-08-07",
         "name": "Ashura"
     },
     {
@@ -356,15 +356,15 @@
         "name": "Nowruz"
     },
     {
-        "date": "2023-04-22",
+        "date": "2023-04-21",
         "name": "Eid al-Fitr"
     },
     {
-        "date": "2023-04-23",
+        "date": "2023-04-22",
         "name": "Eid al-Fitr holiday"
     },
     {
-        "date": "2023-04-24",
+        "date": "2023-04-23",
         "name": "Eid al-Fitr holiday"
     },
     {
@@ -372,8 +372,12 @@
         "name": "Labor Day"
     },
     {
-        "date": "2023-06-29",
+        "date": "2023-06-28",
         "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha holiday"
     },
     {
         "date": "2023-06-30",
@@ -384,19 +388,15 @@
         "name": "Eid al-Adha holiday"
     },
     {
-        "date": "2023-07-02",
-        "name": "Eid al-Adha holiday"
-    },
-    {
         "date": "2023-07-14",
         "name": "Republic Day"
     },
     {
-        "date": "2023-07-19",
+        "date": "2023-07-18",
         "name": "Islamic New Year"
     },
     {
-        "date": "2023-07-28",
+        "date": "2023-07-27",
         "name": "Ashura"
     },
     {

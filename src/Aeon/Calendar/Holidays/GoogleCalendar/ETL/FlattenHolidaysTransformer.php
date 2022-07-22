@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
 
+use Flow\ETL\FlowContext;
 use Flow\ETL\Row;
 use Flow\ETL\Row\Entries;
 use Flow\ETL\Row\Entry\StringEntry;
@@ -24,7 +25,7 @@ final class FlattenHolidaysTransformer implements Transformer
     {
     }
 
-    public function transform(Rows $rows) : Rows
+    public function transform(Rows $rows, FlowContext $context) : Rows
     {
         return $rows
             ->map(function (Row $row) : Row {

@@ -652,6 +652,10 @@
         "name": "May Day (regional holiday)"
     },
     {
+        "date": "2023-05-14",
+        "name": "Mother's Day"
+    },
+    {
         "date": "2023-05-18",
         "name": "Ascension Day (regional holiday)"
     },
@@ -662,6 +666,10 @@
     {
         "date": "2023-05-29",
         "name": "Pentecost Monday (regional holiday)"
+    },
+    {
+        "date": "2023-06-04",
+        "name": "Father's Day"
     },
     {
         "date": "2023-06-08",

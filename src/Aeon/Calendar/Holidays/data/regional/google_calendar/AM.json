@@ -460,12 +460,28 @@
         "name": "Independence Day"
     },
     {
+        "date": "2022-10-02",
+        "name": "Day of National Minorities of the Republic of Armenia"
+    },
+    {
+        "date": "2022-10-05",
+        "name": "Teacher's Day"
+    },
+    {
         "date": "2022-10-08",
         "name": "Translators' Day"
     },
     {
+        "date": "2022-11-10",
+        "name": "Local Self-Government Day"
+    },
+    {
         "date": "2022-12-07",
         "name": "Spitak Remembrance Day"
+    },
+    {
+        "date": "2022-12-09",
+        "name": "Genocide Condemnation and Prevention Day"
     },
     {
         "date": "2022-12-31",
@@ -500,6 +516,10 @@
         "name": "Feast of Saint Vartan"
     },
     {
+        "date": "2023-02-21",
+        "name": "Mother Language Day"
+    },
+    {
         "date": "2023-03-08",
         "name": "International Women's Day"
     },
@@ -524,6 +544,14 @@
         "name": "Easter Monday"
     },
     {
+        "date": "2023-04-16",
+        "name": "Armenian Cinema Day"
+    },
+    {
+        "date": "2023-04-19",
+        "name": "Taxpayer's Day"
+    },
+    {
         "date": "2023-04-24",
         "name": "Genocide Remembrance Day"
     },
@@ -544,12 +572,24 @@
         "name": "Victory and Peace Day"
     },
     {
+        "date": "2023-05-15",
+        "name": "Family Day"
+    },
+    {
+        "date": "2023-05-16",
+        "name": "Day of Students and Youth"
+    },
+    {
         "date": "2023-05-28",
         "name": "Republic Day"
     },
     {
         "date": "2023-06-01",
         "name": "Children's Day"
+    },
+    {
+        "date": "2023-06-14",
+        "name": "Remembrance Day of the Oppressed"
     },
     {
         "date": "2023-07-05",
@@ -568,12 +608,28 @@
         "name": "Independence Day"
     },
     {
+        "date": "2023-10-01",
+        "name": "Day of National Minorities of the Republic of Armenia"
+    },
+    {
+        "date": "2023-10-05",
+        "name": "Teacher's Day"
+    },
+    {
         "date": "2023-10-14",
         "name": "Translators' Day"
     },
     {
+        "date": "2023-11-10",
+        "name": "Local Self-Government Day"
+    },
+    {
         "date": "2023-12-07",
         "name": "Spitak Remembrance Day"
+    },
+    {
+        "date": "2023-12-09",
+        "name": "Genocide Condemnation and Prevention Day"
     },
     {
         "date": "2023-12-31",

@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
 
 use Aeon\Calendar\Gregorian\Day;
+use Flow\ETL\FlowContext;
 use Flow\ETL\Row;
 use Flow\ETL\Row\Entries;
 use Flow\ETL\Row\Entry\ObjectEntry;
@@ -26,7 +27,7 @@ final class GoogleCalendarEventsTransformer implements Transformer
     {
     }
 
-    public function transform(Rows $rows) : Rows
+    public function transform(Rows $rows, FlowContext $context) : Rows
     {
         return $rows->map(function (Row $row) : Row {
             /** @var \Google_Service_Calendar_Event $event */

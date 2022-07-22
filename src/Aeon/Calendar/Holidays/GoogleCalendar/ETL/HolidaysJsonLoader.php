@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
 
+use Flow\ETL\FlowContext;
 use Flow\ETL\Loader;
 use Flow\ETL\Row;
 use Flow\ETL\Row\Entries;
@@ -30,7 +31,7 @@ final class HolidaysJsonLoader implements Loader
     {
     }
 
-    public function load(Rows $rows) : void
+    public function load(Rows $rows, FlowContext $context) : void
     {
         if (!$rows->count()) {
             return;

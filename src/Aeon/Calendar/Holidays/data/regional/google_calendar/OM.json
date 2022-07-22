@@ -288,8 +288,12 @@
         "name": "Eid al-Fitr Holiday"
     },
     {
-        "date": "2023-06-29",
+        "date": "2023-06-28",
         "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha Holiday"
     },
     {
         "date": "2023-06-30",
@@ -297,10 +301,6 @@
     },
     {
         "date": "2023-07-01",
-        "name": "Eid al-Adha Holiday"
-    },
-    {
-        "date": "2023-07-02",
         "name": "Eid al-Adha Holiday"
     },
     {

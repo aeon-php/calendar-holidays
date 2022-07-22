@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Aeon\Calendar\Holidays\GoogleCalendar\ETL;
 
 use Aeon\Calendar\Gregorian\Calendar;
+use Flow\ETL\FlowContext;
 use Flow\ETL\Row;
 use Flow\ETL\Rows;
 use Flow\ETL\Transformer;
@@ -33,7 +34,7 @@ final class FilterHistoricalHolidaysTransformer implements Transformer
     {
     }
 
-    public function transform(Rows $rows) : Rows
+    public function transform(Rows $rows, FlowContext $context) : Rows
     {
         if (!$rows->count()) {
             return $rows;

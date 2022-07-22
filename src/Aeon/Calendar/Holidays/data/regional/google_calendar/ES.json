@@ -1301,6 +1301,10 @@
     },
     {
         "date": "2023-01-02",
+        "name": "New Year's Day Holiday (regional holiday)"
+    },
+    {
+        "date": "2023-01-02",
         "name": "Reconquest Day (Granada)"
     },
     {
@@ -1334,6 +1338,10 @@
     {
         "date": "2023-03-06",
         "name": "Fifth of March (Zaragoza)"
+    },
+    {
+        "date": "2023-03-19",
+        "name": "Father's Day"
     },
     {
         "date": "2023-03-19",
@@ -1373,11 +1381,15 @@
     },
     {
         "date": "2023-04-23",
+        "name": "Day of Arag\u00f3n (Aragon)"
+    },
+    {
+        "date": "2023-04-23",
         "name": "Santa Faz (Alicante)"
     },
     {
         "date": "2023-04-24",
-        "name": "Day of Arag\u00f3n (Aragon)"
+        "name": "Day off for Day of Arag\u00f3n (Aragon)"
     },
     {
         "date": "2023-04-28",
@@ -1525,7 +1537,7 @@
     },
     {
         "date": "2023-11-01",
-        "name": "All Saints' Day (regional holiday)"
+        "name": "All Saints' Day"
     },
     {
         "date": "2023-11-09",
@@ -1537,7 +1549,7 @@
     },
     {
         "date": "2023-12-06",
-        "name": "Constitution Day (regional holiday)"
+        "name": "Constitution Day"
     },
     {
         "date": "2023-12-08",

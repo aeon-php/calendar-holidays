@@ -464,6 +464,10 @@
         "name": "Christmas Day"
     },
     {
+        "date": "2022-12-25",
+        "name": "Mother's Day"
+    },
+    {
         "date": "2022-12-26",
         "name": "Day After Christmas"
     },
@@ -582,6 +586,10 @@
     {
         "date": "2023-12-24",
         "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Mother's Day"
     },
     {
         "date": "2023-12-25",

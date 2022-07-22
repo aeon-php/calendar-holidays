@@ -1,0 +1,13 @@
+{
+  "name": "aeon-php/calendar-tools",
+  "description": "Aeon PHP Calendar - Tools",
+  "prefer-stable": true,
+  "minimum-stability": "dev",
+  "config": {
+    "allow-plugins": false
+  },
+  "require": {
+    "flow-php/etl": "1.x-dev#40803f243af0728addac493a6de0dec0080c6ad5",
+    "flow-php/etl-adapter-json": "1.x-dev#f64d97d195a2c265d3d79c79cc84a59825722e9d"
+  }
+}
