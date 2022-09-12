@@ -4,24 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e2e5c3d3a6cddca6f66967b34a1a94a5",
+    "content-hash": "b09dbc963d00f2934c5411fd1debbeed",
     "packages": [
         {
             "name": "aeon-php/calendar",
-            "version": "1.0.5",
+            "version": "1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aeon-php/calendar.git",
-                "reference": "eba5a653d4544ee879a9af963d2a04bdbea43577"
+                "reference": "49e3167815ca6af1f4215eed0719c3d83d749571"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/eba5a653d4544ee879a9af963d2a04bdbea43577",
-                "reference": "eba5a653d4544ee879a9af963d2a04bdbea43577",
+                "url": "https://api.github.com/repos/aeon-php/calendar/zipball/49e3167815ca6af1f4215eed0719c3d83d749571",
+                "reference": "49e3167815ca6af1f4215eed0719c3d83d749571",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.4.2 || ~8.0 || ~8.1"
+                "php": "^7.4.2 || ~8.0 || ~8.1.10"
             },
             "require-dev": {
                 "ext-bcmath": "*"
@@ -51,9 +51,9 @@
             ],
             "support": {
                 "issues": "https://github.com/aeon-php/calendar/issues",
-                "source": "https://github.com/aeon-php/calendar/tree/1.0.5"
+                "source": "https://github.com/aeon-php/calendar/tree/1.0.7"
             },
-            "time": "2022-08-14T17:09:33+00:00"
+            "time": "2022-09-10T13:11:14+00:00"
         }
     ],
     "packages-dev": [
@@ -191,16 +191,16 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.258.0",
+            "version": "v0.266.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "71eb32534aba05e373fe317c1373a9645065881c"
+                "reference": "27ead5edc8ba4a17ddd211ad03216c313a57411f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/71eb32534aba05e373fe317c1373a9645065881c",
-                "reference": "71eb32534aba05e373fe317c1373a9645065881c",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/27ead5edc8ba4a17ddd211ad03216c313a57411f",
+                "reference": "27ead5edc8ba4a17ddd211ad03216c313a57411f",
                 "shasum": ""
             },
             "require": {
@@ -229,22 +229,22 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.258.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.266.0"
             },
-            "time": "2022-07-18T01:10:11+00:00"
+            "time": "2022-09-12T01:28:14+00:00"
         },
         {
             "name": "google/auth",
-            "version": "v1.21.1",
+            "version": "v1.22.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-auth-library-php.git",
-                "reference": "aa3b9ca29258ac6347ce3c8937a2418c5d78f840"
+                "reference": "da4037df770027c8f7163595a29ec434f705f8b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-auth-library-php/zipball/aa3b9ca29258ac6347ce3c8937a2418c5d78f840",
-                "reference": "aa3b9ca29258ac6347ce3c8937a2418c5d78f840",
+                "url": "https://api.github.com/repos/googleapis/google-auth-library-php/zipball/da4037df770027c8f7163595a29ec434f705f8b1",
+                "reference": "da4037df770027c8f7163595a29ec434f705f8b1",
                 "shasum": ""
             },
             "require": {
@@ -287,22 +287,22 @@
             "support": {
                 "docs": "https://googleapis.github.io/google-auth-library-php/main/",
                 "issues": "https://github.com/googleapis/google-auth-library-php/issues",
-                "source": "https://github.com/googleapis/google-auth-library-php/tree/v1.21.1"
+                "source": "https://github.com/googleapis/google-auth-library-php/tree/v1.22.0"
             },
-            "time": "2022-05-16T19:34:15+00:00"
+            "time": "2022-09-01T17:07:07+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.4.5",
+            "version": "7.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "1dd98b0564cb3f6bd16ce683cb755f94c10fbd82"
+                "reference": "b50a2a1251152e43f6a37f0fa053e730a67d25ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/1dd98b0564cb3f6bd16ce683cb755f94c10fbd82",
-                "reference": "1dd98b0564cb3f6bd16ce683cb755f94c10fbd82",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/b50a2a1251152e43f6a37f0fa053e730a67d25ba",
+                "reference": "b50a2a1251152e43f6a37f0fa053e730a67d25ba",
                 "shasum": ""
             },
             "require": {
@@ -317,10 +317,10 @@
                 "psr/http-client-implementation": "1.0"
             },
             "require-dev": {
-                "bamarni/composer-bin-plugin": "^1.4.1",
+                "bamarni/composer-bin-plugin": "^1.8.1",
                 "ext-curl": "*",
                 "php-http/client-integration-tests": "^3.0",
-                "phpunit/phpunit": "^8.5.5 || ^9.3.5",
+                "phpunit/phpunit": "^8.5.29 || ^9.5.23",
                 "psr/log": "^1.1 || ^2.0 || ^3.0"
             },
             "suggest": {
@@ -330,8 +330,12 @@
             },
             "type": "library",
             "extra": {
+                "bamarni-bin": {
+                    "bin-links": true,
+                    "forward-command": false
+                },
                 "branch-alias": {
-                    "dev-master": "7.4-dev"
+                    "dev-master": "7.5-dev"
                 }
             },
             "autoload": {
@@ -397,7 +401,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.4.5"
+                "source": "https://github.com/guzzle/guzzle/tree/7.5.0"
             },
             "funding": [
                 {
@@ -413,20 +417,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-06-20T22:16:13+00:00"
+            "time": "2022-08-28T15:39:27+00:00"
         },
         {
             "name": "guzzlehttp/promises",
-            "version": "1.5.1",
+            "version": "1.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/promises.git",
-                "reference": "fe752aedc9fd8fcca3fe7ad05d419d32998a06da"
+                "reference": "b94b2807d85443f9719887892882d0329d1e2598"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/promises/zipball/fe752aedc9fd8fcca3fe7ad05d419d32998a06da",
-                "reference": "fe752aedc9fd8fcca3fe7ad05d419d32998a06da",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/b94b2807d85443f9719887892882d0329d1e2598",
+                "reference": "b94b2807d85443f9719887892882d0329d1e2598",
                 "shasum": ""
             },
             "require": {
@@ -481,7 +485,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/promises/issues",
-                "source": "https://github.com/guzzle/promises/tree/1.5.1"
+                "source": "https://github.com/guzzle/promises/tree/1.5.2"
             },
             "funding": [
                 {
@@ -497,20 +501,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-10-22T20:56:57+00:00"
+            "time": "2022-08-28T14:55:35+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.4.0",
+            "version": "2.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "13388f00956b1503577598873fffb5ae994b5737"
+                "reference": "69568e4293f4fa993f3b0e51c9723e1e17c41379"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/13388f00956b1503577598873fffb5ae994b5737",
-                "reference": "13388f00956b1503577598873fffb5ae994b5737",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/69568e4293f4fa993f3b0e51c9723e1e17c41379",
+                "reference": "69568e4293f4fa993f3b0e51c9723e1e17c41379",
                 "shasum": ""
             },
             "require": {
@@ -524,15 +528,19 @@
                 "psr/http-message-implementation": "1.0"
             },
             "require-dev": {
-                "bamarni/composer-bin-plugin": "^1.4.1",
+                "bamarni/composer-bin-plugin": "^1.8.1",
                 "http-interop/http-factory-tests": "^0.9",
-                "phpunit/phpunit": "^8.5.8 || ^9.3.10"
+                "phpunit/phpunit": "^8.5.29 || ^9.5.23"
             },
             "suggest": {
                 "laminas/laminas-httphandlerrunner": "Emit PSR-7 responses"
             },
             "type": "library",
             "extra": {
+                "bamarni-bin": {
+                    "bin-links": true,
+                    "forward-command": false
+                },
                 "branch-alias": {
                     "dev-master": "2.4-dev"
                 }
@@ -596,7 +604,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.4.0"
+                "source": "https://github.com/guzzle/psr7/tree/2.4.1"
             },
             "funding": [
                 {
@@ -612,20 +620,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-06-20T21:43:11+00:00"
+            "time": "2022-08-28T14:45:39+00:00"
         },
         {
             "name": "monolog/monolog",
-            "version": "2.7.0",
+            "version": "2.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "5579edf28aee1190a798bfa5be8bc16c563bd524"
+                "reference": "720488632c590286b88b80e62aa3d3d551ad4a50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/5579edf28aee1190a798bfa5be8bc16c563bd524",
-                "reference": "5579edf28aee1190a798bfa5be8bc16c563bd524",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/720488632c590286b88b80e62aa3d3d551ad4a50",
+                "reference": "720488632c590286b88b80e62aa3d3d551ad4a50",
                 "shasum": ""
             },
             "require": {
@@ -645,11 +653,10 @@
                 "guzzlehttp/psr7": "^2.2",
                 "mongodb/mongodb": "^1.8",
                 "php-amqplib/php-amqplib": "~2.4 || ^3",
-                "php-console/php-console": "^3.1.3",
                 "phpspec/prophecy": "^1.15",
                 "phpstan/phpstan": "^0.12.91",
                 "phpunit/phpunit": "^8.5.14",
-                "predis/predis": "^1.1",
+                "predis/predis": "^1.1 || ^2.0",
                 "rollbar/rollbar": "^1.3 || ^2 || ^3",
                 "ruflin/elastica": "^7",
                 "swiftmailer/swiftmailer": "^5.3|^6.0",
@@ -669,7 +676,6 @@
                 "graylog2/gelf-php": "Allow sending log messages to a GrayLog2 server",
                 "mongodb/mongodb": "Allow sending log messages to a MongoDB server (via library)",
                 "php-amqplib/php-amqplib": "Allow sending log messages to an AMQP server using php-amqplib",
-                "php-console/php-console": "Allow sending log messages to Google Chrome",
                 "rollbar/rollbar": "Allow sending log messages to Rollbar",
                 "ruflin/elastica": "Allow sending log messages to an Elastic Search server"
             },
@@ -704,7 +710,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Seldaek/monolog/issues",
-                "source": "https://github.com/Seldaek/monolog/tree/2.7.0"
+                "source": "https://github.com/Seldaek/monolog/tree/2.8.0"
             },
             "funding": [
                 {
@@ -716,7 +722,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-06-09T08:59:12+00:00"
+            "time": "2022-07-24T11:55:47+00:00"
         },
         {
             "name": "paragonie/constant_time_encoding",
@@ -837,16 +843,16 @@
         },
         {
             "name": "phpseclib/phpseclib",
-            "version": "3.0.14",
+            "version": "3.0.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpseclib/phpseclib.git",
-                "reference": "2f0b7af658cbea265cbb4a791d6c29a6613f98ef"
+                "reference": "7181378909ed8890be4db53d289faac5b77f8b05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/2f0b7af658cbea265cbb4a791d6c29a6613f98ef",
-                "reference": "2f0b7af658cbea265cbb4a791d6c29a6613f98ef",
+                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/7181378909ed8890be4db53d289faac5b77f8b05",
+                "reference": "7181378909ed8890be4db53d289faac5b77f8b05",
                 "shasum": ""
             },
             "require": {
@@ -858,6 +864,7 @@
                 "phpunit/phpunit": "*"
             },
             "suggest": {
+                "ext-dom": "Install the DOM extension to load XML formatted public keys.",
                 "ext-gmp": "Install the GMP (GNU Multiple Precision) extension in order to speed up arbitrary precision integer arithmetic operations.",
                 "ext-libsodium": "SSH2/SFTP can make use of some algorithms provided by the libsodium-php extension.",
                 "ext-mcrypt": "Install the Mcrypt extension in order to speed up a few other cryptographic operations.",
@@ -926,7 +933,7 @@
             ],
             "support": {
                 "issues": "https://github.com/phpseclib/phpseclib/issues",
-                "source": "https://github.com/phpseclib/phpseclib/tree/3.0.14"
+                "source": "https://github.com/phpseclib/phpseclib/tree/3.0.16"
             },
             "funding": [
                 {
@@ -942,7 +949,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-04-04T05:15:45+00:00"
+            "time": "2022-09-05T18:03:08+00:00"
         },
         {
             "name": "psr/cache",

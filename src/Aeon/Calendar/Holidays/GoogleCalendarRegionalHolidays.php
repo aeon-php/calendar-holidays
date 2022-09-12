@@ -131,7 +131,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
 
         foreach ($calendars as $calendar) {
             foreach ($calendar as $holiday) {
-                if ($holiday->day()->isAfterOrEqual($period->start()->day()) && $holiday->day()->isBeforeOrEqual($period->end()->day())) {
+                if ($holiday->day()->isAfterOrEqualTo($period->start()->day()) && $holiday->day()->isBeforeOrEqualTo($period->end()->day())) {
                     $holidays[] = $holiday;
                 }
             }
