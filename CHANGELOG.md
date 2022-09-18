@@ -8,6 +8,7 @@
 - [49b8ec](https://github.com/aeon-php/calendar-holidays/commit/49b8ec94a78dd68192dabdcdd219eaa13203f6bd) - **custom workflows into aeon-php reusable workflows** - [@norberttech](https://github.com/norberttech)
 
 ### Fixed
+- [22454a](https://github.com/aeon-php/calendar-holidays/commit/22454af59faf0f3f26698af207118a98853e41e6) - **fetch holidays github actions** - [@norberttech](https://github.com/norberttech)
 - [d57f9f](https://github.com/aeon-php/calendar-holidays/commit/d57f9fda46b91e6ad10ff6f572c73ea74b37fb27) - **loading countriesdb etl** - [@norberttech](https://github.com/norberttech)
 - [#233](https://github.com/aeon-php/calendar-holidays/pull/233) - **Restore fetch-holidays.yml workflow** - [@norbertmwk](https://github.com/norbertmwk)
 - [ba1413](https://github.com/aeon-php/calendar-holidays/commit/ba141352983c03609a040d24c816a4e468ab3e2a) - **PHP versions scope** - [@norberttech](https://github.com/norberttech)
