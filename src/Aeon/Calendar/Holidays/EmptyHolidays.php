@@ -10,6 +10,7 @@ use Aeon\Calendar\Holidays;
 
 /**
  * @psalm-immutable
+ *
  * @codeCoverageIgnore
  */
 final class EmptyHolidays implements Holidays
