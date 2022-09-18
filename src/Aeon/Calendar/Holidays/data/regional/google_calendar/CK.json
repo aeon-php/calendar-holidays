@@ -232,6 +232,10 @@
         "name": "Good Friday"
     },
     {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
         "date": "2023-04-10",
         "name": "Easter Monday"
     },
@@ -241,7 +245,7 @@
     },
     {
         "date": "2023-06-05",
-        "name": "Queen's Birthday"
+        "name": "Queen Elizabeth II's Birthday"
     },
     {
         "date": "2023-07-07",

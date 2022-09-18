@@ -408,12 +408,72 @@
         "name": "New Year's Eve"
     },
     {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-23",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2023-02-19",
+        "name": "Ascension of the Prophet Muhammad"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
         "date": "2023-04-21",
         "name": "Kartini Day"
     },
     {
+        "date": "2023-04-22",
+        "name": "Idul Fitri"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Idul Fitri Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "International Labor Day"
+    },
+    {
+        "date": "2023-05-18",
+        "name": "Ascension Day of Jesus Christ"
+    },
+    {
+        "date": "2023-06-01",
+        "name": "Pancasila Day"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Idul Adha"
+    },
+    {
+        "date": "2023-07-20",
+        "name": "Muharram \/ Islamic New Year"
+    },
+    {
+        "date": "2023-08-17",
+        "name": "Indonesian Independence Day"
+    },
+    {
+        "date": "2023-09-28",
+        "name": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)"
+    },
+    {
         "date": "2023-10-02",
         "name": "Batik Day"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Diwali \/ Deepavali"
     },
     {
         "date": "2023-11-12",
@@ -426,5 +486,17 @@
     {
         "date": "2023-12-22",
         "name": "Mother's Day"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

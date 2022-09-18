@@ -472,14 +472,6 @@
         "name": "King's Birthday"
     },
     {
-        "date": "2023-05-14",
-        "name": "Mother's Day"
-    },
-    {
-        "date": "2023-06-18",
-        "name": "Father's Day"
-    },
-    {
         "date": "2023-06-18",
         "name": "King's Mother's Birthday"
     },
@@ -488,8 +480,20 @@
         "name": "Constitutional Day"
     },
     {
+        "date": "2023-10-13",
+        "name": "Pchum Ben Festival"
+    },
+    {
+        "date": "2023-10-14",
+        "name": "Pchum Ben Festival"
+    },
+    {
         "date": "2023-10-15",
         "name": "Commemoration Day of King's Father"
+    },
+    {
+        "date": "2023-10-15",
+        "name": "Pchum Ben Festival"
     },
     {
         "date": "2023-10-29",

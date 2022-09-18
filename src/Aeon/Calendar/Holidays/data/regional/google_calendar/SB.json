@@ -192,6 +192,10 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
         "date": "2023-04-07",
         "name": "Good Friday"
     },
@@ -214,10 +218,6 @@
     {
         "date": "2023-06-09",
         "name": "Day off for Queen's Official Birthday"
-    },
-    {
-        "date": "2023-06-10",
-        "name": "Queen's Official Birthday"
     },
     {
         "date": "2023-07-07",

@@ -53,7 +53,10 @@
             "tools/vendor/bin/php-cs-fixer fix --dry-run"
         ],
         "cs:php:fix": "tools/vendor/bin/php-cs-fixer fix",
-        "tools:install": "composer install --working-dir=./tools",
+        "tools:install": [
+            "composer install --working-dir=./tools",
+            "composer install --working-dir=./tools/flow-php"
+        ],
         "post-install-cmd": [
             "@tools:install"
         ],

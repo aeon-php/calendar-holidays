@@ -152,6 +152,10 @@
         "name": "Independence Day"
     },
     {
+        "date": "2022-09-19",
+        "name": "Funeral of Queen Elizabeth II"
+    },
+    {
         "date": "2022-12-25",
         "name": "Christmas Day"
     },
@@ -181,7 +185,7 @@
     },
     {
         "date": "2023-06-12",
-        "name": "Queen's Birthday"
+        "name": "Queen Elizabeth II's Birthday"
     },
     {
         "date": "2023-07-23",

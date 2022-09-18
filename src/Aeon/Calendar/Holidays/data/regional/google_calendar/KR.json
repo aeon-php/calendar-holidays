@@ -384,15 +384,19 @@
         "name": "New Year's Day"
     },
     {
-        "date": "2023-01-22",
+        "date": "2023-01-21",
         "name": "Seollal Holiday"
     },
     {
-        "date": "2023-01-23",
+        "date": "2023-01-22",
         "name": "Seollal"
     },
     {
         "date": "2023-01-23",
+        "name": "Seollal Holiday"
+    },
+    {
+        "date": "2023-01-24",
         "name": "Seollal Holiday"
     },
     {

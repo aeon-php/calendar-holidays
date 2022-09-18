@@ -698,5 +698,157 @@
     {
         "date": "2022-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-26",
+        "name": "Basant Panchami"
+    },
+    {
+        "date": "2023-02-05",
+        "name": "Kashmir Day"
+    },
+    {
+        "date": "2023-02-18",
+        "name": "Shab e-Meraj"
+    },
+    {
+        "date": "2023-03-07",
+        "name": "Holi"
+    },
+    {
+        "date": "2023-03-08",
+        "name": "Shab e-Barat"
+    },
+    {
+        "date": "2023-03-23",
+        "name": "Pakistan Day"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2023-04-14",
+        "name": "Baisakhi"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Ridv\u00e1n"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid-ul-Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid-ul-Fitr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid-ul-Fitr Holiday"
+    },
+    {
+        "date": "2023-04-25",
+        "name": "Eid-ul-Fitr Holiday"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-05",
+        "name": "Buddha Purnima"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2023-07-01",
+        "name": "July 1 Bank Holiday"
+    },
+    {
+        "date": "2023-07-27",
+        "name": "Ashura"
+    },
+    {
+        "date": "2023-07-28",
+        "name": "Ashura Holiday"
+    },
+    {
+        "date": "2023-08-14",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2023-09-06",
+        "name": "Chelum"
+    },
+    {
+        "date": "2023-09-06",
+        "name": "Defence Day"
+    },
+    {
+        "date": "2023-09-26",
+        "name": "Giarhwin Sharief"
+    },
+    {
+        "date": "2023-09-27",
+        "name": "Eid Milad un-Nabi"
+    },
+    {
+        "date": "2023-10-22",
+        "name": "Durga Puja"
+    },
+    {
+        "date": "2023-10-24",
+        "name": "Dussehra"
+    },
+    {
+        "date": "2023-10-28",
+        "name": "Birthday of Guru Balmik Sawami Ji"
+    },
+    {
+        "date": "2023-11-09",
+        "name": "Iqbal Day"
+    },
+    {
+        "date": "2023-11-12",
+        "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2023-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Quaid-e-Azam Day"
+    },
+    {
+        "date": "2023-12-26",
+        "name": "Day After Christmas (Christians only)"
+    },
+    {
+        "date": "2023-12-31",
+        "name": "New Year's Eve"
     }
 ]

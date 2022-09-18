@@ -1324,6 +1324,10 @@
         "name": "Valentine's Day"
     },
     {
+        "date": "2023-02-21",
+        "name": "Carnival Tuesday (Extremadura)"
+    },
+    {
         "date": "2023-02-22",
         "name": "Ash Wednesday"
     },
@@ -1345,7 +1349,7 @@
     },
     {
         "date": "2023-03-19",
-        "name": "San Jose (regional holiday)"
+        "name": "San Jose (Valencia)"
     },
     {
         "date": "2023-03-26",
@@ -1386,6 +1390,10 @@
     {
         "date": "2023-04-23",
         "name": "Santa Faz (Alicante)"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Day off for Castile and Le\u00f3n Day (Castile-Leon)"
     },
     {
         "date": "2023-04-24",
@@ -1546,6 +1554,10 @@
     {
         "date": "2023-12-03",
         "name": "Day of Navarre (Navarre)"
+    },
+    {
+        "date": "2023-12-04",
+        "name": "Day off for Day of Navarre (Navarre)"
     },
     {
         "date": "2023-12-06",
