@@ -4,6 +4,7 @@
 - [8a3552](https://github.com/aeon-php/calendar-holidays/commit/8a355209233537f964068391284d4f96797743b9) - **new holidays dump and fixed countriesdb** - [@norberttech](https://github.com/norberttech)
 
 ### Changed
+- [23ad0d](https://github.com/aeon-php/calendar-holidays/commit/23ad0d41c009ef3458eb3cc6bc8efff832e62afd) - **CS Fixes** - [@norberttech](https://github.com/norberttech)
 - [82c22e](https://github.com/aeon-php/calendar-holidays/commit/82c22e6cec0d1f7284d506f9717813b25b9df0c0) - **Google calendar ETL namespace** - [@norberttech](https://github.com/norberttech)
 - [49b8ec](https://github.com/aeon-php/calendar-holidays/commit/49b8ec94a78dd68192dabdcdd219eaa13203f6bd) - **custom workflows into aeon-php reusable workflows** - [@norberttech](https://github.com/norberttech)
 
