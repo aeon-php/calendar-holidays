@@ -54,8 +54,7 @@
         ],
         "cs:php:fix": "tools/vendor/bin/php-cs-fixer fix",
         "tools:install": [
-            "composer install --working-dir=./tools",
-            "composer install --working-dir=./tools/flow-php"
+            "composer install --working-dir=./tools"
         ],
         "post-install-cmd": [
             "@tools:install"

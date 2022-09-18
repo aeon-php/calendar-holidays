@@ -13,10 +13,8 @@ jobs:
 
     strategy:
       matrix:
-        dependencies:
-          - "locked"
         php-version:
-          - "7.4"
+          - "8.1"
         operating-system:
           - "ubuntu-latest"
 
@@ -41,17 +39,11 @@ jobs:
           key: "php-${{ matrix.php-version }}-${{ matrix.dependencies }}"
           restore-keys: "php-${{ matrix.php-version }}-${{ matrix.dependencies }}"
 
-      - name: "Install lowest dependencies"
-        if: ${{ matrix.dependencies == 'lowest' }}
-        run: "composer update --prefer-lowest --no-interaction --no-progress --no-suggest"
-
-      - name: "Install highest dependencies"
-        if: ${{ matrix.dependencies == 'highest' }}
-        run: "composer update --no-interaction --no-progress --no-suggest"
-
       - name: "Install locked dependencies"
-        if: ${{ matrix.dependencies == 'locked' }}
         run: "composer install --no-interaction --no-progress --no-suggest"
+
+      - name: "Install Flow"
+        run: "composer install --no-interaction --no-progress --no-suggest --working-dir=./tools/flow-php"
 
       - name: "Fetch Holidays"
         run: "bin/countriesdb.php"
