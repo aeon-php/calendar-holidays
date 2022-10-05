@@ -580,6 +580,10 @@
         "name": "Tamil Thai Pongal Day"
     },
     {
+        "date": "2023-01-16",
+        "name": "Special Bank Holiday"
+    },
+    {
         "date": "2023-02-04",
         "name": "National Day"
     },
@@ -596,7 +600,7 @@
         "name": "Mahasivarathri Day"
     },
     {
-        "date": "2023-03-07",
+        "date": "2023-03-06",
         "name": "Madin Full Moon Poya Day"
     },
     {
@@ -653,18 +657,22 @@
     },
     {
         "date": "2023-07-03",
-        "name": "Esala Full Moon Poya Day"
+        "name": "Adhi Esala Full Moon Poya Day"
     },
     {
         "date": "2023-08-01",
+        "name": "Esala Full Moon Poya Day"
+    },
+    {
+        "date": "2023-08-30",
         "name": "Nikini Full Moon Poya Day"
     },
     {
-        "date": "2023-09-27",
+        "date": "2023-09-28",
         "name": "Milad-Un-Nabi (Holy Prophet's Birthday)"
     },
     {
-        "date": "2023-09-28",
+        "date": "2023-09-29",
         "name": "Binara Full Moon Poya Day"
     },
     {
