@@ -488,12 +488,28 @@
         "name": "Peasants' Day"
     },
     {
-        "date": "2023-03-06",
+        "date": "2023-03-05",
         "name": "Full Moon Day of Tabaung"
     },
     {
         "date": "2023-03-27",
         "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2023-04-10",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2023-04-11",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2023-04-12",
+        "name": "Maha Thingyan (Water Festival)"
     },
     {
         "date": "2023-04-13",
@@ -512,8 +528,16 @@
         "name": "Maha Thingyan (Water Festival)"
     },
     {
+        "date": "2023-04-17",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
         "date": "2023-05-01",
         "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2023-05-03",
+        "name": "Full Moon Day of Kasong"
     },
     {
         "date": "2023-06-29",
@@ -552,15 +576,11 @@
         "name": "Full Moon Day of Tazaungmone"
     },
     {
-        "date": "2023-12-09",
+        "date": "2023-12-07",
         "name": "National Day"
     },
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
-    },
-    {
-        "date": "2023-12-31",
-        "name": "New Year Holiday"
     }
 ]
