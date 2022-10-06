@@ -656,6 +656,14 @@
         "name": "Arbor Day"
     },
     {
+        "date": "2023-04-03",
+        "name": "Qing Ming Jie holiday"
+    },
+    {
+        "date": "2023-04-04",
+        "name": "Qing Ming Jie holiday"
+    },
+    {
         "date": "2023-04-05",
         "name": "Qing Ming Jie"
     },
@@ -670,6 +678,14 @@
     {
         "date": "2023-06-22",
         "name": "Dragon Boat Festival"
+    },
+    {
+        "date": "2023-06-23",
+        "name": "Dragon Boat Festival holiday"
+    },
+    {
+        "date": "2023-06-24",
+        "name": "Dragon Boat Festival holiday"
     },
     {
         "date": "2023-08-22",
