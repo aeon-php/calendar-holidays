@@ -1344,6 +1344,10 @@
         "name": "Fifth of March (Zaragoza)"
     },
     {
+        "date": "2023-03-13",
+        "name": "Statute of the Autonomous City of Melilla Day (Melilla)"
+    },
+    {
         "date": "2023-03-19",
         "name": "Father's Day"
     },
@@ -1382,6 +1386,10 @@
     {
         "date": "2023-04-14",
         "name": "Sermon of the Tortillas (Teruel)"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr (Melilla)"
     },
     {
         "date": "2023-04-23",
@@ -1496,10 +1504,6 @@
         "name": "Feast of Saint Maginus (Tarragona)"
     },
     {
-        "date": "2023-09-02",
-        "name": "Day of the Independent City of Ceuta (Ceuta)"
-    },
-    {
         "date": "2023-09-08",
         "name": "Day of Asturias (Asturias)"
     },
@@ -1522,10 +1526,6 @@
     {
         "date": "2023-09-15",
         "name": "Nuestra Se\u00f1ora de la Bien Aparecida (Cantabria)"
-    },
-    {
-        "date": "2023-09-17",
-        "name": "Day of Melilla (Melilla)"
     },
     {
         "date": "2023-09-23",
