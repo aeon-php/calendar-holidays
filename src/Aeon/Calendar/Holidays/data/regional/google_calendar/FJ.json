@@ -208,10 +208,6 @@
         "name": "Diwali"
     },
     {
-        "date": "2022-11-13",
-        "name": "Daylight Saving Time starts"
-    },
-    {
         "date": "2022-12-25",
         "name": "Christmas Day"
     },
@@ -234,10 +230,6 @@
     {
         "date": "2023-01-02",
         "name": "Day off for New Year"
-    },
-    {
-        "date": "2023-01-15",
-        "name": "Daylight Saving Time ends"
     },
     {
         "date": "2023-04-07",
