@@ -300,6 +300,10 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
         "date": "2023-01-22",
         "name": "Lunar New Year"
     },
@@ -336,8 +340,8 @@
         "name": "Eid Al Fitr Holiday"
     },
     {
-        "date": "2023-04-24",
-        "name": "Eid Al Fitr Holiday observed"
+        "date": "2023-04-25",
+        "name": "Day off for Eid Al Fitr Holiday"
     },
     {
         "date": "2023-05-31",
@@ -356,7 +360,7 @@
         "name": "Muharram\/Islamic New Year"
     },
     {
-        "date": "2023-09-27",
+        "date": "2023-09-28",
         "name": "Milad un Nabi (Mawlid)"
     },
     {
