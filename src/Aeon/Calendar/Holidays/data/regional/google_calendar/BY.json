@@ -420,12 +420,20 @@
         "name": "Orthodox Easter Sunday"
     },
     {
+        "date": "2023-04-24",
+        "name": "Radonitsa Holiday"
+    },
+    {
         "date": "2023-04-25",
         "name": "Radonitsa"
     },
     {
         "date": "2023-04-26",
         "name": "Day of Remembrance of the Chernobyl Tragedy"
+    },
+    {
+        "date": "2023-04-29",
+        "name": "Special Working Day"
     },
     {
         "date": "2023-05-01",
