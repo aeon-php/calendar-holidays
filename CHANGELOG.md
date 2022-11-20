@@ -1,4 +1,4 @@
-## [Unreleased] - 2022-11-19
+## [Unreleased] - 2022-11-20
 
 ### Added
 - [8a3552](https://github.com/aeon-php/calendar-holidays/commit/8a355209233537f964068391284d4f96797743b9) - **new holidays dump and fixed countriesdb** - [@norberttech](https://github.com/norberttech)
@@ -15,6 +15,7 @@
 - [ba1413](https://github.com/aeon-php/calendar-holidays/commit/ba141352983c03609a040d24c816a4e468ab3e2a) - **PHP versions scope** - [@norberttech](https://github.com/norberttech)
 
 ### Updated
+- [#254](https://github.com/aeon-php/calendar-holidays/pull/254) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#253](https://github.com/aeon-php/calendar-holidays/pull/253) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#252](https://github.com/aeon-php/calendar-holidays/pull/252) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
 - [#251](https://github.com/aeon-php/calendar-holidays/pull/251) - **Google Calendar regional holidays** - [@github-actions[bot]](https://github.com/apps/github-actions)
