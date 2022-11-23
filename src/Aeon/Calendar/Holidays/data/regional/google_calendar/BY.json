@@ -440,6 +440,10 @@
         "name": "Labour Day"
     },
     {
+        "date": "2023-05-08",
+        "name": "Public Holiday"
+    },
+    {
         "date": "2023-05-09",
         "name": "Victory Day"
     },
@@ -476,8 +480,16 @@
         "name": "Remembrance Day"
     },
     {
+        "date": "2023-11-06",
+        "name": "October Revolution Day Holiday"
+    },
+    {
         "date": "2023-11-07",
         "name": "October Revolution Day"
+    },
+    {
+        "date": "2023-11-11",
+        "name": "Special Working Day"
     },
     {
         "date": "2023-12-25",
