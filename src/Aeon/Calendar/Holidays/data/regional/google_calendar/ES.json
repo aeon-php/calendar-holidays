@@ -1344,10 +1344,6 @@
         "name": "Fifth of March (Zaragoza)"
     },
     {
-        "date": "2023-03-13",
-        "name": "Statute of the Autonomous City of Melilla Day (Melilla)"
-    },
-    {
         "date": "2023-03-19",
         "name": "Father's Day"
     },
@@ -1452,10 +1448,6 @@
         "name": "Day of Murcia (Murcia)"
     },
     {
-        "date": "2023-06-13",
-        "name": "San Antonio (Ceuta)"
-    },
-    {
         "date": "2023-06-24",
         "name": "Saint John the Baptist Day (regional holiday)"
     },
@@ -1492,6 +1484,10 @@
         "name": "Feast of Saint Maginus (Tarragona)"
     },
     {
+        "date": "2023-09-02",
+        "name": "Day of the Independent City of Ceuta (Ceuta)"
+    },
+    {
         "date": "2023-09-08",
         "name": "Day of Asturias (Asturias)"
     },
@@ -1502,10 +1498,6 @@
     {
         "date": "2023-09-08",
         "name": "Virgin of the Plains (Albacete)"
-    },
-    {
-        "date": "2023-09-08",
-        "name": "Virgin of the Victory (Melilla)"
     },
     {
         "date": "2023-09-11",
