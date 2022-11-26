@@ -600,7 +600,7 @@
         "name": "Last day of Passover"
     },
     {
-        "date": "2023-04-22",
+        "date": "2023-04-21",
         "name": "End of Ramadan"
     },
     {
@@ -616,8 +616,16 @@
         "name": "National Day\/May 1810 Revolution"
     },
     {
+        "date": "2023-05-26",
+        "name": "Bridge Public Holiday"
+    },
+    {
         "date": "2023-06-17",
         "name": "Commemoration of General Don Mart\u00edn Miguel de G\u00fcemes"
+    },
+    {
+        "date": "2023-06-19",
+        "name": "Bridge Public Holiday"
     },
     {
         "date": "2023-06-20",
@@ -652,7 +660,11 @@
         "name": "Yom Kippur"
     },
     {
-        "date": "2023-10-09",
+        "date": "2023-10-13",
+        "name": "Bridge Public Holiday"
+    },
+    {
+        "date": "2023-10-16",
         "name": "Day of Respect for Cultural Diversity"
     },
     {

@@ -400,7 +400,7 @@
         "name": "Migration Workers Day"
     },
     {
-        "date": "2023-04-22",
+        "date": "2023-04-21",
         "name": "Oraza Bayram"
     },
     {
@@ -452,8 +452,16 @@
         "name": "Day of Turkmen Workers of Culture and Art"
     },
     {
-        "date": "2023-06-29",
+        "date": "2023-06-28",
         "name": "Kurban Bayramy"
+    },
+    {
+        "date": "2023-06-29",
+        "name": "Kurban Bayramy Holiday"
+    },
+    {
+        "date": "2023-06-30",
+        "name": "Kurban Bayramy Holiday"
     },
     {
         "date": "2023-07-05",
