@@ -284,8 +284,12 @@
         "name": "Mouloud"
     },
     {
-        "date": "2022-12-01",
+        "date": "2022-11-30",
         "name": "Commemoration Day"
+    },
+    {
+        "date": "2022-12-01",
+        "name": "National Day Holiday"
     },
     {
         "date": "2022-12-02",
@@ -308,15 +312,19 @@
         "name": "Ramadan Start"
     },
     {
-        "date": "2023-04-22",
-        "name": "Eid al-Fitr"
-    },
-    {
-        "date": "2023-04-23",
+        "date": "2023-04-20",
         "name": "Eid al-Fitr Holiday"
     },
     {
-        "date": "2023-04-24",
+        "date": "2023-04-21",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-04-23",
         "name": "Eid al-Fitr Holiday"
     },
     {
@@ -324,11 +332,11 @@
         "name": "Hajj season begins"
     },
     {
-        "date": "2023-06-28",
+        "date": "2023-06-27",
         "name": "Arafat (Hajj) Day"
     },
     {
-        "date": "2023-06-29",
+        "date": "2023-06-28",
         "name": "Eid al-Adha (Feast of Sacrifice)"
     },
     {
@@ -348,8 +356,20 @@
         "name": "Mouloud"
     },
     {
+        "date": "2023-11-30",
+        "name": "Commemoration Day"
+    },
+    {
+        "date": "2023-12-01",
+        "name": "Day off for Commemoration Day"
+    },
+    {
         "date": "2023-12-02",
         "name": "National Day"
+    },
+    {
+        "date": "2023-12-03",
+        "name": "National Day Holiday"
     },
     {
         "date": "2023-12-31",

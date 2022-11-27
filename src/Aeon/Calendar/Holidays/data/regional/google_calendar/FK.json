@@ -276,10 +276,6 @@
         "name": "Good Friday"
     },
     {
-        "date": "2023-04-21",
-        "name": "Queen Elizabeth II's Birthday"
-    },
-    {
         "date": "2023-06-14",
         "name": "Liberation Day"
     },
@@ -290,6 +286,10 @@
     {
         "date": "2023-10-02",
         "name": "Peat Cutting Monday"
+    },
+    {
+        "date": "2023-11-14",
+        "name": "King Charles III's Birthday"
     },
     {
         "date": "2023-12-08",
