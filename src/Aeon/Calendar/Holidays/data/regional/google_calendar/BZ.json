@@ -257,6 +257,10 @@
     },
     {
         "date": "2023-03-06",
+        "name": "Day off for National Heroes and Benefactors Day"
+    },
+    {
+        "date": "2023-03-09",
         "name": "National Heroes and Benefactors Day"
     },
     {
@@ -276,6 +280,10 @@
         "name": "Labor Day \/ May Day"
     },
     {
+        "date": "2023-07-31",
+        "name": "Day off for Emancipation Day"
+    },
+    {
         "date": "2023-08-01",
         "name": "Emancipation Day"
     },
@@ -293,6 +301,10 @@
     },
     {
         "date": "2023-10-09",
+        "name": "Day off for El D\u00eda de la Raza"
+    },
+    {
+        "date": "2023-10-12",
         "name": "El D\u00eda de la Raza"
     },
     {

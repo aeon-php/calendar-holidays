@@ -172,6 +172,18 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2023-01-02",
+        "name": "Day off for New Year's Day"
+    },
+    {
+        "date": "2023-02-24",
+        "name": "Day off for National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare"
+    },
+    {
+        "date": "2023-02-26",
+        "name": "National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare"
+    },
+    {
         "date": "2023-04-07",
         "name": "Good Friday"
     },
@@ -192,8 +204,16 @@
         "name": "National Remembrance Day"
     },
     {
+        "date": "2023-07-24",
+        "name": "Day off for National Remembrance Day"
+    },
+    {
         "date": "2023-08-26",
         "name": "National Day of Repentance"
+    },
+    {
+        "date": "2023-09-15",
+        "name": "Day off for Independence Day"
     },
     {
         "date": "2023-09-16",
