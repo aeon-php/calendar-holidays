@@ -340,14 +340,6 @@
         "name": "Independence Day"
     },
     {
-        "date": "2022-12-17",
-        "name": "Independence Day Holiday"
-    },
-    {
-        "date": "2022-12-19",
-        "name": "Day off for Independence Day Holiday"
-    },
-    {
         "date": "2022-12-31",
         "name": "New Year's Eve"
     },
@@ -416,24 +408,12 @@
         "name": "Republic Day"
     },
     {
-        "date": "2023-12-01",
-        "name": "Day of the First President of the Republic of Kazakhstan"
-    },
-    {
         "date": "2023-12-16",
         "name": "Independence Day"
     },
     {
-        "date": "2023-12-17",
-        "name": "Independence Day Holiday"
-    },
-    {
         "date": "2023-12-18",
         "name": "Day off for Independence Day"
-    },
-    {
-        "date": "2023-12-19",
-        "name": "Day off for Independence Day Holiday"
     },
     {
         "date": "2023-12-31",

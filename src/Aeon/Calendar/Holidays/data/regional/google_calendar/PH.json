@@ -360,6 +360,10 @@
         "name": "New Year's Day"
     },
     {
+        "date": "2023-01-02",
+        "name": "Special non-working day after New Year"
+    },
+    {
         "date": "2023-01-22",
         "name": "Lunar New Year's Day"
     },
@@ -385,6 +389,10 @@
     },
     {
         "date": "2023-04-09",
+        "name": "The Day of Valor"
+    },
+    {
+        "date": "2023-04-10",
         "name": "The Day of Valor"
     },
     {
@@ -418,6 +426,10 @@
     {
         "date": "2023-11-02",
         "name": "All Souls' Day"
+    },
+    {
+        "date": "2023-11-27",
+        "name": "Bonifacio Day"
     },
     {
         "date": "2023-11-30",

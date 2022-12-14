@@ -364,6 +364,14 @@
         "name": "Easter Monday"
     },
     {
+        "date": "2023-05-06",
+        "name": "The Coronation of His Majesty King Charles III"
+    },
+    {
+        "date": "2023-05-08",
+        "name": "Holiday for the Coronation of His Majesty King Charles III"
+    },
+    {
         "date": "2023-05-14",
         "name": "Mothers' Day"
     },
@@ -376,10 +384,6 @@
         "name": "Fathers' Day"
     },
     {
-        "date": "2023-06-19",
-        "name": "Queen Elizabeth II's Birthday"
-    },
-    {
         "date": "2023-07-03",
         "name": "Constitution Day"
     },
@@ -390,6 +394,10 @@
     {
         "date": "2023-11-13",
         "name": "Remembrance Day"
+    },
+    {
+        "date": "2023-12-03",
+        "name": "Cayman Thanksgiving"
     },
     {
         "date": "2023-12-24",
