@@ -840,6 +840,10 @@
         "name": "Sheikh Mujibur Rahman\u2019s birthday"
     },
     {
+        "date": "2023-03-19",
+        "name": "Arrival Day of Sri Sri Harichand Tagore"
+    },
+    {
         "date": "2023-03-26",
         "name": "Independence Day"
     },
@@ -852,8 +856,12 @@
         "name": "Bengali New Year"
     },
     {
-        "date": "2023-04-18",
+        "date": "2023-04-19",
         "name": "Shab-e-qadr"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Jumatul Bidah"
     },
     {
         "date": "2023-04-22",
@@ -876,7 +884,7 @@
         "name": "May Day"
     },
     {
-        "date": "2023-05-05",
+        "date": "2023-05-04",
         "name": "Buddha Purnima\/Vesak"
     },
     {
@@ -908,7 +916,7 @@
         "name": "Muharram"
     },
     {
-        "date": "2023-07-28",
+        "date": "2023-07-29",
         "name": "Ashura"
     },
     {
@@ -924,8 +932,16 @@
         "name": "Eid e-Milad-un Nabi"
     },
     {
-        "date": "2023-09-29",
+        "date": "2023-09-28",
         "name": "Madhu Purnima"
+    },
+    {
+        "date": "2023-10-14",
+        "name": "Mahalaya"
+    },
+    {
+        "date": "2023-10-22",
+        "name": "Ashtami"
     },
     {
         "date": "2023-10-23",
