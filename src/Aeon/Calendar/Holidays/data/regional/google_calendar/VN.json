@@ -300,6 +300,10 @@
         "name": "Day off for International New Year's Day"
     },
     {
+        "date": "2023-01-20",
+        "name": "Tet Holiday"
+    },
+    {
         "date": "2023-01-21",
         "name": "Vietnamese New Year's Eve"
     },
@@ -337,23 +341,31 @@
     },
     {
         "date": "2023-05-01",
-        "name": "Day off for Liberation Day\/Reunification Day"
-    },
-    {
-        "date": "2023-05-01",
         "name": "International Labor Day"
     },
     {
         "date": "2023-05-02",
-        "name": "Day off for International Labor Day"
+        "name": "Day off for Hung Kings Festival"
+    },
+    {
+        "date": "2023-05-03",
+        "name": "Day off for Liberation Day\/Reunification Day"
     },
     {
         "date": "2023-05-05",
         "name": "Vesak"
     },
     {
+        "date": "2023-09-01",
+        "name": "Independence Day Holiday"
+    },
+    {
         "date": "2023-09-02",
         "name": "Independence Day"
+    },
+    {
+        "date": "2023-09-03",
+        "name": "Independence Day Holiday"
     },
     {
         "date": "2023-09-04",
