@@ -276,6 +276,10 @@
         "name": "New Year"
     },
     {
+        "date": "2023-01-11",
+        "name": "Sultan\u2019s Accession Day"
+    },
+    {
         "date": "2023-02-18",
         "name": "Isra and Mi'raj"
     },
@@ -322,5 +326,9 @@
     {
         "date": "2023-11-18",
         "name": "National Day"
+    },
+    {
+        "date": "2023-11-19",
+        "name": "National Day Holiday"
     }
 ]

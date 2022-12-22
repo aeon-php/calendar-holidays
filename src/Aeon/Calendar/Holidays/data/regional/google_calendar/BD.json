@@ -848,6 +848,10 @@
         "name": "Independence Day"
     },
     {
+        "date": "2023-04-10",
+        "name": "Easter Monday"
+    },
+    {
         "date": "2023-04-13",
         "name": "Chaitra Sankranti"
     },
@@ -858,6 +862,10 @@
     {
         "date": "2023-04-19",
         "name": "Shab-e-qadr"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Eid ul-Fitr Holiday"
     },
     {
         "date": "2023-04-21",
@@ -873,10 +881,6 @@
     },
     {
         "date": "2023-04-24",
-        "name": "Eid ul-Fitr Holiday"
-    },
-    {
-        "date": "2023-04-25",
         "name": "Eid ul-Fitr Holiday"
     },
     {
@@ -896,20 +900,16 @@
         "name": "Fathers' Day"
     },
     {
+        "date": "2023-06-28",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
         "date": "2023-06-29",
         "name": "Eid al-Adha"
     },
     {
         "date": "2023-06-30",
         "name": "Eid al-Adha Holiday"
-    },
-    {
-        "date": "2023-07-01",
-        "name": "Eid al-Adha Holiday"
-    },
-    {
-        "date": "2023-07-03",
-        "name": "Ashari Purnima"
     },
     {
         "date": "2023-07-19",
@@ -920,11 +920,15 @@
         "name": "Ashura"
     },
     {
+        "date": "2023-08-01",
+        "name": "Ashari Purnima"
+    },
+    {
         "date": "2023-08-15",
         "name": "National Mourning Day"
     },
     {
-        "date": "2023-09-11",
+        "date": "2023-09-13",
         "name": "Akhari Chahar Somba"
     },
     {
@@ -948,7 +952,7 @@
         "name": "Mahanabami"
     },
     {
-        "date": "2023-10-26",
+        "date": "2023-10-27",
         "name": "Fateha-i-Yajdaham"
     },
     {
@@ -964,7 +968,7 @@
         "name": "Halloween"
     },
     {
-        "date": "2023-11-04",
+        "date": "2023-11-12",
         "name": "Sri Shayama Puja"
     },
     {
