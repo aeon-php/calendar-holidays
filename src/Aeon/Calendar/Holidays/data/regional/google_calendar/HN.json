@@ -316,12 +316,20 @@
         "name": "Christmas Day"
     },
     {
+        "date": "2022-12-26",
+        "name": "Public Sector Holiday"
+    },
+    {
         "date": "2022-12-31",
         "name": "New Year's Eve"
     },
     {
         "date": "2023-01-01",
         "name": "New Year's Day"
+    },
+    {
+        "date": "2023-01-02",
+        "name": "Public Sector Holiday"
     },
     {
         "date": "2023-01-06",
