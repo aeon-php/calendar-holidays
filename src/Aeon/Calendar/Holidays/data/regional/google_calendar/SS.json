@@ -252,8 +252,20 @@
         "name": "Grandparents' Day"
     },
     {
+        "date": "2022-12-24",
+        "name": "Christmas Eve"
+    },
+    {
         "date": "2022-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2022-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2022-12-27",
+        "name": "Christmas Holiday"
     },
     {
         "date": "2022-12-28",
