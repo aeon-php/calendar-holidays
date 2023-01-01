@@ -446,5 +446,93 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2024-01-22",
+        "name": "Plurinational State Foundation Day"
+    },
+    {
+        "date": "2024-02-02",
+        "name": "Feast of Candelaria"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Carnival \/ Shrove Monday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Carnival \/ Shrove Tuesday \/ Pancake Day"
+    },
+    {
+        "date": "2024-03-19",
+        "name": "Father Day"
+    },
+    {
+        "date": "2024-03-23",
+        "name": "Day of the Sea"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-27",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2024-06-21",
+        "name": "Aymara New Year Day"
+    },
+    {
+        "date": "2024-08-06",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-08-17",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2024-10-11",
+        "name": "Bolivian Women's Day"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Day of Decolonization"
+    },
+    {
+        "date": "2024-10-17",
+        "name": "Day of Dignity"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

@@ -354,5 +354,77 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-09",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2024-01-21",
+        "name": "Our Lady of Altagracia"
+    },
+    {
+        "date": "2024-01-26",
+        "name": "Duarte's Day"
+    },
+    {
+        "date": "2024-01-29",
+        "name": "Day off for Duarte's Day"
+    },
+    {
+        "date": "2024-02-27",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-05-26",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2024-07-28",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-08-16",
+        "name": "Restoration Day"
+    },
+    {
+        "date": "2024-09-24",
+        "name": "Our Lady of Las Mercedes"
+    },
+    {
+        "date": "2024-11-04",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

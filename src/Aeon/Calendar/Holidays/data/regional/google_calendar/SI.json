@@ -410,5 +410,97 @@
     {
         "date": "2023-12-26",
         "name": "Independence and Unity Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "New Year holiday"
+    },
+    {
+        "date": "2024-02-08",
+        "name": "Pre\u0161eren Day"
+    },
+    {
+        "date": "2024-03-25",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-04-27",
+        "name": "Day of Uprising Against Occupation"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-02",
+        "name": "Labour Day holiday"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2024-06-08",
+        "name": "Primo\u017e Trubar Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-06-25",
+        "name": "Statehood Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-08-17",
+        "name": "Slovenians in Prekmurje Incorporated into the Mother Nation Day"
+    },
+    {
+        "date": "2024-09-15",
+        "name": "Restoration of Primorska to the Motherland Day"
+    },
+    {
+        "date": "2024-09-23",
+        "name": "Slovenian Sports Day"
+    },
+    {
+        "date": "2024-10-25",
+        "name": "Sovereignty Day"
+    },
+    {
+        "date": "2024-10-31",
+        "name": "Reformation Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2024-11-23",
+        "name": "Rudolf Maister Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Independence and Unity Day"
     }
 ]

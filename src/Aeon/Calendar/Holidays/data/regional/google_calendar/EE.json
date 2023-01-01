@@ -370,5 +370,105 @@
     {
         "date": "2023-12-26",
         "name": "Boxing Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2024-02-02",
+        "name": "Anniversary of Tartu Peace Treaty"
+    },
+    {
+        "date": "2024-02-24",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-03-14",
+        "name": "Mother Tongue Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Pentecost"
+    },
+    {
+        "date": "2024-06-04",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2024-06-14",
+        "name": "Day of Mourning"
+    },
+    {
+        "date": "2024-06-23",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-06-24",
+        "name": "Midsummer Day"
+    },
+    {
+        "date": "2024-08-20",
+        "name": "Independence Restoration Day"
+    },
+    {
+        "date": "2024-08-23",
+        "name": "Day of Remembrance for Victims of Communism and Nazism"
+    },
+    {
+        "date": "2024-09-08",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2024-09-22",
+        "name": "Resistance Day"
+    },
+    {
+        "date": "2024-10-19",
+        "name": "Finno-Ugric Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Soul's Day"
+    },
+    {
+        "date": "2024-11-10",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-11-16",
+        "name": "Day of Declaration of Sovereignty"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Boxing Day"
     }
 ]

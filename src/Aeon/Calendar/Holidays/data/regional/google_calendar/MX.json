@@ -350,5 +350,85 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-05",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2024-02-24",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2024-03-18",
+        "name": "Benito Ju\u00e1rez's Birthday Memorial"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Benito Ju\u00e1rez's Birthday Memorial"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-15",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2024-07-07",
+        "name": "Mexican general election"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Day of Race"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "Day of the Dead"
+    },
+    {
+        "date": "2024-11-18",
+        "name": "Revolution Day Memorial"
+    },
+    {
+        "date": "2024-11-20",
+        "name": "Revolution Day Memorial"
+    },
+    {
+        "date": "2024-12-01",
+        "name": "Inauguration day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

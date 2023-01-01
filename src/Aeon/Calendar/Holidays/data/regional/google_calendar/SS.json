@@ -338,5 +338,69 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-09",
+        "name": "Peace Agreement Day"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2024-05-16",
+        "name": "SPLA Day"
+    },
+    {
+        "date": "2024-06-10",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-07-01",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-07-09",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-07-30",
+        "name": "Martyrs Day"
+    },
+    {
+        "date": "2024-11-10",
+        "name": "Grandparents' Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-28",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

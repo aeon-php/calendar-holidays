@@ -138,5 +138,33 @@
     {
         "date": "2023-12-24",
         "name": "Independence Day"
+    },
+    {
+        "date": "2024-02-17",
+        "name": "Libyan Revolution Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Day of Arafah"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-10-23",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Independence Day"
     }
 ]

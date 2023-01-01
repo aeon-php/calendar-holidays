@@ -270,5 +270,57 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-01",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-06-07",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2024-07-05",
+        "name": "Fishermen's Day"
+    },
+    {
+        "date": "2024-09-06",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-09-27",
+        "name": "Manit Day"
+    },
+    {
+        "date": "2024-11-17",
+        "name": "President's Day"
+    },
+    {
+        "date": "2024-11-18",
+        "name": "Day off for President's Day"
+    },
+    {
+        "date": "2024-12-06",
+        "name": "Gospel Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

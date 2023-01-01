@@ -302,5 +302,69 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Europe Day"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2024-05-20",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2024-06-09",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-06-23",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-10-06",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "St Stephen's Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

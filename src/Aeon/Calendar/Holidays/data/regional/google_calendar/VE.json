@@ -562,5 +562,101 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Carnival \/ Shrove Monday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Carnival \/ Shrove Tuesday \/ Pancake Day"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-19",
+        "name": "Declaration of Independence"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-06-13",
+        "name": "St Anthony's Day"
+    },
+    {
+        "date": "2024-06-24",
+        "name": "Carabobo Battle"
+    },
+    {
+        "date": "2024-07-05",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-07-24",
+        "name": "Sim\u00f3n Bol\u00edvar's Birthday"
+    },
+    {
+        "date": "2024-08-03",
+        "name": "Flag's Day"
+    },
+    {
+        "date": "2024-08-04",
+        "name": "National Guard's Day"
+    },
+    {
+        "date": "2024-09-11",
+        "name": "Our Lady of Coromoto"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Day of Indigenous Resistance"
+    },
+    {
+        "date": "2024-10-26",
+        "name": "Dr. Jos\u00e9 Gregorio Hern\u00e1ndez Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Souls Day"
+    },
+    {
+        "date": "2024-11-27",
+        "name": "Aviation Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

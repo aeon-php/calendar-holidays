@@ -158,5 +158,37 @@
     {
         "date": "2023-11-28",
         "name": "Independence Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid ul-Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-25",
+        "name": "Africa Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram\/Islamic New Year"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2024-11-28",
+        "name": "Independence Day"
     }
 ]

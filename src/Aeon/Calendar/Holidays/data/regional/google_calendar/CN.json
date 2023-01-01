@@ -738,5 +738,121 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-09",
+        "name": "Spring Festival Eve"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Lunar New Year"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Spring Festival Golden Week holiday"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Spring Festival Golden Week holiday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Spring Festival Golden Week holiday"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Spring Festival Golden Week holiday"
+    },
+    {
+        "date": "2024-02-15",
+        "name": "Spring Festival Golden Week holiday"
+    },
+    {
+        "date": "2024-02-24",
+        "name": "Lantern Festival"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Zhonghe Festival"
+    },
+    {
+        "date": "2024-03-12",
+        "name": "Arbor Day"
+    },
+    {
+        "date": "2024-04-04",
+        "name": "Qing Ming Jie"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-05-04",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2024-06-10",
+        "name": "Dragon Boat Festival"
+    },
+    {
+        "date": "2024-08-10",
+        "name": "Chinese Valentine's Day"
+    },
+    {
+        "date": "2024-08-18",
+        "name": "Spirit Festival"
+    },
+    {
+        "date": "2024-09-10",
+        "name": "Teachers' Day"
+    },
+    {
+        "date": "2024-09-17",
+        "name": "Mid-Autumn Festival"
+    },
+    {
+        "date": "2024-10-01",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-10-02",
+        "name": "National Day Golden Week holiday"
+    },
+    {
+        "date": "2024-10-03",
+        "name": "National Day Golden Week holiday"
+    },
+    {
+        "date": "2024-10-04",
+        "name": "National Day Golden Week holiday"
+    },
+    {
+        "date": "2024-10-05",
+        "name": "National Day Golden Week holiday"
+    },
+    {
+        "date": "2024-10-06",
+        "name": "National Day Golden Week holiday"
+    },
+    {
+        "date": "2024-10-07",
+        "name": "National Day Golden Week holiday"
+    },
+    {
+        "date": "2024-10-11",
+        "name": "Double Ninth Festival"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

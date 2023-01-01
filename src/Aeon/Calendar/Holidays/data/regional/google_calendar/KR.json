@@ -474,5 +474,93 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Seollal"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Seollal Holiday"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Seollal Holiday"
+    },
+    {
+        "date": "2024-03-01",
+        "name": "Independence Movement Day"
+    },
+    {
+        "date": "2024-04-05",
+        "name": "Arbor Day"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-05-08",
+        "name": "Parents' Day"
+    },
+    {
+        "date": "2024-05-15",
+        "name": "Buddha's Birthday"
+    },
+    {
+        "date": "2024-05-15",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2024-06-06",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2024-07-17",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Chuseok Holiday"
+    },
+    {
+        "date": "2024-09-17",
+        "name": "Chuseok"
+    },
+    {
+        "date": "2024-09-18",
+        "name": "Chuseok Holiday"
+    },
+    {
+        "date": "2024-10-01",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2024-10-03",
+        "name": "National Foundation Day"
+    },
+    {
+        "date": "2024-10-09",
+        "name": "Hangeul Proclamation Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

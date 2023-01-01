@@ -298,5 +298,65 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-13",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-27",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2024-05-20",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Tabaski"
+    },
+    {
+        "date": "2024-06-21",
+        "name": "Day of the Martyrs"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-09-24",
+        "name": "Anniversary of the Failed Attack on Lom\u00e9"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

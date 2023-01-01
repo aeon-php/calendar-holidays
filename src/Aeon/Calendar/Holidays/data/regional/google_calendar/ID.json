@@ -538,5 +538,97 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-08",
+        "name": "Ascension of the Prophet Muhammad"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Idul Fitri"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Idul Fitri Holiday"
+    },
+    {
+        "date": "2024-04-21",
+        "name": "Kartini Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "International Labor Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Ascension Day of Jesus Christ"
+    },
+    {
+        "date": "2024-06-01",
+        "name": "Pancasila Day"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Idul Adha"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram \/ Islamic New Year"
+    },
+    {
+        "date": "2024-08-17",
+        "name": "Indonesian Independence Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)"
+    },
+    {
+        "date": "2024-10-02",
+        "name": "Batik Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "Diwali \/ Deepavali"
+    },
+    {
+        "date": "2024-11-12",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-11-25",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2024-12-22",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

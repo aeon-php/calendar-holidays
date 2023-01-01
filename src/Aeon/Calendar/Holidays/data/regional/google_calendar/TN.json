@@ -302,5 +302,65 @@
     {
         "date": "2023-12-17",
         "name": "Revolution and Youth Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-03-20",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-04-09",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2024-07-07",
+        "name": "Muharram"
+    },
+    {
+        "date": "2024-07-25",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2024-08-13",
+        "name": "Women\u2019s Day"
+    },
+    {
+        "date": "2024-09-15",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-10-15",
+        "name": "Evacuation Day"
+    },
+    {
+        "date": "2024-12-17",
+        "name": "Revolution and Youth Day"
     }
 ]

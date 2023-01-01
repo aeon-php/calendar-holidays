@@ -454,5 +454,93 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2024-02-25",
+        "name": "People Power Anniversary"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Black Saturday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-09",
+        "name": "The Day of Valor"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eidul-Fitar"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-06-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha (Feast of the Sacrifice)"
+    },
+    {
+        "date": "2024-08-21",
+        "name": "Ninoy Aquino Day"
+    },
+    {
+        "date": "2024-08-26",
+        "name": "National Heroes Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2024-11-30",
+        "name": "Bonifacio Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-30",
+        "name": "Rizal Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

@@ -450,5 +450,93 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-16",
+        "name": "Signing of the Peace Accords"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "Women's Day"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2024-03-26",
+        "name": "National Day of Life, Peace and Justice"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-03",
+        "name": "Cross Day"
+    },
+    {
+        "date": "2024-05-07",
+        "name": "Soldiers' Day"
+    },
+    {
+        "date": "2024-05-10",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2024-06-22",
+        "name": "Teachers' Day"
+    },
+    {
+        "date": "2024-08-06",
+        "name": "Celebrations of San Salvador"
+    },
+    {
+        "date": "2024-09-15",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-10-01",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

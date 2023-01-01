@@ -446,5 +446,89 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "New Year's (Day 2)"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2024-01-19",
+        "name": "Orthodox Epiphany"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2024-03-03",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Nowruz"
+    },
+    {
+        "date": "2024-04-09",
+        "name": "Independence Restoration Day"
+    },
+    {
+        "date": "2024-05-03",
+        "name": "Orthodox Good Friday"
+    },
+    {
+        "date": "2024-05-04",
+        "name": "Orthodox Holy Saturday"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Orthodox Easter Sunday"
+    },
+    {
+        "date": "2024-05-06",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "St Andrew's Day"
+    },
+    {
+        "date": "2024-05-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2024-08-28",
+        "name": "Day of the Assumption of Mary"
+    },
+    {
+        "date": "2024-10-14",
+        "name": "Svetitskhovloba"
+    },
+    {
+        "date": "2024-11-23",
+        "name": "St George's Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

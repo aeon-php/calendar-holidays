@@ -666,5 +666,101 @@
     {
         "date": "2023-12-25",
         "name": "Constitution Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "Republic Day\/New Year's Day"
+    },
+    {
+        "date": "2024-02-04",
+        "name": "Farmer's Day"
+    },
+    {
+        "date": "2024-02-09",
+        "name": "Lunar New Year's Eve"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Lunar New Year's Day"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Lunar New Year Holiday"
+    },
+    {
+        "date": "2024-02-24",
+        "name": "Lantern Festival"
+    },
+    {
+        "date": "2024-02-28",
+        "name": "Peace Memorial Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2024-04-04",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-04-04",
+        "name": "Tomb Sweeping Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-06-10",
+        "name": "Dragon Boat Festival"
+    },
+    {
+        "date": "2024-08-18",
+        "name": "Hungry Ghost Festival"
+    },
+    {
+        "date": "2024-09-03",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2024-09-17",
+        "name": "Mid-Autumn Festival"
+    },
+    {
+        "date": "2024-09-28",
+        "name": "Teachers' Day"
+    },
+    {
+        "date": "2024-10-10",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-10-11",
+        "name": "Double Ninth Day"
+    },
+    {
+        "date": "2024-10-25",
+        "name": "Taiwan's Retrocession Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Constitution Day"
     }
 ]

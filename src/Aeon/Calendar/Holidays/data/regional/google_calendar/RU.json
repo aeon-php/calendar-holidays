@@ -518,5 +518,73 @@
     {
         "date": "2023-11-06",
         "name": "Day off for Unity Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-01-03",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-01-04",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-01-05",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2024-01-08",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-02-23",
+        "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Spring and Labor Day"
+    },
+    {
+        "date": "2024-05-02",
+        "name": "Spring and Labor Day Holiday"
+    },
+    {
+        "date": "2024-05-03",
+        "name": "Spring and Labor Day Holiday"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-06-12",
+        "name": "Russia Day"
+    },
+    {
+        "date": "2024-09-01",
+        "name": "Day of Knowledge"
+    },
+    {
+        "date": "2024-10-05",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2024-11-04",
+        "name": "Unity Day"
     }
 ]

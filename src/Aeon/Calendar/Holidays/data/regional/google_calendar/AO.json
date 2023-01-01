@@ -290,5 +290,65 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-02-04",
+        "name": "Liberation Movement Day"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Carnival Holiday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Carnival"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Woman's Day"
+    },
+    {
+        "date": "2024-03-23",
+        "name": "Southern Africa Liberation Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-04-04",
+        "name": "Peace Day"
+    },
+    {
+        "date": "2024-04-05",
+        "name": "Day off for Peace Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Day off for National Hero Day"
+    },
+    {
+        "date": "2024-09-17",
+        "name": "National Hero Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2024-11-11",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

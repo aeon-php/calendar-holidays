@@ -1078,5 +1078,193 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve (regional holiday)"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-26",
+        "name": "Australia Day"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Lunar New Year (Christmas Island)"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Lunar New Year Holiday (Day 2) (Christmas Island)"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Royal Hobart Regatta (Tasmania)"
+    },
+    {
+        "date": "2024-03-04",
+        "name": "Labour Day (Western Australia)"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Adelaide Cup (South Australia)"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Canberra Day (Australian Capital Territory)"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Eight Hours Day (Tasmania)"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Labour Day (Victoria)"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Harmony Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday (Victoria)"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Holy Saturday (regional holiday)"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday (regional holiday)"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-04-02",
+        "name": "Easter Tuesday (Tasmania)"
+    },
+    {
+        "date": "2024-04-06",
+        "name": "Self Determination Day (Cocos and Keeling Islands)"
+    },
+    {
+        "date": "2024-04-07",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2024-04-08",
+        "name": "Day off for Self Determination Day (Cocos and Keeling Islands)"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Hari Raya Puasa (regional holiday)"
+    },
+    {
+        "date": "2024-04-25",
+        "name": "ANZAC Day"
+    },
+    {
+        "date": "2024-04-25",
+        "name": "ANZAC Day Observed (Victoria)"
+    },
+    {
+        "date": "2024-05-06",
+        "name": "Labour Day (Queensland)"
+    },
+    {
+        "date": "2024-05-06",
+        "name": "May Day (Northern Territory)"
+    },
+    {
+        "date": "2024-05-27",
+        "name": "Reconciliation Day (Australian Capital Territory)"
+    },
+    {
+        "date": "2024-06-03",
+        "name": "Western Australia Day (Western Australia)"
+    },
+    {
+        "date": "2024-06-10",
+        "name": "King's Birthday (regional holiday)"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Hari Raya Haji (regional holiday)"
+    },
+    {
+        "date": "2024-08-05",
+        "name": "New South Wales Bank Holiday (New South Wales)"
+    },
+    {
+        "date": "2024-08-05",
+        "name": "Northern Territory Picnic Day (Northern Territory)"
+    },
+    {
+        "date": "2024-08-14",
+        "name": "Royal National Agricultural Show Day Queensland (Queensland)"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Hari Maulad Nabi (Cocos and Keeling Islands)"
+    },
+    {
+        "date": "2024-09-23",
+        "name": "King's Birthday (Western Australia)"
+    },
+    {
+        "date": "2024-09-27",
+        "name": "Friday before the AFL Grand Final (Victoria)"
+    },
+    {
+        "date": "2024-10-06",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2024-10-07",
+        "name": "King's Birthday (Queensland)"
+    },
+    {
+        "date": "2024-10-07",
+        "name": "Labour Day (regional holiday)"
+    },
+    {
+        "date": "2024-10-07",
+        "name": "Territory Day (Christmas Island)"
+    },
+    {
+        "date": "2024-10-24",
+        "name": "Royal Hobart Show (Tasmania)"
+    },
+    {
+        "date": "2024-11-04",
+        "name": "Recreation Day (Tasmania)"
+    },
+    {
+        "date": "2024-11-05",
+        "name": "Melbourne Cup Day (Victoria)"
+    },
+    {
+        "date": "2024-11-11",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve (regional holiday)"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day (Victoria)"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Proclamation Day (South Australia)"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve (regional holiday)"
     }
 ]

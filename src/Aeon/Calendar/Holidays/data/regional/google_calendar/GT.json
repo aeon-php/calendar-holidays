@@ -342,5 +342,69 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Easter Saturday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-06-30",
+        "name": "Army Day"
+    },
+    {
+        "date": "2024-07-01",
+        "name": "Army Day Holiday"
+    },
+    {
+        "date": "2024-09-15",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Dia de la raza"
+    },
+    {
+        "date": "2024-10-20",
+        "name": "Revolution of 1944"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

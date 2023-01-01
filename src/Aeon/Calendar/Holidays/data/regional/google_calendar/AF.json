@@ -314,5 +314,69 @@
     {
         "date": "2023-09-27",
         "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-02-15",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "First Day of Ramadan"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Nauruz"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2024-04-28",
+        "name": "Afghan Victory Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Day of Arafat"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Qurban"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid al-Qurban Holiday"
+    },
+    {
+        "date": "2024-06-19",
+        "name": "Eid al-Qurban Holiday"
+    },
+    {
+        "date": "2024-07-17",
+        "name": "Ashura"
+    },
+    {
+        "date": "2024-08-19",
+        "name": "Independence Day (National Day)"
+    },
+    {
+        "date": "2024-09-09",
+        "name": "Martyrs and Ahmad Shah Masoud Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet's Birthday"
     }
 ]

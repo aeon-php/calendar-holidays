@@ -402,5 +402,85 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-21",
+        "name": "Navy Day"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2024-06-20",
+        "name": "National Day of Indigenous Peoples"
+    },
+    {
+        "date": "2024-06-29",
+        "name": "Saint Peter and Saint Paul"
+    },
+    {
+        "date": "2024-07-16",
+        "name": "Our Lady of Mount Carmel"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-09-18",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-09-19",
+        "name": "Army Day"
+    },
+    {
+        "date": "2024-09-20",
+        "name": "Extended National Holiday"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Day of the Discovery of Two Worlds"
+    },
+    {
+        "date": "2024-10-31",
+        "name": "Reformation Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Inmaculate Conception Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

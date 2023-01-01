@@ -702,5 +702,145 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-21",
+        "name": "Princess Ingrid Alexandra's Day"
+    },
+    {
+        "date": "2024-02-06",
+        "name": "Saami National Day"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Carnival"
+    },
+    {
+        "date": "2024-02-21",
+        "name": "King Harald V's Day"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-05-08",
+        "name": "Day of Liberation"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2024-05-17",
+        "name": "17 May Constitution Day (1814)"
+    },
+    {
+        "date": "2024-05-18",
+        "name": "Whit Saturday"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2024-05-20",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2024-06-07",
+        "name": "Dissolution of Union With Sweden (1905)"
+    },
+    {
+        "date": "2024-07-04",
+        "name": "Queen Sonja's Day"
+    },
+    {
+        "date": "2024-07-20",
+        "name": "Crown Prince Haakon's Day"
+    },
+    {
+        "date": "2024-07-29",
+        "name": "St. Olaf's Day"
+    },
+    {
+        "date": "2024-08-19",
+        "name": "Crown Princess Mette-Marit's Day"
+    },
+    {
+        "date": "2024-10-27",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2024-10-27",
+        "name": "Repentance Day"
+    },
+    {
+        "date": "2024-11-03",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-12-01",
+        "name": "First Advent Sunday"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Second Advent Sunday"
+    },
+    {
+        "date": "2024-12-15",
+        "name": "Third Advent Sunday"
+    },
+    {
+        "date": "2024-12-22",
+        "name": "Fourth Advent Sunday"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

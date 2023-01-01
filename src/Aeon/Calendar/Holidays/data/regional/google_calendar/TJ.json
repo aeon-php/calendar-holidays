@@ -274,5 +274,57 @@
     {
         "date": "2023-11-06",
         "name": "Constitution Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2024-03-22",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2024-03-23",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Navruz Celebration"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-27",
+        "name": "Day of National Unity"
+    },
+    {
+        "date": "2024-09-09",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-11-06",
+        "name": "Constitution Day"
     }
 ]

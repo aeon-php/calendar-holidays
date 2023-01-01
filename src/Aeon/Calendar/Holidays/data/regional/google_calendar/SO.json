@@ -130,5 +130,33 @@
     {
         "date": "2023-09-27",
         "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-07-17",
+        "name": "Ashura"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet's Birthday"
     }
 ]

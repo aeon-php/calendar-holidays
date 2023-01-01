@@ -598,5 +598,125 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "Day after New Year's Day"
+    },
+    {
+        "date": "2024-01-24",
+        "name": "Unification Day"
+    },
+    {
+        "date": "2024-02-19",
+        "name": "Constantin Brancusi Day"
+    },
+    {
+        "date": "2024-02-24",
+        "name": "Dragobete"
+    },
+    {
+        "date": "2024-03-01",
+        "name": "M\u0103r\u021bi\u0219or"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-03",
+        "name": "Orthodox Good Friday"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Orthodox Easter Day"
+    },
+    {
+        "date": "2024-05-06",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2024-05-10",
+        "name": "Monarchy Day"
+    },
+    {
+        "date": "2024-05-10",
+        "name": "National Independence Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-06-01",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-06-13",
+        "name": "Orthodox Ascension Day"
+    },
+    {
+        "date": "2024-06-23",
+        "name": "Orthodox Pentecost"
+    },
+    {
+        "date": "2024-06-24",
+        "name": "Orthodox Pentecost Monday"
+    },
+    {
+        "date": "2024-06-26",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2024-07-29",
+        "name": "National Anthem Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "St Mary's Day"
+    },
+    {
+        "date": "2024-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2024-11-30",
+        "name": "St Andrew's Day"
+    },
+    {
+        "date": "2024-12-01",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Second day of Christmas"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

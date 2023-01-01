@@ -506,5 +506,101 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-06",
+        "name": "The Three Wise Men Day"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-06-07",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-06-24",
+        "name": "Farmer Day"
+    },
+    {
+        "date": "2024-06-24",
+        "name": "Inti Raymi Day"
+    },
+    {
+        "date": "2024-06-29",
+        "name": "St Peter and St Paul"
+    },
+    {
+        "date": "2024-07-28",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-07-29",
+        "name": "Independence Day (day 2)"
+    },
+    {
+        "date": "2024-08-30",
+        "name": "Santa Rosa De Lima"
+    },
+    {
+        "date": "2024-09-24",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2024-10-08",
+        "name": "Battle of Angamos"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "Battle of Ayacucho"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

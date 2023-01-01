@@ -458,5 +458,81 @@
     {
         "date": "2023-11-11",
         "name": "Republic Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Ramadan Start"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid-ul-Fithr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid-ul-Fithr Holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Eid-ul-Fithr Holiday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Hajj Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid-ul Al'haa"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid-ul Al'haa Holiday"
+    },
+    {
+        "date": "2024-06-19",
+        "name": "Eid-ul Al'haa Holiday"
+    },
+    {
+        "date": "2024-06-20",
+        "name": "Eid-ul Al'haa Holiday"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram\/Islamic New Year"
+    },
+    {
+        "date": "2024-07-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-07-27",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2024-09-05",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2024-10-05",
+        "name": "The Day Maldives Embraced Islam"
+    },
+    {
+        "date": "2024-11-03",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-11-11",
+        "name": "Republic Day"
     }
 ]

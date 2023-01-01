@@ -342,5 +342,73 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "New Year (Day 2)"
+    },
+    {
+        "date": "2024-01-25",
+        "name": "Thaipoosam Cavadee"
+    },
+    {
+        "date": "2024-02-01",
+        "name": "Abolition of Slavery"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Chinese Spring Festival"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "Maha Shivaratree"
+    },
+    {
+        "date": "2024-03-12",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-04-09",
+        "name": "Ougadi"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-05-26",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-09-07",
+        "name": "Ganesh Chaturthi"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "Divali"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "Arrival of Indentured Labourers"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

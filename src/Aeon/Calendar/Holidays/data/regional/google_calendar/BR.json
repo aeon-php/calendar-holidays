@@ -534,5 +534,117 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve (from 2pm)"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-09",
+        "name": "Carnival Friday"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Carnival Saturday"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Carnival Sunday"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Carnival Monday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Carnival Tuesday"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Carnival end (until 2pm)"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-21",
+        "name": "Tiradentes Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2024-06-07",
+        "name": "National Press Freedom Day"
+    },
+    {
+        "date": "2024-06-12",
+        "name": "Brazilian Valentine's Day"
+    },
+    {
+        "date": "2024-07-25",
+        "name": "Latin and Caribbean Black Women Day"
+    },
+    {
+        "date": "2024-08-11",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-09-07",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Our Lady of Aparecida \/ Children's Day"
+    },
+    {
+        "date": "2024-10-15",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2024-10-28",
+        "name": "Public Service Holiday"
+    },
+    {
+        "date": "2024-10-31",
+        "name": "Saci Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2024-11-15",
+        "name": "Republic Proclamation Day"
+    },
+    {
+        "date": "2024-11-20",
+        "name": "Black Awareness Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve (from 2pm)"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve (from 2pm)"
     }
 ]

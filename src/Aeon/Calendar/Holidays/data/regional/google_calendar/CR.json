@@ -418,5 +418,93 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-19",
+        "name": "Saint Joseph's Day"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Battle of Rivas"
+    },
+    {
+        "date": "2024-04-15",
+        "name": "Battle of Rivas"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-07-25",
+        "name": "Annexation of Guanacaste"
+    },
+    {
+        "date": "2024-07-29",
+        "name": "Annexation of Guanacaste"
+    },
+    {
+        "date": "2024-08-02",
+        "name": "Our Lady of Los \u00c1ngeles"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-08-19",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-08-24",
+        "name": "National Parks Day"
+    },
+    {
+        "date": "2024-09-09",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-09-15",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2024-11-22",
+        "name": "Teacher's Day"
+    },
+    {
+        "date": "2024-12-01",
+        "name": "Day of Abolition of the Army"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

@@ -418,5 +418,85 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-06",
+        "name": "Army Day"
+    },
+    {
+        "date": "2024-03-06",
+        "name": "National Day of Tolerance and Coexistence"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Nowruz"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2024-06-19",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2024-07-07",
+        "name": "Islamic New Year"
+    },
+    {
+        "date": "2024-07-14",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2024-07-16",
+        "name": "Ashura"
+    },
+    {
+        "date": "2024-09-15",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-10-03",
+        "name": "Iraqi Independence Day"
+    },
+    {
+        "date": "2024-12-10",
+        "name": "Anniversary of Victory over ISIS"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

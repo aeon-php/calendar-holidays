@@ -582,5 +582,105 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-01-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Union Day"
+    },
+    {
+        "date": "2024-03-02",
+        "name": "Peasants' Day"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Full Moon Day of Tabaung"
+    },
+    {
+        "date": "2024-03-25",
+        "name": "Day off for Full Moon Day of Tabaung"
+    },
+    {
+        "date": "2024-03-27",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2024-04-13",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2024-04-14",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2024-04-15",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2024-04-16",
+        "name": "Maha Thingyan (Water Festival)"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-07-19",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2024-07-20",
+        "name": "Full Moon Day of Waso (Beginning of Buddhist Lent)"
+    },
+    {
+        "date": "2024-07-22",
+        "name": "Day off for Full Moon Day of Waso (Beginning of Buddhist Lent)"
+    },
+    {
+        "date": "2024-10-16",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
+        "date": "2024-10-17",
+        "name": "Full Moon Day of Thadingyut (End of Buddhist Lent)"
+    },
+    {
+        "date": "2024-10-18",
+        "name": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "Diwali\/Deepavali"
+    },
+    {
+        "date": "2024-11-15",
+        "name": "Full Moon Day of Tazaungmone Holiday"
+    },
+    {
+        "date": "2024-11-16",
+        "name": "Full Moon Day of Tazaungmone"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year Holiday"
     }
 ]

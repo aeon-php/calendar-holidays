@@ -302,5 +302,65 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2024-06-05",
+        "name": "President's Day"
+    },
+    {
+        "date": "2024-08-03",
+        "name": "Freedom Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "Feast of the Immaculate Conception observed"
+    },
+    {
+        "date": "2024-12-10",
+        "name": "Human Rights Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

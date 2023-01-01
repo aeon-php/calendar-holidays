@@ -294,5 +294,61 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-04-06",
+        "name": "Day After Laila tou-Kadr"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Aid el-Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2024-05-20",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Aid el-Kebir"
+    },
+    {
+        "date": "2024-08-07",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Day After Prophet's Birthday"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints Day"
+    },
+    {
+        "date": "2024-11-15",
+        "name": "National Peace Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

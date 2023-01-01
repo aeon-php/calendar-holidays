@@ -238,5 +238,53 @@
     {
         "date": "2023-09-27",
         "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-02-07",
+        "name": "Isra and Miraj"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Arafat Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2024-06-27",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-06-28",
+        "name": "Independence Day Holiday"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Milad un Nabi (Mawlid)"
     }
 ]
