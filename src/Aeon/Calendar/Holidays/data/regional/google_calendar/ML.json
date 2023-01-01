@@ -266,5 +266,65 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-20",
+        "name": "Army Day"
+    },
+    {
+        "date": "2024-03-26",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-04-06",
+        "name": "Leylatoul Qadr"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Workers' Day"
+    },
+    {
+        "date": "2024-05-20",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2024-05-25",
+        "name": "Africa Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-07-17",
+        "name": "Ashura Holiday"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-09-22",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-09-23",
+        "name": "Baptism of the Prophet"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

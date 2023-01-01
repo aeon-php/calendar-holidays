@@ -398,5 +398,77 @@
     {
         "date": "2023-11-08",
         "name": "Days of History and Memory of Ancestors Holiday"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2024-01-08",
+        "name": "Day off for Orthodox Christmas Day"
+    },
+    {
+        "date": "2024-02-23",
+        "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "National Holiday \"Nooruz\""
+    },
+    {
+        "date": "2024-04-07",
+        "name": "April People's Revolution Day"
+    },
+    {
+        "date": "2024-04-08",
+        "name": "April People's Revolution Day observed"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Orozo Ait"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Constitution Day of the Kyrgyz Republic"
+    },
+    {
+        "date": "2024-05-06",
+        "name": "Constitution Day of the Kyrgyz Republic observed"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Kurman Ait"
+    },
+    {
+        "date": "2024-08-31",
+        "name": "Independence Day of the Kyrgyz Republic"
+    },
+    {
+        "date": "2024-09-02",
+        "name": "Independence Day of the Kyrgyz Republic observed"
+    },
+    {
+        "date": "2024-11-07",
+        "name": "Days of History and Memory of Ancestors"
+    },
+    {
+        "date": "2024-11-08",
+        "name": "Days of History and Memory of Ancestors Holiday"
     }
 ]

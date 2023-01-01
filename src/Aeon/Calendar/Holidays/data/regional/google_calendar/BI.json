@@ -286,5 +286,65 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-02-05",
+        "name": "Unity Day"
+    },
+    {
+        "date": "2024-04-06",
+        "name": "President Ntaryamira Day"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2024-06-08",
+        "name": "President Pierre Nkurunziza Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-07-01",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-10-13",
+        "name": "Prince Louis Rwagasore Day"
+    },
+    {
+        "date": "2024-10-14",
+        "name": "Day off for Prince Louis Rwagasore Day"
+    },
+    {
+        "date": "2024-10-21",
+        "name": "President Ndadaye's Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

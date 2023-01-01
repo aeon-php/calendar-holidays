@@ -338,5 +338,73 @@
     {
         "date": "2023-12-26",
         "name": "Boxing Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-02-07",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-05-20",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi"
+    },
+    {
+        "date": "2024-08-05",
+        "name": "Emancipation Day"
+    },
+    {
+        "date": "2024-08-12",
+        "name": "Carnival (First Day)"
+    },
+    {
+        "date": "2024-08-13",
+        "name": "Carnival (Second Day)"
+    },
+    {
+        "date": "2024-09-01",
+        "name": "Kirani Day"
+    },
+    {
+        "date": "2024-10-19",
+        "name": "Maurice Bishop Day"
+    },
+    {
+        "date": "2024-10-25",
+        "name": "Thanksgiving"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Boxing Day"
     }
 ]

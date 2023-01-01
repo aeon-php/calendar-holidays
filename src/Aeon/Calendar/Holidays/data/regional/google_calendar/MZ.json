@@ -230,5 +230,49 @@
     {
         "date": "2023-12-25",
         "name": "Family Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-02-03",
+        "name": "Mozambican Heroes Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-04-07",
+        "name": "Mozambican Woman's Day"
+    },
+    {
+        "date": "2024-04-08",
+        "name": "Mozambican Woman's Day observed"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2024-06-25",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-09-07",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-09-25",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2024-10-04",
+        "name": "Peace and Reconciliation Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Family Day"
     }
 ]

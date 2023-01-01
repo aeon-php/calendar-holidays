@@ -190,5 +190,45 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-20",
+        "name": "Heroes Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-08-03",
+        "name": "Martyrs' Day"
+    },
+    {
+        "date": "2024-09-24",
+        "name": "Independence Day (National Day)"
+    },
+    {
+        "date": "2024-11-14",
+        "name": "Readjustment Movement Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

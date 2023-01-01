@@ -278,5 +278,61 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-04-06",
+        "name": "Lailat al-Qadr"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-24",
+        "name": "Concord Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram"
+    },
+    {
+        "date": "2024-08-03",
+        "name": "Nigerien Independence Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-12-18",
+        "name": "Nigerien Republic Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

@@ -314,5 +314,61 @@
     {
         "date": "2023-12-29",
         "name": "Christmas Holiday"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-10",
+        "name": "Margaret Thatcher Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-06-14",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2024-08-14",
+        "name": "Falkland Day"
+    },
+    {
+        "date": "2024-10-07",
+        "name": "Peat Cutting Monday"
+    },
+    {
+        "date": "2024-11-14",
+        "name": "King Charles III's Birthday"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Battle Day"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "Battle Day observed"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Boxing Day"
+    },
+    {
+        "date": "2024-12-27",
+        "name": "Christmas Holiday"
+    },
+    {
+        "date": "2024-12-30",
+        "name": "Christmas Holiday"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "Christmas Holiday"
     }
 ]

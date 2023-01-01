@@ -682,5 +682,133 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Carnival \/ Shrove Monday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Carnival \/ Shrove Tuesday \/ Pancake Day"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-02",
+        "name": "Day of the Veterans"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "End of Ramadan"
+    },
+    {
+        "date": "2024-04-22",
+        "name": "Passover Eve"
+    },
+    {
+        "date": "2024-04-23",
+        "name": "First day of Passover"
+    },
+    {
+        "date": "2024-04-24",
+        "name": "Action Day for Tolerance and Respect between People"
+    },
+    {
+        "date": "2024-04-24",
+        "name": "Second Day of Passover"
+    },
+    {
+        "date": "2024-04-28",
+        "name": "Sixth Day of Passover"
+    },
+    {
+        "date": "2024-04-29",
+        "name": "Seventh Day of Passover"
+    },
+    {
+        "date": "2024-04-30",
+        "name": "Last day of Passover"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-25",
+        "name": "National Day\/May 1810 Revolution"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Commemoration of General Don Mart\u00edn Miguel de G\u00fcemes"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-20",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram\/New Year"
+    },
+    {
+        "date": "2024-07-09",
+        "name": "Independence day"
+    },
+    {
+        "date": "2024-08-19",
+        "name": "San Mart\u00edn Day"
+    },
+    {
+        "date": "2024-10-03",
+        "name": "Rosh Hashana"
+    },
+    {
+        "date": "2024-10-04",
+        "name": "Second day of Rosh Hashana"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Yom Kippur"
+    },
+    {
+        "date": "2024-10-14",
+        "name": "Day of Respect for Cultural Diversity"
+    },
+    {
+        "date": "2024-11-18",
+        "name": "National Sovereignty Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

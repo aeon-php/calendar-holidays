@@ -382,5 +382,81 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-04-09",
+        "name": "Ramadan Feast Eve"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Ramadan Feast"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Ramadan Feast Holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Ramadan Feast Holiday"
+    },
+    {
+        "date": "2024-04-23",
+        "name": "National Sovereignty and Children's Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor and Solidarity Day"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Commemoration of Atat\u00fcrk, Youth and Sports Day"
+    },
+    {
+        "date": "2024-06-15",
+        "name": "Sacrifice Feast Eve"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Sacrifice Feast"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Sacrifice Feast Holiday"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Sacrifice Feast Holiday"
+    },
+    {
+        "date": "2024-06-19",
+        "name": "Sacrifice Feast Holiday"
+    },
+    {
+        "date": "2024-07-15",
+        "name": "Democracy and National Unity Day"
+    },
+    {
+        "date": "2024-08-30",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-10-28",
+        "name": "Republic Day Eve"
+    },
+    {
+        "date": "2024-10-29",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2024-11-10",
+        "name": "Ataturk Commemoration Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

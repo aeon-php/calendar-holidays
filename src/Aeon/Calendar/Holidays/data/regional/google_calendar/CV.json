@@ -234,5 +234,65 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-13",
+        "name": "Freedom and Democracy Day"
+    },
+    {
+        "date": "2024-01-20",
+        "name": "National Heroes' Day"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Holy Thursday"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-06-01",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-07-05",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

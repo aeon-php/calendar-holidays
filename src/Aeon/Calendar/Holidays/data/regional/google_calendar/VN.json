@@ -382,5 +382,69 @@
     {
         "date": "2023-12-31",
         "name": "International New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "International New Year's Day"
+    },
+    {
+        "date": "2024-02-09",
+        "name": "Vietnamese New Year's Eve"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Vietnamese New Year"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Tet holiday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-18",
+        "name": "Hung Kings Festival"
+    },
+    {
+        "date": "2024-04-30",
+        "name": "Liberation Day\/Reunification Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "International Labor Day"
+    },
+    {
+        "date": "2024-05-23",
+        "name": "Vesak"
+    },
+    {
+        "date": "2024-09-02",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "International New Year's Eve"
     }
 ]

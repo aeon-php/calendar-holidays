@@ -358,5 +358,89 @@
     {
         "date": "2023-11-23",
         "name": "Labor Thanksgiving Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-08",
+        "name": "Coming of Age Day"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "National Foundation Day"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "National Foundation Day observed"
+    },
+    {
+        "date": "2024-02-23",
+        "name": "Emperor's Birthday"
+    },
+    {
+        "date": "2024-03-20",
+        "name": "Spring Equinox"
+    },
+    {
+        "date": "2024-04-29",
+        "name": "Sh\u014dwa Day"
+    },
+    {
+        "date": "2024-05-03",
+        "name": "Constitution Memorial Day"
+    },
+    {
+        "date": "2024-05-04",
+        "name": "Greenery Day"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-05-06",
+        "name": "Children's Day observed"
+    },
+    {
+        "date": "2024-07-15",
+        "name": "Sea Day"
+    },
+    {
+        "date": "2024-08-11",
+        "name": "Mountain Day"
+    },
+    {
+        "date": "2024-08-12",
+        "name": "Day off for Mountain Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Respect for the Aged Day"
+    },
+    {
+        "date": "2024-09-22",
+        "name": "Autumn Equinox"
+    },
+    {
+        "date": "2024-09-23",
+        "name": "Autumn Equinox observed"
+    },
+    {
+        "date": "2024-10-14",
+        "name": "Sports Day"
+    },
+    {
+        "date": "2024-11-03",
+        "name": "Culture Day"
+    },
+    {
+        "date": "2024-11-04",
+        "name": "Culture Day observed"
+    },
+    {
+        "date": "2024-11-23",
+        "name": "Labor Thanksgiving Day"
     }
 ]

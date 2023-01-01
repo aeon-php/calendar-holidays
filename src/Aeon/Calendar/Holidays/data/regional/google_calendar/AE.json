@@ -374,5 +374,77 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-07",
+        "name": "Leilat al-Meiraj (The Prophet's Ascension)"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Ramadan Start"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2024-06-08",
+        "name": "Hajj season begins"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Arafat (Hajj) Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha (Feast of Sacrifice)"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Al-Hijra (Islamic New Year)"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Mouloud"
+    },
+    {
+        "date": "2024-11-30",
+        "name": "Commemoration Day"
+    },
+    {
+        "date": "2024-12-01",
+        "name": "Day off for Commemoration Day"
+    },
+    {
+        "date": "2024-12-02",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-12-03",
+        "name": "National Day Holiday"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

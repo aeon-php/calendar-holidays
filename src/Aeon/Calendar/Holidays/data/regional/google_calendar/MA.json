@@ -358,5 +358,81 @@
     {
         "date": "2023-11-18",
         "name": "Independence Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-11",
+        "name": "Anniversary of the Independence Manifesto"
+    },
+    {
+        "date": "2024-03-10",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Ramadan Start"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid al-Fitr holiday"
+    },
+    {
+        "date": "2024-04-14",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day\/May Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid al-Adha holiday"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Hijra New Year"
+    },
+    {
+        "date": "2024-07-30",
+        "name": "Feast of the Throne"
+    },
+    {
+        "date": "2024-08-14",
+        "name": "Anniversary of the Recovery Oued Ed-Dahab"
+    },
+    {
+        "date": "2024-08-20",
+        "name": "Anniversary of the Revolution of the King and the People"
+    },
+    {
+        "date": "2024-08-21",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet Muhammad's Birthday"
+    },
+    {
+        "date": "2024-09-17",
+        "name": "The Prophet Muhammad's Birthday Holiday"
+    },
+    {
+        "date": "2024-11-06",
+        "name": "Anniversary of the Green March"
+    },
+    {
+        "date": "2024-11-18",
+        "name": "Independence Day"
     }
 ]

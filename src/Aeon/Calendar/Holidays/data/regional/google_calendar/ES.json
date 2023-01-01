@@ -1566,5 +1566,305 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "Reconquest Day (Granada)"
+    },
+    {
+        "date": "2024-01-06",
+        "name": "Epiphany"
+    },
+    {
+        "date": "2024-01-23",
+        "name": "Day of Saint Ildefonso (Toledo)"
+    },
+    {
+        "date": "2024-01-29",
+        "name": "St. Valero's Feast (Zaragoza)"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Ash Wednesday"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2024-02-28",
+        "name": "Day of Andaluc\u00eda (Andalusia)"
+    },
+    {
+        "date": "2024-03-01",
+        "name": "Day of the Balearic Islands (Balearic Islands)"
+    },
+    {
+        "date": "2024-03-05",
+        "name": "Fifth of March (Zaragoza)"
+    },
+    {
+        "date": "2024-03-19",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-03-19",
+        "name": "San Jose (Madrid)"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Palm Sunday"
+    },
+    {
+        "date": "2024-03-28",
+        "name": "Maundy Thursday (regional holiday)"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday (regional holiday)"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid al-Fitr (Melilla)"
+    },
+    {
+        "date": "2024-04-14",
+        "name": "Sermon of the Tortillas (Teruel)"
+    },
+    {
+        "date": "2024-04-23",
+        "name": "Castile and Le\u00f3n Day (Castile-Leon)"
+    },
+    {
+        "date": "2024-04-23",
+        "name": "Day of Arag\u00f3n (Aragon)"
+    },
+    {
+        "date": "2024-04-23",
+        "name": "Santa Faz (Alicante)"
+    },
+    {
+        "date": "2024-04-28",
+        "name": "San Prudencio (\u00c1lava)"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-02",
+        "name": "Day of Madrid (Madrid)"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2024-05-15",
+        "name": "Feast Day of St Isidore (Madrid)"
+    },
+    {
+        "date": "2024-05-17",
+        "name": "Galicia Literature Day (Galicia)"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Whit Sunday\/Pentecost"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi (Castile-La Mancha)"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Day of the Canary Islands (Canary Islands)"
+    },
+    {
+        "date": "2024-05-31",
+        "name": "Day of Castile-La Mancha (Castile-La Mancha)"
+    },
+    {
+        "date": "2024-06-09",
+        "name": "Day of La Rioja (La Rioja)"
+    },
+    {
+        "date": "2024-06-09",
+        "name": "Day of Murcia (Murcia)"
+    },
+    {
+        "date": "2024-06-10",
+        "name": "Day off for Day of La Rioja (La Rioja)"
+    },
+    {
+        "date": "2024-06-10",
+        "name": "Day off for Day of Murcia (Murcia)"
+    },
+    {
+        "date": "2024-06-13",
+        "name": "San Antonio (Ceuta)"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha (regional holiday)"
+    },
+    {
+        "date": "2024-06-24",
+        "name": "Saint John the Baptist Day (regional holiday)"
+    },
+    {
+        "date": "2024-07-13",
+        "name": "Festival of the Vaquillas (Teruel)"
+    },
+    {
+        "date": "2024-07-25",
+        "name": "Feast of Saint James the Apostle (regional holiday)"
+    },
+    {
+        "date": "2024-07-28",
+        "name": "Day of the Institutions (Cantabria)"
+    },
+    {
+        "date": "2024-08-05",
+        "name": "Feast of the White Virgin (\u00c1lava)"
+    },
+    {
+        "date": "2024-08-05",
+        "name": "The Day of Our Lady of Africa (Ceuta)"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-08-19",
+        "name": "Feast of Saint Maginus (Tarragona)"
+    },
+    {
+        "date": "2024-09-02",
+        "name": "Day of the Independent City of Ceuta (Ceuta)"
+    },
+    {
+        "date": "2024-09-08",
+        "name": "Day of Asturias (Asturias)"
+    },
+    {
+        "date": "2024-09-08",
+        "name": "Day of Extremadura (Extremadura)"
+    },
+    {
+        "date": "2024-09-08",
+        "name": "Virgin of the Plains (Albacete)"
+    },
+    {
+        "date": "2024-09-08",
+        "name": "Virgin of the Victory (Melilla)"
+    },
+    {
+        "date": "2024-09-09",
+        "name": "Day of Asturias observed (Asturias)"
+    },
+    {
+        "date": "2024-09-09",
+        "name": "Day of Extremadura observed (Extremadura)"
+    },
+    {
+        "date": "2024-09-09",
+        "name": "Virgin of the Victory observed (Melilla)"
+    },
+    {
+        "date": "2024-09-11",
+        "name": "National Day of Catalonia (Catalonia)"
+    },
+    {
+        "date": "2024-09-15",
+        "name": "Nuestra Se\u00f1ora de la Bien Aparecida (Cantabria)"
+    },
+    {
+        "date": "2024-09-17",
+        "name": "Day of Melilla (Melilla)"
+    },
+    {
+        "date": "2024-09-23",
+        "name": "Day of Saint Tecla (Tarragona)"
+    },
+    {
+        "date": "2024-09-24",
+        "name": "Virgin of Mercy (Barcelona)"
+    },
+    {
+        "date": "2024-10-09",
+        "name": "Day of the Valencian Community (Valencia)"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Hispanic Day"
+    },
+    {
+        "date": "2024-10-27",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-11-09",
+        "name": "La Almudena (Madrid)"
+    },
+    {
+        "date": "2024-12-03",
+        "name": "Day of Navarre (Navarre)"
+    },
+    {
+        "date": "2024-12-06",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Immaculate Conception"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "Day of Saint Leocadia (Toledo)"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "Immaculate Conception observed"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "St Stephen's Day (regional holiday)"
+    },
+    {
+        "date": "2024-12-29",
+        "name": "Feast of the Holy Family"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

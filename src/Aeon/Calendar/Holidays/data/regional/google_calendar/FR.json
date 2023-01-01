@@ -378,5 +378,81 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Easter Monday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-08",
+        "name": "WWII Victory Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Ascension Day"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Whit Sunday"
+    },
+    {
+        "date": "2024-05-20",
+        "name": "Whit Monday"
+    },
+    {
+        "date": "2024-05-26",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-07-14",
+        "name": "Bastille Day"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "Assumption of Mary"
+    },
+    {
+        "date": "2024-10-27",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Saints' Day"
+    },
+    {
+        "date": "2024-11-11",
+        "name": "Armistice Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

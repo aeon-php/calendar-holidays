@@ -418,5 +418,77 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Nauryz"
+    },
+    {
+        "date": "2024-03-22",
+        "name": "Nauryz Holiday"
+    },
+    {
+        "date": "2024-03-23",
+        "name": "Nauryz Holiday"
+    },
+    {
+        "date": "2024-03-25",
+        "name": "Nauryz Holiday observed"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Unity Day"
+    },
+    {
+        "date": "2024-05-07",
+        "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Kurban Ait"
+    },
+    {
+        "date": "2024-07-06",
+        "name": "Day of the Capital"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Day off for Day of the Capital"
+    },
+    {
+        "date": "2024-08-30",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-10-25",
+        "name": "Republic Day"
+    },
+    {
+        "date": "2024-12-16",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

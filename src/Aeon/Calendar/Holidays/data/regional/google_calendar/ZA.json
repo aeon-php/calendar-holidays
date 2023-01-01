@@ -454,5 +454,93 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "Tweede Nuwe Jaar"
+    },
+    {
+        "date": "2024-02-21",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2024-03-21",
+        "name": "Human Rights Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Family Day"
+    },
+    {
+        "date": "2024-04-27",
+        "name": "Freedom Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Workers' Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Mother's Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Youth Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Day off for Youth Day"
+    },
+    {
+        "date": "2024-07-18",
+        "name": "Nelson Mandela Day"
+    },
+    {
+        "date": "2024-08-09",
+        "name": "National Women's Day"
+    },
+    {
+        "date": "2024-09-24",
+        "name": "Heritage Day"
+    },
+    {
+        "date": "2024-12-16",
+        "name": "Day of Reconciliation"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-26",
+        "name": "Day of Goodwill"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

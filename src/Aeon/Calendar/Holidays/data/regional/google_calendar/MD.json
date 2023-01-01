@@ -622,5 +622,125 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2024-01-08",
+        "name": "Orthodox Christmas Day holiday"
+    },
+    {
+        "date": "2024-03-01",
+        "name": "Martisor (first day of spring)"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Daylight Saving Time starts"
+    },
+    {
+        "date": "2024-04-27",
+        "name": "State Flag Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "International Day of Solidarity of Workers"
+    },
+    {
+        "date": "2024-05-03",
+        "name": "Orthodox Good Friday"
+    },
+    {
+        "date": "2024-05-04",
+        "name": "Orthodox Holy Saturday"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Orthodox Easter Sunday"
+    },
+    {
+        "date": "2024-05-06",
+        "name": "Orthodox Easter Monday"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Europe Day"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-05-13",
+        "name": "Memorial Day\/Parents' Day"
+    },
+    {
+        "date": "2024-05-15",
+        "name": "Family Day"
+    },
+    {
+        "date": "2024-05-26",
+        "name": "Dniester Day"
+    },
+    {
+        "date": "2024-06-01",
+        "name": "International Children's Day"
+    },
+    {
+        "date": "2024-06-05",
+        "name": "World Environment Day"
+    },
+    {
+        "date": "2024-06-23",
+        "name": "Statehood Day"
+    },
+    {
+        "date": "2024-07-29",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-08-27",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-08-31",
+        "name": "Language Day"
+    },
+    {
+        "date": "2024-10-05",
+        "name": "Wine Day"
+    },
+    {
+        "date": "2024-10-06",
+        "name": "Wine Day"
+    },
+    {
+        "date": "2024-10-27",
+        "name": "Daylight Saving Time ends"
+    },
+    {
+        "date": "2024-12-10",
+        "name": "International Human Rights Day"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

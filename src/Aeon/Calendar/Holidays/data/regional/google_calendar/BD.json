@@ -978,5 +978,149 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-02-14",
+        "name": "Valentine's Day"
+    },
+    {
+        "date": "2024-02-21",
+        "name": "Language Martyrs' Day"
+    },
+    {
+        "date": "2024-02-24",
+        "name": "Maghi Purnima"
+    },
+    {
+        "date": "2024-02-26",
+        "name": "Shab e-Barat"
+    },
+    {
+        "date": "2024-03-17",
+        "name": "Sheikh Mujibur Rahman\u2019s birthday"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Doljatra"
+    },
+    {
+        "date": "2024-03-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-04-06",
+        "name": "Shab-e-qadr"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid ul-Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid ul-Fitr Holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Eid ul-Fitr Holiday"
+    },
+    {
+        "date": "2024-04-13",
+        "name": "Chaitra Sankranti"
+    },
+    {
+        "date": "2024-04-13",
+        "name": "Eid ul-Fitr Holiday"
+    },
+    {
+        "date": "2024-04-14",
+        "name": "Bengali New Year"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "May Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Mothers' Day"
+    },
+    {
+        "date": "2024-05-23",
+        "name": "Buddha Purnima\/Vesak"
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Fathers' Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2024-06-19",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram"
+    },
+    {
+        "date": "2024-07-17",
+        "name": "Ashura"
+    },
+    {
+        "date": "2024-07-21",
+        "name": "Ashari Purnima"
+    },
+    {
+        "date": "2024-08-15",
+        "name": "National Mourning Day"
+    },
+    {
+        "date": "2024-08-31",
+        "name": "Akhari Chahar Somba"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Eid e-Milad-un Nabi"
+    },
+    {
+        "date": "2024-09-18",
+        "name": "Madhu Purnima"
+    },
+    {
+        "date": "2024-10-11",
+        "name": "Mahanabami"
+    },
+    {
+        "date": "2024-10-15",
+        "name": "Fateha-i-Yajdaham"
+    },
+    {
+        "date": "2024-10-16",
+        "name": "Lakshmi Puja"
+    },
+    {
+        "date": "2024-10-17",
+        "name": "Prabarana Purnima"
+    },
+    {
+        "date": "2024-10-31",
+        "name": "Halloween"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "Sri Shayama Puja"
+    },
+    {
+        "date": "2024-12-16",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

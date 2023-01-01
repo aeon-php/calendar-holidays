@@ -246,5 +246,45 @@
     {
         "date": "2023-12-02",
         "name": "National Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "International Women's Day (Women Only)"
+    },
+    {
+        "date": "2024-04-13",
+        "name": "Lao New Year"
+    },
+    {
+        "date": "2024-04-14",
+        "name": "Lao New Year Holiday"
+    },
+    {
+        "date": "2024-04-15",
+        "name": "Lao New Year Holiday"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-06-01",
+        "name": "Children's Day"
+    },
+    {
+        "date": "2024-07-20",
+        "name": "Lao Women Union's Day"
+    },
+    {
+        "date": "2024-07-22",
+        "name": "Lao Women Union's Day observed"
+    },
+    {
+        "date": "2024-12-02",
+        "name": "National Day"
     }
 ]

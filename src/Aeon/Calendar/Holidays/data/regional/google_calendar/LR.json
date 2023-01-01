@@ -266,5 +266,61 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Pioneers Day"
+    },
+    {
+        "date": "2024-01-08",
+        "name": "Day off for Pioneers Day"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Armed Forces Day"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Day off for Armed Forces Day"
+    },
+    {
+        "date": "2024-03-13",
+        "name": "Decoration Day"
+    },
+    {
+        "date": "2024-03-15",
+        "name": "J. J. Roberts Birthday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Fast and Prayer Day"
+    },
+    {
+        "date": "2024-05-14",
+        "name": "National Unification Day"
+    },
+    {
+        "date": "2024-07-26",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-08-24",
+        "name": "Flag Day"
+    },
+    {
+        "date": "2024-11-07",
+        "name": "Thanksgiving"
+    },
+    {
+        "date": "2024-11-29",
+        "name": "William Tubmans Birthday"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

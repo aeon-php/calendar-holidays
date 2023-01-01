@@ -498,5 +498,101 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-02",
+        "name": "New Year Holiday"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Orthodox Christmas Day"
+    },
+    {
+        "date": "2024-02-23",
+        "name": "Defender of the Fatherland Day"
+    },
+    {
+        "date": "2024-03-08",
+        "name": "Women's Day"
+    },
+    {
+        "date": "2024-03-15",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Catholic Easter Sunday"
+    },
+    {
+        "date": "2024-04-02",
+        "name": "Union Day of Belarus and Russia"
+    },
+    {
+        "date": "2024-04-26",
+        "name": "Day of Remembrance of the Chernobyl Tragedy"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Orthodox Easter Sunday"
+    },
+    {
+        "date": "2024-05-09",
+        "name": "Victory Day"
+    },
+    {
+        "date": "2024-05-12",
+        "name": "Day of the National Emblem and Flag of Belarus"
+    },
+    {
+        "date": "2024-05-14",
+        "name": "Radonitsa"
+    },
+    {
+        "date": "2024-06-22",
+        "name": "Remembrance Day of Victims of the Great Patriotic War"
+    },
+    {
+        "date": "2024-07-03",
+        "name": "Independence Day of the Republic of Belarus"
+    },
+    {
+        "date": "2024-07-06",
+        "name": "Kupalle (Day 1)"
+    },
+    {
+        "date": "2024-07-07",
+        "name": "Kupalle (Day 2)"
+    },
+    {
+        "date": "2024-09-17",
+        "name": "National Unity Day"
+    },
+    {
+        "date": "2024-10-21",
+        "name": "Father's Day"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "Remembrance Day"
+    },
+    {
+        "date": "2024-11-07",
+        "name": "October Revolution Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Catholic Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
     }
 ]

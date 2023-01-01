@@ -566,5 +566,101 @@
     {
         "date": "2023-12-31",
         "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-09",
+        "name": "Lunar New Year Eve"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Lunar New Year (First Day)"
+    },
+    {
+        "date": "2024-02-11",
+        "name": "Lunar New Year (Second Day)"
+    },
+    {
+        "date": "2024-02-12",
+        "name": "Lunar New Year (Third Day)"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-03-30",
+        "name": "Holy Saturday"
+    },
+    {
+        "date": "2024-04-01",
+        "name": "Holy Saturday Holiday"
+    },
+    {
+        "date": "2024-04-04",
+        "name": "Cheng Ming Festival"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day \/ May Day"
+    },
+    {
+        "date": "2024-05-15",
+        "name": "Buddha's Birthday"
+    },
+    {
+        "date": "2024-06-10",
+        "name": "Dragon Boat Festival"
+    },
+    {
+        "date": "2024-09-18",
+        "name": "Day after the Mid-Autumn-Festival"
+    },
+    {
+        "date": "2024-10-01",
+        "name": "National Day of the People's Republic of China"
+    },
+    {
+        "date": "2024-10-02",
+        "name": "Day after PRC National Day"
+    },
+    {
+        "date": "2024-10-11",
+        "name": "Chong Yeung Festival (Festival of Ancestors)"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Soul's Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Feast of the Immaculate Conception"
+    },
+    {
+        "date": "2024-12-20",
+        "name": "Macau S.A.R. Establishment Day"
+    },
+    {
+        "date": "2024-12-21",
+        "name": "Winter Solstice"
+    },
+    {
+        "date": "2024-12-24",
+        "name": "Christmas Eve"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve"
+    },
+    {
+        "date": "2024-12-31",
+        "name": "New Year's Eve Afternoon"
     }
 ]

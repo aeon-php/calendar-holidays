@@ -278,5 +278,65 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-15",
+        "name": "Martin Luther King Jr. Day"
+    },
+    {
+        "date": "2024-03-04",
+        "name": "Guam History and Chamorro Heritage Day"
+    },
+    {
+        "date": "2024-05-27",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2024-07-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-07-21",
+        "name": "Liberation Day"
+    },
+    {
+        "date": "2024-07-22",
+        "name": "Liberation Day observed"
+    },
+    {
+        "date": "2024-09-02",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-11-01",
+        "name": "All Souls' Day observed"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "All Souls' Day"
+    },
+    {
+        "date": "2024-11-11",
+        "name": "Veterans Day"
+    },
+    {
+        "date": "2024-11-28",
+        "name": "Thanksgiving"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Santa Marian Kamalen Day"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "Santa Marian Kamalen Day observed"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

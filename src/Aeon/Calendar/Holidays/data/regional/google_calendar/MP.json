@@ -338,5 +338,73 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-01-15",
+        "name": "Martin Luther King Jr. Day"
+    },
+    {
+        "date": "2024-02-19",
+        "name": "President's Day"
+    },
+    {
+        "date": "2024-03-24",
+        "name": "Commonwealth Covenant Day"
+    },
+    {
+        "date": "2024-03-25",
+        "name": "Day off for Commonwealth Covenant Day"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Good Friday"
+    },
+    {
+        "date": "2024-05-27",
+        "name": "Memorial Day"
+    },
+    {
+        "date": "2024-06-19",
+        "name": "Juneteenth"
+    },
+    {
+        "date": "2024-07-04",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-09-02",
+        "name": "Labor Day"
+    },
+    {
+        "date": "2024-10-14",
+        "name": "Commonwealth Cultural Day"
+    },
+    {
+        "date": "2024-11-04",
+        "name": "Citizenship Day"
+    },
+    {
+        "date": "2024-11-11",
+        "name": "Veterans Day"
+    },
+    {
+        "date": "2024-11-28",
+        "name": "Thanksgiving Day"
+    },
+    {
+        "date": "2024-12-08",
+        "name": "Constitution Day"
+    },
+    {
+        "date": "2024-12-09",
+        "name": "Day off for Constitution Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

@@ -198,5 +198,49 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year"
+    },
+    {
+        "date": "2024-01-04",
+        "name": "Day of King Amador"
+    },
+    {
+        "date": "2024-02-02",
+        "name": "Day off for Commemoration of the Batep\u00e1 Massacre"
+    },
+    {
+        "date": "2024-02-03",
+        "name": "Commemoration of the Batep\u00e1 Massacre"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labour Day"
+    },
+    {
+        "date": "2024-07-12",
+        "name": "Independence Day"
+    },
+    {
+        "date": "2024-09-06",
+        "name": "Armed Forces' Day"
+    },
+    {
+        "date": "2024-09-30",
+        "name": "Nationalization of the Ro\u00e7as"
+    },
+    {
+        "date": "2024-12-20",
+        "name": "Day off for S\u00e3o Tom\u00e9 Day"
+    },
+    {
+        "date": "2024-12-21",
+        "name": "S\u00e3o Tom\u00e9 Day"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

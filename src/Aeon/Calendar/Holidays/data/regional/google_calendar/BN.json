@@ -366,5 +366,77 @@
     {
         "date": "2023-12-25",
         "name": "Christmas Day"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "New Year's Day"
+    },
+    {
+        "date": "2024-02-07",
+        "name": "Isra and Mi'raj"
+    },
+    {
+        "date": "2024-02-10",
+        "name": "Lunar New Year"
+    },
+    {
+        "date": "2024-02-23",
+        "name": "National Day"
+    },
+    {
+        "date": "2024-02-24",
+        "name": "National Day observed"
+    },
+    {
+        "date": "2024-03-11",
+        "name": "Ramadan Start"
+    },
+    {
+        "date": "2024-03-27",
+        "name": "Nuzul Al-Qur'an"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2024-04-11",
+        "name": "Eid Al Fitr Holiday"
+    },
+    {
+        "date": "2024-04-12",
+        "name": "Eid Al Fitr Holiday"
+    },
+    {
+        "date": "2024-04-13",
+        "name": "Eid Al Fitr Holiday observed"
+    },
+    {
+        "date": "2024-05-31",
+        "name": "Royal Brunei Armed Forces Day"
+    },
+    {
+        "date": "2024-06-01",
+        "name": "Royal Brunei Armed Forces Day observed"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Muharram\/Islamic New Year"
+    },
+    {
+        "date": "2024-07-15",
+        "name": "Sultan's Birthday"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "Milad un Nabi (Mawlid)"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
     }
 ]

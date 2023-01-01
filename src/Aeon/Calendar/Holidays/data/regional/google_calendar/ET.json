@@ -258,5 +258,57 @@
     {
         "date": "2023-09-28",
         "name": "Meskel"
+    },
+    {
+        "date": "2024-01-07",
+        "name": "Ethiopian Christmas Day"
+    },
+    {
+        "date": "2024-01-20",
+        "name": "Epiphany \/ Timkat"
+    },
+    {
+        "date": "2024-03-02",
+        "name": "Adwa Victory Day"
+    },
+    {
+        "date": "2024-04-10",
+        "name": "Eid ul Fitr"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "International Labor Day"
+    },
+    {
+        "date": "2024-05-03",
+        "name": "Ethiopian Good Friday"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Fasika"
+    },
+    {
+        "date": "2024-05-05",
+        "name": "Patriots' Day"
+    },
+    {
+        "date": "2024-05-28",
+        "name": "Derg Downfall Day"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Eid al-Adha"
+    },
+    {
+        "date": "2024-09-11",
+        "name": "Ethiopian New Year"
+    },
+    {
+        "date": "2024-09-16",
+        "name": "The Prophet's Birthday"
+    },
+    {
+        "date": "2024-09-27",
+        "name": "Meskel"
     }
 ]
