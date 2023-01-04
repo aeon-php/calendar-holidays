@@ -196,12 +196,28 @@
         "name": "International Women's Day"
     },
     {
+        "date": "2023-03-20",
+        "name": "Nowruz Holiday"
+    },
+    {
         "date": "2023-03-21",
         "name": "Nowruz"
     },
     {
+        "date": "2023-03-22",
+        "name": "Nowruz Holiday"
+    },
+    {
         "date": "2023-04-22",
         "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-23",
+        "name": "Eid al-Fitr Holiday"
+    },
+    {
+        "date": "2023-04-24",
+        "name": "Eid al-Fitr Holiday"
     },
     {
         "date": "2023-05-09",
@@ -212,12 +228,20 @@
         "name": "Eid al-Adha"
     },
     {
+        "date": "2023-06-30",
+        "name": "Eid al-Adha Holiday"
+    },
+    {
         "date": "2023-09-01",
         "name": "Independence Day"
     },
     {
         "date": "2023-10-01",
         "name": "Teachers Day"
+    },
+    {
+        "date": "2023-10-02",
+        "name": "Teachers Day Holiday"
     },
     {
         "date": "2023-12-08",
