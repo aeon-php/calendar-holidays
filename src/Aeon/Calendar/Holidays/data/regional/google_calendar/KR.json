@@ -408,6 +408,10 @@
         "name": "Arbor Day"
     },
     {
+        "date": "2023-05-01",
+        "name": "Labor Day"
+    },
+    {
         "date": "2023-05-05",
         "name": "Children's Day"
     },
@@ -498,6 +502,10 @@
     {
         "date": "2024-04-05",
         "name": "Arbor Day"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Labor Day"
     },
     {
         "date": "2024-05-05",
