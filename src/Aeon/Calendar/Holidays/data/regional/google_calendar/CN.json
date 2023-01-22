@@ -656,20 +656,28 @@
         "name": "Arbor Day"
     },
     {
-        "date": "2023-04-03",
-        "name": "Qing Ming Jie holiday"
-    },
-    {
-        "date": "2023-04-04",
-        "name": "Qing Ming Jie holiday"
-    },
-    {
         "date": "2023-04-05",
         "name": "Qing Ming Jie"
     },
     {
+        "date": "2023-04-29",
+        "name": "Labour Day Holiday"
+    },
+    {
+        "date": "2023-04-30",
+        "name": "Labour Day Holiday"
+    },
+    {
         "date": "2023-05-01",
         "name": "Labour Day"
+    },
+    {
+        "date": "2023-05-02",
+        "name": "Labour Day Holiday"
+    },
+    {
+        "date": "2023-05-03",
+        "name": "Labour Day Holiday"
     },
     {
         "date": "2023-05-04",
@@ -725,10 +733,6 @@
     },
     {
         "date": "2023-10-06",
-        "name": "National Day Golden Week holiday"
-    },
-    {
-        "date": "2023-10-07",
         "name": "National Day Golden Week holiday"
     },
     {
@@ -841,10 +845,6 @@
     },
     {
         "date": "2024-10-06",
-        "name": "National Day Golden Week holiday"
-    },
-    {
-        "date": "2024-10-07",
         "name": "National Day Golden Week holiday"
     },
     {
