@@ -232,6 +232,10 @@
         "name": "Martyrs' Day"
     },
     {
+        "date": "2023-04-09",
+        "name": "Easter Sunday"
+    },
+    {
         "date": "2023-04-10",
         "name": "Easter Monday"
     },
@@ -246,6 +250,10 @@
     {
         "date": "2023-05-18",
         "name": "Ascension Day"
+    },
+    {
+        "date": "2023-05-28",
+        "name": "Whit Sunday"
     },
     {
         "date": "2023-05-29",
@@ -288,6 +296,10 @@
         "name": "Martyrs' Day"
     },
     {
+        "date": "2024-03-31",
+        "name": "Easter Sunday"
+    },
+    {
         "date": "2024-04-01",
         "name": "Easter Monday"
     },
@@ -302,6 +314,10 @@
     {
         "date": "2024-05-09",
         "name": "Ascension Day"
+    },
+    {
+        "date": "2024-05-19",
+        "name": "Whit Sunday"
     },
     {
         "date": "2024-05-20",
