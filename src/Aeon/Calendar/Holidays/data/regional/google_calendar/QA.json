@@ -236,20 +236,24 @@
         "name": "National Sports Day"
     },
     {
-        "date": "2023-04-22",
+        "date": "2023-04-21",
         "name": "Eid al-Fitr"
+    },
+    {
+        "date": "2023-04-22",
+        "name": "Eid al-Fitr Holiday"
     },
     {
         "date": "2023-04-23",
         "name": "Eid al-Fitr Holiday"
     },
     {
-        "date": "2023-04-24",
-        "name": "Eid al-Fitr Holiday"
+        "date": "2023-06-28",
+        "name": "Eid al-Adha (Feast of Sacrifice)"
     },
     {
         "date": "2023-06-29",
-        "name": "Eid al-Adha (Feast of Sacrifice)"
+        "name": "Eid al-Adha Holiday"
     },
     {
         "date": "2023-06-30",
