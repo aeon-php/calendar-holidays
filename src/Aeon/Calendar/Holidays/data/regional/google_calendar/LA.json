@@ -216,16 +216,16 @@
         "name": "International Women's Day (Women Only)"
     },
     {
+        "date": "2023-04-12",
+        "name": "Lao New Year Holiday"
+    },
+    {
+        "date": "2023-04-13",
+        "name": "Lao New Year Holiday"
+    },
+    {
         "date": "2023-04-14",
         "name": "Lao New Year"
-    },
-    {
-        "date": "2023-04-15",
-        "name": "Lao New Year Holiday"
-    },
-    {
-        "date": "2023-04-16",
-        "name": "Lao New Year Holiday"
     },
     {
         "date": "2023-05-01",
@@ -240,12 +240,24 @@
         "name": "Lao Women Union's Day"
     },
     {
+        "date": "2023-10-28",
+        "name": "Bouk Ok Pansa"
+    },
+    {
+        "date": "2023-10-30",
+        "name": "Day off for Bouk Ok Pansa"
+    },
+    {
         "date": "2023-11-27",
         "name": "That Luang Festival"
     },
     {
         "date": "2023-12-02",
         "name": "National Day"
+    },
+    {
+        "date": "2023-12-04",
+        "name": "Day off for National Day"
     },
     {
         "date": "2024-01-01",
