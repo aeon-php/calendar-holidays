@@ -468,6 +468,18 @@
         "name": "Valentine's Day"
     },
     {
+        "date": "2023-02-21",
+        "name": "Tsagaan Sar"
+    },
+    {
+        "date": "2023-02-22",
+        "name": "Tsagaan Sar Holiday"
+    },
+    {
+        "date": "2023-02-23",
+        "name": "Tsagaan Sar Holiday"
+    },
+    {
         "date": "2023-03-01",
         "name": "Patriots' Day"
     },
@@ -569,15 +581,15 @@
     },
     {
         "date": "2024-02-10",
-        "name": "Lunar New Year's Day"
+        "name": "Tsagaan Sar"
     },
     {
         "date": "2024-02-11",
-        "name": "Second Day of Lunar New Year"
+        "name": "Tsagaan Sar Holiday"
     },
     {
         "date": "2024-02-12",
-        "name": "Third Day of Lunar New Year"
+        "name": "Tsagaan Sar Holiday"
     },
     {
         "date": "2024-02-14",
