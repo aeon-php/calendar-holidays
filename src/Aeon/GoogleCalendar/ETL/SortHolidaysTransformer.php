@@ -31,12 +31,7 @@ final class SortHolidaysTransformer implements Transformer
             }
 
             return $row->valueOf('date')->toDateTimeImmutable() <=> $nextRow->valueOf('date')->toDateTimeImmutable();
-        })->unique(new class implements Row\Comparator {
-            public function equals(Row $row, Row $nextRow) : bool
-            {
-                return $row->valueOf('name') === $nextRow->valueOf('name')
-                    && $row->valueOf('date')->isEqual($nextRow->valueOf('date'));
-            }
-        });
+        })
+            ->unique(new DateTimeComparator());
     }
 }

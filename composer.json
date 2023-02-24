@@ -7,13 +7,11 @@
         "immutable",
         "holidays"
     ],
-    "prefer-stable": true,
-    "minimum-stability": "dev",
     "require": {
-        "php": "^7.4.2 || ~8.0 || ~8.1",
+        "php": "~8.1.10 || ~8.2",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "aeon-php/calendar": ">=1.0.7"
+        "aeon-php/calendar": "^1.0"
     },
     "require-dev": {
         "google/apiclient": "^2.0"
@@ -62,5 +60,7 @@
         "post-update-cmd": [
             "@tools:install"
         ]
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }

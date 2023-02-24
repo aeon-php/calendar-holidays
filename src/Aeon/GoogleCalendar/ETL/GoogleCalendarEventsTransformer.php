@@ -29,6 +29,9 @@ final class GoogleCalendarEventsTransformer implements Transformer
 
     public function transform(Rows $rows, FlowContext $context) : Rows
     {
+        /**
+         * @psalm-suppress InvalidArgument
+         */
         return $rows->map(function (Row $row) : Row {
             /** @var \Google_Service_Calendar_Event $event */
             $event = $row->valueOf('google_event');

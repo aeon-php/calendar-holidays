@@ -46,6 +46,7 @@ final class FilterHistoricalHolidaysTransformer implements Transformer
             return $rows;
         }
 
+        /** @psalm-suppress InvalidArgument */
         return $rows->filter(function (Row $row) : bool {
             return $row->valueOf('date')->isAfterOrEqual($this->calendar->currentDay());
         });
