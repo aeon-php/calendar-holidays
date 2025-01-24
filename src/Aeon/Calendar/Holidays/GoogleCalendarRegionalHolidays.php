@@ -36,7 +36,7 @@ final class GoogleCalendarRegionalHolidays implements Holidays
          */
         \array_map(
             function (string $countryCode) : void {
-                if (!\in_array($countryCode, Holidays\GoogleCalendar\CountryCodes::all(), true)) {
+                if (!\in_array($countryCode, GoogleCalendar\CountryCodes::all(), true)) {
                     throw new InvalidArgumentException('Country with code ' . $countryCode . ' does not exists.');
                 }
             },
