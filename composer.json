@@ -8,13 +8,13 @@
         "holidays"
     ],
     "require": {
-        "php": "~8.2.0 || ~8.3.0 || ~8.4.0",
+        "php": "~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0",
         "ext-json": "*",
         "ext-mbstring": "*",
         "aeon-php/calendar": "~1.0"
     },
     "require-dev": {
-        "google/apiclient": "^2.0"
+        "google/apiclient": "^2.18"
     },
     "license": "MIT",
     "autoload": {

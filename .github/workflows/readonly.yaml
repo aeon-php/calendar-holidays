@@ -8,7 +8,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: superbrothers/close-pull-request@v3
+      - uses: superbrothers/close-pull-request@v4
         with:
           comment: |
             Hi, thank you for your contribution.
