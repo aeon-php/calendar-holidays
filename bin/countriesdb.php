@@ -2,25 +2,43 @@
 <?php
 
 use Aeon\Calendar\Gregorian\GregorianCalendar;
-use Aeon\GoogleCalendar\ETL\FilterHistoricalHolidaysTransformer;
-use Aeon\GoogleCalendar\ETL\FlattenHolidaysTransformer;
 use Aeon\GoogleCalendar\ETL\GoogleCalendarEventsExtractor;
-use Aeon\GoogleCalendar\ETL\GoogleCalendarEventsTransformer;
-use Aeon\GoogleCalendar\ETL\HolidaysJsonLoader;
-use Aeon\GoogleCalendar\ETL\SortHolidaysTransformer;
-use Aeon\GoogleCalendar\ETL\UpdateFutureHolidaysTransformer;
-use Flow\ETL\DSL\Json;
-use Flow\ETL\DSL\To;
-use Flow\ETL\Flow;
-use Flow\ETL\Memory\ArrayMemory;
-use Flow\ETL\Transformer\ArrayUnpackTransformer;
-use Flow\ETL\Transformer\KeepEntriesTransformer;
+use function Flow\ETL\Adapter\JSON\from_json;
+use function Flow\ETL\Adapter\JSON\to_json;
+use function Flow\ETL\DSL\config_builder;
+use function Flow\ETL\DSL\df;
+use function Flow\ETL\DSL\filesystem_cache;
+use function Flow\ETL\DSL\from_cache;
+use function Flow\ETL\DSL\lit;
+use function Flow\ETL\DSL\overwrite;
+use function Flow\ETL\DSL\ref;
+use function Flow\Filesystem\DSL\native_local_filesystem;
+use function Flow\Filesystem\DSL\path;
+use function Flow\Types\DSL\type_date;
+use function Flow\Types\DSL\type_integer;
 
-require_once __DIR__ . '/../vendor/autoload.php';
-require_once __DIR__ . '/../tools/flow-php/vendor/autoload.php';
+$monorepoAutoload = __DIR__ . '/../../../vendor/autoload.php';
+$vendorAutoload = __DIR__ . '/../../../autoload.php';
+
+if (file_exists($monorepoAutoload)) {
+    require_once $monorepoAutoload;
+} elseif (file_exists($vendorAutoload)) {
+    require_once $vendorAutoload;
+} else {
+    die('Please run "composer install" first.');
+}
 
 if (!\is_string(\getenv('GOOGLE_API_KEY'))) {
     die('Please run this script by passing GOOGLE_API_KEY through env variable first.');
+}
+
+$options = getopt('', ['force', 'path:']);
+$forceRefresh = isset($options['force']);
+$cachePath = path(__DIR__ . '/../var/google_holidays');
+
+if ($forceRefresh) {
+    native_local_filesystem()->rm($cachePath);
+    echo "Cache cleared.\n";
 }
 
 $googleApiClient = new Google_Client();
@@ -33,21 +51,35 @@ $googleCalendarService = new Google_Service_Calendar($googleApiClient);
 $calendar = GregorianCalendar::UTC();
 
 
-(new Flow())
-    ->read(Json::from(__DIR__ . '/../resources/countries.json'))
-    ->transform(new ArrayUnpackTransformer('row'))
-    ->transform(new KeepEntriesTransformer('countryCode', 'googleHolidaysCalendarId'))
-    ->write(To::memory($countries = new ArrayMemory()))
-    ->run();
+$countriesData = df()
+    ->read(from_json(__DIR__ . '/../resources/countries.json'))
+    ->select('countryCode', 'googleHolidaysCalendarId')
+    ->fetch()
+    ->toArray();
 
-$holidaysFilesPath = __DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/';
+$holidaysFilesPath = path($options['path'] ?? __DIR__ . '/../src/Aeon/Calendar/Holidays/data/regional/google_calendar/');
 
-(new Flow())
-    ->read(new GoogleCalendarEventsExtractor($countries->dump(), $googleCalendarService))
-    ->transform(new GoogleCalendarEventsTransformer())
-    ->transform(new FilterHistoricalHolidaysTransformer($calendar, $holidaysFilesPath))
-    ->transform(new UpdateFutureHolidaysTransformer($calendar, $holidaysFilesPath))
-    ->transform(new SortHolidaysTransformer())
-    ->transform(new FlattenHolidaysTransformer())
-    ->write(new HolidaysJsonLoader($holidaysFilesPath))
+$today = lit($calendar->now()->toDateTimeImmutable())->cast(type_date());
+
+df(config_builder()->cache(filesystem_cache($cachePath)))
+    ->read(
+        from_cache(
+            'google_holidays',
+            new GoogleCalendarEventsExtractor($countriesData, $googleCalendarService)
+        )
+    )
+    ->collect()
+    ->cache('google_holidays')
+    ->mode(overwrite())
+    ->select('locale', 'country_code', 'summary', 'start')
+    ->withEntry('start_date', ref('start')->arrayGet('date'))
+    ->drop('start')
+    ->withEntry('year', ref('start_date')->cast(type_date())->dateFormat('Y')->cast(type_integer()))
+    ->rename('summary', 'name')
+    ->withEntry('date', ref('start_date')->cast(type_date()))
+    ->filter(ref('date')->lessThanEqual($today))
+    ->select('country_code', 'date', 'name')
+    ->sortBy(ref('date'))
+    ->partitionBy(ref('country_code'))
+    ->write(to_json($holidaysFilesPath->suffix('/holidays.json')))
     ->run();

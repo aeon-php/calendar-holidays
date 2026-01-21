@@ -1,3 +1,4 @@
 vendor
 *.cache
 var
+src/Aeon/Calendar/Holidays/data/regional/google_calendar

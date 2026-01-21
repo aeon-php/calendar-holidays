@@ -4,13 +4,11 @@ declare(strict_types=1);
 
 namespace Aeon\GoogleCalendar\ETL;
 
+use function Flow\ETL\DSL\array_to_row;
+use function Flow\ETL\DSL\rows;
+use function Flow\ETL\DSL\string_entry;
 use Flow\ETL\Extractor;
 use Flow\ETL\FlowContext;
-use Flow\ETL\Row;
-use Flow\ETL\Row\Entries;
-use Flow\ETL\Row\Entry\ObjectEntry;
-use Flow\ETL\Row\Entry\StringEntry;
-use Flow\ETL\Rows;
 
 final class GoogleCalendarEventsExtractor implements Extractor
 {
@@ -18,6 +16,10 @@ final class GoogleCalendarEventsExtractor implements Extractor
 
     private \Google_Service_Calendar $googleCalendarService;
 
+    /**
+     * @param array<array{countryCode: string, googleHolidaysCalendarId: string}> $countriesData
+     * @param \Google_Service_Calendar $googleCalendarService
+     */
     public function __construct(array $countriesData, \Google_Service_Calendar $googleCalendarService)
     {
         $this->countriesData = $countriesData;
@@ -34,8 +36,6 @@ final class GoogleCalendarEventsExtractor implements Extractor
             $countryCode = $countryData['countryCode'];
             $calendarId = \str_replace('{{ locale }}', 'en', $countryData['googleHolidaysCalendarId']);
 
-            $rows = new Rows();
-
             try {
                 $items = $this->googleCalendarService->events->listEvents($calendarId)->getItems();
             } catch (\Google\Service\Exception $e) {
@@ -45,23 +45,18 @@ final class GoogleCalendarEventsExtractor implements Extractor
             }
 
             foreach ($items as $event) {
-                $rows = $rows->add(
-                    new Row(
-                        new Entries(
-                            new StringEntry('locale', 'en'),
-                            StringEntry::uppercase('country_code', $countryCode),
-                            new ObjectEntry('google_event', $event)
-                        )
+                $signal = yield rows(
+                    array_to_row(
+                        \json_decode(\json_encode($event->toSimpleObject()), true),
+                        $context->entryFactory(),
                     )
+                    ->add(string_entry('locale', 'en'))
+                    ->add(string_entry('country_code', \strtoupper($countryCode)))
                 );
-            }
 
-            print "{$countryCode} - Loading...\n";
-
-            if ($rows->count()) {
-                yield $rows;
-            } else {
-                print "Inf[{$countryCode}]: no holidays found.\n";
+                if ($signal === Extractor\Signal::STOP) {
+                    return;
+                }
             }
         }
     }
